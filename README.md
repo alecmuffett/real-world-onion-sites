@@ -107,7 +107,11 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * http://forums.kkkkkkkkkk63ava6.onion/ forums
 * http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
   * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
-  
+
+## Decoded:Legal
+* http://expvqqiv2z5ekf47.onion/ UK Law Firm
+  * https://decodedlegal.com
+
 ----
 
 # SecureDrop sites
