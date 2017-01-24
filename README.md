@@ -158,7 +158,7 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://znig4bc5rlwyj4mz.onion/
 * https://exposefacts.org
 
-## Fairfax Media Group (.au; SMH et al)
+## Fairfax Media Group (.au; SMH et al.)
 * http://ipfhnseo4hgfw5mg.onion/
 * https://securedrop.fairfax.com.au/
 
