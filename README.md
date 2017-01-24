@@ -17,12 +17,10 @@
 - Stable sites, HTTP and/or HTTPS only
 
 # Theme
-This list is for substantial, commercial or social-good mainstream websites with onion presence
+This list is for substantial, commercial or social-good mainstream websites with onion presence.
 - no sites for tech with less than (arbitrary) 10,000 users
-- no "onion-only" sites
 - no onion-only sites
 - no sketchy sites
-
 The editor may choose to annotate or drop any entries as deemed fit.
 
 ## Pull Request Submission
@@ -80,6 +78,9 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 # Qubes OS
 * http://qubesos4rrrrz6n4.onion/
+
+# Privacy International
+* https://privacyintyqcroe.onion/
 
 ----
 
