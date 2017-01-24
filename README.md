@@ -66,7 +66,7 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 ## ExpressVPN
 * http://expressobutiolem.onion/
 
-# Riseup
+## Riseup
 * http://nzh3fv6jc6jskki3.onion/ main site
 * http://xpgylzydxykgdqyg.onion/ lists
 * http://zsolxunfmbfuq7wf.onion/rc/ mail
@@ -75,14 +75,14 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * http://j6uhdvbhz74oefxf.onion/ user admin
 (source: https://riseup.net/en/security/network-security/tor)
 
-# Debian
+## Debian
 * http://sejnfjrq6szgca7v.onion/
 (source: https://blog.torproject.org/blog/debian-and-tor-services-available-onion-services)
 
-# Qubes OS
+## Qubes OS
 * http://qubesos4rrrrz6n4.onion/
 
-# Privacy International
+## Privacy International
 * https://privacyintyqcroe.onion/
 
 ----
