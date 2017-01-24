@@ -120,73 +120,9 @@ Sites that use https://securedrop.org/
 
 See also https://securedrop.org/directory - but this page seeks to be more inclusive
 
-## New York Times
-* https://nytimes2tsqtnxek.onion/ :lock: 
-* https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
-
-## The New Yorker
-* http://strngbxhwyuu37a3.onion/ 
-* http://projects.newyorker.com/strongbox/
-  
-## ProPublica
-* http://pubdrop4dw6rk3aq.onion/ 
-* https://securedrop.propublica.org/
-
-## The Guardian
-* http://33y6fjyhs3phzfjj.onion/
-* https://securedrop.theguardian.com/
-
-## The Intercept
-* https://y6xjgkgwj47us5ca.onion/ :lock:
-* https://theintercept.com/securedrop/
-
-## The Washington Post
-* http://vbmwh445kf3fs2v4.onion/
-* https://www.washingtonpost.com/securedrop/
-
-## BalkanLeaks
-* http://4fluf34prrpdojsr.onion/ 
-* https://balkanleaks.eu/
-
-## POGO / Project On Government Oversight
-* http://dqeasamlf3jld2kz.onion/
-* https://securedrop.pogo.org/
-
-## Gawker Media
-* http://gawker5oxtsc6fa7.onion/
-* https://gawkermediagroup.com/securedrop/
-
-## The Globe and Mail (Toronto)
-* http://n572ltkg4nld3bsz.onion/
-* https://sec.theglobeandmail.com/securedrop/
-
-## CBC / Canadian Broadcasting Corporation
-* http://ad2ztmbv5vmbj7ic.onion
-* https://securedrop.cbc.ca/
-
-## Peerlyst
-* http://z5hns3zhhne7z6bl.onion/
-* https://www.peerlyst.com/secure-drop
-
-## CPJ / Committee to Protect Journalists
-* http://2x2hb5ykeu4qlxqe.onion/
-* https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
-
 ## Aftenposten
 * http://da5nr4lx4djdrsj7.onion/
 * https://www.aftenposten.no/securedrop/
-
-## VG / Verdens Gang
-* http://vgnettwin5lyl4yr.onion/
-* https://securedrop.vg.no/
-
-## Fairfax Media Group
-* http://ipfhnseo4hgfw5mg.onion/
-* https://securedrop.fairfax.com.au/
-
-## New Internationalist
-* http://axcdo2zaeyrpdc6z.onion/
-* https://digital.newint.com.au/securedrop
 
 ## Apache
 * http://zdf4nikyuswdzbt6.onion/
@@ -196,13 +132,37 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://3expgpdnrrzezf7r.onion/
 * https://securedrop.ap.org/
 
+## BalkanLeaks
+* http://4fluf34prrpdojsr.onion/
+* https://balkanleaks.eu/
+
+## BayLeaks
+* http://wd5x5eexdqcjrqfa.onion/
+* https://bayleaks.org
+
 ## BerlinLeaks
 * http://bl2uafhsjrtc2gf4.onion/
 * https://berlinleaks.org
 
+## CBC / Canadian Broadcasting Corporation
+* http://ad2ztmbv5vmbj7ic.onion
+* https://securedrop.cbc.ca/
+
+## CPJ / Committee to Protect Journalists
+* http://2x2hb5ykeu4qlxqe.onion/
+* https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
+
 ## ExposeFacts
 * http://znig4bc5rlwyj4mz.onion/
 * https://exposefacts.org
+
+## Fairfax Media Group
+* http://ipfhnseo4hgfw5mg.onion/
+* https://securedrop.fairfax.com.au/
+
+## Gawker Media
+* http://gawker5oxtsc6fa7.onion/
+* https://gawkermediagroup.com/securedrop/
 
 ## Greenpeace New Zealand
 * http://ll6edwtpfl3zdwoi.onion/
@@ -216,17 +176,57 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://nrktipspgpsyoqwo.onion/
 * https://www.nrk.no/varsle/
 
-## Radio24syv
-* http://hpjw636qnt5avq62.onion/
-* https://securedrop.radio24syv.dk
+## New Internationalist
+* http://axcdo2zaeyrpdc6z.onion/
+* https://digital.newint.com.au/securedrop
+
+## POGO / Project On Government Oversight
+* http://dqeasamlf3jld2kz.onion/
+* https://securedrop.pogo.org/
+
+## Peerlyst
+* http://z5hns3zhhne7z6bl.onion/
+* https://www.peerlyst.com/secure-drop
+
+## ProPublica
+* http://pubdrop4dw6rk3aq.onion/
+* https://securedrop.propublica.org/
 
 ## Radio-Canada
 * http://w5jfqhep2jbypkek.onion/
 * https://sourceanonyme.radio-canada.ca
 
-## BayLeaks
-* http://wd5x5eexdqcjrqfa.onion/
-* https://bayleaks.org
+## Radio24syv
+* http://hpjw636qnt5avq62.onion/
+* https://securedrop.radio24syv.dk
+
+## The Globe and Mail (Toronto)
+* http://n572ltkg4nld3bsz.onion/
+* https://sec.theglobeandmail.com/securedrop/
+
+## The Guardian
+* http://33y6fjyhs3phzfjj.onion/
+* https://securedrop.theguardian.com/
+
+## The Intercept
+* https://y6xjgkgwj47us5ca.onion/ :lock:
+* https://theintercept.com/securedrop/
+
+## The New York Times
+* https://nytimes2tsqtnxek.onion/ :lock:
+* https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
+
+## The New Yorker
+* http://strngbxhwyuu37a3.onion/
+* http://projects.newyorker.com/strongbox/
+
+## The Washington Post
+* http://vbmwh445kf3fs2v4.onion/
+* https://www.washingtonpost.com/securedrop/
+
+## VG / Verdens Gang
+* http://vgnettwin5lyl4yr.onion/
+* https://securedrop.vg.no/
 
 ## VICE Media
 * http://cxoqh6bd23xa6yiz.onion/
