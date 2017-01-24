@@ -24,7 +24,7 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 # The List
 
 ## DuckDuckGo
-* http://3g2upl4pq6kufc4m.onion
+* http://3g2upl4pq6kufc4m.onion/
 
 ## Facebook
 * https://www.facebookcorewwwi.onion/ :lock:
@@ -45,7 +45,7 @@ Sites that use https://securedrop.org/ :lock:
 * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
 ## The New Yorker
-* http://strngbxhwyuu37a3.onion 
+* http://strngbxhwyuu37a3.onion/ 
 * http://projects.newyorker.com/strongbox/
   
 ## ProPublica
@@ -53,11 +53,11 @@ Sites that use https://securedrop.org/ :lock:
 * https://securedrop.propublica.org/
 
 ## Guardian
-* http://33y6fjyhs3phzfjj.onion 
+* http://33y6fjyhs3phzfjj.onion/
 * https://securedrop.theguardian.com/
 
 ## Washington Post
-* http://vbmwh445kf3fs2v4.onion
+* http://vbmwh445kf3fs2v4.onion/
 * https://www.washingtonpost.com/securedrop/
 
 ## BalkanLeaks
@@ -65,9 +65,13 @@ Sites that use https://securedrop.org/ :lock:
 * https://balkanleaks.eu/
 
 ## Project On Government Oversight (POGO)
-* http://dqeasamlf3jld2kz.onion
+* http://dqeasamlf3jld2kz.onion/
 * https://securedrop.pogo.org/
 
 ## Gawker Media
-* http://gawker5oxtsc6fa7.onion
+* http://gawker5oxtsc6fa7.onion/
 * https://gawkermediagroup.com/securedrop/
+
+## The Globe and Mail
+* http://n572ltkg4nld3bsz.onion/
+* https://sec.theglobeandmail.com/securedrop/
