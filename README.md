@@ -89,13 +89,21 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 ## Tor Project
 * http://expyuzz4wqqyqhjn.onion/ main site
-* http://yz7lpwfhhzcdyc5y.onion/ index of torproject onion sites; also https://onion.torproject.org/
+* http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
+  * also https://onion.torproject.org/
 
-(Tor Project keeps a huge number of onion sites, in varying states of stability; see the index)
+(Tor Project keeps a *huge* number of onion sites, in varying states of stability; see the index)
 
 ## Mail2Tor
 * http://mail2tor2zyjdctd.onion/ 
 
+## Whonix
+* http://kkkkkkkkkk63ava6.onion/ main page
+* http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki
+* http://forums.kkkkkkkkkk63ava6.onion/ forums
+* http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
+  * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
+  
 ----
 
 # SecureDrop sites
