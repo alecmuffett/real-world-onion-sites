@@ -1,6 +1,8 @@
 # Onion Sites That Don't Suck
 ## An index of the non-dark web...
 
+----
+
 # The Format
 
 **NOTE**
@@ -21,6 +23,8 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * <source url citing the above url>
 ```
 
+----
+
 # The List
 
 ## DuckDuckGo
@@ -35,6 +39,8 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 ## ProPublica
 * https://www.propub3r6espa33w.onion/ :lock:
+
+----
 
 # SecureDrop sites
 
