@@ -9,7 +9,7 @@
 * https://m.facebookcorewwwi.onion/ :lock: mobile site
 
 # ProPublica
-* http://www.propub3r6espa33w.onion/
+* https://www.propub3r6espa33w.onion/ :lock:
 
 # blockchain.info
 * https://blockchainbdgpzk.onion/ :lock:
