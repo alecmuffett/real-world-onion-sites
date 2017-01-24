@@ -14,8 +14,7 @@
   - submit them separately
 - Check for SSL availability and upgrade to that if available
 - Check that the site is up and the link works
-- HTTP or HTTPS sites only
-- Stable sites only
+- Stable sites, HTTP and/or HTTPS only
 - No "onion-only" sites
   - this is for mainstream sites with onion presence
 
@@ -28,6 +27,7 @@ Pull requests for the main list will be accepted only for entries of the form:
 ```
 ## Sitename
 * <url of onion, https if available> [lock emoji if https] [optional site intention, eg: mobile]
+(optional source: url)
 ```
 
 Pull requests for the SecureDrop list will be accepted only for entries of the form:
@@ -68,6 +68,10 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * http://6zc6sejeho3fwrd4.onion/ file share / pastebin
 * http://j6uhdvbhz74oefxf.onion/ user admin
 (source: https://riseup.net/en/security/network-security/tor)
+
+# Debian
+* http://sejnfjrq6szgca7v.onion/
+(source: https://blog.torproject.org/blog/debian-and-tor-services-available-onion-services)
 
 ----
 
