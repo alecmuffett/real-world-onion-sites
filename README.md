@@ -138,10 +138,6 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://4fluf34prrpdojsr.onion/
 * https://balkanleaks.eu/
 
-## BayLeaks
-* http://wd5x5eexdqcjrqfa.onion/
-* https://bayleaks.org
-
 ## BerlinLeaks
 * http://bl2uafhsjrtc2gf4.onion/
 * https://berlinleaks.org
