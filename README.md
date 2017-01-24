@@ -83,7 +83,7 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * http://qubesos4rrrrz6n4.onion/
 
 ## Privacy International
-* https://privacyintyqcroe.onion/
+* https://privacyintyqcroe.onion/ :lock:
 
 ----
 
