@@ -31,12 +31,18 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 ## ProPublica
 * https://www.propub3r6espa33w.onion/ :lock:
 
-## SecureDrop sites (https://securedrop.org/)
-* https://nytimes2tsqtnxek.onion/ :lock: New York Times
-  * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
+# SecureDrop sites (https://securedrop.org/)
+
+### New York Times
+* https://nytimes2tsqtnxek.onion/ :lock: 
+* https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
+
+
 * http://strngbxhwyuu37a3.onion The New Yorker
   * http://projects.newyorker.com/strongbox/
 * http://pubdrop4dw6rk3aq.onion/ ProPublica
   * https://securedrop.propublica.org/
 * http://33y6fjyhs3phzfjj.onion Guardian
   * https://securedrop.theguardian.com/
+* http://4fluf34prrpdojsr.onion/ BalkanLeaks
+  * https://balkanleaks.eu/
