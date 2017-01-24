@@ -6,7 +6,7 @@
 
 # Facebook
 * https://www.facebookcorewwwi.onion/ :lock:
-* https://m.facebookcorewwwi.onion/ (mobile) :lock:
+* https://m.facebookcorewwwi.onion/ :lock: mobile site
 
 # ProPublica
 * http://www.propub3r6espa33w.onion/
@@ -15,4 +15,4 @@
 * https://blockchainbdgpzk.onion/ :lock:
 
 # SecureDrop sites (https://securedrop.org/)
-* https://nytimes2tsqtnxek.onion/ New York Times :lock:
+* https://nytimes2tsqtnxek.onion/ :lock: New York Times
