@@ -73,13 +73,17 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * http://5jp7xtmox6jyoqd5.onion/ etherpad
 * http://6zc6sejeho3fwrd4.onion/ file share / pastebin
 * http://j6uhdvbhz74oefxf.onion/ user admin
+* http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services index of onion sites
+  * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
 
-(source: https://riseup.net/en/security/network-security/tor)
+(Debian keeps a *huge* number of onion sites and services; see the index)
 
 ## Debian
-* http://sejnfjrq6szgca7v.onion/
+* http://sejnfjrq6szgca7v.onion/ main site
+* http://5nca3wxl33tzlzj5.onion/ index of onion sites
+  * also https://onion.debian.org/
 
-(source: https://blog.torproject.org/blog/debian-and-tor-services-available-onion-services)
+(Debian keeps a *huge* number of onion sites; see the index)
 
 ## Qubes OS
 * http://qubesos4rrrrz6n4.onion/
