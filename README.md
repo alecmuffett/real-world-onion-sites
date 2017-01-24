@@ -18,7 +18,7 @@
 - Stable sites, HTTP and/or HTTPS only
 
 # Theme
-This list is for substantial, commercial or social-good mainstream websites with onion presence.
+This list is for substantial, commercial-or-social-good mainstream websites with onion presence.
 
 - no sites for tech with less than (arbitrary) 10,000 users
 - no nudity, exploitation, drugs or sketchy-content sites
@@ -138,7 +138,7 @@ Sites that use https://securedrop.org/
 * http://4fluf34prrpdojsr.onion/ 
 * https://balkanleaks.eu/
 
-## Project On Government Oversight (POGO)
+## POGO / Project On Government Oversight
 * http://dqeasamlf3jld2kz.onion/
 * https://securedrop.pogo.org/
 
