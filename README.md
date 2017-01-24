@@ -1,7 +1,9 @@
 # Onion Sites That Don't Suck
 ## An index of the non-dark web...
 
-updated: 24 jan 2017 - see the change history for specifics
+* updated: 24 jan 2017 (see the change history for specifics)
+* author: alec muffett
+* licensed: cc-by-sa
 
 ----
 
@@ -10,6 +12,7 @@ updated: 24 jan 2017 - see the change history for specifics
 **NOTE**
 - **NO MORE THAN 2 UPDATES/SITE PER PULL REQUEST WILL BE ACCEPTED**
 - **CHECK FOR SSL AVAILABILITY AND UPGRADE TO THAT IF AVAILABLE**
+- **NO SKETCHY SITES**
 
 ## Pull Request Submission
 
