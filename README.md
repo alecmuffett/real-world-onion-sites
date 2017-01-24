@@ -87,6 +87,12 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 ## Privacy International
 * https://privacyintyqcroe.onion/ :lock:
 
+## Tor Project
+* http://expyuzz4wqqyqhjn.onion/ main site
+* http://yz7lpwfhhzcdyc5y.onion/ index of torproject onion sites; also https://onion.torproject.org/
+
+(Tor Project keeps a huge number of onion sites, in varying states of stability; see the index)
+
 ----
 
 # SecureDrop sites
