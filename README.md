@@ -15,8 +15,13 @@
 - Check for SSL availability and upgrade to that if available
 - Check that the site is up and the link works
 - Stable sites, HTTP and/or HTTPS only
-- No "onion-only" sites
-  - this list is for substantial, mainstream websites with onion presence
+
+# Theme
+This list is for substantial, commercial or social-good mainstream websites with onion presence
+- no sites for tech with less than (arbitrary) 10,000 users
+- no "onion-only" sites
+- no onion-only sites
+- no sketchy sites
 
 The editor may choose to annotate or drop any entries as deemed fit.
 
@@ -73,11 +78,14 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * http://sejnfjrq6szgca7v.onion/
 (source: https://blog.torproject.org/blog/debian-and-tor-services-available-onion-services)
 
+# Qubes OS
+* http://qubesos4rrrrz6n4.onion/
+
 ----
 
 # SecureDrop sites
 
-Sites that use https://securedrop.org/ :lock:
+Sites that use https://securedrop.org/
 
 ## New York Times
 * https://nytimes2tsqtnxek.onion/ :lock: 
