@@ -138,3 +138,16 @@ Sites that use https://securedrop.org/
 ## The Globe and Mail
 * http://n572ltkg4nld3bsz.onion/
 * https://sec.theglobeandmail.com/securedrop/
+
+## CBC / Canadian Broadcasting Corporation
+* http://ad2ztmbv5vmbj7ic.onion
+* https://securedrop.cbc.ca/
+
+## Peerlyst
+* http://z5hns3zhhne7z6bl.onion/
+* https://www.peerlyst.com/secure-drop
+
+## CPJ / Committee to Protect Journalists
+* http://2x2hb5ykeu4qlxqe.onion/
+* https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
+
