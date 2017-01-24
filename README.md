@@ -68,6 +68,6 @@ Sites that use https://securedrop.org/ :lock:
 * http://dqeasamlf3jld2kz.onion
 * https://securedrop.pogo.org/
 
-* Gawker Media
+## Gawker Media
 * http://gawker5oxtsc6fa7.onion
 * https://gawkermediagroup.com/securedrop/
