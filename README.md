@@ -16,7 +16,7 @@
 - Check that the site is up and the link works
 - Stable sites, HTTP and/or HTTPS only
 - No "onion-only" sites
-  - this is for mainstream sites with onion presence
+  - this list is for substantial, mainstream websites with onion presence
 
 The editor may choose to annotate or drop any entries as deemed fit.
 
