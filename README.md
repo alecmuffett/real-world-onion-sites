@@ -120,6 +120,8 @@ Sites that use https://securedrop.org/
 
 See also https://securedrop.org/directory - but this page seeks to be more inclusive
 
+
+
 ## Aftenposten
 * http://da5nr4lx4djdrsj7.onion/
 * https://www.aftenposten.no/securedrop/
@@ -164,9 +166,21 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://gawker5oxtsc6fa7.onion/
 * https://gawkermediagroup.com/securedrop/
 
+## Globe and Mail (Toronto)
+* http://n572ltkg4nld3bsz.onion/
+* https://sec.theglobeandmail.com/securedrop/
+
 ## Greenpeace New Zealand
 * http://ll6edwtpfl3zdwoi.onion/
 * https://www.safesource.org.nz
+
+## Guardian
+* http://33y6fjyhs3phzfjj.onion/
+* https://securedrop.theguardian.com/
+
+## Intercept
+* https://y6xjgkgwj47us5ca.onion/ :lock:
+* https://theintercept.com/securedrop/
 
 ## NEOSleaks
 * http://udrciweihl4qe63p.onion/
@@ -179,6 +193,14 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 ## New Internationalist
 * http://axcdo2zaeyrpdc6z.onion/
 * https://digital.newint.com.au/securedrop
+
+## New York Times
+* https://nytimes2tsqtnxek.onion/ :lock:
+* https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
+
+## New Yorker
+* http://strngbxhwyuu37a3.onion/
+* http://projects.newyorker.com/strongbox/
 
 ## POGO / Project On Government Oversight
 * http://dqeasamlf3jld2kz.onion/
@@ -200,30 +222,6 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://hpjw636qnt5avq62.onion/
 * https://securedrop.radio24syv.dk
 
-## The Globe and Mail (Toronto)
-* http://n572ltkg4nld3bsz.onion/
-* https://sec.theglobeandmail.com/securedrop/
-
-## The Guardian
-* http://33y6fjyhs3phzfjj.onion/
-* https://securedrop.theguardian.com/
-
-## The Intercept
-* https://y6xjgkgwj47us5ca.onion/ :lock:
-* https://theintercept.com/securedrop/
-
-## The New York Times
-* https://nytimes2tsqtnxek.onion/ :lock:
-* https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
-
-## The New Yorker
-* http://strngbxhwyuu37a3.onion/
-* http://projects.newyorker.com/strongbox/
-
-## The Washington Post
-* http://vbmwh445kf3fs2v4.onion/
-* https://www.washingtonpost.com/securedrop/
-
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
 * https://securedrop.vg.no/
@@ -231,3 +229,7 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 ## VICE Media
 * http://cxoqh6bd23xa6yiz.onion/
 * https://news.vice.com/securedrop
+
+## Washington Post
+* http://vbmwh445kf3fs2v4.onion/
+* https://www.washingtonpost.com/securedrop/
