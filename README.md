@@ -21,8 +21,8 @@
 This list is for substantial, commercial or social-good mainstream websites with onion presence.
 
 - no sites for tech with less than (arbitrary) 10,000 users
+- no nudity, exploitation, drugs or sketchy-content sites
 - no onion-only sites
-- no sketchy sites
 
 The editor may choose to annotate or drop any entries as deemed fit.
 
@@ -152,6 +152,9 @@ Sites that use https://securedrop.org/
 * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
 ## Aftenposten
-* http://da5nr4lx4djdrsj7.onion
+* http://da5nr4lx4djdrsj7.onion/
 * https://www.aftenposten.no/securedrop/
 
+## VG / Verdens Gang
+* http://vgnettwin5lyl4yr.onion/
+* https://securedrop.vg.no/
