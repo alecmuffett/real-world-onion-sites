@@ -93,6 +93,9 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 (Tor Project keeps a huge number of onion sites, in varying states of stability; see the index)
 
+## Mail2Tor
+* http://mail2tor2zyjdctd.onion/ 
+
 ----
 
 # SecureDrop sites
