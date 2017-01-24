@@ -14,11 +14,12 @@
   - submit them separately
 - Check for SSL availability and upgrade to that if available
 - Check that the site is up and the link works
-- HTTP and HTTPS sites only
+- HTTP or HTTPS sites only
 - Stable sites only
-- No sketchy sites
+- No "onion-only" sites
+  - this is for mainstream sites with onion presence
 
-The editor may choose to annotate any entries as deemed fit.
+The editor may choose to annotate or drop any entries as deemed fit.
 
 ## Pull Request Submission
 
