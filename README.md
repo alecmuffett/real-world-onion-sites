@@ -3,7 +3,9 @@
 
 # The Format
 
-**NOTE: NO MORE THAN 2 UPDATES/SITE PER PULL REQUEST WILL BE ACCEPTED**
+**NOTE**
+- **NO MORE THAN 2 UPDATES/SITE PER PULL REQUEST WILL BE ACCEPTED**
+- **CHECK FOR SSL AVAILABILITY AND UPGRADE TO THAT IF AVAILABLE**
 
 Pull requests for the main list will be accepted only for entries of the form:
 
