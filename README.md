@@ -42,6 +42,7 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * <url of onion, https if available> [lock emoji if https]
 * <source url citing the above url>
 ```
+*nb: individual journalist SecureDrops are still being chewed-over.*
 
 ----
 
