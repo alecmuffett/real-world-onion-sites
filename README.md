@@ -76,7 +76,7 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 * http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services index of onion sites
   * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
 
-(Debian keeps a *huge* number of onion sites and services; see the index)
+(Riseup keeps a *huge* number of onion sites and services; see the index)
 
 ## Debian
 * http://sejnfjrq6szgca7v.onion/ main site
