@@ -12,8 +12,9 @@ Pull requests for the main list will be accepted only for entries of the form:
 
 Pull requests for the SecureDrop list will be accepted only for entries of the form:
 ```
-* <url of onion, https if available> [lock emoji if https] Publication / Journalist Name
-  * <source url citing the above url>
+## Publication / Journalist Name
+* <url of onion, https if available> [lock emoji if https]
+* <source url citing the above url>
 ```
 
 # The List
@@ -31,18 +32,30 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 ## ProPublica
 * https://www.propub3r6espa33w.onion/ :lock:
 
-# SecureDrop sites (https://securedrop.org/)
+# SecureDrop sites
 
-### New York Times
+Sites that use https://securedrop.org/
+
+## New York Times
 * https://nytimes2tsqtnxek.onion/ :lock: 
 * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
+## The New Yorker
+* http://strngbxhwyuu37a3.onion 
+* http://projects.newyorker.com/strongbox/
+  
+## ProPublica
+* http://pubdrop4dw6rk3aq.onion/ 
+* https://securedrop.propublica.org/
 
-* http://strngbxhwyuu37a3.onion The New Yorker
-  * http://projects.newyorker.com/strongbox/
-* http://pubdrop4dw6rk3aq.onion/ ProPublica
-  * https://securedrop.propublica.org/
-* http://33y6fjyhs3phzfjj.onion Guardian
-  * https://securedrop.theguardian.com/
-* http://4fluf34prrpdojsr.onion/ BalkanLeaks
-  * https://balkanleaks.eu/
+## Guardian
+* http://33y6fjyhs3phzfjj.onion 
+* https://securedrop.theguardian.com/
+
+## Washington Post
+* http://vbmwh445kf3fs2v4.onion
+* https://www.washingtonpost.com/securedrop/
+
+## BalkanLeaks
+* http://4fluf34prrpdojsr.onion/ 
+* https://balkanleaks.eu/
