@@ -62,6 +62,10 @@ Sites that use https://securedrop.org/ :lock:
 * http://33y6fjyhs3phzfjj.onion/
 * https://securedrop.theguardian.com/
 
+## The Intercept
+* https://y6xjgkgwj47us5ca.onion/ :lock:
+* https://theintercept.com/securedrop/
+
 ## Washington Post
 * http://vbmwh445kf3fs2v4.onion/
 * https://www.washingtonpost.com/securedrop/
