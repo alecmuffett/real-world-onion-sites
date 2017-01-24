@@ -182,3 +182,6 @@ Sites that use https://securedrop.org/
 * http://axcdo2zaeyrpdc6z.onion/
 * https://digital.newint.com.au/securedrop
 
+## Cyph
+* https://www.cyphdbyhiddenbhs.onion/
+* https://www.cyph.com/
