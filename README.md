@@ -10,6 +10,7 @@
 # The Format
 
 ## Submission Notes
+
 - **NO MORE THAN 1 SITE UPDATE PER REQUEST WILL BE ACCEPTED**
   - submit them separately
 - Check for SSL availability and upgrade to that if available
@@ -18,9 +19,11 @@
 
 # Theme
 This list is for substantial, commercial or social-good mainstream websites with onion presence.
+
 - no sites for tech with less than (arbitrary) 10,000 users
 - no onion-only sites
 - no sketchy sites
+
 The editor may choose to annotate or drop any entries as deemed fit.
 
 ## Pull Request Submission
