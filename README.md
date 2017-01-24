@@ -2,8 +2,8 @@
 ## An index of the non-dark web...
 
 * updated: 24 jan 2017 (see the change history for specifics)
-* author: alec muffett
 * licensed: cc-by-sa
+* author/editor: alec muffett
 
 ----
 
