@@ -151,3 +151,7 @@ Sites that use https://securedrop.org/
 * http://2x2hb5ykeu4qlxqe.onion/
 * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
+## Aftenposten
+* http://da5nr4lx4djdrsj7.onion
+* https://www.aftenposten.no/securedrop/
+
