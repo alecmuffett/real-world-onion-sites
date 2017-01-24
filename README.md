@@ -3,6 +3,8 @@
 
 # The Format
 
+**NOTE: NO MORE THAN 2 UPDATES/SITE PER PULL REQUEST WILL BE ACCEPTED**
+
 Pull requests for the main list will be accepted only for entries of the form:
 
 ```
@@ -34,7 +36,7 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 # SecureDrop sites
 
-Sites that use https://securedrop.org/
+Sites that use https://securedrop.org/ :lock:
 
 ## New York Times
 * https://nytimes2tsqtnxek.onion/ :lock: 
