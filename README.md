@@ -169,3 +169,11 @@ Sites that use https://securedrop.org/
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
 * https://securedrop.vg.no/
+
+## Fairfax Media Group
+* http://ipfhnseo4hgfw5mg.onion/
+* https://securedrop.fairfax.com.au/
+
+## New Internationalist
+* http://axcdo2zaeyrpdc6z.onion/
+* https://digital.newint.com.au/securedrop
