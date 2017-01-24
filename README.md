@@ -16,7 +16,7 @@ Pull requests for the main list will be accepted only for entries of the form:
 
 Pull requests for the SecureDrop list will be accepted only for entries of the form:
 ```
-## Publication / Journalist Name
+## Descriptive Publication or Journalist Name
 * <url of onion, https if available> [lock emoji if https]
 * <source url citing the above url>
 ```
@@ -63,3 +63,11 @@ Sites that use https://securedrop.org/ :lock:
 ## BalkanLeaks
 * http://4fluf34prrpdojsr.onion/ 
 * https://balkanleaks.eu/
+
+## Project On Government Oversight (POGO)
+* http://dqeasamlf3jld2kz.onion
+* https://securedrop.pogo.org/
+
+* Gawker Media
+* http://gawker5oxtsc6fa7.onion
+* https://gawkermediagroup.com/securedrop/
