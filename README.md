@@ -118,6 +118,8 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 Sites that use https://securedrop.org/
 
+See also https://securedrop.org/directory - but this page seeks to be more inclusive
+
 ## New York Times
 * https://nytimes2tsqtnxek.onion/ :lock: 
 * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
@@ -130,7 +132,7 @@ Sites that use https://securedrop.org/
 * http://pubdrop4dw6rk3aq.onion/ 
 * https://securedrop.propublica.org/
 
-## Guardian
+## The Guardian
 * http://33y6fjyhs3phzfjj.onion/
 * https://securedrop.theguardian.com/
 
@@ -138,7 +140,7 @@ Sites that use https://securedrop.org/
 * https://y6xjgkgwj47us5ca.onion/ :lock:
 * https://theintercept.com/securedrop/
 
-## Washington Post
+## The Washington Post
 * http://vbmwh445kf3fs2v4.onion/
 * https://www.washingtonpost.com/securedrop/
 
@@ -154,7 +156,7 @@ Sites that use https://securedrop.org/
 * http://gawker5oxtsc6fa7.onion/
 * https://gawkermediagroup.com/securedrop/
 
-## The Globe and Mail
+## The Globe and Mail (Toronto)
 * http://n572ltkg4nld3bsz.onion/
 * https://sec.theglobeandmail.com/securedrop/
 
@@ -186,3 +188,46 @@ Sites that use https://securedrop.org/
 * http://axcdo2zaeyrpdc6z.onion/
 * https://digital.newint.com.au/securedrop
 
+## Apache
+* http://zdf4nikyuswdzbt6.onion/
+* https://www.apache.be/securedrop
+
+## Associated Press
+* http://3expgpdnrrzezf7r.onion/
+* https://securedrop.ap.org/
+
+## BerlinLeaks
+* http://bl2uafhsjrtc2gf4.onion/
+* https://berlinleaks.org
+
+## ExposeFacts
+* http://znig4bc5rlwyj4mz.onion/
+* https://exposefacts.org
+
+## Greenpeace New Zealand
+* http://ll6edwtpfl3zdwoi.onion/
+* https://www.safesource.org.nz
+
+## NEOSleaks
+* http://udrciweihl4qe63p.onion/
+* https://neos.eu/leaks/
+
+## NRKbeta
+* http://nrktipspgpsyoqwo.onion/
+* https://www.nrk.no/varsle/
+
+## Radio24syv
+* http://hpjw636qnt5avq62.onion/
+* https://securedrop.radio24syv.dk
+
+## Radio-Canada
+* http://w5jfqhep2jbypkek.onion/
+* https://sourceanonyme.radio-canada.ca
+
+## BayLeaks
+* http://wd5x5eexdqcjrqfa.onion/
+* https://bayleaks.org
+
+## VICE Media
+* http://cxoqh6bd23xa6yiz.onion/
+* https://news.vice.com/securedrop
