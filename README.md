@@ -11,8 +11,10 @@
 
 ## Submission Notes
 - **NO MORE THAN 1 SITE UPDATE PER REQUEST WILL BE ACCEPTED**
-  - don't be lazy, submit them separately
+  - don't be lazy, just submit them separately
 - **CHECK FOR SSL AVAILABILITY AND UPGRADE TO THAT IF AVAILABLE**
+- **CHECK THAT THE SITE IS UP AND THE LINK WORKS**
+- **STABLE SITES ONLY**
 - **NO SKETCHY SITES**
 
 ## Pull Request Submission
