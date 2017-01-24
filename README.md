@@ -1,6 +1,8 @@
 # Onion Sites That Don't Suck
 ## An index of the non-dark web...
 
+updated: 24 jan 2017 - see the change history for specifics
+
 ----
 
 # The Format
@@ -8,6 +10,8 @@
 **NOTE**
 - **NO MORE THAN 2 UPDATES/SITE PER PULL REQUEST WILL BE ACCEPTED**
 - **CHECK FOR SSL AVAILABILITY AND UPGRADE TO THAT IF AVAILABLE**
+
+## Pull Request Submission
 
 Pull requests for the main list will be accepted only for entries of the form:
 
