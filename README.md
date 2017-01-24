@@ -11,11 +11,14 @@
 
 ## Submission Notes
 - **NO MORE THAN 1 SITE UPDATE PER REQUEST WILL BE ACCEPTED**
-  - don't be lazy, just submit them separately
-- **CHECK FOR SSL AVAILABILITY AND UPGRADE TO THAT IF AVAILABLE**
-- **CHECK THAT THE SITE IS UP AND THE LINK WORKS**
-- **STABLE SITES ONLY**
-- **NO SKETCHY SITES**
+  - submit them separately
+- Check for SSL availability and upgrade to that if available
+- Check that the site is up and the link works
+- HTTP and HTTPS sites only
+- Stable sites only
+- No sketchy sites
+
+The editor may choose to annotate any entries as deemed fit.
 
 ## Pull Request Submission
 
@@ -52,6 +55,18 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 ## Protonmail
 * https://protonirockerxow.onion/ :lock:
+
+## ExpressVPN
+* http://expressobutiolem.onion/
+
+# Riseup
+* http://nzh3fv6jc6jskki3.onion/ main site
+* http://xpgylzydxykgdqyg.onion/ lists
+* http://zsolxunfmbfuq7wf.onion/rc/ mail
+* http://5jp7xtmox6jyoqd5.onion/ etherpad
+* http://6zc6sejeho3fwrd4.onion/ file share / pastebin
+* http://j6uhdvbhz74oefxf.onion/ user admin
+(source: https://riseup.net/en/security/network-security/tor)
 
 ----
 
