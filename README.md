@@ -30,6 +30,8 @@ The editor may choose to annotate or drop any entries as deemed fit.
 
 ### Pull Requests
 
+#### Main Lists
+
 Pull requests for the main list will be accepted only for entries of the form:
 
 ```
@@ -44,6 +46,14 @@ If there are many onions, submit a few, key, ones, plus an "index"
 page for the others. The "index" page *must* be an onion site, and
 *must* be followed with a sub-bullet for its cleartext equivalent; see
 existing examples for precedent.
+
+If the `Sitename` is an acronym, append `/ <acronym spelled out>`
+
+If the site is locally scoped or an umbrella for several
+organisations, consider appending `(.cc; <notes>)` where `cc` is the
+ISO 2-letter country code.
+
+#### Drops & Leaks
 
 Pull requests for the SecureDrop or GlobalLeaks lists will be accepted
 only for entries of the form:
