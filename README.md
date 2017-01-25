@@ -42,7 +42,7 @@ Pull requests for the main list will be accepted only for entries of the form:
 
 If there are many onions, submit a few, key, ones, plus an "index"
 page for the others; the "index" page *must* be an onion site, and
-should be followed with a sub-bullet for its cleartext equivalent.
+*should* be followed with a sub-bullet for its cleartext equivalent.
 
 Pull requests for the SecureDrop or GlobalLeaks lists will be accepted
 only for entries of the form:
