@@ -18,11 +18,10 @@
 - Stable sites, HTTP and/or HTTPS only
 
 # Theme
-
 This list is for substantial, commercial-or-social-good mainstream websites with onion presence.
 
 - no sites for tech with less than (arbitrary) 10,000 users
-- no nudity, exploitation, drugs, copyright infringement or sketchy-content sites
+- no nudity, exploitation, drugs or sketchy-content sites
 - no onion-only sites
 
 The editor may choose to annotate or drop any entries as deemed fit.
@@ -47,53 +46,82 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
 
 ----
 
-# Sites & Services
+# The List
 
-## Blockchain.Info bitcoin stuff
-  * https://blockchainbdgpzk.onion/ :lock:
-
-## Decoded:Legal law firm
-  * http://expvqqiv2z5ekf47.onion/ UK Law Firm
-  * https://decodedlegal.com
-
-## DuckDuckGo search engine
-  * http://3g2upl4pq6kufc4m.onion/
+## DuckDuckGo
+* http://3g2upl4pq6kufc4m.onion/
 
 ## Facebook
-  * https://www.facebookcorewwwi.onion/ :lock:
-  * https://m.facebookcorewwwi.onion/ :lock: mobile site
+* https://www.facebookcorewwwi.onion/ :lock:
+* https://m.facebookcorewwwi.onion/ :lock: mobile site
 
-## Mail2Tor mail gateway
-  * http://mail2tor2zyjdctd.onion/
-
-## Privacy International
-  * https://privacyintyqcroe.onion/ :lock:
+## blockchain.info
+* https://blockchainbdgpzk.onion/ :lock:
 
 ## ProPublica
-  * https://www.propub3r6espa33w.onion/ :lock:
+* https://www.propub3r6espa33w.onion/ :lock:
 
 ## Protonmail
-  * https://protonirockerxow.onion/ :lock:
+* https://protonirockerxow.onion/ :lock:
+
+## ExpressVPN
+* http://expressobutiolem.onion/
 
 ## Riseup
-  * http://nzh3fv6jc6jskki3.onion/ main site
-  * http://xpgylzydxykgdqyg.onion/ lists
-  * http://zsolxunfmbfuq7wf.onion/rc/ mail
-  * http://5jp7xtmox6jyoqd5.onion/ etherpad
-  * http://6zc6sejeho3fwrd4.onion/ file share / pastebin
-  * http://j6uhdvbhz74oefxf.onion/ user admin
-  * http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services index of onion sites
-    * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
+* http://nzh3fv6jc6jskki3.onion/ main site
+* http://xpgylzydxykgdqyg.onion/ lists
+* http://zsolxunfmbfuq7wf.onion/rc/ mail
+* http://5jp7xtmox6jyoqd5.onion/ etherpad
+* http://6zc6sejeho3fwrd4.onion/ file share / pastebin
+* http://j6uhdvbhz74oefxf.onion/ user admin
+* http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services index of onion sites
+  * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
 
 (Riseup keeps a *huge* number of onion sites and services; see the index)
 
+## Debian
+* http://sejnfjrq6szgca7v.onion/ main site
+* http://5nca3wxl33tzlzj5.onion/ index of onion sites
+  * also https://onion.debian.org/
+
+(Debian keeps a *huge* number of onion sites; see the index)
+
+## Qubes OS
+* http://qubesos4rrrrz6n4.onion/
+
+## Privacy International
+* https://privacyintyqcroe.onion/ :lock:
+
+## Tor Project
+* http://expyuzz4wqqyqhjn.onion/ main site
+* http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
+  * also https://onion.torproject.org/
+
+(Tor Project keeps a *huge* number of onion sites, in varying states of stability; see the index)
+
+## Mail2Tor
+* http://mail2tor2zyjdctd.onion/ 
+
+## Whonix
+* http://kkkkkkkkkk63ava6.onion/ main page
+* http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki
+* http://forums.kkkkkkkkkk63ava6.onion/ forums
+* http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
+  * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
+
+## Decoded:Legal
+* http://expvqqiv2z5ekf47.onion/ UK Law Firm
+  * https://decodedlegal.com
+
 ----
 
-# SecureDrop Sites for Organisations
+# SecureDrop sites
 
 Sites that use https://securedrop.org/
 
-See also https://securedrop.org/directory - but this page seeks to be more inclusive.
+See also https://securedrop.org/directory - but this page seeks to be more inclusive
+
+
 
 ## Aftenposten
 * http://da5nr4lx4djdrsj7.onion/
@@ -202,54 +230,3 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 ## Washington Post
 * http://vbmwh445kf3fs2v4.onion/
 * https://www.washingtonpost.com/securedrop/
-
-----
-
-# SecureDrop Sites for Individual Journalists
-
-Individual Journalists that use https://securedrop.org/
-
-See also https://securedrop.org/directory
-
-TBD
-
-----
-
-# GlobalLeaks Sites
-
-TBD
-
-----
-
-# Infrastructure & Software
-
-## Cyph
-  * https://www.cyphdbyhiddenbhs.onion/
-  * https://www.cyph.com/
-
-## Debian
-  * http://sejnfjrq6szgca7v.onion/ main site
-  * http://5nca3wxl33tzlzj5.onion/ index of onion sites
-    * also https://onion.debian.org/
-
-(Debian keeps a *huge* number of onion sites; see the index)
-
-## ExpressVPN
-  * http://expressobutiolem.onion/
-
-## Qubes OS
-  * http://qubesos4rrrrz6n4.onion/
-
-## Tor Project
-  * http://expyuzz4wqqyqhjn.onion/ main site
-  * http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
-    * also https://onion.torproject.org/
-
-(Tor Project keeps a *huge* number of onion sites, in varying states of stability; see the index)
-
-## Whonix
-  * http://kkkkkkkkkk63ava6.onion/ main page
-  * http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki
-  * http://forums.kkkkkkkkkk63ava6.onion/ forums
-  * http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
-    * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
