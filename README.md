@@ -17,10 +17,6 @@ This list is for substantial, commercial-or-social-good mainstream websites with
 
 The editor may choose to annotate or drop any entries as deemed fit.
 
-----
-
-# The Format
-
 ## Submission Notes
 
 - **NO MORE THAN 1 SITE PER REQUEST WILL BE ACCEPTED**
