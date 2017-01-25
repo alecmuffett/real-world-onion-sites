@@ -17,52 +17,7 @@ This list is for substantial, commercial-or-social-good mainstream websites with
 
 The editor may choose to annotate or drop any entries as deemed fit.
 
-## Submission Notes
-
-- **NO MORE THAN 1 SITE PER REQUEST WILL BE ACCEPTED**
-  - it's easy enough to make multiple requests, and it helps.
-- Check that the site is up and the link works
-  - if the onion site is down, the site will not be added / may be removed from the list; no exceptions.
-- HTTP and/or HTTPS only
-  - check for SSL availability, upgrade to that if available and add a :lock: emoji.
-- Maintain alphabetical sorting, elide "The", stick to the existing categories
-  - contact the editor for anything more complex than a simple update.
-
-### Pull Requests
-
-#### Main Lists
-
-Pull requests for the main list will be accepted only for entries of the form:
-
-```
-## Sitename
-* <url of onion> [<lock emoji if https>] [<site notes, four words max>]
-...
-
-[(site note in parentheses)]
-```
-
-If there are many onions, submit a few, key, ones, plus an "index"
-page for the others. The "index" page *must* be an onion site, and
-*must* be followed with a sub-bullet for its cleartext equivalent; see
-existing examples for precedent.
-
-If the `Sitename` is an acronym, append `/ <acronym spelled out>`
-
-If the site is locally scoped or an umbrella for several
-organisations, consider appending `(.cc; <notes>)` where `cc` is the
-ISO 2-letter country code.
-
-#### Drops & Leaks
-
-Pull requests for the SecureDrop or GlobalLeaks lists will be accepted
-only for entries of the form:
-
-```
-## Descriptive Publication *or* Journalist Name
-* <url of onion> <lock emoji if https>
-* <first-party "proof" url citing the above url>
-```
+Formatting / how to submit entries ("pull-requests") are explained in the footer of this page.
 
 ----
 
@@ -286,3 +241,50 @@ TBD
   * http://forums.kkkkkkkkkk63ava6.onion/ forums
   * http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
     * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
+
+----
+
+## Submission Notes
+
+- **NO MORE THAN 1 SITE PER REQUEST WILL BE ACCEPTED**
+  - it's easy enough to make multiple requests, and it helps.
+- Check that the site is up and the link works
+  - if the onion site is down, the site will not be added / may be removed from the list; no exceptions.
+- HTTP and/or HTTPS only
+  - check for SSL availability, upgrade to that if available and add a :lock: emoji.
+- Maintain alphabetical sorting, elide "The", stick to the existing categories
+  - contact the editor for anything more complex than a simple update.
+
+### Main Lists
+
+Pull requests for the main list will be accepted only for entries of the form:
+
+```
+## Sitename
+* <url of onion> [<lock emoji if https>] [<site notes, four words max>]
+...
+
+[(site note in parentheses)]
+```
+
+If there are many onions, submit a few, key, ones, plus an "index"
+page for the others. The "index" page *must* be an onion site, and
+*must* be followed with a sub-bullet for its cleartext equivalent; see
+existing examples for precedent.
+
+If the `Sitename` is an acronym, append `/ <acronym spelled out>`
+
+If the site is locally scoped or an umbrella for several
+organisations, consider appending `(.cc; <notes>)` where `cc` is the
+ISO 2-letter country code.
+
+### Drops & Leaks
+
+Pull requests for the SecureDrop or GlobalLeaks lists will be accepted
+only for entries of the form:
+
+```
+## Descriptive Publication *or* Journalist Name
+* <url of onion> <lock emoji if https>
+* <first-party "proof" url citing the above url>
+```

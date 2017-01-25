@@ -244,18 +244,22 @@ TBD
 
 ----
 
-## Submission Notes
+# Submission Notes
 
 - **NO MORE THAN 1 SITE PER REQUEST WILL BE ACCEPTED**
   - it's easy enough to make multiple requests, and it helps.
+  - if you have a huge batch, contact the editor.
 - Check that the site is up and the link works
   - if the onion site is down, the site will not be added / may be removed from the list; no exceptions.
 - HTTP and/or HTTPS only
   - check for SSL availability, upgrade to that if available and add a :lock: emoji.
-- Maintain alphabetical sorting, elide "The", stick to the existing categories
-  - contact the editor for anything more complex than a simple update.
+- Structure
+  - Maintain alphabetical sorting
+  - Elide "The" from Sitenames
+  - Stick to the existing categories
+- Contact the editor for anything more complex than a simple update.
 
-### Main Lists
+## Main Lists
 
 Pull requests for the main list will be accepted only for entries of the form:
 
@@ -278,7 +282,7 @@ If the site is locally scoped or an umbrella for several
 organisations, consider appending `(.cc; <notes>)` where `cc` is the
 ISO 2-letter country code.
 
-### Drops & Leaks
+## Drops & Leaks
 
 Pull requests for the SecureDrop or GlobalLeaks lists will be accepted
 only for entries of the form:
