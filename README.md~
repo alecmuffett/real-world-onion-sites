@@ -1,9 +1,21 @@
 # Onion Sites That Don't Suck
-## An index of the non-dark web...
+## An index of the non-dark web...
 
-* updated: 24 jan 2017 (see the change history for specifics)
+* updated: 25 jan 2017 (see the change history for specifics)
 * licensed: cc-by-sa
 * author/editor: alec muffett
+
+----
+
+# The Theme
+
+This list is for substantial, commercial-or-social-good mainstream websites with onion presence.
+
+- no nudity, exploitation, drugs, copyright infringement or sketchy-content sites
+- no sites for tech with less than (arbitrary) 10,000 users
+- no onion-only sites
+
+The editor may choose to annotate or drop any entries as deemed fit.
 
 ----
 
@@ -11,23 +23,16 @@
 
 ## Submission Notes
 
-- **NO MORE THAN 1 SITE UPDATE PER REQUEST WILL BE ACCEPTED**
-  - submit them separately
-- Check for SSL availability and upgrade to that if available
+- **NO MORE THAN 1 SITE PER REQUEST WILL BE ACCEPTED**
+  - it's easy enough to make multiple requests, and it helps.
 - Check that the site is up and the link works
-- Stable sites, HTTP and/or HTTPS only
+  - if the onion site is down, the site will not be added / may be removed from the list; no exceptions.
+- HTTP and/or HTTPS only
+  - check for SSL availability, upgrade to that if available and add a :lock: emoji.
+- Maintain alphabetical sorting, stick to the existing categories
+  - contact the editor for anything more complex than a simple update.
 
-# Theme
-
-This list is for substantial, commercial-or-social-good mainstream websites with onion presence.
-
-- no sites for tech with less than (arbitrary) 10,000 users
-- no nudity, exploitation, drugs, copyright infringement or sketchy-content sites
-- no onion-only sites
-
-The editor may choose to annotate or drop any entries as deemed fit.
-
-## Pull Request Submission
+## Pull Requests
 
 Pull requests for the main list will be accepted only for entries of the form:
 
@@ -37,13 +42,12 @@ Pull requests for the main list will be accepted only for entries of the form:
 (optional source: url)
 ```
 
-Pull requests for the SecureDrop list will be accepted only for entries of the form:
+Pull requests for the SecureDrop or GlobalLeaks lists will be accepted only for entries of the form:
 ```
 ## Descriptive Publication or Journalist Name
 * <url of onion, https if available> [lock emoji if https]
-* <source url citing the above url>
+* <first-party "proof" url citing the above url>
 ```
-*nb: individual journalist SecureDrops are still being chewed-over.*
 
 ----
 
@@ -53,7 +57,7 @@ Pull requests for the SecureDrop list will be accepted only for entries of the f
   * https://blockchainbdgpzk.onion/ :lock:
 
 ## Decoded:Legal law firm
-  * http://expvqqiv2z5ekf47.onion/ UK Law Firm
+  * http://expvqqiv2z5ekf47.onion/ UK law firm
   * https://decodedlegal.com
 
 ## DuckDuckGo search engine
@@ -151,6 +155,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * https://y6xjgkgwj47us5ca.onion/ :lock:
 * https://theintercept.com/securedrop/
 
+## Lucy Parsons Labs
+* http://qn4qfeeslglmwxgb.onion/
+* https://lucyparsonslabs.com/securedrop
+
 ## NEOSleaks
 * http://udrciweihl4qe63p.onion/
 * https://neos.eu/leaks/
@@ -211,7 +219,17 @@ Individual Journalists that use https://securedrop.org/
 
 See also https://securedrop.org/directory
 
-TBD
+## Barton Gellman
+* http://v6gdwmm7ed4oifvd.onion/
+* https://tcfmailvault.info
+
+## Espen Andersen
+* http://lijbt6ju7m6opkzb.onion/
+* https://espenandersen.no/contact
+
+## Kevin Poulsen
+* http://poulsensqiv6ocq4.onion/
+* https://freedom.press/about/tech/kevin-poulsen
 
 ----
 
