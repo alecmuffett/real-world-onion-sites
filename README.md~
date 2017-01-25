@@ -292,3 +292,12 @@ only for entries of the form:
 * <url of onion> <lock emoji if https>
 * <first-party "proof" url citing the above url>
 ```
+
+## Don't have a GitHub account?
+
+GitHub and the online editor at:
+
+* https://github.com/alecmuffett/onion-sites-that-dont-suck/blob/master/README.md
+
+...are certainly the fastest and most effective way to submit a
+suggestion; but if you lack that then try `@alecmuffett` on Twitter.

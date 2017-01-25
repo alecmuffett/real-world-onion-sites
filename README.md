@@ -254,9 +254,9 @@ TBD
 - HTTP and/or HTTPS only
   - check for SSL availability, upgrade to that if available and add a :lock: emoji.
 - Structure
-  - Maintain alphabetical sorting
-  - Elide "The" from Sitenames
-  - Stick to the existing categories
+  - maintain alphabetical sorting
+  - elide leading "The" from sitenames
+  - stick to the existing categories
 - Contact the editor for anything more complex than a simple update.
 
 ## Main Lists
@@ -300,4 +300,6 @@ GitHub and the online editor at:
 * https://github.com/alecmuffett/onion-sites-that-dont-suck/blob/master/README.md
 
 ...are certainly the fastest and most effective way to submit a
-suggestion; but if you lack that then try `@alecmuffett` on Twitter.
+suggestion.
+
+If you lack that, then try `@alecmuffett` on Twitter.
