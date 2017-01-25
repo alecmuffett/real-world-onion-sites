@@ -55,22 +55,22 @@ Pull requests for the SecureDrop or GlobalLeaks lists will be accepted only for 
 
 # Sites & Services
 
-## Blockchain.Info bitcoin stuff
-  * https://blockchainbdgpzk.onion/ :lock:
+## Blockchain.Info
+  * https://blockchainbdgpzk.onion/ :lock: bitcoin stuff
 
-## Decoded:Legal law firm
+## Decoded:Legal
   * http://expvqqiv2z5ekf47.onion/ UK law firm
   * https://decodedlegal.com
 
-## DuckDuckGo search engine
-  * http://3g2upl4pq6kufc4m.onion/
+## DuckDuckGo
+  * http://3g2upl4pq6kufc4m.onion/ search engine
 
 ## Facebook
   * https://www.facebookcorewwwi.onion/ :lock:
   * https://m.facebookcorewwwi.onion/ :lock: mobile site
 
-## Mail2Tor mail gateway
-  * http://mail2tor2zyjdctd.onion/
+## Mail2Tor
+  * http://mail2tor2zyjdctd.onion/ mail gateway
 
 ## Privacy International
   * https://privacyintyqcroe.onion/ :lock:

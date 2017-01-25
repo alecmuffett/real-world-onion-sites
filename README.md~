@@ -29,23 +29,25 @@ The editor may choose to annotate or drop any entries as deemed fit.
   - if the onion site is down, the site will not be added / may be removed from the list; no exceptions.
 - HTTP and/or HTTPS only
   - check for SSL availability, upgrade to that if available and add a :lock: emoji.
-- Maintain alphabetical sorting, stick to the existing categories
+- Maintain alphabetical sorting, elide "The", stick to the existing categories
   - contact the editor for anything more complex than a simple update.
 
-## Pull Requests
+### Pull Requests
 
 Pull requests for the main list will be accepted only for entries of the form:
 
 ```
 ## Sitename
-* <url of onion, https if available> [lock emoji if https] [optional site intention, eg: mobile]
-(optional source: url)
+* <url of onion> [<lock emoji if https>] [<site notes, four words max>]
+
+[(site note in parentheses)]
 ```
 
 Pull requests for the SecureDrop or GlobalLeaks lists will be accepted only for entries of the form:
+
 ```
-## Descriptive Publication or Journalist Name
-* <url of onion, https if available> [lock emoji if https]
+## Descriptive Publication *or* Journalist Name
+* <url of onion> <lock emoji if https>
 * <first-party "proof" url citing the above url>
 ```
 
@@ -139,7 +141,7 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://gawker5oxtsc6fa7.onion/
 * https://gawkermediagroup.com/securedrop/
 
-## Globe and Mail (Toronto)
+## Globe and Mail (.ca; Toronto)
 * http://n572ltkg4nld3bsz.onion/
 * https://sec.theglobeandmail.com/securedrop/
 
@@ -155,7 +157,7 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * https://y6xjgkgwj47us5ca.onion/ :lock:
 * https://theintercept.com/securedrop/
 
-## Lucy Parsons Labs
+## Lucy Parsons Labs (.us; Chicago)
 * http://qn4qfeeslglmwxgb.onion/
 * https://lucyparsonslabs.com/securedrop
 
