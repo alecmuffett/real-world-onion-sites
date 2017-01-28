@@ -37,6 +37,9 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * https://www.facebookcorewwwi.onion/ :lock:
   * https://m.facebookcorewwwi.onion/ :lock: mobile site
 
+## Library Freedom Project
+  * http://libraryxobbrbj33.onion/
+
 ## Mail2Tor
   * http://mail2tor2zyjdctd.onion/ mail gateway
 
@@ -60,6 +63,9 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
     * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
 
 (Riseup keeps a *huge* number of onion sites and services; see the index)
+
+## Surveillance Law / Stanford
+  * http://7vrl523532rjjznj.onion/
 
 ----
 
@@ -224,6 +230,9 @@ TBD
 
 ## ExpressVPN
   * http://expressobutiolem.onion/
+
+## Mailpile
+  * http://clgs64523yi2bkhz.onion/
 
 ## Qubes OS
   * http://qubesos4rrrrz6n4.onion/
