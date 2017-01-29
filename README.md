@@ -231,6 +231,9 @@ TBD
 ## ExpressVPN
   * http://expressobutiolem.onion/
 
+# keybase.io
+  * http://fncuwbiisyh6ak3i.onion/
+
 ## Mailpile
   * http://clgs64523yi2bkhz.onion/
 
