@@ -147,6 +147,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://qn4qfeeslglmwxgb.onion/
 * https://lucyparsonslabs.com/securedrop
 
+## Mexico Leaks
+ * http://kjpkmlafh2ra57wz.onion/
+ * https://mexicoleaks.mx/
+
 ## NEOSleaks
 * http://udrciweihl4qe63p.onion/
 * https://neos.eu/leaks/
