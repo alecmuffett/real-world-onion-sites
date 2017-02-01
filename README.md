@@ -196,6 +196,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://hpjw636qnt5avq62.onion/
 * https://securedrop.radio24syv.dk
 
+## Sourcesure.eu / Leak site for France and Belgium
+ * http://hgowugmgkiv2wxs5.onion/
+ * https://www.sourcesure.eu/
+
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
 * https://securedrop.vg.no/
