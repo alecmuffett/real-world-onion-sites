@@ -167,6 +167,7 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://strngbxhwyuu37a3.onion/
 * http://projects.newyorker.com/strongbox/
 
+
 ## OKO Press (Polish investigative journalist organisation)
  * http://p6vbgbn7ggutkt3i.onion/
  * https://oko.press/
@@ -281,6 +282,10 @@ TBD
 ## Brmlab, Prague Hackerspace
   * http://pmwdzvbyvnmwobk5.onion/ onion site
   * https://brmlab.cz/start clearweb site
+
+## XNet activism anticorruption leak site
+ * http://ztjn5gcdsqeqzmw4.onion/
+ * https://xnet-x.net/en/xnetleaks/
 
 ----
 
