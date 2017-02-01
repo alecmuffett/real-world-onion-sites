@@ -95,6 +95,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://bl2uafhsjrtc2gf4.onion/
 * https://berlinleaks.org
 
+## Bezkorupce.cz / Czech Anticorruption reporting site
+ * http://iopx5pchfdldldwp.onion/
+ * https://secure.bezkorupce.cz/
+
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
 * https://securedrop.cbc.ca/
