@@ -99,6 +99,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://ad2ztmbv5vmbj7ic.onion
 * https://securedrop.cbc.ca/
 
+## Curiamo La Corruzione (Anticorruption reporting for Italian government health services)
+ * http://evz2fbu64s3lzhsi.onion/
+ * https://segnalazioni.curiamolacorruzione.it/
+
 ## CPJ / Committee to Protect Journalists
 * http://2x2hb5ykeu4qlxqe.onion/
 * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
