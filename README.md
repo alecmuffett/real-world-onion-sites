@@ -75,6 +75,10 @@ Sites that use https://securedrop.org/
 
 See also https://securedrop.org/directory - but this page seeks to be more inclusive.
 
+## Afrileaks 
+ * http://wcnueib4qrsm544n.onion/
+ * https://www.afrileaks.org/
+
 ## Aftenposten
 * http://da5nr4lx4djdrsj7.onion/
 * https://www.aftenposten.no/securedrop/
