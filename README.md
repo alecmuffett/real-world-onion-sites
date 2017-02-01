@@ -107,6 +107,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://2x2hb5ykeu4qlxqe.onion/
 * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
+## Edison Energy / Italy energy company corporate whistleblowing
+ * http://754hkfmiyumu5xlc.onion/
+ * https://segnalazioni.edison.it/
+
 ## ExposeFacts
 * http://znig4bc5rlwyj4mz.onion/
 * https://exposefacts.org
