@@ -159,6 +159,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://strngbxhwyuu37a3.onion/
 * http://projects.newyorker.com/strongbox/
 
+## OKO Press (Polish investigative journalist organisation)
+ * http://p6vbgbn7ggutkt3i.onion/
+ * https://oko.press/
+
 ## POGO / Project On Government Oversight
 * http://dqeasamlf3jld2kz.onion/
 * https://securedrop.pogo.org/
