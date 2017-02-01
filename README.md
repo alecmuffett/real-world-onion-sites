@@ -187,6 +187,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://vbmwh445kf3fs2v4.onion/
 * https://www.washingtonpost.com/securedrop/
 
+## Wildleaks / Elephant Action League
+* https://www.wildleaks.org/the-technology/
+* http://ppdz5djzpo3w5k2z.onion/
+
 ----
 
 # SecureDrop Sites for Individual Journalists
