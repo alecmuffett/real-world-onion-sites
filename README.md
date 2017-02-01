@@ -75,7 +75,7 @@ Sites that use https://securedrop.org/
 
 See also https://securedrop.org/directory - but this page seeks to be more inclusive.
 
-## Afrileaks 
+## Afrileaks
  * http://wcnueib4qrsm544n.onion/
  * https://www.afrileaks.org/
 
@@ -203,6 +203,10 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 ## Sourcesure.eu / Leak site for France and Belgium
  * http://hgowugmgkiv2wxs5.onion/
  * https://www.sourcesure.eu/
+
+## Transparency International Italy / anticorruption reporting site
+ * http://fkut2p37apcg6l7f.onion/
+ * https://allertaanticorruzione.transparency.it/servizio-alac/
 
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
