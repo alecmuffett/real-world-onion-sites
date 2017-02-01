@@ -256,6 +256,14 @@ TBD
 
 ----
 
+# Communities and organisations
+
+## Brmlab, Prague Hackerspace
+  * http://pmwdzvbyvnmwobk5.onion/ onion site
+  * https://brmlab.cz/start clearweb site
+
+----
+
 # Submission Notes
 
 - **NO MORE THAN 1 SITE PER REQUEST WILL BE ACCEPTED**
