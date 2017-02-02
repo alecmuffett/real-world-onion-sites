@@ -19,8 +19,10 @@ The editor may choose to annotate or drop any entries as deemed fit.
 
 Formatting / how to submit entries ("pull-requests") are explained in the footer of this page.
 
-SSL Onions: :lock:
-Reported Reachability Issues: :chart_with_downwards_trend: 
+## Emoji Key
+
+* SSL Onions: :lock:
+* Reported Reachability Issues: :chart_with_downwards_trend: 
 
 ----
 
