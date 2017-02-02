@@ -257,6 +257,10 @@ See also https://securedrop.org/directory
 * http://p6vbgbn7ggutkt3i.onion/
   * https://oko.press/
 
+## Pistaljka.rs Whistleblowing
+* http://acabtd4btrxjjrvr.onion/#/
+ * https://pistaljka.rs/
+
 ## Sourcesure.eu / France & Belgium Whistleblowing
 * http://hgowugmgkiv2wxs5.onion/
   * https://www.sourcesure.eu/
