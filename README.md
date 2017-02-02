@@ -262,7 +262,7 @@ See also https://securedrop.org/directory
 # Infrastructure & Software
 
 ## Cyph
-* https://www.cyphdbyhiddenbhs.onion/
+* https://www.cyphdbyhiddenbhs.onion/ :lock:
 
 ## Debian
 * http://sejnfjrq6szgca7v.onion/ main site
