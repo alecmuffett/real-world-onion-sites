@@ -225,6 +225,10 @@ See also https://securedrop.org/directory
 * http://fkut2p37apcg6l7f.onion/
   * https://allertaanticorruzione.transparency.it/servizio-alac/
 
+## Atlatszo MagyarLeaks / Hungarian Leaks
+* http://ak2uqfavwgmjrvtu.onion/
+ * https://atlatszo.hu/magyarleaks/
+
 ## Curiamo La Corruzione / Italian Government Health Whistleblowing
 * http://evz2fbu64s3lzhsi.onion/
   * https://segnalazioni.curiamolacorruzione.it/
@@ -237,6 +241,10 @@ See also https://securedrop.org/directory
 * http://znig4bc5rlwyj4mz.onion/
   * https://exposefacts.org
 
+## IRPILeaks / Investigative Reporting Project Italy Whistleblowing
+* http://5r4bjnjug3apqdii.onion/
+ * https://irpi.eu/en/irpileaks/
+
 ## Ljost.is / Icelandic Leaks
 * http://w6csjytbrl273che.onion/
   * https://ljost.is/
@@ -248,6 +256,10 @@ See also https://securedrop.org/directory
 ## OKO.press / Polish Journalist
 * http://p6vbgbn7ggutkt3i.onion/
   * https://oko.press/
+
+## Pistaljka.rs Whistleblowing
+* http://acabtd4btrxjjrvr.onion/#/
+ * https://pistaljka.rs/
 
 ## Sourcesure.eu / France & Belgium Whistleblowing
 * http://hgowugmgkiv2wxs5.onion/
