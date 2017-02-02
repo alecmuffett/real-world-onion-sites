@@ -19,6 +19,9 @@ The editor may choose to annotate or drop any entries as deemed fit.
 
 Formatting / how to submit entries ("pull-requests") are explained in the footer of this page.
 
+SSL Onions: :lock:
+Reported Reachability Issues: :chart_with_downwards_trend: 
+
 ----
 
 # Sites & Services
@@ -113,7 +116,7 @@ inclusive.
 * http://ipfhnseo4hgfw5mg.onion/
   * https://securedrop.fairfax.com.au/
 
-## Gawker Media :question:	
+## Gawker Media :chart_with_downwards_trend:	
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
 
@@ -153,7 +156,7 @@ inclusive.
 * https://nytimes2tsqtnxek.onion/ :lock:
   * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
-## New Yorker :question:	
+## New Yorker :chart_with_downwards_trend:	
 * http://strngbxhwyuu37a3.onion/
   * http://projects.newyorker.com/strongbox/
 
@@ -240,7 +243,6 @@ See also https://securedrop.org/directory
 ## Edison Energy / Italian Energy Whistleblowing
 * http://754hkfmiyumu5xlc.onion/
   * https://segnalazioni.edison.it/
-
 
 ## IRPILeaks / Investigative Reporting Project Italy Whistleblowing
 * http://5r4bjnjug3apqdii.onion/
