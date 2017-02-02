@@ -60,7 +60,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * http://6zc6sejeho3fwrd4.onion/ file share / pastebin
   * http://j6uhdvbhz74oefxf.onion/ user admin
   * http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services index of onion sites
-    * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
+  * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
 
 (Riseup keeps a *huge* number of onion sites and services; see the index)
 
@@ -104,8 +104,8 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * https://berlinleaks.org
 
 ## Bezkorupce.cz / Czech Anticorruption reporting site
- * http://iopx5pchfdldldwp.onion/
- * https://secure.bezkorupce.cz/
+  * http://iopx5pchfdldldwp.onion/
+  * https://secure.bezkorupce.cz/
 
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
@@ -220,44 +220,44 @@ See also https://securedrop.org/directory
 # GlobaLeaks Sites
 
 ## Afrileaks
- * http://wcnueib4qrsm544n.onion/
- * https://www.afrileaks.org/
+  * http://wcnueib4qrsm544n.onion/
+  * https://www.afrileaks.org/
+
+## ALAT / Allerta AntiCorruzione, Italian Whistleblowing
+  * http://fkut2p37apcg6l7f.onion/
+  * https://allertaanticorruzione.transparency.it/servizio-alac/
 
 ## Curiamo La Corruzione / Italian Government Health Whistleblowing
- * http://evz2fbu64s3lzhsi.onion/
- * https://segnalazioni.curiamolacorruzione.it/
+  * http://evz2fbu64s3lzhsi.onion/
+  * https://segnalazioni.curiamolacorruzione.it/
 
 ## Edison Energy / Italian Energy Whistleblowing
- * http://754hkfmiyumu5xlc.onion/
- * https://segnalazioni.edison.it/
+  * http://754hkfmiyumu5xlc.onion/
+  * https://segnalazioni.edison.it/
 
 ## ExposeFacts
-* http://znig4bc5rlwyj4mz.onion/
-* https://exposefacts.org
+  * http://znig4bc5rlwyj4mz.onion/
+  * https://exposefacts.org
 
 ## Mexico Leaks
- * http://kjpkmlafh2ra57wz.onion/
- * https://mexicoleaks.mx/
+  * http://kjpkmlafh2ra57wz.onion/
+  * https://mexicoleaks.mx/
 
-## OKO Press / Polish Journalist
- * http://p6vbgbn7ggutkt3i.onion/
- * https://oko.press/
+## OKO.press / Polish Journalist
+  * http://p6vbgbn7ggutkt3i.onion/
+  * https://oko.press/
 
 ## Sourcesure.eu / France & Belgium Whistleblowing
- * http://hgowugmgkiv2wxs5.onion/
- * https://www.sourcesure.eu/
-
-## Transparency International Italy
- * http://fkut2p37apcg6l7f.onion/
- * https://allertaanticorruzione.transparency.it/servizio-alac/
+  * http://hgowugmgkiv2wxs5.onion/
+  * https://www.sourcesure.eu/
 
 ## Wildleaks / Elephant Action League
 * http://ppdz5djzpo3w5k2z.onion/
 * https://www.wildleaks.org/the-technology/
 
 ## XNet Activism Anticorruption Whistleblowing
- * http://ztjn5gcdsqeqzmw4.onion/
- * https://xnet-x.net/en/xnetleaks/
+  * http://ztjn5gcdsqeqzmw4.onion/
+  * https://xnet-x.net/en/xnetleaks/
 
 ----
 
@@ -270,7 +270,7 @@ See also https://securedrop.org/directory
 ## Debian
   * http://sejnfjrq6szgca7v.onion/ main site
   * http://5nca3wxl33tzlzj5.onion/ index of onion sites
-    * also https://onion.debian.org/
+  * also https://onion.debian.org/
 
 (Debian keeps a *huge* number of onion sites; see the index)
 
@@ -289,7 +289,7 @@ See also https://securedrop.org/directory
 ## Tor Project
   * http://expyuzz4wqqyqhjn.onion/ main site
   * http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
-    * also https://onion.torproject.org/
+  * also https://onion.torproject.org/
 
 (Tor Project keeps a *huge* number of onion sites, in varying states of stability; see the index)
 
@@ -298,7 +298,7 @@ See also https://securedrop.org/directory
   * http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki
   * http://forums.kkkkkkkkkk63ava6.onion/ forums
   * http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
-    * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
+  * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
 
 ----
 
