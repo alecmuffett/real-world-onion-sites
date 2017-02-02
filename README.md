@@ -60,7 +60,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * http://6zc6sejeho3fwrd4.onion/ file share / pastebin
   * http://j6uhdvbhz74oefxf.onion/ user admin
   * http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services index of onion sites
-  * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
+    * also https://riseup.net/en/security/network-security/tor#riseups-tor-hidden-services
 
 (Riseup keeps a *huge* number of onion sites and services; see the index)
 
@@ -73,15 +73,14 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 
 ## Brmlab / Prague Hackerspace
   * http://pmwdzvbyvnmwobk5.onion/
-  * https://brmlab.cz/start
 
 ----
 
 # SecureDrop Sites for Organisations
 
-Sites that use https://securedrop.org/
-
-See also https://securedrop.org/directory - but this page seeks to be more inclusive.
+Sites that use https://securedrop.org/ ; see also
+https://securedrop.org/directory - but this page seeks to be more
+inclusive.
 
 ## Aftenposten
 * http://da5nr4lx4djdrsj7.onion/
@@ -270,7 +269,7 @@ See also https://securedrop.org/directory
 ## Debian
   * http://sejnfjrq6szgca7v.onion/ main site
   * http://5nca3wxl33tzlzj5.onion/ index of onion sites
-  * also https://onion.debian.org/
+    * also https://onion.debian.org/
 
 (Debian keeps a *huge* number of onion sites; see the index)
 
@@ -289,7 +288,7 @@ See also https://securedrop.org/directory
 ## Tor Project
   * http://expyuzz4wqqyqhjn.onion/ main site
   * http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
-  * also https://onion.torproject.org/
+    * also https://onion.torproject.org/
 
 (Tor Project keeps a *huge* number of onion sites, in varying states of stability; see the index)
 
@@ -298,7 +297,7 @@ See also https://securedrop.org/directory
   * http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki
   * http://forums.kkkkkkkkkk63ava6.onion/ forums
   * http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
-  * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
+    * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
 
 ----
 
