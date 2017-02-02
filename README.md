@@ -69,15 +69,19 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 
 ----
 
+# Communities & Organisations
+
+## Brmlab / Prague Hackerspace
+  * http://pmwdzvbyvnmwobk5.onion/
+  * https://brmlab.cz/start
+
+----
+
 # SecureDrop Sites for Organisations
 
 Sites that use https://securedrop.org/
 
 See also https://securedrop.org/directory - but this page seeks to be more inclusive.
-
-## Afrileaks
- * http://wcnueib4qrsm544n.onion/
- * https://www.afrileaks.org/
 
 ## Aftenposten
 * http://da5nr4lx4djdrsj7.onion/
@@ -107,21 +111,9 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://ad2ztmbv5vmbj7ic.onion
 * https://securedrop.cbc.ca/
 
-## Curiamo La Corruzione (Anticorruption reporting for Italian government health services)
- * http://evz2fbu64s3lzhsi.onion/
- * https://segnalazioni.curiamolacorruzione.it/
-
 ## CPJ / Committee to Protect Journalists
 * http://2x2hb5ykeu4qlxqe.onion/
 * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
-
-## Edison Energy / Italy energy company corporate whistleblowing
- * http://754hkfmiyumu5xlc.onion/
- * https://segnalazioni.edison.it/
-
-## ExposeFacts
-* http://znig4bc5rlwyj4mz.onion/
-* https://exposefacts.org
 
 ## Fairfax Media Group (.au; SMH et al.)
 * http://ipfhnseo4hgfw5mg.onion/
@@ -151,10 +143,6 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://qn4qfeeslglmwxgb.onion/
 * https://lucyparsonslabs.com/securedrop
 
-## Mexico Leaks
- * http://kjpkmlafh2ra57wz.onion/
- * https://mexicoleaks.mx/
-
 ## NEOSleaks
 * http://udrciweihl4qe63p.onion/
 * https://neos.eu/leaks/
@@ -174,11 +162,6 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 ## New Yorker
 * http://strngbxhwyuu37a3.onion/
 * http://projects.newyorker.com/strongbox/
-
-
-## OKO Press (Polish investigative journalist organisation)
- * http://p6vbgbn7ggutkt3i.onion/
- * https://oko.press/
 
 ## POGO / Project On Government Oversight
 * http://dqeasamlf3jld2kz.onion/
@@ -200,14 +183,6 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 * http://hpjw636qnt5avq62.onion/
 * https://securedrop.radio24syv.dk
 
-## Sourcesure.eu / Leak site for France and Belgium
- * http://hgowugmgkiv2wxs5.onion/
- * https://www.sourcesure.eu/
-
-## Transparency International Italy / anticorruption reporting site
- * http://fkut2p37apcg6l7f.onion/
- * https://allertaanticorruzione.transparency.it/servizio-alac/
-
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
 * https://securedrop.vg.no/
@@ -219,10 +194,6 @@ See also https://securedrop.org/directory - but this page seeks to be more inclu
 ## Washington Post
 * http://vbmwh445kf3fs2v4.onion/
 * https://www.washingtonpost.com/securedrop/
-
-## Wildleaks / Elephant Action League
-* https://www.wildleaks.org/the-technology/
-* http://ppdz5djzpo3w5k2z.onion/
 
 ----
 
@@ -248,7 +219,45 @@ See also https://securedrop.org/directory
 
 # GlobalLeaks Sites
 
-TBD
+## Afrileaks
+ * http://wcnueib4qrsm544n.onion/
+ * https://www.afrileaks.org/
+
+## Curiamo La Corruzione / Italian Government Health Whistleblowing
+ * http://evz2fbu64s3lzhsi.onion/
+ * https://segnalazioni.curiamolacorruzione.it/
+
+## Edison Energy / Italian Energy Whistleblowing
+ * http://754hkfmiyumu5xlc.onion/
+ * https://segnalazioni.edison.it/
+
+## ExposeFacts
+* http://znig4bc5rlwyj4mz.onion/
+* https://exposefacts.org
+
+## Mexico Leaks
+ * http://kjpkmlafh2ra57wz.onion/
+ * https://mexicoleaks.mx/
+
+## OKO Press / Polish Journalist
+ * http://p6vbgbn7ggutkt3i.onion/
+ * https://oko.press/
+
+## Sourcesure.eu / France & Belgium Whistleblowing
+ * http://hgowugmgkiv2wxs5.onion/
+ * https://www.sourcesure.eu/
+
+## Transparency International Italy
+ * http://fkut2p37apcg6l7f.onion/
+ * https://allertaanticorruzione.transparency.it/servizio-alac/
+
+## Wildleaks / Elephant Action League
+* http://ppdz5djzpo3w5k2z.onion/
+* https://www.wildleaks.org/the-technology/
+
+## XNet Activism Anticorruption Whistleblowing
+ * http://ztjn5gcdsqeqzmw4.onion/
+ * https://xnet-x.net/en/xnetleaks/
 
 ----
 
@@ -268,7 +277,7 @@ TBD
 ## ExpressVPN
   * http://expressobutiolem.onion/
 
-# keybase.io
+## keybase.io
   * http://fncuwbiisyh6ak3i.onion/
 
 ## Mailpile
@@ -293,18 +302,6 @@ TBD
 
 ----
 
-# Communities and organisations
-
-## Brmlab, Prague Hackerspace
-  * http://pmwdzvbyvnmwobk5.onion/ onion site
-  * https://brmlab.cz/start clearweb site
-
-## XNet activism anticorruption leak site
- * http://ztjn5gcdsqeqzmw4.onion/
- * https://xnet-x.net/en/xnetleaks/
-
-----
-
 # Submission Notes
 
 - **NO MORE THAN 1 SITE PER REQUEST WILL BE ACCEPTED**
@@ -315,9 +312,12 @@ TBD
 - HTTP and/or HTTPS only
   - check for SSL availability, upgrade to that if available and add a :lock: emoji.
 - Structure
-  - maintain alphabetical sorting
+  - SecureDrop in the SecureDrop section *NO EXCEPTIONS*
+  - GlobaLeaks in the GlobaLeaks section *NO EXCEPTIONS*
+  - maintain alphabetical sorting for entries
   - elide leading "The" from sitenames
   - stick to the existing categories
+  - onion site comes first in listings
 - Contact the editor for anything more complex than a simple update.
 
 ## Main Lists
