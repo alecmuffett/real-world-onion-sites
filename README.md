@@ -224,6 +224,10 @@ See also https://securedrop.org/directory
 ## ALAT / Allerta AntiCorruzione, Italian Whistleblowing
 * http://fkut2p37apcg6l7f.onion/
   * https://allertaanticorruzione.transparency.it/servizio-alac/
+  
+## Atlatszo MagyarLeaks / Hungarian Investigative Journalism Leaks
+* http://ak2uqfavwgmjrvtu.onion/
+  * https://atlatszo.hu/magyarleaks/
 
 ## Curiamo La Corruzione / Italian Government Health Whistleblowing
 * http://evz2fbu64s3lzhsi.onion/
