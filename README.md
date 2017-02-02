@@ -217,7 +217,7 @@ See also https://securedrop.org/directory
 
 ----
 
-# GlobalLeaks Sites
+# GlobaLeaks Sites
 
 ## Afrileaks
  * http://wcnueib4qrsm544n.onion/
@@ -345,11 +345,11 @@ ISO 2-letter country code.
 
 ## Drops & Leaks
 
-Pull requests for the SecureDrop or GlobalLeaks lists will be accepted
+Pull requests for the SecureDrop or GlobaLeaks lists will be accepted
 only for entries of the form:
 
 ```
-## Descriptive Publication *or* Journalist Name
+## Publication, Site *or* Journalist Name [ / 1..4 word description ]
 * <url of onion> <lock emoji if https>
 * <first-party "proof" url citing the above url>
 ```
