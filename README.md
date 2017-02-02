@@ -93,10 +93,6 @@ inclusive.
 * http://3expgpdnrrzezf7r.onion/
   * https://securedrop.ap.org/
 
-## BalkanLeaks
-* http://4fluf34prrpdojsr.onion/
-  * https://balkanleaks.eu/
-
 ## BerlinLeaks
 * http://bl2uafhsjrtc2gf4.onion/
   * https://berlinleaks.org
@@ -109,11 +105,15 @@ inclusive.
 * http://2x2hb5ykeu4qlxqe.onion/
   * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
+## ExposeFacts
+* http://znig4bc5rlwyj4mz.onion/
+  * https://exposefacts.org
+
 ## Fairfax Media Group (.au; SMH et al.)
 * http://ipfhnseo4hgfw5mg.onion/
   * https://securedrop.fairfax.com.au/
 
-## Gawker Media
+## Gawker Media :question:	
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
 
@@ -153,7 +153,7 @@ inclusive.
 * https://nytimes2tsqtnxek.onion/ :lock:
   * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
-## New Yorker
+## New Yorker :question:	
 * http://strngbxhwyuu37a3.onion/
   * http://projects.newyorker.com/strongbox/
 
@@ -225,6 +225,10 @@ See also https://securedrop.org/directory
 * http://ak2uqfavwgmjrvtu.onion/
  * https://atlatszo.hu/magyarleaks/
 
+## BalkanLeaks
+* http://4fluf34prrpdojsr.onion/
+  * https://balkanleaks.eu/
+
 ## Bezkorupce.cz / Czech Anticorruption reporting site
 * http://iopx5pchfdldldwp.onion/
   * https://secure.bezkorupce.cz/
@@ -237,9 +241,6 @@ See also https://securedrop.org/directory
 * http://754hkfmiyumu5xlc.onion/
   * https://segnalazioni.edison.it/
 
-## ExposeFacts
-* http://znig4bc5rlwyj4mz.onion/
-  * https://exposefacts.org
 
 ## IRPILeaks / Investigative Reporting Project Italy Whistleblowing
 * http://5r4bjnjug3apqdii.onion/
