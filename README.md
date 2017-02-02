@@ -30,7 +30,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 * http://expvqqiv2z5ekf47.onion/ UK law firm
 
 ## DuckDuckGo
-* http://3g2upl4pq6kufc4m.onion/ search engine
+* https://3g2upl4pq6kufc4m.onion/ :lock: search engine
 
 ## Facebook
 * https://www.facebookcorewwwi.onion/ :lock:
