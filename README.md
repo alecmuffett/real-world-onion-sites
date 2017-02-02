@@ -237,6 +237,10 @@ See also https://securedrop.org/directory
 * http://znig4bc5rlwyj4mz.onion/
   * https://exposefacts.org
 
+## Ljost.is / Icelandic Leaks
+* http://w6csjytbrl273che.onion/
+  * https://ljost.is/
+
 ## Mexico Leaks
 * http://kjpkmlafh2ra57wz.onion/
   * https://mexicoleaks.mx/
