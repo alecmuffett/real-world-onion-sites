@@ -101,10 +101,6 @@ inclusive.
 * http://bl2uafhsjrtc2gf4.onion/
   * https://berlinleaks.org
 
-## Bezkorupce.cz / Czech Anticorruption reporting site
-* http://iopx5pchfdldldwp.onion/
-  * https://secure.bezkorupce.cz/
-
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
   * https://securedrop.cbc.ca/
@@ -228,6 +224,10 @@ See also https://securedrop.org/directory
 ## Atlatszo MagyarLeaks / Hungarian Leaks
 * http://ak2uqfavwgmjrvtu.onion/
  * https://atlatszo.hu/magyarleaks/
+
+## Bezkorupce.cz / Czech Anticorruption reporting site
+* http://iopx5pchfdldldwp.onion/
+  * https://secure.bezkorupce.cz/
 
 ## Curiamo La Corruzione / Italian Government Health Whistleblowing
 * http://evz2fbu64s3lzhsi.onion/
