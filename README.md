@@ -241,6 +241,10 @@ See also https://securedrop.org/directory
 * http://znig4bc5rlwyj4mz.onion/
   * https://exposefacts.org
 
+## IRPILeaks / Investigative Reporting Project Italy Whistleblowing
+* http://5r4bjnjug3apqdii.onion/
+ * https://irpi.eu/en/irpileaks/
+
 ## Ljost.is / Icelandic Leaks
 * http://w6csjytbrl273che.onion/
   * https://ljost.is/
