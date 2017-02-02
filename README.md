@@ -252,6 +252,10 @@ See also https://securedrop.org/directory
 ## OKO.press / Polish Journalist
 * http://p6vbgbn7ggutkt3i.onion/
   * https://oko.press/
+  
+## Publeaks.nl / Dutch Whistleblowing
+* http://5karyquenden4d6k.onion/
+ * https://www.publeaks.nl/
 
 ## Sourcesure.eu / France & Belgium Whistleblowing
 * http://hgowugmgkiv2wxs5.onion/
