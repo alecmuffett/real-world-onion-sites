@@ -22,7 +22,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 ## Emoji Key
 
 * SSL Onions: :lock:
-* Reported Reachability Issues: :chart_with_downwards_trend: 
+* Reported Reachability Issues: :chart_with_downwards_trend:
 
 ----
 
@@ -118,7 +118,7 @@ inclusive.
 * http://ipfhnseo4hgfw5mg.onion/
   * https://securedrop.fairfax.com.au/
 
-## Gawker Media :chart_with_downwards_trend:	
+## Gawker Media :chart_with_downwards_trend:
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
 
@@ -158,7 +158,7 @@ inclusive.
 * https://nytimes2tsqtnxek.onion/ :lock:
   * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
-## New Yorker :chart_with_downwards_trend:	
+## New Yorker :chart_with_downwards_trend:
 * http://strngbxhwyuu37a3.onion/
   * http://projects.newyorker.com/strongbox/
 
@@ -222,60 +222,60 @@ See also https://securedrop.org/directory
 * http://wcnueib4qrsm544n.onion/
   * https://www.afrileaks.org/
 
-## ALAT / Allerta AntiCorruzione, Italian Whistleblowing
-* http://fkut2p37apcg6l7f.onion/
+## ALAT / Allerta AntiCorruzione
+* http://fkut2p37apcg6l7f.onion/ italian whistleblowing
   * https://allertaanticorruzione.transparency.it/servizio-alac/
 
-## Atlatszo MagyarLeaks / Hungarian Leaks
-* http://ak2uqfavwgmjrvtu.onion/
+## Atlatszo MagyarLeaks
+* http://ak2uqfavwgmjrvtu.onion/ hungarian leaks
  * https://atlatszo.hu/magyarleaks/
 
 ## BalkanLeaks
 * http://4fluf34prrpdojsr.onion/
   * https://balkanleaks.eu/
 
-## Bezkorupce.cz / Czech Anticorruption reporting site
-* http://iopx5pchfdldldwp.onion/
+## Bezkorupce.cz
+* http://iopx5pchfdldldwp.onion/ czech anticorruption reporting site
   * https://secure.bezkorupce.cz/
 
-## Curiamo La Corruzione / Italian Government Health Whistleblowing
-* http://evz2fbu64s3lzhsi.onion/
+## Curiamo La Corruzione
+* http://evz2fbu64s3lzhsi.onion/ italian government health whistleblowing
   * https://segnalazioni.curiamolacorruzione.it/
 
-## Edison Energy / Italian Energy Whistleblowing
-* http://754hkfmiyumu5xlc.onion/
+## Edison Energy
+* http://754hkfmiyumu5xlc.onion/ italian energy whistleblowing
   * https://segnalazioni.edison.it/
 
-## IRPILeaks / Investigative Reporting Project Italy Whistleblowing
-* http://5r4bjnjug3apqdii.onion/
+## IRPILeaks
+* http://5r4bjnjug3apqdii.onion/ italian investigative reporting project
  * https://irpi.eu/en/irpileaks/
 
-## Ljost.is / Icelandic Leaks
-* http://w6csjytbrl273che.onion/
+## Ljost.is
+* http://w6csjytbrl273che.onion/ icelandic leaks
   * https://ljost.is/
 
 ## Mexico Leaks
 * http://kjpkmlafh2ra57wz.onion/
   * https://mexicoleaks.mx/
 
-## OKO.press / Polish Journalist
-* http://p6vbgbn7ggutkt3i.onion/
+## OKO.press
+* http://p6vbgbn7ggutkt3i.onion/ polish journalism
   * https://oko.press/
 
 ## Pistaljka.rs Whistleblowing
 * http://acabtd4btrxjjrvr.onion/#/
  * https://pistaljka.rs/
 
-## Sourcesure.eu / France & Belgium Whistleblowing
-* http://hgowugmgkiv2wxs5.onion/
+## Sourcesure.eu
+* http://hgowugmgkiv2wxs5.onion/ france & belgium whistleblowing
   * https://www.sourcesure.eu/
 
-## Wildleaks / Elephant Action League
-* http://ppdz5djzpo3w5k2z.onion/
+## Wildleaks
+* http://ppdz5djzpo3w5k2z.onion/ elephant action league
   * https://www.wildleaks.org/the-technology/
 
-## XNet Activism Anticorruption Whistleblowing
-* http://ztjn5gcdsqeqzmw4.onion/
+## XNet Activism
+* http://ztjn5gcdsqeqzmw4.onion/ anticorruption whistleblowing
   * https://xnet-x.net/en/xnetleaks/
 
 ----
