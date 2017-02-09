@@ -162,6 +162,10 @@ inclusive.
 * http://strngbxhwyuu37a3.onion/
   * http://projects.newyorker.com/strongbox/
 
+## Oregonian
+* http://a5gvhrpulvq33b3q.onion/
+  * http://projects.oregonlive.com/securedrop/
+
 ## POGO / Project On Government Oversight
 * http://dqeasamlf3jld2kz.onion/
   * https://securedrop.pogo.org/
