@@ -150,6 +150,10 @@ inclusive.
 * http://33y6fjyhs3phzfjj.onion/
   * https://securedrop.theguardian.com/
 
+## ICIJ / International Consortium of Investigative Journalists
+* http://dcdoialeklnkb6fg.onion/
+  * https://www.icij.org/securedrop
+
 ## Intercept
 * https://y6xjgkgwj47us5ca.onion/ :lock:
   * https://theintercept.com/securedrop/
