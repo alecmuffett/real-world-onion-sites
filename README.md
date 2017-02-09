@@ -130,6 +130,10 @@ inclusive.
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
 
+## Gizmodo Media Group
+* http://gmg7jl25ony5g7ws.onion/
+  * https://specialprojectsdesk.com/securedrop/
+
 ## Globe and Mail (.ca; Toronto)
 * http://n572ltkg4nld3bsz.onion/
   * https://sec.theglobeandmail.com/securedrop/
