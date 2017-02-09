@@ -98,6 +98,10 @@ inclusive.
 * http://3expgpdnrrzezf7r.onion/
   * https://securedrop.ap.org/
 
+## BayLeaks
+* http://wd5x5eexdqcjrqfa.onion/
+  * https://bayleaks.org/
+
 ## BerlinLeaks
 * http://bl2uafhsjrtc2gf4.onion/
   * https://berlinleaks.org
