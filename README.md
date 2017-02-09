@@ -158,6 +158,10 @@ inclusive.
 * http://qn4qfeeslglmwxgb.onion/
   * https://lucyparsonslabs.com/securedrop
 
+## MormonLeaks
+* http://efeip5ekoqi4upkz.onion/
+  * https://mormonleaks.io/
+
 ## NEOSleaks
 * http://udrciweihl4qe63p.onion/
   * https://neos.eu/leaks/
