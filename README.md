@@ -110,6 +110,10 @@ inclusive.
 * http://2x2hb5ykeu4qlxqe.onion/
   * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
+## DuckDuckGo
+* http://dmys7duszeb2salo.onion/
+  * https://duckduckgo.com/securedrop/
+
 ## ExposeFacts
 * http://znig4bc5rlwyj4mz.onion/
   * https://exposefacts.org
