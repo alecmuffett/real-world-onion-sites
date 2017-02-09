@@ -122,6 +122,10 @@ inclusive.
 * http://mz33367mcdrcdi7s.onion/
   * https://securedrop.dagbladet.no/
 
+## DuckDuckGo
+* http://dmys7duszeb2salo.onion/
+  * https://duckduckgo.com/securedrop/
+
 ## ExposeFacts
 * http://znig4bc5rlwyj4mz.onion/
   * https://exposefacts.org
