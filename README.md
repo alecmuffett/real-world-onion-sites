@@ -111,7 +111,7 @@ inclusive.
   * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
 ## Dagbladet
-* http://mz33367mcdrcdi7s.onion /
+* http://mz33367mcdrcdi7s.onion/
   * https://securedrop.dagbladet.no/
 
 ## ExposeFacts
