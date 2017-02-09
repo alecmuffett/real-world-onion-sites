@@ -1,7 +1,7 @@
 # Onion Sites That Don't Suck
 ## An index of the non-dark web...
 
-* updated: 9 Feb 2017 (see the change history for specifics)
+* updated: [see the change history for specifics](https://github.com/alecmuffett/onion-sites-that-dont-suck/commits/master/README.md)
 * licensed: cc-by-sa
 * author/editor: alec muffett
 
