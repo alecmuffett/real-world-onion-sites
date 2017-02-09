@@ -106,6 +106,10 @@ inclusive.
 * http://bl2uafhsjrtc2gf4.onion/
   * https://berlinleaks.org
 
+## BuzzFeed News
+* http://6cws3rcwn7aom44r.onion/
+  * https://contact.buzzfeed.com/
+
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
   * https://securedrop.cbc.ca/
