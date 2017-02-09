@@ -98,9 +98,17 @@ inclusive.
 * http://3expgpdnrrzezf7r.onion/
   * https://securedrop.ap.org/
 
+## BayLeaks
+* http://wd5x5eexdqcjrqfa.onion/
+  * https://bayleaks.org/
+
 ## BerlinLeaks
 * http://bl2uafhsjrtc2gf4.onion/
   * https://berlinleaks.org
+
+## BuzzFeed News
+* http://6cws3rcwn7aom44r.onion/
+  * https://contact.buzzfeed.com/
 
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
@@ -109,6 +117,10 @@ inclusive.
 ## CPJ / Committee to Protect Journalists
 * http://2x2hb5ykeu4qlxqe.onion/
   * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
+
+## Dagbladet
+* http://mz33367mcdrcdi7s.onion/
+  * https://securedrop.dagbladet.no/
 
 ## DuckDuckGo
 * http://dmys7duszeb2salo.onion/
@@ -126,6 +138,10 @@ inclusive.
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
 
+## Gizmodo Media Group
+* http://gmg7jl25ony5g7ws.onion/
+  * https://specialprojectsdesk.com/securedrop/
+
 ## Globe and Mail (.ca; Toronto)
 * http://n572ltkg4nld3bsz.onion/
   * https://sec.theglobeandmail.com/securedrop/
@@ -138,6 +154,10 @@ inclusive.
 * http://33y6fjyhs3phzfjj.onion/
   * https://securedrop.theguardian.com/
 
+## ICIJ / International Consortium of Investigative Journalists
+* http://dcdoialeklnkb6fg.onion/
+  * https://www.icij.org/securedrop
+
 ## Intercept
 * https://y6xjgkgwj47us5ca.onion/ :lock:
   * https://theintercept.com/securedrop/
@@ -145,6 +165,10 @@ inclusive.
 ## Lucy Parsons Labs (.us; Chicago)
 * http://qn4qfeeslglmwxgb.onion/
   * https://lucyparsonslabs.com/securedrop
+
+## MormonLeaks
+* http://efeip5ekoqi4upkz.onion/
+  * https://mormonleaks.io/
 
 ## NEOSleaks
 * http://udrciweihl4qe63p.onion/
@@ -165,6 +189,10 @@ inclusive.
 ## New Yorker :chart_with_downwards_trend:
 * http://strngbxhwyuu37a3.onion/
   * http://projects.newyorker.com/strongbox/
+
+## Oregonian
+* http://a5gvhrpulvq33b3q.onion/
+  * http://projects.oregonlive.com/securedrop/
 
 ## POGO / Project On Government Oversight
 * http://dqeasamlf3jld2kz.onion/
