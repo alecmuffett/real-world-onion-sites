@@ -22,7 +22,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 ## Emoji Key
 
 * SSL Onions: :lock:
-* Reported Reachability Issues: :chart_with_downwards_trend:
+* Reported Reachability Issues: :skull:
 
 Sites which display multiple reachability problems will eventually be struck-off the list.
 
@@ -100,7 +100,7 @@ inclusive.
 * http://3expgpdnrrzezf7r.onion/
   * https://securedrop.ap.org/
 
-## BayLeaks :chart_with_downwards_trend:
+## BayLeaks :skull:
 * http://wd5x5eexdqcjrqfa.onion/
   * https://bayleaks.org/
 
@@ -136,7 +136,7 @@ inclusive.
 * http://ipfhnseo4hgfw5mg.onion/
   * https://securedrop.fairfax.com.au/
 
-## Gawker Media :chart_with_downwards_trend:
+## Gawker Media :skull:
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
 
@@ -168,7 +168,7 @@ inclusive.
 * http://qn4qfeeslglmwxgb.onion/
   * https://lucyparsonslabs.com/securedrop
 
-## MormonLeaks :chart_with_downwards_trend:
+## MormonLeaks :skull:
 * http://efeip5ekoqi4upkz.onion/
   * https://mormonleaks.io/
 
@@ -188,7 +188,7 @@ inclusive.
 * https://nytimes2tsqtnxek.onion/ :lock:
   * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
-## New Yorker :chart_with_downwards_trend:
+## New Yorker
 * http://strngbxhwyuu37a3.onion/
   * http://projects.newyorker.com/strongbox/
 
@@ -215,6 +215,10 @@ inclusive.
 ## Radio24syv
 * http://hpjw636qnt5avq62.onion/
   * https://securedrop.radio24syv.dk
+
+## Sun / News-International UK :skull: :skull: :skull:
+* apparently defunct
+  * https://securedrop.news.co.uk/sun/
 
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
