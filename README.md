@@ -1,7 +1,7 @@
 # Onion Sites That Don't Suck
 ## An index of the non-dark web...
 
-* updated: 25 jan 2017 (see the change history for specifics)
+* updated: 9 Feb 2017 (see the change history for specifics)
 * licensed: cc-by-sa
 * author/editor: alec muffett
 
