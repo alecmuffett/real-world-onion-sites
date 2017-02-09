@@ -24,6 +24,8 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 * SSL Onions: :lock:
 * Reported Reachability Issues: :chart_with_downwards_trend:
 
+Sites which display multiple reachability problems will eventually be struck-off the list.
+
 ----
 
 # Sites & Services
@@ -98,7 +100,7 @@ inclusive.
 * http://3expgpdnrrzezf7r.onion/
   * https://securedrop.ap.org/
 
-## BayLeaks
+## BayLeaks :chart_with_downwards_trend:
 * http://wd5x5eexdqcjrqfa.onion/
   * https://bayleaks.org/
 
@@ -166,7 +168,7 @@ inclusive.
 * http://qn4qfeeslglmwxgb.onion/
   * https://lucyparsonslabs.com/securedrop
 
-## MormonLeaks
+## MormonLeaks :chart_with_downwards_trend:
 * http://efeip5ekoqi4upkz.onion/
   * https://mormonleaks.io/
 
