@@ -116,6 +116,10 @@ inclusive.
 * http://ad2ztmbv5vmbj7ic.onion
   * https://securedrop.cbc.ca/
 
+## Center for Public Integrity
+* http://v2d6nf2nsvvbgaqe.onion
+  * https://www.publicintegrity.org/securedrop
+
 ## CPJ / Committee to Protect Journalists
 * http://2x2hb5ykeu4qlxqe.onion/
   * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
@@ -220,6 +224,10 @@ inclusive.
 * apparently defunct
   * https://securedrop.news.co.uk/sun/
 
+## USA Today
+* https://usatodayw7vu5egc.onion :lock:
+  * https://newstips.usatoday.com/securedrop.html
+  
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
   * https://securedrop.vg.no/
