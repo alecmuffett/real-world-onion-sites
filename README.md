@@ -33,8 +33,8 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Blockchain.Info
 * https://blockchainbdgpzk.onion/ :lock: bitcoin stuff
 
-## Decoded:Legal
-* http://expvqqiv2z5ekf47.onion/ UK law firm
+## decoded:Legal
+* http://decodedsbwzj4nhq.onion/ English law firm
 
 ## DuckDuckGo
 * https://3g2upl4pq6kufc4m.onion/ :lock: search engine
