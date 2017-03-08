@@ -70,6 +70,9 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 (Riseup keeps a *huge* number of onion sites and services; see the index)
 
+## searX
+* http://ulrn6sryqaifefld.onion/
+
 ## Surveillance Law / Stanford
 * http://7vrl523532rjjznj.onion/
 
