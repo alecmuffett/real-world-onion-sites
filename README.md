@@ -347,6 +347,9 @@ See also https://securedrop.org/directory
 ## Mailpile
 * http://clgs64523yi2bkhz.onion/
 
+## OnionShare
+* http://elx57ue5uyfplgva.onion/
+
 ## Qubes OS
 * http://qubesos4rrrrz6n4.onion/
 
