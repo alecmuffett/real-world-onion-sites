@@ -140,6 +140,10 @@ inclusive.
 * http://ipfhnseo4hgfw5mg.onion/
   * https://securedrop.fairfax.com.au/
 
+## Forbes
+* fje2vboa55bbxjpm.onion
+  * https://www.forbes.com/tips/
+
 ## Gawker Media :skull:
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
