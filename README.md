@@ -141,7 +141,7 @@ inclusive.
   * https://securedrop.fairfax.com.au/
 
 ## Forbes
-* fje2vboa55bbxjpm.onion
+* http://fje2vboa55bbxjpm.onion
   * https://www.forbes.com/tips/
 
 ## Gawker Media :skull:
