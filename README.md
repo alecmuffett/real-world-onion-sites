@@ -275,6 +275,10 @@ See also https://securedrop.org/directory
 ## ALAT / Allerta AntiCorruzione
 * http://fkut2p37apcg6l7f.onion/ italian whistleblowing
   * https://allertaanticorruzione.transparency.it/servizio-alac/
+  
+## Atlatszo MagyarLeaks / Hungarian Investigative Journalism Leaks
+* http://ak2uqfavwgmjrvtu.onion/
+  * https://atlatszo.hu/magyarleaks/
 
 ## Atlatszo MagyarLeaks
 * http://ak2uqfavwgmjrvtu.onion/ hungarian leaks
@@ -311,6 +315,10 @@ See also https://securedrop.org/directory
 ## OKO.press
 * http://p6vbgbn7ggutkt3i.onion/ polish journalism
   * https://oko.press/
+  
+## Publeaks.nl / Dutch Whistleblowing
+* http://5karyquenden4d6k.onion/
+ * https://www.publeaks.nl/
 
 ## Pistaljka.rs Whistleblowing
 * http://acabtd4btrxjjrvr.onion/#/
