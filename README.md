@@ -49,6 +49,9 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Mail2Tor
 * http://mail2tor2zyjdctd.onion/ mail gateway
 
+## The New York Times
+* https://www.nytimes3xbfgragh.onion/ :lock:
+
 ## Privacy International
 * https://privacyintyqcroe.onion/ :lock:
 
