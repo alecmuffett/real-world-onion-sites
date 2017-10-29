@@ -51,6 +51,7 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 ## The New York Times
 * https://www.nytimes3xbfgragh.onion/ :lock:
+* https://mobile.nytimes3xbfgragh.onion/ :lock: mobile site
 
 ## Privacy International
 * https://privacyintyqcroe.onion/ :lock:
