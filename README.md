@@ -1,4 +1,4 @@
-# Actually Useful Onion Sites
+# Real-World Onion Sites
 ## An index of the non-dark web...
 
 * updated: [see the change history for specifics](https://github.com/alecmuffett/onion-sites-that-dont-suck/commits/master/README.md)
