@@ -35,6 +35,7 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 ## decoded:Legal
 * http://decodedsbwzj4nhq.onion/ English law firm
+* http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/ (additional v3/prop224 address)
 
 ## DuckDuckGo
 * https://3g2upl4pq6kufc4m.onion/ :lock: search engine
