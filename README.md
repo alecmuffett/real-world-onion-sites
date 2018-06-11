@@ -116,6 +116,10 @@ inclusive.
 * http://wd5x5eexdqcjrqfa.onion/
   * https://bayleaks.org/
 
+## Bergens Tidende
+* http://mxrrw2l3g5dyhgzn.onion/
+  * https://www.bt.no/securedrop/
+
 ## BerlinLeaks
 * http://bl2uafhsjrtc2gf4.onion/
   * https://berlinleaks.org
