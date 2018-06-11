@@ -113,6 +113,10 @@ inclusive.
 * http://m4hynbhhctdk27jr.onion/
   * https://www.bloomberg.com/tips
 
+## Bloomberg BNA (Bloomberg's legal, tax, regulatory arm)
+* http://efl3aizqpowu2yj5.onion/
+  * https://www.bna.com/tips/
+
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
   * https://securedrop.cbc.ca/
