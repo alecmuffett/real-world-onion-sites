@@ -109,6 +109,10 @@ inclusive.
 * http://iopx5pchfdldldwp.onion/
   * https://secure.bezkorupce.cz/
 
+## Bloomberg News
+* http://m4hynbhhctdk27jr.onion/
+  * https://www.bloomberg.com/tips
+
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
   * https://securedrop.cbc.ca/
