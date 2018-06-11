@@ -117,6 +117,10 @@ inclusive.
 * http://efl3aizqpowu2yj5.onion/
   * https://www.bna.com/tips/
 
+## Business Insider
+* http://doaxi7t7lkctvq5i.onion/
+  * https://www.businessinsider.com/how-to-tip-business-insider-securely-guide-signal-securedrop-2017-6
+
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
   * https://securedrop.cbc.ca/
