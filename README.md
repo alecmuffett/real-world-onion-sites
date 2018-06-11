@@ -96,6 +96,10 @@ Sites that use https://securedrop.org/ ; see also
 https://securedrop.org/directory - but this page seeks to be more
 inclusive.
 
+## Adresseavisen (.no)
+* http://xpx3m5hcnrkds5wg.onion/
+  * https://securedrop.adressa.no/
+
 ## Aftenposten
 * http://da5nr4lx4djdrsj7.onion/
   * https://www.aftenposten.no/securedrop/
