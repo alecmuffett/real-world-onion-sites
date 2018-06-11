@@ -91,7 +91,7 @@ inclusive.
 
 ## Associated Press
 * http://3expgpdnrrzezf7r.onion/
-  * https://securedrop.ap.org/
+  * https://www.ap.org/tips/
 
 ## BalkanLeaks
 * http://4fluf34prrpdojsr.onion/
