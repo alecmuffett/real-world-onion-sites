@@ -110,7 +110,7 @@ inclusive.
 
 ## Associated Press
 * http://3expgpdnrrzezf7r.onion/
-  * https://securedrop.ap.org/
+  * https://www.ap.org/tips/
 
 ## BayLeaks :skull:
 * http://wd5x5eexdqcjrqfa.onion/
@@ -265,8 +265,8 @@ Individual Journalists that use https://securedrop.org/
 See also https://securedrop.org/directory
 
 ## Barton Gellman
-* http://v6gdwmm7ed4oifvd.onion/
-  * https://tcfmailvault.info
+* http://mqddpn6yt4f5uqei.onion/
+  * https://github.com/b4rton/securedrop
 
 ## Espen Andersen
 * http://lijbt6ju7m6opkzb.onion/
