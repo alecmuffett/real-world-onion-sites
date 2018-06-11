@@ -128,6 +128,10 @@ inclusive.
 * http://6cws3rcwn7aom44r.onion/
   * https://contact.buzzfeed.com/
 
+## Bloomberg News
+* http://m4hynbhhctdk27jr.onion/
+  * https://www.bloomberg.com/tips
+
 ## CBC / Canadian Broadcasting Corporation
 * http://ad2ztmbv5vmbj7ic.onion
   * https://securedrop.cbc.ca/
