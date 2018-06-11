@@ -97,6 +97,10 @@ inclusive.
 * http://4fluf34prrpdojsr.onion/
   * https://balkanleaks.eu/
 
+## Bergens Tidende
+* http://mxrrw2l3g5dyhgzn.onion/
+  * https://www.bt.no/securedrop/
+
 ## BerlinLeaks
 * http://bl2uafhsjrtc2gf4.onion/
   * https://berlinleaks.org
