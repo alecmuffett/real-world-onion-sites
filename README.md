@@ -22,7 +22,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 ## Emoji Key
 
 * SSL Onions: :lock:
-* Reported Reachability Issues: :skull:
+* Reported Reachability Issues: :sos:
 
 Sites which display multiple reachability problems will eventually be struck-off the list.
 
@@ -112,7 +112,7 @@ inclusive.
 * http://3expgpdnrrzezf7r.onion/
   * https://www.ap.org/tips/
 
-## BayLeaks :skull:
+## BayLeaks
 * http://wd5x5eexdqcjrqfa.onion/
   * https://bayleaks.org/
 
@@ -172,7 +172,7 @@ inclusive.
 * http://fje2vboa55bbxjpm.onion
   * https://www.forbes.com/tips/
 
-## Gawker Media :skull:
+## Gawker Media
 * http://gawker5oxtsc6fa7.onion/
   * https://gawkermediagroup.com/securedrop/
 
@@ -204,7 +204,7 @@ inclusive.
 * http://qn4qfeeslglmwxgb.onion/
   * https://lucyparsonslabs.com/securedrop
 
-## MormonLeaks :skull:
+## MormonLeaks
 * http://efeip5ekoqi4upkz.onion/
   * https://mormonleaks.io/
 
@@ -252,14 +252,14 @@ inclusive.
 * http://hpjw636qnt5avq62.onion/
   * https://securedrop.radio24syv.dk
 
-## Sun / News-International UK :skull: :skull: :skull:
+## Sun / News-International UK
 * apparently defunct
   * https://securedrop.news.co.uk/sun/
 
 ## USA Today
 * https://usatodayw7vu5egc.onion :lock:
   * https://newstips.usatoday.com/securedrop.html
-  
+
 ## VG / Verdens Gang
 * http://vgnettwin5lyl4yr.onion/
   * https://securedrop.vg.no/
