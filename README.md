@@ -30,6 +30,9 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Sites & Services
 
+## 1.1.1.1
+* https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ :lock: DNS resolver by Cloudflare
+
 ## Blockchain.Info
 * https://blockchainbdgpzk.onion/ :lock: bitcoin stuff
 
