@@ -285,7 +285,7 @@ See also https://securedrop.org/directory
  * https://atlatszo.hu/magyarleaks/
 
 ## BalkanLeaks
-* http://4fluf34prrpdojsr.onion/ :sos: :sos:
+* http://3qf4wewa5bojmcgr.onion/
   * https://balkanleaks.eu/
 
 ## Bezkorupce.cz
@@ -296,25 +296,13 @@ See also https://securedrop.org/directory
 * http://evz2fbu64s3lzhsi.onion/ italian government health whistleblowing
   * https://segnalazioni.curiamolacorruzione.it/
 
-## Edison Energy
-* http://754hkfmiyumu5xlc.onion/ italian energy whistleblowing :sos: :sos:
-  * https://segnalazioni.edison.it/
-
 ## IRPILeaks
 * http://5r4bjnjug3apqdii.onion/ italian investigative reporting project :sos: :sos:
- * https://irpi.eu/en/irpileaks/
-
-## Ljost.is
-* http://w6csjytbrl273che.onion/ icelandic leaks :sos: :sos:
-  * https://ljost.is/
+ * https://irpi.eu/en/leaks/how-irpileaks-works/
 
 ## Mexico Leaks
 * http://kjpkmlafh2ra57wz.onion/
   * https://mexicoleaks.mx/
-
-## OKO.press
-* http://p6vbgbn7ggutkt3i.onion/ polish journalism :sos: :sos:
-  * https://oko.press/
 
 ## Pistaljka.rs Whistleblowing
 * http://acabtd4btrxjjrvr.onion/#/
