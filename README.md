@@ -48,7 +48,7 @@ Sites which display multiple reachability problems will eventually be struck-off
 * https://m.facebookcorewwwi.onion/ :lock: mobile site
 
 ## Library Freedom Project
-* http://libraryxobbrbj33.onion/ :sos:
+* http://libraryxobbrbj33.onion/ :sos: :sos:
 
 ## Mail2Tor
 * http://mail2tor2zyjdctd.onion/ mail gateway :sos:
@@ -79,7 +79,7 @@ Sites which display multiple reachability problems will eventually be struck-off
 (Riseup keeps a *huge* number of onion sites and services; see the index)
 
 ## Surveillance Law / Stanford
-* http://7vrl523532rjjznj.onion/ :sos:
+* http://7vrl523532rjjznj.onion/ :sos: :sos:
 
 ----
 
@@ -113,7 +113,7 @@ inclusive.
   * https://www.ap.org/tips/
 
 ## BayLeaks
-* http://wd5x5eexdqcjrqfa.onion/
+* http://wd5x5eexdqcjrqfa.onion/ :sos:
   * https://bayleaks.org/
 
 ## Bergens Tidende
@@ -145,7 +145,7 @@ inclusive.
   * https://www.publicintegrity.org/securedrop
 
 ## CPJ / Committee to Protect Journalists
-* http://2x2hb5ykeu4qlxqe.onion/ :sos:
+* http://2x2hb5ykeu4qlxqe.onion/ :sos: :sos:
   * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
 ## Dagbladet
@@ -185,7 +185,7 @@ inclusive.
   * https://securedrop.theguardian.com/
 
 ## ICIJ / International Consortium of Investigative Journalists
-* http://dcdoialeklnkb6fg.onion/
+* http://dcdoialeklnkb6fg.onion/ :sos:
   * https://www.icij.org/securedrop
 
 ## Intercept
@@ -217,7 +217,7 @@ inclusive.
   * http://projects.newyorker.com/strongbox/
 
 ## Oregonian
-* http://a5gvhrpulvq33b3q.onion/ :sos:
+* http://a5gvhrpulvq33b3q.onion/ :sos: :sos:
   * http://projects.oregonlive.com/securedrop/
 
 ## POGO / Project On Government Oversight
@@ -225,7 +225,7 @@ inclusive.
   * https://securedrop.pogo.org/
 
 ## Peerlyst
-* http://z5hns3zhhne7z6bl.onion/ :sos:
+* http://z5hns3zhhne7z6bl.onion/ :sos: :sos:
   * https://www.peerlyst.com/secure-drop
 
 ## Radio-Canada
@@ -233,7 +233,7 @@ inclusive.
   * https://sourceanonyme.radio-canada.ca
 
 ## Radio24syv
-* http://hpjw636qnt5avq62.onion/ :sos:
+* http://hpjw636qnt5avq62.onion/ :sos: :sos:
   * https://securedrop.radio24syv.dk
 
 ## USA Today
@@ -261,7 +261,7 @@ See also https://securedrop.org/directory
   * https://github.com/b4rton/securedrop
 
 ## Espen Andersen
-* http://lijbt6ju7m6opkzb.onion/ :sos:
+* http://lijbt6ju7m6opkzb.onion/ :sos: :sos:
   * https://espenandersen.no/contact
 
 ## Kevin Poulsen
@@ -285,7 +285,7 @@ See also https://securedrop.org/directory
  * https://atlatszo.hu/magyarleaks/
 
 ## BalkanLeaks
-* http://4fluf34prrpdojsr.onion/ :sos:
+* http://4fluf34prrpdojsr.onion/ :sos: :sos:
   * https://balkanleaks.eu/
 
 ## Bezkorupce.cz
@@ -297,15 +297,15 @@ See also https://securedrop.org/directory
   * https://segnalazioni.curiamolacorruzione.it/
 
 ## Edison Energy
-* http://754hkfmiyumu5xlc.onion/ italian energy whistleblowing :sos:
+* http://754hkfmiyumu5xlc.onion/ italian energy whistleblowing :sos: :sos:
   * https://segnalazioni.edison.it/
 
 ## IRPILeaks
-* http://5r4bjnjug3apqdii.onion/ italian investigative reporting project :sos:
+* http://5r4bjnjug3apqdii.onion/ italian investigative reporting project :sos: :sos:
  * https://irpi.eu/en/irpileaks/
 
 ## Ljost.is
-* http://w6csjytbrl273che.onion/ icelandic leaks :sos:
+* http://w6csjytbrl273che.onion/ icelandic leaks :sos: :sos:
   * https://ljost.is/
 
 ## Mexico Leaks
@@ -313,7 +313,7 @@ See also https://securedrop.org/directory
   * https://mexicoleaks.mx/
 
 ## OKO.press
-* http://p6vbgbn7ggutkt3i.onion/ polish journalism :sos:
+* http://p6vbgbn7ggutkt3i.onion/ polish journalism :sos: :sos:
   * https://oko.press/
 
 ## Pistaljka.rs Whistleblowing
@@ -369,10 +369,10 @@ See also https://securedrop.org/directory
 (Tor Project keeps a *huge* number of onion sites, in varying states of stability; see the index)
 
 ## Whonix
-* http://kkkkkkkkkk63ava6.onion/ main page :sos:
-* http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki :sos:
-* http://forums.kkkkkkkkkk63ava6.onion/ forums :sos:
-* http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites :sos:
+* http://kkkkkkkkkk63ava6.onion/ main page :sos: :sos:
+* http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki :sos: :sos:
+* http://forums.kkkkkkkkkk63ava6.onion/ forums :sos: :sos:
+* http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites :sos: :sos:
   * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
 
 ----
