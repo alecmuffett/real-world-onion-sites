@@ -101,7 +101,7 @@ inclusive.
   * https://securedrop.adressa.no/
 
 ## Aftenposten
-* http://da5nr4lx4djdrsj7.onion/ :sos:
+* http://bocl4xqbak4xvlh4.onion/
   * https://www.aftenposten.no/securedrop/
 
 ## Apache
@@ -113,19 +113,15 @@ inclusive.
   * https://www.ap.org/tips/
 
 ## BayLeaks
-* http://wd5x5eexdqcjrqfa.onion/ :sos:
+* http://wd5x5eexdqcjrqfa.onion/
   * https://bayleaks.org/
 
 ## Bergens Tidende
 * http://mxrrw2l3g5dyhgzn.onion/
   * https://www.bt.no/securedrop/
 
-## BerlinLeaks
-* http://bl2uafhsjrtc2gf4.onion/ :sos:
-  * https://berlinleaks.org
-
 ## BuzzFeed News
-* http://6cws3rcwn7aom44r.onion/ :sos:
+* http://ftugftwajmgsmoau.onion/
   * https://contact.buzzfeed.com/
 
 ## Bloomberg News
@@ -172,16 +168,12 @@ inclusive.
 * http://fje2vboa55bbxjpm.onion
   * https://www.forbes.com/tips/
 
-## Gawker Media
-* http://gawker5oxtsc6fa7.onion/ :sos:
-  * https://gawkermediagroup.com/securedrop/
-
 ## Gizmodo Media Group
 * http://gmg7jl25ony5g7ws.onion/
   * https://specialprojectsdesk.com/securedrop/
 
 ## Globe and Mail (.ca; Toronto)
-* http://n572ltkg4nld3bsz.onion/ :sos:
+* http://sml5wmpuq7ifq2mh.onion/
   * https://sec.theglobeandmail.com/securedrop/
 
 ## Greenpeace New Zealand
@@ -193,11 +185,11 @@ inclusive.
   * https://securedrop.theguardian.com/
 
 ## ICIJ / International Consortium of Investigative Journalists
-* http://dcdoialeklnkb6fg.onion/ :sos:
+* http://dcdoialeklnkb6fg.onion/
   * https://www.icij.org/securedrop
 
 ## Intercept
-* https://y6xjgkgwj47us5ca.onion/ :lock: :sos:
+* http://intrcept32ncblef.onion/
   * https://theintercept.com/securedrop/
 
 ## Lucy Parsons Labs (.us; Chicago)
@@ -208,12 +200,8 @@ inclusive.
 * http://efeip5ekoqi4upkz.onion/
   * https://mormonleaks.io/
 
-## NEOSleaks
-* http://udrciweihl4qe63p.onion/ :sos:
-  * https://neos.eu/leaks/
-
-## NRKbeta
-* http://nrktipspgpsyoqwo.onion/ :sos:
+## NRK
+* http://nrkvarslekidu2uz.onion/
   * https://www.nrk.no/varsle/
 
 ## New Internationalist
@@ -221,11 +209,11 @@ inclusive.
   * https://digital.newint.com.au/securedrop
 
 ## New York Times
-* https://nytimes2tsqtnxek.onion/ :lock: :sos:
+* https://nyttips4bmquxfzw.onion/ :lock:
   * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
 ## New Yorker
-* http://strngbxhwyuu37a3.onion/ :sos:
+* http://icpozbs6r6yrwt67.onion/
   * http://projects.newyorker.com/strongbox/
 
 ## Oregonian
@@ -240,10 +228,6 @@ inclusive.
 * http://z5hns3zhhne7z6bl.onion/ :sos:
   * https://www.peerlyst.com/secure-drop
 
-## ProPublica
-* http://pubdrop4dw6rk3aq.onion/ :sos:
-  * https://securedrop.propublica.org/
-
 ## Radio-Canada
 * http://w5jfqhep2jbypkek.onion/
   * https://sourceanonyme.radio-canada.ca
@@ -251,10 +235,6 @@ inclusive.
 ## Radio24syv
 * http://hpjw636qnt5avq62.onion/ :sos:
   * https://securedrop.radio24syv.dk
-
-## Sun / News-International UK
-* apparently defunct
-  * https://securedrop.news.co.uk/sun/
 
 ## USA Today
 * https://usatodayw7vu5egc.onion :lock:
@@ -264,12 +244,8 @@ inclusive.
 * http://vgnettwin5lyl4yr.onion/
   * https://securedrop.vg.no/
 
-## VICE Media
-* http://cxoqh6bd23xa6yiz.onion/ :sos:
-  * https://news.vice.com/securedrop
-
 ## Washington Post
-* http://vbmwh445kf3fs2v4.onion/ :sos:
+* http://jcw5q6uyjioupxcc.onion/
   * https://www.washingtonpost.com/securedrop/
 
 ----
