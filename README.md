@@ -369,10 +369,10 @@ See also https://securedrop.org/directory
 (Tor Project keeps a *huge* number of onion sites, in varying states of stability; see the index)
 
 ## Whonix
-* http://kkkkkkkkkk63ava6.onion/ main page :sos: :sos:
-* http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki :sos: :sos:
-* http://forums.kkkkkkkkkk63ava6.onion/ forums :sos: :sos:
-* http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites :sos: :sos:
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ main page
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_Page wiki
+* http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites
   * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
 
 ----
