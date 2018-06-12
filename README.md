@@ -395,7 +395,7 @@ See also https://securedrop.org/directory
 ## Whonix
 * http://kkkkkkkkkk63ava6.onion/ main page :sos:
 * http://kkkkkkkkkk63ava6.onion/wiki/Main_Page wiki :sos:
-* http://forums.kkkkkkkkkk63ava6.onion/ forums :sos: :sos:
+* http://forums.kkkkkkkkkk63ava6.onion/ forums :sos:
 * http://kkkkkkkkkk63ava6.onion/wiki/Forcing_.onion_on_Whonix.org index of onion sites :sos:
   * also https://www.whonix.org/wiki/Forcing_.onion_on_Whonix.org
 
