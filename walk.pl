@@ -107,7 +107,9 @@ foreach $catname (sort keys %tree) {
             print "\n";
         }
         foreach my $line (@{$onion->{proof}}) {
-            print "  * $line\n";
+            print "  * $line";
+            print " :poop:" if ($line !~ m!https://!);
+            print "\n";
         }
         print "\n";
     }

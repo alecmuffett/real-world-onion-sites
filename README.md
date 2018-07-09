@@ -223,9 +223,19 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 
 ## Espen Andersen
 
+* http://espenav2n45atpsj.onion/
+  * https://espenandersen.no/contact
+
+## Espen Andersen
+
 * http://lijbt6ju7m6opkzb.onion/
   * :sos: 2018-07-09T22:30:22Z
   * https://espenandersen.no/contact
+
+## Jean-Marc Manach
+
+* http://32qfx2skzcifeyg7.onion/
+  * https://jean-marc.manach.net/securedrop.htm
 
 ## Kevin Poulsen
 
@@ -316,11 +326,21 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * :thumbsup: 2018-07-09T22:41:27Z
   * https://www.publicintegrity.org/securedrop
 
+## Coworker.org
+
+* http://no4gurk7efg4abwv.onion/
+  * https://home.coworker.org/contact/
+
 ## Dagbladet
 
 * http://mz33367mcdrcdi7s.onion/
   * :thumbsup: 2018-07-09T22:41:11Z
   * https://securedrop.dagbladet.no/
+
+## Dossier Secrets
+
+* http://jtbxrtnye26o4a2a.onion/
+  * http://www.journaldemontreal.com/dossiers-secrets :poop:
 
 ## DuckDuckGo
 
@@ -340,11 +360,36 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * :thumbsup: 2018-07-09T22:41:00Z
   * https://securedrop.fairfax.com.au/
 
+## Field of Vision
+
+* http://fovisionunz7mtxw.onion/
+  * https://fieldofvision.org/securedrop
+
+## Financial Times
+
+* http://xdm7flvwt3uvsrrd.onion/
+  * https://www.ft.com/news-tips/
+
 ## Forbes
 
 * http://fje2vboa55bbxjpm.onion
   * :sos: 2018-07-09T22:38:49Z
   * https://www.forbes.com/tips/
+
+## Forbes
+
+* http://t5pv5o4t6jyjilp6.onion/
+  * https://www.forbes.com/fdc/securedrop.html
+
+## Forbidden Stories
+
+* http://w7t5f3u4mej6dvpt.onion/
+  * https://forbiddenstories.org/protect-your-stories/
+
+## Foreign Policy
+
+* http://ghs7kwtznbq6t2su.onion/
+  * https://foreignpolicy.com/tips/
 
 ## Gizmodo Media Group
 
@@ -370,6 +415,21 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * :thumbsup: 2018-07-09T22:32:28Z
   * https://securedrop.theguardian.com/
 
+## Heise Investigativ
+
+* http://sq4lecqyx4izcpkp.onion/
+  * https://www.heise.de/investigativ/briefkasten/
+
+## Houston Chronicle
+
+* http://ibnfpppyydd6mg46.onion/
+  * https://newstips.houstonchronicle.com/
+
+## HuffPost
+
+* http://rbugf2rz5lmjbfun.onion/
+  * https://img.huffingtonpost.com/securedrop
+
 ## ICIJ / International Consortium of Investigative Journalists
 
 * http://dcdoialeklnkb6fg.onion/
@@ -382,17 +442,42 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * :thumbsup: 2018-07-09T22:40:57Z
   * https://theintercept.com/securedrop/
 
+## KUOW Public Radio
+
+* http://hcxmf67v3ltykmww.onion/
+  * https://medium.com/@kuow/how-whistleblowers-can-contact-kuow-3ed089e21d30
+
 ## Lucy Parsons Labs (.us; Chicago)
 
 * http://qn4qfeeslglmwxgb.onion/
   * :thumbsup: 2018-07-09T22:41:19Z
   * https://lucyparsonslabs.com/securedrop
 
+## McClatchy DC
+
+* http://zafull3et6muayeh.onion/
+  * http://www.mcclatchydc.com/customer-service/contact-us/ :poop:
+
+## Meduza
+
+* http://xwt2mqq64h63ydp5.onion/
+  * https://meduza.io/cards/u-menya-est-vazhnaya-informatsiya-dlya-meduzy-no-ya-boyus-ee-peredavat-kak-sdelat-eto-po-nastoyaschemu-anonimno
+
+## Morgenbladet
+
+* http://g4wmrmqxpj5bnvml.onion/
+  * https://morgenbladet.no/varsle
+
 ## MormonLeaks
 
 * http://efeip5ekoqi4upkz.onion/
   * :thumbsup: 2018-07-09T22:36:47Z
   * https://mormonleaks.io/
+
+## NPR
+
+* http://5ha7oig7du2jeyer.onion/
+  * https://help.npr.org/customer/en/portal/articles/2860413-got-a-confidential-news-tip-for-npr
 
 ## NRK
 
@@ -416,13 +501,13 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 
 * http://icpozbs6r6yrwt67.onion/
   * :thumbsup: 2018-07-09T22:40:55Z
-  * http://projects.newyorker.com/strongbox/
+  * http://projects.newyorker.com/strongbox/ :poop:
 
 ## Oregonian
 
 * http://a5gvhrpulvq33b3q.onion/
   * :sos: 2018-07-09T22:34:30Z
-  * http://projects.oregonlive.com/securedrop/
+  * http://projects.oregonlive.com/securedrop/ :poop:
 
 ## POGO / Project On Government Oversight
 
@@ -436,6 +521,21 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * :sos: 2018-07-09T22:45:34Z
   * https://www.peerlyst.com/secure-drop
 
+## Politico
+
+* http://mq2du34rci6arhbd.onion/
+  * https://www.politico.com/news-tips/
+
+## Public Intelligence
+
+* http://arujlhu2zjjhc3bw.onion/
+  * https://publicintelligence.net/contribute/
+
+## RISE Moldova
+
+* http://6lhmirnluwmvjw4z.onion/
+  * https://www.rise.md/leaks/
+
 ## Radio-Canada
 
 * http://w5jfqhep2jbypkek.onion/
@@ -447,6 +547,56 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 * http://hpjw636qnt5avq62.onion/
   * :sos: 2018-07-09T22:40:53Z
   * https://securedrop.radio24syv.dk
+
+## Reuters
+
+* http://smb7p276iht3i2fj.onion/
+  * https://www.reuters.com/investigates/special-report/tips/
+
+## Reveal
+
+* http://k4jn3q4ob77nefhv.onion/
+  * https://leak.revealnews.org/
+
+## San Francisco Chronicle
+
+* http://nrwvazcz6figxpg5.onion/
+  * https://newstips.sfchronicle.com/
+
+## Schwartz Media
+
+* http://od2icdth5ceo32wq.onion/
+  * https://www.themonthly.com.au/tips
+
+## Stuff Limited
+
+* http://ki3emfb55ywtg5tm.onion/
+  * https://www.stuff.co.nz/securedrop
+
+## Svenska Dagbladet
+
+* http://cnhuql7wj2ga5iv7.onion/
+  * https://www.svd.se/securedrop/
+
+## The Atlantic
+
+* http://s6xle2dgrsqcxiwb.onion/
+  * https://www.theatlantic.com/tips/
+
+## The Daily Beast
+
+* http://bcwyjiwj25t44it6.onion/
+  * https://www.thedailybeast.com/tips
+
+## The Telegraph
+
+* http://ldbtuktejbkg227d.onion/
+  * https://www.telegraph.co.uk/news/investigations/contact-us/
+
+## The Verge, Racked, Eater
+
+* http://2xat73hlwcpwo2zy.onion/
+  * https://apps.voxmedia.com/verge-tips/
 
 ## USA Today
 
@@ -460,11 +610,31 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
   * :thumbsup: 2018-07-09T22:41:31Z
   * https://securedrop.vg.no/
 
+## VICE Media
+
+* http://e3v3x57ykz25uvij.onion/
+  * https://news.vice.com/securedrop/
+
+## Wall Street Journal
+
+* http://z5duvjw7ztnuc6fg.onion/
+  * https://www.wsj.com/tips
+
 ## Washington Post
 
 * http://jcw5q6uyjioupxcc.onion/
   * :thumbsup: 2018-07-09T22:41:02Z
   * https://www.washingtonpost.com/securedrop/
+
+## Whistleblower Aid
+
+* http://uwd57qermcote3au.onion/
+  * https://whistlebloweraid.org/contact/instructions/
+
+## Wired
+
+* http://k5ri3fdr232d36nb.onion/
+  * https://www.wired.com/securedrop/
 
 
 ----
