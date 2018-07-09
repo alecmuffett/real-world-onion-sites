@@ -22,10 +22,3 @@ This list is for substantial, commercial-or-social-good mainstream websites with
 The editor may choose to annotate or drop any entries as deemed fit.
 
 Formatting / how to submit entries ("pull-requests") are explained in the footer of this page.
-
-## Emoji Key
-
-* SSL Onions: :lock:
-* Reported Reachability Issues: :sos:
-
-Sites which display multiple reachability problems will eventually be struck-off the list.

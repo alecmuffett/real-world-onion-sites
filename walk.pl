@@ -37,10 +37,19 @@ sub doonion {
     my ($path, $onion) = @_;
     my $odir = "$path/$onion";
     my %result = ();
-    $result{'title'} = &first("$odir/title");
-    $result{'urls'} = &lines("$odir/urls");
-    $result{'proof'} = &lines("$odir/proof") if (-f "$odir/proof"); # OPTIONAL
-    $result{'comment'} = &lines("$odir/comment") if (-f "$odir/comment"); # OPTIONAL
+
+    foreach $x (qw(title)) {
+        $result{$x} = &first("$odir/$x");
+    }
+
+    foreach $x (qw(urls)) {
+        $result{$x} = &lines("$odir/$x");
+    }
+
+    foreach $x (qw(comment proof status check-date check-status)) {
+        $result{$x} = &lines("$odir/$x") if (-f "$odir/$x"); # OPTIONAL
+    }
+
     $result{'sortkey'} = "$result{title}::$onion";
     return \%result;
 }
@@ -80,16 +89,25 @@ foreach $catname (sort keys %tree) {
     print "# $catprint\n\n";
     $catcontents = $tree{$catname};
     foreach $catsortkey (sort keys %{$catcontents}) {
-        my $ocontents = $catcontents->{$catsortkey};
-        my @foo = keys(%{$ocontents});
-        print "## $ocontents->{title}\n\n";
-        foreach my $line (@{$ocontents->{urls}}) {
+        my $onion = $catcontents->{$catsortkey};
+        my @foo = keys(%{$onion});
+        print "## $onion->{title}\n\n";
+        foreach my $line (@{$onion->{urls}}) {
             print "* $line";
             print " :lock:" if ($line =~ m!https://!);
             print "\n";
         }
-        foreach my $line (@{$ocontents->{proof}}) {
-            print " * $line\n";
+        if ($onion->{'check-status'}) {
+            print "  * ";
+            print "@{$onion->{'check-status'}}";
+            if ($onion->{'check-date'}) {
+                print " ";
+                print "@{$onion->{'check-date'}}";
+            }
+            print "\n";
+        }
+        foreach my $line (@{$onion->{proof}}) {
+            print "  * proof of ownership: $line\n";
         }
         print "\n";
     }

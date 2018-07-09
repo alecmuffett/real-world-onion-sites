@@ -23,13 +23,6 @@ The editor may choose to annotate or drop any entries as deemed fit.
 
 Formatting / how to submit entries ("pull-requests") are explained in the footer of this page.
 
-## Emoji Key
-
-* SSL Onions: :lock:
-* Reported Reachability Issues: :sos:
-
-Sites which display multiple reachability problems will eventually be struck-off the list.
-
 ----
 
 # Index
@@ -51,6 +44,7 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Surveillance Law / Stanford
 
 * http://7vrl523532rjjznj.onion/
+  * :sos: 2018-07-09T22:24:58Z
 
 
 ----
@@ -60,39 +54,48 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Brmlab / Prague Hackerspace
 
 * http://pmwdzvbyvnmwobk5.onion/
+  * :thumbsup: 2018-07-09T22:27:20Z
 
 ## Library Freedom Project
 
 * http://libraryxobbrbj33.onion/
+  * :sos: 2018-07-09T22:27:15Z
 
 ## Privacy International
 
 * https://privacyintyqcroe.onion/ :lock:
+  * :thumbsup: 2018-07-09T22:27:22Z
 
 ## Riseup
 
 * http://5jp7xtmox6jyoqd5.onion/ riseup etherpad
+  * :thumbsup: 2018-07-09T22:25:02Z
 
 ## Riseup
 
 * http://6zc6sejeho3fwrd4.onion/ riseup file share & pastebin
+  * :thumbsup: 2018-07-09T22:25:07Z
 
 ## Riseup
 
 * http://j6uhdvbhz74oefxf.onion/ riseup user admin
+  * :thumbsup: 2018-07-09T22:25:15Z
 
 ## Riseup
 
 * http://nzh3fv6jc6jskki3.onion/ riseup main site
 * http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services riseup index of onion sites
+  * :thumbsup: :thumbsup: 2018-07-09T22:27:18Z
 
 ## Riseup
 
 * http://xpgylzydxykgdqyg.onion/ riseup lists
+  * :thumbsup: 2018-07-09T22:27:25Z
 
 ## Riseup
 
 * http://zsolxunfmbfuq7wf.onion/rc/ riseup mail
+  * :thumbsup: 2018-07-09T22:27:26Z
 
 
 ----
@@ -102,14 +105,17 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Blockchain.Info
 
 * https://blockchainbdgpzk.onion/ bitcoin stuff :lock:
+  * :thumbsup: 2018-07-09T22:27:30Z
 
 ## decoded:Legal
 
 * http://decodedsbwzj4nhq.onion/ english law firm
+  * :thumbsup: 2018-07-09T22:27:32Z
 
 ## decoded:Legal
 
 * http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/ (additional v3/prop224 address)
+  * :sos: 2018-07-09T22:27:34Z
 
 
 ----
@@ -119,62 +125,74 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## ALAT / Allerta AntiCorruzione
 
 * http://fkut2p37apcg6l7f.onion/ italian whistleblowing
- * https://allertaanticorruzione.transparency.it/servizio-alac/
+  * :thumbsup: 2018-07-09T22:27:54Z
+  * proof of ownership: https://allertaanticorruzione.transparency.it/servizio-alac/
 
 ## Afrileaks
 
 * http://wcnueib4qrsm544n.onion/
- * https://www.afrileaks.org/
+  * :thumbsup: 2018-07-09T22:28:07Z
+  * proof of ownership: https://www.afrileaks.org/
 
 ## Atlatszo MagyarLeaks
 
 * http://ak2uqfavwgmjrvtu.onion/ hungarian leaks
- * https://atlatszo.hu/magyarleaks/
+  * :thumbsup: 2018-07-09T22:27:49Z
+  * proof of ownership: https://atlatszo.hu/magyarleaks/
 
 ## BalkanLeaks
 
 * http://3qf4wewa5bojmcgr.onion/
- * https://balkanleaks.eu/
+  * :thumbsup: 2018-07-09T22:27:40Z
+  * proof of ownership: https://balkanleaks.eu/
 
 ## Bezkorupce.cz
 
 * http://iopx5pchfdldldwp.onion/ czech anticorruption reporting site
- * https://secure.bezkorupce.cz/
+  * :thumbsup: 2018-07-09T22:27:58Z
+  * proof of ownership: https://secure.bezkorupce.cz/
 
 ## Curiamo La Corruzione
 
 * http://evz2fbu64s3lzhsi.onion/ italian government health whistleblowing
- * https://segnalazioni.curiamolacorruzione.it/
+  * :thumbsup: 2018-07-09T22:27:52Z
+  * proof of ownership: https://segnalazioni.curiamolacorruzione.it/
 
 ## IRPILeaks
 
 * http://5r4bjnjug3apqdii.onion/ italian investigative reporting project
- * https://irpi.eu/en/leaks/how-irpileaks-works/
+  * :thumbsup: 2018-07-09T22:27:41Z
+  * proof of ownership: https://irpi.eu/en/leaks/how-irpileaks-works/
 
 ## Mexico Leaks
 
 * http://kjpkmlafh2ra57wz.onion/
- * https://mexicoleaks.mx/
+  * :thumbsup: 2018-07-09T22:28:00Z
+  * proof of ownership: https://mexicoleaks.mx/
 
 ## Pistaljka.rs Whistleblowing
 
 * http://acabtd4btrxjjrvr.onion/#/
- * https://pistaljka.rs/
+  * :thumbsup: 2018-07-09T22:27:45Z
+  * proof of ownership: https://pistaljka.rs/
 
 ## Sourcesure.eu
 
 * http://hgowugmgkiv2wxs5.onion/ france & belgium whistleblowing
- * https://www.sourcesure.eu/
+  * :thumbsup: 2018-07-09T22:27:55Z
+  * proof of ownership: https://www.sourcesure.eu/
 
 ## Wildleaks
 
 * http://ppdz5djzpo3w5k2z.onion/ elephant action league
- * https://www.wildleaks.org/the-technology/
+  * :thumbsup: 2018-07-09T22:28:05Z
+  * proof of ownership: https://www.wildleaks.org/the-technology/
 
 ## XNet Activism
 
 * http://ztjn5gcdsqeqzmw4.onion/ anticorruption whistleblowing
- * https://xnet-x.net/en/xnetleaks/
+  * :thumbsup: 2018-07-09T22:28:11Z
+  * proof of ownership: https://xnet-x.net/en/xnetleaks/
 
 
 ----
@@ -184,11 +202,13 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## ProPublica
 
 * https://www.propub3r6espa33w.onion/ :lock:
+  * :thumbsup: 2018-07-09T22:28:22Z
 
 ## The New York Times
 
 * https://www.nytimes3xbfgragh.onion/ :lock:
 * https://mobile.nytimes3xbfgragh.onion/ mobile site :lock:
+  * :thumbsup: :thumbsup: 2018-07-09T22:28:19Z
 
 
 ----
@@ -198,17 +218,20 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Barton Gellman
 
 * http://mqddpn6yt4f5uqei.onion/
- * https://github.com/b4rton/securedrop
+  * :thumbsup: 2018-07-09T22:30:23Z
+  * proof of ownership: https://github.com/b4rton/securedrop
 
 ## Espen Andersen
 
 * http://lijbt6ju7m6opkzb.onion/
- * https://espenandersen.no/contact
+  * :sos: 2018-07-09T22:30:22Z
+  * proof of ownership: https://espenandersen.no/contact
 
 ## Kevin Poulsen
 
 * http://poulsensqiv6ocq4.onion/
- * https://freedom.press/about/tech/kevin-poulsen
+  * :thumbsup: 2018-07-09T22:30:26Z
+  * proof of ownership: https://freedom.press/about/tech/kevin-poulsen
 
 
 ----
@@ -218,192 +241,230 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Adresseavisen (.no)
 
 * http://xpx3m5hcnrkds5wg.onion/
- * https://securedrop.adressa.no/
+  * :thumbsup: 2018-07-09T22:43:34Z
+  * proof of ownership: https://securedrop.adressa.no/
 
 ## Aftenposten
 
 * http://bocl4xqbak4xvlh4.onion/
- * https://www.aftenposten.no/securedrop/
+  * :thumbsup: 2018-07-09T22:34:37Z
+  * proof of ownership: https://www.aftenposten.no/securedrop/
 
 ## Apache
 
 * http://zdf4nikyuswdzbt6.onion/
- * https://www.apache.be/securedrop
+  * :thumbsup: 2018-07-09T22:45:36Z
+  * proof of ownership: https://www.apache.be/securedrop
 
 ## Associated Press
 
 * http://3expgpdnrrzezf7r.onion/
- * https://www.ap.org/tips/
+  * :thumbsup: 2018-07-09T22:32:30Z
+  * proof of ownership: https://www.ap.org/tips/
 
 ## BayLeaks
 
 * http://wd5x5eexdqcjrqfa.onion/
- * https://bayleaks.org/
+  * :sos: 2018-07-09T22:43:32Z
+  * proof of ownership: https://bayleaks.org/
 
 ## Bergens Tidende
 
 * http://mxrrw2l3g5dyhgzn.onion/
- * https://www.bt.no/securedrop/
+  * :thumbsup: 2018-07-09T22:41:09Z
+  * proof of ownership: https://www.bt.no/securedrop/
 
 ## Bloomberg BNA (Bloomberg's legal, tax, regulatory arm)
 
 * http://efl3aizqpowu2yj5.onion/
- * https://www.bna.com/tips/
+  * :thumbsup: 2018-07-09T22:36:49Z
+  * proof of ownership: https://www.bna.com/tips/
 
 ## Bloomberg News
 
 * http://m4hynbhhctdk27jr.onion/
- * https://www.bloomberg.com/tips
+  * :thumbsup: 2018-07-09T22:41:07Z
+  * proof of ownership: https://www.bloomberg.com/tips
 
 ## Business Insider
 
 * http://doaxi7t7lkctvq5i.onion/
- * https://www.businessinsider.com/how-to-tip-business-insider-securely-guide-signal-securedrop-2017-6
+  * :thumbsup: 2018-07-09T22:36:42Z
+  * proof of ownership: https://www.businessinsider.com/how-to-tip-business-insider-securely-guide-signal-securedrop-2017-6
 
 ## BuzzFeed News
 
 * http://ftugftwajmgsmoau.onion/
- * https://contact.buzzfeed.com/
+  * :thumbsup: 2018-07-09T22:38:51Z
+  * proof of ownership: https://contact.buzzfeed.com/
 
 ## CBC / Canadian Broadcasting Corporation
 
 * http://ad2ztmbv5vmbj7ic.onion
- * https://securedrop.cbc.ca/
+  * :thumbsup: 2018-07-09T22:34:32Z
+  * proof of ownership: https://securedrop.cbc.ca/
 
 ## CPJ / Committee to Protect Journalists
 
 * http://2x2hb5ykeu4qlxqe.onion/
- * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
+  * :sos: 2018-07-09T22:32:26Z
+  * proof of ownership: https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
 ## Center for Public Integrity
 
 * http://v2d6nf2nsvvbgaqe.onion
- * https://www.publicintegrity.org/securedrop
+  * :thumbsup: 2018-07-09T22:41:27Z
+  * proof of ownership: https://www.publicintegrity.org/securedrop
 
 ## Dagbladet
 
 * http://mz33367mcdrcdi7s.onion/
- * https://securedrop.dagbladet.no/
+  * :thumbsup: 2018-07-09T22:41:11Z
+  * proof of ownership: https://securedrop.dagbladet.no/
 
 ## DuckDuckGo
 
 * http://dmys7duszeb2salo.onion/
- * https://duckduckgo.com/securedrop/
+  * :thumbsup: 2018-07-09T22:36:38Z
+  * proof of ownership: https://duckduckgo.com/securedrop/
 
 ## ExposeFacts
 
 * http://znig4bc5rlwyj4mz.onion/
- * https://exposefacts.org
+  * :thumbsup: 2018-07-09T22:46:21Z
+  * proof of ownership: https://exposefacts.org
 
 ## Fairfax Media Group (.au; SMH et al.)
 
 * http://ipfhnseo4hgfw5mg.onion/
- * https://securedrop.fairfax.com.au/
+  * :thumbsup: 2018-07-09T22:41:00Z
+  * proof of ownership: https://securedrop.fairfax.com.au/
 
 ## Forbes
 
 * http://fje2vboa55bbxjpm.onion
- * https://www.forbes.com/tips/
+  * :sos: 2018-07-09T22:38:49Z
+  * proof of ownership: https://www.forbes.com/tips/
 
 ## Gizmodo Media Group
 
 * http://gmg7jl25ony5g7ws.onion/
- * https://specialprojectsdesk.com/securedrop/
+  * :thumbsup: 2018-07-09T22:38:53Z
+  * proof of ownership: https://specialprojectsdesk.com/securedrop/
 
 ## Globe and Mail (.ca; Toronto)
 
 * http://sml5wmpuq7ifq2mh.onion/
- * https://sec.theglobeandmail.com/securedrop/
+  * :thumbsup: 2018-07-09T22:41:22Z
+  * proof of ownership: https://sec.theglobeandmail.com/securedrop/
 
 ## Greenpeace New Zealand
 
 * http://ll6edwtpfl3zdwoi.onion/
- * https://www.safesource.org.nz
+  * :thumbsup: 2018-07-09T22:41:05Z
+  * proof of ownership: https://www.safesource.org.nz
 
 ## Guardian
 
 * http://33y6fjyhs3phzfjj.onion/
- * https://securedrop.theguardian.com/
+  * :thumbsup: 2018-07-09T22:32:28Z
+  * proof of ownership: https://securedrop.theguardian.com/
 
 ## ICIJ / International Consortium of Investigative Journalists
 
 * http://dcdoialeklnkb6fg.onion/
- * https://www.icij.org/securedrop
+  * :sos: 2018-07-09T22:36:37Z
+  * proof of ownership: https://www.icij.org/securedrop
 
 ## Intercept
 
 * http://intrcept32ncblef.onion/
- * https://theintercept.com/securedrop/
+  * :thumbsup: 2018-07-09T22:40:57Z
+  * proof of ownership: https://theintercept.com/securedrop/
 
 ## Lucy Parsons Labs (.us; Chicago)
 
 * http://qn4qfeeslglmwxgb.onion/
- * https://lucyparsonslabs.com/securedrop
+  * :thumbsup: 2018-07-09T22:41:19Z
+  * proof of ownership: https://lucyparsonslabs.com/securedrop
 
 ## MormonLeaks
 
 * http://efeip5ekoqi4upkz.onion/
- * https://mormonleaks.io/
+  * :thumbsup: 2018-07-09T22:36:47Z
+  * proof of ownership: https://mormonleaks.io/
 
 ## NRK
 
 * http://nrkvarslekidu2uz.onion/
- * https://www.nrk.no/varsle/
+  * :thumbsup: 2018-07-09T22:41:13Z
+  * proof of ownership: https://www.nrk.no/varsle/
 
 ## New Internationalist
 
 * http://axcdo2zaeyrpdc6z.onion/
- * https://digital.newint.com.au/securedrop
+  * :thumbsup: 2018-07-09T22:34:35Z
+  * proof of ownership: https://digital.newint.com.au/securedrop
 
 ## New York Times
 
 * https://nyttips4bmquxfzw.onion/ :lock:
- * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
+  * :thumbsup: 2018-07-09T22:41:16Z
+  * proof of ownership: https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
 
 ## New Yorker
 
 * http://icpozbs6r6yrwt67.onion/
- * http://projects.newyorker.com/strongbox/
+  * :thumbsup: 2018-07-09T22:40:55Z
+  * proof of ownership: http://projects.newyorker.com/strongbox/
 
 ## Oregonian
 
 * http://a5gvhrpulvq33b3q.onion/
- * http://projects.oregonlive.com/securedrop/
+  * :sos: 2018-07-09T22:34:30Z
+  * proof of ownership: http://projects.oregonlive.com/securedrop/
 
 ## POGO / Project On Government Oversight
 
 * http://dqeasamlf3jld2kz.onion/
- * https://securedrop.pogo.org/
+  * :thumbsup: 2018-07-09T22:36:44Z
+  * proof of ownership: https://securedrop.pogo.org/
 
 ## Peerlyst
 
 * http://z5hns3zhhne7z6bl.onion/
- * https://www.peerlyst.com/secure-drop
+  * :sos: 2018-07-09T22:45:34Z
+  * proof of ownership: https://www.peerlyst.com/secure-drop
 
 ## Radio-Canada
 
 * http://w5jfqhep2jbypkek.onion/
- * https://sourceanonyme.radio-canada.ca
+  * :thumbsup: 2018-07-09T22:41:32Z
+  * proof of ownership: https://sourceanonyme.radio-canada.ca
 
 ## Radio24syv
 
 * http://hpjw636qnt5avq62.onion/
- * https://securedrop.radio24syv.dk
+  * :sos: 2018-07-09T22:40:53Z
+  * proof of ownership: https://securedrop.radio24syv.dk
 
 ## USA Today
 
 * https://usatodayw7vu5egc.onion :lock:
- * https://newstips.usatoday.com/securedrop.html
+  * :thumbsup: 2018-07-09T22:41:25Z
+  * proof of ownership: https://newstips.usatoday.com/securedrop.html
 
 ## VG / Verdens Gang
 
 * http://vgnettwin5lyl4yr.onion/
- * https://securedrop.vg.no/
+  * :thumbsup: 2018-07-09T22:41:31Z
+  * proof of ownership: https://securedrop.vg.no/
 
 ## Washington Post
 
 * http://jcw5q6uyjioupxcc.onion/
- * https://www.washingtonpost.com/securedrop/
+  * :thumbsup: 2018-07-09T22:41:02Z
+  * proof of ownership: https://www.washingtonpost.com/securedrop/
 
 
 ----
@@ -413,40 +474,49 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Cyph
 
 * https://www.cyphdbyhiddenbhs.onion/ :lock:
+  * :thumbsup: 2018-07-09T22:46:28Z
 
 ## Debian
 
 * http://5nca3wxl33tzlzj5.onion/ index of onion sites
- * also https://onion.debian.org/
+  * :thumbsup: 2018-07-09T22:46:24Z
+  * proof of ownership: also https://onion.debian.org/
 
 ## Debian
 
 * http://sejnfjrq6szgca7v.onion/ main site
+  * :thumbsup: 2018-07-09T22:46:50Z
 
 ## ExpressVPN
 
 * http://expressobutiolem.onion/
+  * :thumbsup: 2018-07-09T22:46:38Z
 
 ## Mailpile
 
 * http://clgs64523yi2bkhz.onion/
+  * :thumbsup: 2018-07-09T22:46:25Z
 
 ## OnionShare
 
 * http://elx57ue5uyfplgva.onion/
+  * :thumbsup: 2018-07-09T22:46:34Z
 
 ## Qubes OS
 
 * http://qubesos4rrrrz6n4.onion/
+  * :thumbsup: 2018-07-09T22:46:45Z
 
 ## Tor Project
 
 * http://expyuzz4wqqyqhjn.onion/ main site
+  * :thumbsup: 2018-07-09T22:46:40Z
 
 ## Tor Project
 
 * http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
- * also https://onion.torproject.org/
+  * :thumbsup: 2018-07-09T22:46:52Z
+  * proof of ownership: also https://onion.torproject.org/
 
 ## Whonix
 
@@ -454,11 +524,13 @@ Sites which display multiple reachability problems will eventually be struck-off
 * http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/main_page wiki
 * http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
 * http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/forcing_.onion_on_whonix.org index of onion sites
- * also https://www.whonix.org/wiki/forcing_.onion_on_whonix.org
+  * :thumbsup: :thumbsup: :thumbsup: :thumbsup: 2018-07-09T22:46:32Z
+  * proof of ownership: also https://www.whonix.org/wiki/forcing_.onion_on_whonix.org
 
 ## keybase.io
 
 * http://fncuwbiisyh6ak3i.onion/
+  * :thumbsup: 2018-07-09T22:46:43Z
 
 
 ----
@@ -468,23 +540,28 @@ Sites which display multiple reachability problems will eventually be struck-off
 ## Cloudflare Public DNS 1.1.1.1
 
 * https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ dns resolver by cloudflare :lock:
+  * :thumbsup: 2018-07-09T22:47:03Z
 
 ## DuckDuckGo
 
 * https://3g2upl4pq6kufc4m.onion/ search engine :lock:
+  * :thumbsup: 2018-07-09T22:46:56Z
 
 ## Facebook
 
 * https://www.facebookcorewwwi.onion/ :lock:
 * https://m.facebookcorewwwi.onion/ mobile site :lock:
+  * :thumbsup: :thumbsup: 2018-07-09T22:47:10Z
 
 ## Mail2Tor
 
 * http://mail2tor2zyjdctd.onion/ mail gateway
+  * :thumbsup: 2018-07-09T22:47:12Z
 
 ## Protonmail
 
 * https://protonirockerxow.onion/ :lock:
+  * :thumbsup: 2018-07-09T22:47:16Z
 
 
 ----
