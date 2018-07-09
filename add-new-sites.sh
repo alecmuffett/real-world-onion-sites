@@ -13,5 +13,5 @@ while read category onion_address proof_url title ; do
     echo http://$onion_address/ > $where/urls
     echo $proof_url > $where/proof
 done <<EOF
-...
+securedrop-for-organisations lzpczap7l3zxu7zv.onion https://www.icij.org/securedrop ICIJ / International Consortium of Investigative Journalists
 EOF

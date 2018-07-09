@@ -95,12 +95,6 @@ This index is sorted alphabetically; the main text is sorted by size of each cat
   * :thumbsup: 2018-07-09T23:18:31Z
   * https://espenandersen.no/contact
 
-## Espen Andersen
-
-* http://lijbt6ju7m6opkzb.onion/
-  * :sos: 2018-07-09T22:30:22Z
-  * https://espenandersen.no/contact
-
 ## Jean-Marc Manach
 
 * http://32qfx2skzcifeyg7.onion/
@@ -537,8 +531,7 @@ This index is sorted alphabetically; the main text is sorted by size of each cat
 
 ## ICIJ / International Consortium of Investigative Journalists
 
-* http://dcdoialeklnkb6fg.onion/
-  * :sos: 2018-07-09T22:36:37Z
+* http://lzpczap7l3zxu7zv.onion/
   * https://www.icij.org/securedrop
 
 ## Intercept

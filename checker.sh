@@ -17,7 +17,7 @@ check_onion() {
             echo ":sos:"
         fi
     done >check-status
-    if $is_up ; then # overwrite the datestamp
+    if $is_up || [ ! -f check-date ] ; then # overwrite the datestamp
         date -u "+%Y-%m-%dT%H:%M:%SZ" >check-date
     fi
 }
