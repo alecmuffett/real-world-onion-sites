@@ -465,7 +465,7 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Web And Internet
 
-## 1.1.1.1
+## Cloudflare Public DNS 1.1.1.1
 
 * https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ dns resolver by cloudflare :lock:
 
