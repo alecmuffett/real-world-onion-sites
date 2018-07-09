@@ -108,7 +108,7 @@ foreach $catname (sort keys %tree) {
         }
         foreach my $line (@{$onion->{proof}}) {
             print "  * $line";
-            print " :poop::poop::poop: (not HTTPS)" if ($line !~ m!https://!);
+            print " :no_entry_sign: Not HTTPS" if ($line !~ m!https://!);
             print "\n";
         }
         print "\n";
