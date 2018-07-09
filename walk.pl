@@ -66,8 +66,7 @@ foreach $catname (@categories) {
     $tree{$catname} = &docat('directory', $catname);
 }
 
-# print
-
+print "\n";
 foreach $catname (sort keys %tree) {
     print "----\n\n";
     my $catprint = &canon($catname);
@@ -89,5 +88,4 @@ foreach $catname (sort keys %tree) {
     }
     print "\n";
 }
-
-#print Dumper(\%tree);
+print "----\n\n";

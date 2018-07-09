@@ -29,6 +29,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 * Reported Reachability Issues: :sos:
 
 Sites which display multiple reachability problems will eventually be struck-off the list.
+
 ----
 
 # Academic
@@ -471,6 +472,8 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 * https://protonirockerxow.onion/ :lock:
 
+
+----
 
 # Submission Notes
 
