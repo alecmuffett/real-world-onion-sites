@@ -340,7 +340,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 ## Dossier Secrets
 
 * http://jtbxrtnye26o4a2a.onion/
-  * http://www.journaldemontreal.com/dossiers-secrets :poop:
+  * http://www.journaldemontreal.com/dossiers-secrets :poop::poop::poop: (not HTTPS)
 
 ## DuckDuckGo
 
@@ -456,7 +456,7 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 ## McClatchy DC
 
 * http://zafull3et6muayeh.onion/
-  * http://www.mcclatchydc.com/customer-service/contact-us/ :poop:
+  * http://www.mcclatchydc.com/customer-service/contact-us/ :poop::poop::poop: (not HTTPS)
 
 ## Meduza
 
@@ -501,13 +501,13 @@ Formatting / how to submit entries ("pull-requests") are explained in the footer
 
 * http://icpozbs6r6yrwt67.onion/
   * :thumbsup: 2018-07-09T22:40:55Z
-  * http://projects.newyorker.com/strongbox/ :poop:
+  * http://projects.newyorker.com/strongbox/ :poop::poop::poop: (not HTTPS)
 
 ## Oregonian
 
 * http://a5gvhrpulvq33b3q.onion/
   * :sos: 2018-07-09T22:34:30Z
-  * http://projects.oregonlive.com/securedrop/ :poop:
+  * http://projects.oregonlive.com/securedrop/ :poop::poop::poop: (not HTTPS)
 
 ## POGO / Project On Government Oversight
 
