@@ -7,6 +7,10 @@
 
 ----
 
+# IMPORTANT NOTICE
+
+- This file (`README.md`) is now generated; do not submit changes for it; see the `directory` folder instead.
+
 # The Theme
 
 This list is for substantial, commercial-or-social-good mainstream websites with onion presence.
