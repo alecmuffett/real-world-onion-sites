@@ -67,6 +67,13 @@ foreach $catname (@categories) {
 }
 
 print "\n";
+print "----\n\n";
+print "# Index\n\n";
+foreach $catname (sort keys %tree) {
+    my $catprint = &canon($catname);
+    print "* [$catprint](#$catname)\n"
+}
+print "\n";
 foreach $catname (sort keys %tree) {
     print "----\n\n";
     my $catprint = &canon($catname);

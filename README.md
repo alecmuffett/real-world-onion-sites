@@ -32,6 +32,20 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 ----
 
+# Index
+
+* [Academic](#academic)
+* [Civil Society And Community](#civil-society-and-community)
+* [Companies And Services](#companies-and-services)
+* [Globaleaks](#globaleaks)
+* [News And Media](#news-and-media)
+* [Securedrop For Individuals](#securedrop-for-individuals)
+* [Securedrop For Organisations](#securedrop-for-organisations)
+* [Tech And Software](#tech-and-software)
+* [Web And Internet](#web-and-internet)
+
+----
+
 # Academic
 
 ## Surveillance Law / Stanford
