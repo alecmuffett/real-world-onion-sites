@@ -78,12 +78,17 @@ foreach $catname (@categories) {
 print "\n";
 print "----\n\n";
 print "# Index\n\n";
+
+print "This index is sorted alphabetically; the main text is sorted by size of each category.\n\n";
+
 foreach $catname (sort keys %tree) {
     my $catprint = &canon($catname);
     print "* [$catprint](#$catname)\n"
 }
 print "\n";
-foreach $catname (sort keys %tree) {
+
+
+foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}}) } keys %tree) {
     print "----\n\n";
     my $catprint = &canon($catname);
     print "# $catprint\n\n";

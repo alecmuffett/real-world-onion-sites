@@ -7,15 +7,19 @@ tor_curl() {
     return $?
 }
 
-check_onions() {
+check_onion() {
+    is_up=true
     for url in `awk '{print $1}' < urls` ; do
         if tor_curl $url >curl.out~ 2>curl.err~ ; then
             echo ":thumbsup:"
         else
+            is_up=false # one bad apple
             echo ":sos:"
         fi
     done >check-status
-    date -u "+%Y-%m-%dT%H:%M:%SZ" >check-date # separate file for less noise
+    if $is_up ; then # overwrite the datestamp
+        date -u "+%Y-%m-%dT%H:%M:%SZ" >check-date
+    fi
 }
 
 for category in * ; do
@@ -24,7 +28,7 @@ for category in * ; do
     for onion in * ; do
         echo "---- $onion ----"
         cd $onion || exit 1
-        check_onions
+        check_onion
         cd ..
     done
     cd ..
