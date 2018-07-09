@@ -107,7 +107,7 @@ foreach $catname (sort keys %tree) {
             print "\n";
         }
         foreach my $line (@{$onion->{proof}}) {
-            print "  * proof of ownership: $line\n";
+            print "  * $line\n";
         }
         print "\n";
     }
