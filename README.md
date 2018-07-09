@@ -33,7 +33,7 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Academic
 
-## surveillance law / stanford
+## Surveillance Law / Stanford
 
 * http://7vrl523532rjjznj.onion/
 
@@ -42,40 +42,40 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Civil Society And Community
 
-## brmlab / prague hackerspace
+## Brmlab / Prague Hackerspace
 
 * http://pmwdzvbyvnmwobk5.onion/
 
-## library freedom project
+## Library Freedom Project
 
 * http://libraryxobbrbj33.onion/
 
-## privacy international
+## Privacy International
 
 * https://privacyintyqcroe.onion/ :lock:
 
-## riseup
+## Riseup
 
 * http://5jp7xtmox6jyoqd5.onion/ riseup etherpad
 
-## riseup
+## Riseup
 
 * http://6zc6sejeho3fwrd4.onion/ riseup file share & pastebin
 
-## riseup
+## Riseup
 
 * http://j6uhdvbhz74oefxf.onion/ riseup user admin
 
-## riseup
+## Riseup
 
 * http://nzh3fv6jc6jskki3.onion/ riseup main site
 * http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services riseup index of onion sites
 
-## riseup
+## Riseup
 
 * http://xpgylzydxykgdqyg.onion/ riseup lists
 
-## riseup
+## Riseup
 
 * http://zsolxunfmbfuq7wf.onion/rc/ riseup mail
 
@@ -84,15 +84,15 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Companies And Services
 
-## blockchain.info
+## Blockchain.Info
 
 * https://blockchainbdgpzk.onion/ bitcoin stuff :lock:
 
-## decoded:legal
+## decoded:Legal
 
 * http://decodedsbwzj4nhq.onion/ english law firm
 
-## decoded:legal
+## decoded:Legal
 
 * http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/ (additional v3/prop224 address)
 
@@ -101,62 +101,62 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Globaleaks
 
-## afrileaks
-
-* http://wcnueib4qrsm544n.onion/
- * https://www.afrileaks.org/
-
-## alat / allerta anticorruzione
+## ALAT / Allerta AntiCorruzione
 
 * http://fkut2p37apcg6l7f.onion/ italian whistleblowing
  * https://allertaanticorruzione.transparency.it/servizio-alac/
 
-## atlatszo magyarleaks
+## Afrileaks
+
+* http://wcnueib4qrsm544n.onion/
+ * https://www.afrileaks.org/
+
+## Atlatszo MagyarLeaks
 
 * http://ak2uqfavwgmjrvtu.onion/ hungarian leaks
  * https://atlatszo.hu/magyarleaks/
 
-## balkanleaks
+## BalkanLeaks
 
 * http://3qf4wewa5bojmcgr.onion/
  * https://balkanleaks.eu/
 
-## bezkorupce.cz
+## Bezkorupce.cz
 
 * http://iopx5pchfdldldwp.onion/ czech anticorruption reporting site
  * https://secure.bezkorupce.cz/
 
-## curiamo la corruzione
+## Curiamo La Corruzione
 
 * http://evz2fbu64s3lzhsi.onion/ italian government health whistleblowing
  * https://segnalazioni.curiamolacorruzione.it/
 
-## irpileaks
+## IRPILeaks
 
 * http://5r4bjnjug3apqdii.onion/ italian investigative reporting project
  * https://irpi.eu/en/leaks/how-irpileaks-works/
 
-## mexico leaks
+## Mexico Leaks
 
 * http://kjpkmlafh2ra57wz.onion/
  * https://mexicoleaks.mx/
 
-## pistaljka.rs whistleblowing
+## Pistaljka.rs Whistleblowing
 
 * http://acabtd4btrxjjrvr.onion/#/
  * https://pistaljka.rs/
 
-## sourcesure.eu
+## Sourcesure.eu
 
 * http://hgowugmgkiv2wxs5.onion/ france & belgium whistleblowing
  * https://www.sourcesure.eu/
 
-## wildleaks
+## Wildleaks
 
 * http://ppdz5djzpo3w5k2z.onion/ elephant action league
  * https://www.wildleaks.org/the-technology/
 
-## xnet activism
+## XNet Activism
 
 * http://ztjn5gcdsqeqzmw4.onion/ anticorruption whistleblowing
  * https://xnet-x.net/en/xnetleaks/
@@ -166,11 +166,11 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # News And Media
 
-## propublica
+## ProPublica
 
 * https://www.propub3r6espa33w.onion/ :lock:
 
-## the new york times
+## The New York Times
 
 * https://www.nytimes3xbfgragh.onion/ :lock:
 * https://mobile.nytimes3xbfgragh.onion/ mobile site :lock:
@@ -180,17 +180,17 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Securedrop For Individuals
 
-## barton gellman
+## Barton Gellman
 
 * http://mqddpn6yt4f5uqei.onion/
  * https://github.com/b4rton/securedrop
 
-## espen andersen
+## Espen Andersen
 
 * http://lijbt6ju7m6opkzb.onion/
  * https://espenandersen.no/contact
 
-## kevin poulsen
+## Kevin Poulsen
 
 * http://poulsensqiv6ocq4.onion/
  * https://freedom.press/about/tech/kevin-poulsen
@@ -200,192 +200,192 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Securedrop For Organisations
 
-## adresseavisen (.no)
+## Adresseavisen (.no)
 
 * http://xpx3m5hcnrkds5wg.onion/
  * https://securedrop.adressa.no/
 
-## aftenposten
+## Aftenposten
 
 * http://bocl4xqbak4xvlh4.onion/
  * https://www.aftenposten.no/securedrop/
 
-## apache
+## Apache
 
 * http://zdf4nikyuswdzbt6.onion/
  * https://www.apache.be/securedrop
 
-## associated press
+## Associated Press
 
 * http://3expgpdnrrzezf7r.onion/
  * https://www.ap.org/tips/
 
-## bayleaks
+## BayLeaks
 
 * http://wd5x5eexdqcjrqfa.onion/
  * https://bayleaks.org/
 
-## bergens tidende
+## Bergens Tidende
 
 * http://mxrrw2l3g5dyhgzn.onion/
  * https://www.bt.no/securedrop/
 
-## bloomberg bna (bloomberg's legal, tax, regulatory arm)
+## Bloomberg BNA (Bloomberg's legal, tax, regulatory arm)
 
 * http://efl3aizqpowu2yj5.onion/
  * https://www.bna.com/tips/
 
-## bloomberg news
+## Bloomberg News
 
 * http://m4hynbhhctdk27jr.onion/
  * https://www.bloomberg.com/tips
 
-## business insider
+## Business Insider
 
 * http://doaxi7t7lkctvq5i.onion/
  * https://www.businessinsider.com/how-to-tip-business-insider-securely-guide-signal-securedrop-2017-6
 
-## buzzfeed news
+## BuzzFeed News
 
 * http://ftugftwajmgsmoau.onion/
  * https://contact.buzzfeed.com/
 
-## cbc / canadian broadcasting corporation
+## CBC / Canadian Broadcasting Corporation
 
 * http://ad2ztmbv5vmbj7ic.onion
  * https://securedrop.cbc.ca/
 
-## center for public integrity
-
-* http://v2d6nf2nsvvbgaqe.onion
- * https://www.publicintegrity.org/securedrop
-
-## cpj / committee to protect journalists
+## CPJ / Committee to Protect Journalists
 
 * http://2x2hb5ykeu4qlxqe.onion/
  * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
-## dagbladet
+## Center for Public Integrity
+
+* http://v2d6nf2nsvvbgaqe.onion
+ * https://www.publicintegrity.org/securedrop
+
+## Dagbladet
 
 * http://mz33367mcdrcdi7s.onion/
  * https://securedrop.dagbladet.no/
 
-## duckduckgo
+## DuckDuckGo
 
 * http://dmys7duszeb2salo.onion/
  * https://duckduckgo.com/securedrop/
 
-## exposefacts
+## ExposeFacts
 
 * http://znig4bc5rlwyj4mz.onion/
  * https://exposefacts.org
 
-## fairfax media group (.au; smh et al.)
+## Fairfax Media Group (.au; SMH et al.)
 
 * http://ipfhnseo4hgfw5mg.onion/
  * https://securedrop.fairfax.com.au/
 
-## forbes
+## Forbes
 
 * http://fje2vboa55bbxjpm.onion
  * https://www.forbes.com/tips/
 
-## gizmodo media group
+## Gizmodo Media Group
 
 * http://gmg7jl25ony5g7ws.onion/
  * https://specialprojectsdesk.com/securedrop/
 
-## globe and mail (.ca; toronto)
+## Globe and Mail (.ca; Toronto)
 
 * http://sml5wmpuq7ifq2mh.onion/
  * https://sec.theglobeandmail.com/securedrop/
 
-## greenpeace new zealand
+## Greenpeace New Zealand
 
 * http://ll6edwtpfl3zdwoi.onion/
  * https://www.safesource.org.nz
 
-## guardian
+## Guardian
 
 * http://33y6fjyhs3phzfjj.onion/
  * https://securedrop.theguardian.com/
 
-## icij / international consortium of investigative journalists
+## ICIJ / International Consortium of Investigative Journalists
 
 * http://dcdoialeklnkb6fg.onion/
  * https://www.icij.org/securedrop
 
-## intercept
+## Intercept
 
 * http://intrcept32ncblef.onion/
  * https://theintercept.com/securedrop/
 
-## lucy parsons labs (.us; chicago)
+## Lucy Parsons Labs (.us; Chicago)
 
 * http://qn4qfeeslglmwxgb.onion/
  * https://lucyparsonslabs.com/securedrop
 
-## mormonleaks
+## MormonLeaks
 
 * http://efeip5ekoqi4upkz.onion/
  * https://mormonleaks.io/
 
-## new internationalist
-
-* http://axcdo2zaeyrpdc6z.onion/
- * https://digital.newint.com.au/securedrop
-
-## new york times
-
-* https://nyttips4bmquxfzw.onion/ :lock:
- * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
-
-## new yorker
-
-* http://icpozbs6r6yrwt67.onion/
- * http://projects.newyorker.com/strongbox/
-
-## nrk
+## NRK
 
 * http://nrkvarslekidu2uz.onion/
  * https://www.nrk.no/varsle/
 
-## oregonian
+## New Internationalist
+
+* http://axcdo2zaeyrpdc6z.onion/
+ * https://digital.newint.com.au/securedrop
+
+## New York Times
+
+* https://nyttips4bmquxfzw.onion/ :lock:
+ * https://www.nytimes.com/newsgraphics/2016/news-tips/#securedrop
+
+## New Yorker
+
+* http://icpozbs6r6yrwt67.onion/
+ * http://projects.newyorker.com/strongbox/
+
+## Oregonian
 
 * http://a5gvhrpulvq33b3q.onion/
  * http://projects.oregonlive.com/securedrop/
 
-## peerlyst
-
-* http://z5hns3zhhne7z6bl.onion/
- * https://www.peerlyst.com/secure-drop
-
-## pogo / project on government oversight
+## POGO / Project On Government Oversight
 
 * http://dqeasamlf3jld2kz.onion/
  * https://securedrop.pogo.org/
 
-## radio-canada
+## Peerlyst
+
+* http://z5hns3zhhne7z6bl.onion/
+ * https://www.peerlyst.com/secure-drop
+
+## Radio-Canada
 
 * http://w5jfqhep2jbypkek.onion/
  * https://sourceanonyme.radio-canada.ca
 
-## radio24syv
+## Radio24syv
 
 * http://hpjw636qnt5avq62.onion/
  * https://securedrop.radio24syv.dk
 
-## usa today
+## USA Today
 
 * https://usatodayw7vu5egc.onion :lock:
  * https://newstips.usatoday.com/securedrop.html
 
-## vg / verdens gang
+## VG / Verdens Gang
 
 * http://vgnettwin5lyl4yr.onion/
  * https://securedrop.vg.no/
 
-## washington post
+## Washington Post
 
 * http://jcw5q6uyjioupxcc.onion/
  * https://www.washingtonpost.com/securedrop/
@@ -395,55 +395,55 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 # Tech And Software
 
-## cyph
+## Cyph
 
 * https://www.cyphdbyhiddenbhs.onion/ :lock:
 
-## debian
+## Debian
 
 * http://5nca3wxl33tzlzj5.onion/ index of onion sites
  * also https://onion.debian.org/
 
-## debian
+## Debian
 
 * http://sejnfjrq6szgca7v.onion/ main site
 
-## expressvpn
+## ExpressVPN
 
 * http://expressobutiolem.onion/
 
-## keybase.io
-
-* http://fncuwbiisyh6ak3i.onion/
-
-## mailpile
+## Mailpile
 
 * http://clgs64523yi2bkhz.onion/
 
-## onionshare
+## OnionShare
 
 * http://elx57ue5uyfplgva.onion/
 
-## qubes os
+## Qubes OS
 
 * http://qubesos4rrrrz6n4.onion/
 
-## tor project
+## Tor Project
 
 * http://expyuzz4wqqyqhjn.onion/ main site
 
-## tor project
+## Tor Project
 
 * http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
  * also https://onion.torproject.org/
 
-## whonix
+## Whonix
 
 * http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ main page
 * http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/main_page wiki
 * http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
 * http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/forcing_.onion_on_whonix.org index of onion sites
  * also https://www.whonix.org/wiki/forcing_.onion_on_whonix.org
+
+## keybase.io
+
+* http://fncuwbiisyh6ak3i.onion/
 
 
 ----
@@ -454,20 +454,20 @@ Sites which display multiple reachability problems will eventually be struck-off
 
 * https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ dns resolver by cloudflare :lock:
 
-## duckduckgo
+## DuckDuckGo
 
 * https://3g2upl4pq6kufc4m.onion/ search engine :lock:
 
-## facebook
+## Facebook
 
 * https://www.facebookcorewwwi.onion/ :lock:
 * https://m.facebookcorewwwi.onion/ mobile site :lock:
 
-## mail2tor
+## Mail2Tor
 
 * http://mail2tor2zyjdctd.onion/ mail gateway
 
-## protonmail
+## Protonmail
 
 * https://protonirockerxow.onion/ :lock:
 
