@@ -345,6 +345,7 @@ See also https://securedrop.org/directory
 
 ## OnionShare
 * http://elx57ue5uyfplgva.onion/
+* http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/ (additional v3/prop224 address)
 
 ## Qubes OS
 * http://qubesos4rrrrz6n4.onion/
