@@ -558,7 +558,7 @@ Connectivity was last checked at: **2018-07-10T07:34:56Z**
 
 * http://zafull3et6muayeh.onion/
   * 2018-07-10T07:33:40Z :thumbsup:
-  * http://www.mcclatchydc.com/customer-service/contact-us/ :no_entry_sign: Not HTTPS
+  * https://www.mcclatchydc.com/customer-service/contact-us/
 
 ## Meduza
 
