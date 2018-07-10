@@ -604,7 +604,7 @@ This index is sorted alphabetically; the main text is sorted by size of each cat
 
 * http://icpozbs6r6yrwt67.onion/
   * :thumbsup: 2018-07-10T00:08:45Z
-  * http://projects.newyorker.com/strongbox/ :no_entry_sign: Not HTTPS
+  * https://projects.newyorker.com/securedrop/
 
 ## Oregonian
 
