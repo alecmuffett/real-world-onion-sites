@@ -165,6 +165,11 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T08:39:25Z :thumbsup:
   * 2018-07-10T07:10:31Z :thumbsup:
 
+## Chelsea Manning for US Senate
+
+* https://xychelseaxqpywe4.onion/ :lock:
+  * https://twitter.com/xychelsea/status/989539441978040321
+
 ## Library Freedom Project
 
 * http://libraryxobbrbj33.onion/
@@ -217,91 +222,7 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
 
 ----
 
-# Tech And Software
-
-## Cyph
-
-* https://www.cyphdbyhiddenbhs.onion/ :lock:
-  * 2018-07-10T08:58:51Z :thumbsup:
-  * 2018-07-10T07:34:00Z :thumbsup:
-
-## Debian
-
-* http://5nca3wxl33tzlzj5.onion/ index of onion sites
-  * 2018-07-10T08:58:33Z :thumbsup:
-  * 2018-07-10T07:33:53Z :thumbsup:
-  * also https://onion.debian.org/
-
-## Debian
-
-* http://sejnfjrq6szgca7v.onion/ main site
-  * 2018-07-10T08:59:12Z :thumbsup:
-  * 2018-07-10T07:34:28Z :thumbsup:
-
-## ExpressVPN
-
-* http://expressobutiolem.onion/
-  * 2018-07-10T08:59:03Z :thumbsup:
-  * 2018-07-10T07:34:15Z :thumbsup:
-
-## Mailpile
-
-* http://clgs64523yi2bkhz.onion/
-  * 2018-07-10T08:58:35Z :thumbsup:
-  * 2018-07-10T07:33:54Z :thumbsup:
-
-## OnionShare
-
-* http://elx57ue5uyfplgva.onion/
-  * 2018-07-10T08:59:00Z :thumbsup:
-  * 2018-07-10T07:34:12Z :thumbsup:
-
-## Qubes OS
-
-* http://qubesos4rrrrz6n4.onion/
-  * 2018-07-10T08:59:09Z :thumbsup:
-  * 2018-07-10T07:34:24Z :thumbsup:
-
-## Tor Project
-
-* http://expyuzz4wqqyqhjn.onion/ main site
-  * 2018-07-10T08:59:05Z :thumbsup:
-  * 2018-07-10T07:34:18Z :thumbsup:
-
-## Tor Project
-
-* http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
-  * 2018-07-10T08:59:14Z :thumbsup:
-  * 2018-07-10T07:34:30Z :thumbsup:
-  * also https://onion.torproject.org/
-
-## Whonix
-
-* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ main page
-* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/main_page wiki
-* http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
-* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/forcing_.onion_on_whonix.org index of onion sites
-  * 2018-07-10T08:58:57Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
-  * 2018-07-10T07:34:10Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
-  * also https://www.whonix.org/wiki/forcing_.onion_on_whonix.org
-
-## keybase.io
-
-* http://fncuwbiisyh6ak3i.onion/
-  * 2018-07-10T08:59:07Z :thumbsup:
-  * 2018-07-10T07:34:20Z :thumbsup:
-
-
-----
-
 # Globaleaks
-
-## ALAT / Allerta AntiCorruzione
-
-* http://fkut2p37apcg6l7f.onion/ italian whistleblowing
-  * 2018-07-10T08:39:54Z :thumbsup:
-  * 2018-07-10T07:13:04Z :thumbsup:
-  * https://allertaanticorruzione.transparency.it/servizio-alac/
 
 ## Afrileaks
 
@@ -309,6 +230,13 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T08:40:07Z :thumbsup:
   * 2018-07-10T07:13:21Z :thumbsup:
   * https://www.afrileaks.org/
+
+## ALAT / Allerta AntiCorruzione
+
+* http://fkut2p37apcg6l7f.onion/ italian whistleblowing
+  * 2018-07-10T08:39:54Z :thumbsup:
+  * 2018-07-10T07:13:04Z :thumbsup:
+  * https://allertaanticorruzione.transparency.it/servizio-alac/
 
 ## Atlatszo MagyarLeaks
 
@@ -379,6 +307,88 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T08:40:09Z :thumbsup:
   * 2018-07-10T07:13:27Z :thumbsup:
   * https://xnet-x.net/en/xnetleaks/
+
+
+----
+
+# Tech And Software
+
+## Ablative Hosting (proof in ssl cert)
+
+* https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/ :lock:
+  * https://onioncontainers.com/
+
+## Cyph
+
+* https://www.cyphdbyhiddenbhs.onion/ :lock:
+  * 2018-07-10T08:58:51Z :thumbsup:
+  * 2018-07-10T07:34:00Z :thumbsup:
+
+## Debian
+
+* http://5nca3wxl33tzlzj5.onion/ index of onion sites
+  * 2018-07-10T08:58:33Z :thumbsup:
+  * 2018-07-10T07:33:53Z :thumbsup:
+  * also https://onion.debian.org/
+
+## Debian
+
+* http://sejnfjrq6szgca7v.onion/ main site
+  * 2018-07-10T08:59:12Z :thumbsup:
+  * 2018-07-10T07:34:28Z :thumbsup:
+
+## ExpressVPN
+
+* http://expressobutiolem.onion/
+  * 2018-07-10T08:59:03Z :thumbsup:
+  * 2018-07-10T07:34:15Z :thumbsup:
+
+## keybase.io
+
+* http://fncuwbiisyh6ak3i.onion/
+  * 2018-07-10T08:59:07Z :thumbsup:
+  * 2018-07-10T07:34:20Z :thumbsup:
+
+## Mailpile
+
+* http://clgs64523yi2bkhz.onion/
+  * 2018-07-10T08:58:35Z :thumbsup:
+  * 2018-07-10T07:33:54Z :thumbsup:
+
+## OnionShare
+
+* http://elx57ue5uyfplgva.onion/
+  * 2018-07-10T08:59:00Z :thumbsup:
+  * 2018-07-10T07:34:12Z :thumbsup:
+
+## Qubes OS
+
+* http://qubesos4rrrrz6n4.onion/
+  * 2018-07-10T08:59:09Z :thumbsup:
+  * 2018-07-10T07:34:24Z :thumbsup:
+
+## Tor Project
+
+* http://expyuzz4wqqyqhjn.onion/ main site
+  * 2018-07-10T08:59:05Z :thumbsup:
+  * 2018-07-10T07:34:18Z :thumbsup:
+
+## Tor Project
+
+* http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
+  * 2018-07-10T08:59:14Z :thumbsup:
+  * 2018-07-10T07:34:30Z :thumbsup:
+  * also https://onion.torproject.org/
+
+## Whonix
+
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ main page
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/main_page wiki
+* http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/forcing_.onion_on_whonix.org index of onion sites
+  * 2018-07-10T08:58:57Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+  * 2018-07-10T07:34:10Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+  * also https://www.whonix.org/wiki/forcing_.onion_on_whonix.org
 
 
 ----
@@ -462,13 +472,6 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T07:20:03Z :thumbsup:
   * https://securedrop.cbc.ca/
 
-## CPJ / Committee to Protect Journalists
-
-* http://2x2hb5ykeu4qlxqe.onion/
-  * 2018-07-10T08:42:26Z :sos:
-  * 2018-07-09T22:32:26Z :sos:
-  * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
-
 ## Center for Public Integrity
 
 * http://v2d6nf2nsvvbgaqe.onion
@@ -482,6 +485,13 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T08:53:08Z :thumbsup:
   * 2018-07-10T07:27:55Z :thumbsup:
   * https://home.coworker.org/contact/
+
+## CPJ / Committee to Protect Journalists
+
+* http://2x2hb5ykeu4qlxqe.onion/
+  * 2018-07-10T08:42:26Z :sos:
+  * 2018-07-09T22:32:26Z :sos:
+  * https://cpj.org/blog/2016/05/how-securedrop-helps-cpj-protect-journalists.php
 
 ## Dagbladet
 
@@ -665,20 +675,6 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T07:20:31Z :thumbsup:
   * https://mormonleaks.io/
 
-## NPR
-
-* http://5ha7oig7du2jeyer.onion/
-  * 2018-07-10T08:42:46Z :thumbsup:
-  * 2018-07-10T07:16:00Z :thumbsup:
-  * https://help.npr.org/customer/en/portal/articles/2860413-got-a-confidential-news-tip-for-npr
-
-## NRK
-
-* http://nrkvarslekidu2uz.onion/
-  * 2018-07-10T08:53:09Z :thumbsup:
-  * 2018-07-10T07:27:58Z :thumbsup:
-  * https://www.nrk.no/varsle/
-
 ## New Internationalist
 
 * http://axcdo2zaeyrpdc6z.onion/
@@ -700,6 +696,20 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T07:25:09Z :thumbsup:
   * https://projects.newyorker.com/securedrop/
 
+## NPR
+
+* http://5ha7oig7du2jeyer.onion/
+  * 2018-07-10T08:42:46Z :thumbsup:
+  * 2018-07-10T07:16:00Z :thumbsup:
+  * https://help.npr.org/customer/en/portal/articles/2860413-got-a-confidential-news-tip-for-npr
+
+## NRK
+
+* http://nrkvarslekidu2uz.onion/
+  * 2018-07-10T08:53:09Z :thumbsup:
+  * 2018-07-10T07:27:58Z :thumbsup:
+  * https://www.nrk.no/varsle/
+
 ## Oregonian
 
 * http://a5gvhrpulvq33b3q.onion/
@@ -707,19 +717,19 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-09T22:34:30Z :sos:
   * http://projects.oregonlive.com/securedrop/ :no_entry_sign: Not HTTPS
 
-## POGO / Project On Government Oversight
-
-* http://dqeasamlf3jld2kz.onion/
-  * 2018-07-10T08:47:24Z :thumbsup:
-  * 2018-07-10T07:20:25Z :thumbsup:
-  * https://securedrop.pogo.org/
-
 ## Peerlyst
 
 * http://z5hns3zhhne7z6bl.onion/
   * 2018-07-10T08:58:17Z :sos:
   * 2018-07-09T22:45:34Z :sos:
   * https://www.peerlyst.com/secure-drop
+
+## POGO / Project On Government Oversight
+
+* http://dqeasamlf3jld2kz.onion/
+  * 2018-07-10T08:47:24Z :thumbsup:
+  * 2018-07-10T07:20:25Z :thumbsup:
+  * https://securedrop.pogo.org/
 
 ## Politico
 
@@ -734,13 +744,6 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T08:46:52Z :thumbsup:
   * 2018-07-10T07:20:06Z :thumbsup:
   * https://publicintelligence.net/contribute/
-
-## RISE Moldova
-
-* http://6lhmirnluwmvjw4z.onion/
-  * 2018-07-10T08:44:46Z :sos:
-  * 2018-07-10T00:01:42Z :sos:
-  * https://www.rise.md/leaks/
 
 ## Radio-Canada
 
@@ -769,6 +772,13 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T08:52:27Z :thumbsup:
   * 2018-07-10T07:25:28Z :thumbsup:
   * https://leak.revealnews.org/
+
+## RISE Moldova
+
+* http://6lhmirnluwmvjw4z.onion/
+  * 2018-07-10T08:44:46Z :sos:
+  * 2018-07-10T00:01:42Z :sos:
+  * https://www.rise.md/leaks/
 
 ## San Francisco Chronicle
 

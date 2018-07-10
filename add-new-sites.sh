@@ -1,6 +1,6 @@
 #!/bin/sh
 
-while read category onion_address proof_url title ; do
+while read category scheme onion_address proof_url title ; do
     if [ ! -d "directory/$category" ] ; then
         echo oops: bad category $category for $onion_address
         exit 1
@@ -18,7 +18,9 @@ while read category onion_address proof_url title ; do
 
     echo $title >$dir/title
     echo $proof_url >$dir/proof
-    echo http://$onion_address/ >$dir/urls # add more by hand, later
+    echo $scheme://$onion_address/ >$dir/urls # add more by hand, later
 done <<EOF
-securedrop-for-organisations lzpczap7l3zxu7zv.onion https://www.icij.org/securedrop ICIJ / International Consortium of Investigative Journalists
+securedrop-for-organisations http lzpczap7l3zxu7zv.onion https://www.icij.org/securedrop ICIJ / International Consortium of Investigative Journalists
+tech-and-software https hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion https://onioncontainers.com/ Ablative Hosting (proof in ssl cert)
+civil-society-and-community https xychelseaxqpywe4.onion https://twitter.com/xychelsea/status/989539441978040321 Chelsea Manning for US Senate
 EOF

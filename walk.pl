@@ -117,7 +117,7 @@ foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}
     my $catprint = &canon($catname);
     print "# $catprint\n\n";
     $catcontents = $tree{$catname};
-    foreach $catsortkey (sort keys %{$catcontents}) {
+    foreach $catsortkey (sort { lc($a) cmp lc($b) } keys %{$catcontents}) {
         my $onion = $catcontents->{$catsortkey};
         my @foo = keys(%{$onion});
 
