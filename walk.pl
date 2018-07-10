@@ -77,10 +77,18 @@ foreach $catname (@categories) {
 
 print "\n";
 print "----\n\n";
-print "# Index\n\n";
 
-print "This index is sorted alphabetically; the main text is sorted by size of each category.\n\n";
+$last_check = &first('directory/.check-date');
 
+print <<"EOF";
+# Index
+
+This index is sorted alphabetically; the main text is sorted by size of each category.
+
+Connectivity was last checked at: **$last_check**
+EOF
+
+print "\n";
 foreach $catname (sort keys %tree) {
     my $catprint = &canon($catname);
     print "* [$catprint](#$catname)\n"

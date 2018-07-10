@@ -33,3 +33,5 @@ for category in * ; do
     done
     cd ..
 done
+
+date -u "+%Y-%m-%dT%H:%M:%SZ" >.check-date
