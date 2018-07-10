@@ -46,7 +46,23 @@ sub doonion {
         $result{$x} = &lines("$odir/$x");
     }
 
-    foreach $x (qw(comment proof status check-date check-status)) {
+    @optional = qw(
+                   comment
+                   proof
+                   status
+                   check-date
+                   check-status
+                   check-date-1
+                   check-status-1
+                   check-date-2
+                   check-status-2
+                   check-date-3
+                   check-status-3
+                   check-date-4
+                   check-status-4
+    );
+
+    foreach $x (@optional) {
         $result{$x} = &lines("$odir/$x") if (-f "$odir/$x"); # OPTIONAL
     }
 
@@ -113,12 +129,16 @@ foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}
             print "\n";
         }
 
-        if ($onion->{'check-date'}) {
-            print "  * ";
-            print "@{$onion->{'check-date'}}";
-            if ($onion->{'check-status'}) {
-                print " ";
-                print "@{$onion->{'check-status'}}";
+        foreach $suffix ('', '-1') {
+            $cd = "check-date$suffix";
+            $cs = "check-status$suffix";
+            if ($onion->{$cd}) {
+                print "  * ";
+                print "@{$onion->{$cd}}";
+                if ($onion->{$cs}) {
+                    print " ";
+                    print "@{$onion->{$cs}}";
+                }
                 print "\n";
             }
         }

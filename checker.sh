@@ -9,6 +9,14 @@ tor_curl() {
 
 check_onion() {
     is_up=true
+
+    for prefix in check-status check-date ; do
+        test -f $prefix-3 && mv $prefix-3 $prefix-4
+        test -f $prefix-2 && mv $prefix-2 $prefix-3
+        test -f $prefix-1 && mv $prefix-1 $prefix-2
+        test -f $prefix && mv $prefix $prefix-1
+    done
+
     for url in `awk '{print $1}' < urls` ; do
         if tor_curl $url >curl.out~ 2>curl.err~ ; then
             echo ":thumbsup:"
@@ -17,9 +25,8 @@ check_onion() {
             echo ":sos:"
         fi
     done >check-status
-    if $is_up || [ ! -f check-date ] ; then # overwrite the datestamp
-        date -u "+%Y-%m-%dT%H:%M:%SZ" >check-date
-    fi
+
+    date -u "+%Y-%m-%dT%H:%M:%SZ" >check-date
 }
 
 for category in * ; do
