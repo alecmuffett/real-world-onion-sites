@@ -96,26 +96,31 @@ foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}
     foreach $catsortkey (sort keys %{$catcontents}) {
         my $onion = $catcontents->{$catsortkey};
         my @foo = keys(%{$onion});
+
         print "## $onion->{title}\n\n";
+
         foreach my $line (@{$onion->{urls}}) {
             print "* $line";
             print " :lock:" if ($line =~ m!https://!);
             print "\n";
         }
-        if ($onion->{'check-status'}) {
+
+        if ($onion->{'check-date'}) {
             print "  * ";
-            print "@{$onion->{'check-status'}}";
-            if ($onion->{'check-date'}) {
+            print "@{$onion->{'check-date'}}";
+            if ($onion->{'check-status'}) {
                 print " ";
-                print "@{$onion->{'check-date'}}";
+                print "@{$onion->{'check-status'}}";
+                print "\n";
             }
-            print "\n";
         }
+
         foreach my $line (@{$onion->{proof}}) {
             print "  * $line";
             print " :no_entry_sign: Not HTTPS" if ($line !~ m!https://!);
             print "\n";
         }
+
         print "\n";
     }
     print "\n";
