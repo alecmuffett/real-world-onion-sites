@@ -7,10 +7,9 @@ This list is for substantial, commercial-or-social-good mainstream websites with
 - no sites for tech with less than (arbitrary) 10,000 users
 - no nudity, exploitation, drugs, copyright infringement or sketchy-content sites
 - the editor may annotate or drop any entries as deemed fit
-
-* updated: [see the change history for specifics](https://github.com/alecmuffett/onion-sites-that-dont-suck/commits/master/README.md)
-* licensed: cc-by-sa
-* author/editor: alec muffett
+- updated: [see the change history for specifics](https://github.com/alecmuffett/onion-sites-that-dont-suck/commits/master/README.md)
+- licensed: cc-by-sa
+- author/editor: alec muffett
 
 ## Important Notice
 
