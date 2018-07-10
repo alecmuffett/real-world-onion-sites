@@ -16,6 +16,10 @@ This list is for substantial, commercial-or-social-good mainstream websites with
 - This file (`README.md`) is now auto-generated; do not submit changes for it
 - Currently: submit an `Issue` for change requests (date: July 2018)
 
+## SSL Onions?
+
+This list of Onion Sites with SSL Certificates may be viewed at https://crt.sh/?q=%25.onion
+
 ----
 
 # Index
@@ -48,6 +52,11 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
 ----
 
 # News And Media
+
+## ProPublica (proof in onion ssl cert)
+
+* https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/ :lock:
+  * https://www.propublica.org
 
 ## ProPublica
 
@@ -222,6 +231,88 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
 
 ----
 
+# Tech And Software
+
+## Ablative Hosting (proof in onion ssl cert)
+
+* https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/ :lock:
+  * https://onioncontainers.com/
+
+## Cyph
+
+* https://www.cyphdbyhiddenbhs.onion/ :lock:
+  * 2018-07-10T08:58:51Z :thumbsup:
+  * 2018-07-10T07:34:00Z :thumbsup:
+
+## Debian
+
+* http://5nca3wxl33tzlzj5.onion/ index of onion sites
+  * 2018-07-10T08:58:33Z :thumbsup:
+  * 2018-07-10T07:33:53Z :thumbsup:
+  * also https://onion.debian.org/
+
+## Debian
+
+* http://sejnfjrq6szgca7v.onion/ main site
+  * 2018-07-10T08:59:12Z :thumbsup:
+  * 2018-07-10T07:34:28Z :thumbsup:
+
+## ExpressVPN
+
+* http://expressobutiolem.onion/
+  * 2018-07-10T08:59:03Z :thumbsup:
+  * 2018-07-10T07:34:15Z :thumbsup:
+
+## keybase.io
+
+* http://fncuwbiisyh6ak3i.onion/
+  * 2018-07-10T08:59:07Z :thumbsup:
+  * 2018-07-10T07:34:20Z :thumbsup:
+
+## Mailpile
+
+* http://clgs64523yi2bkhz.onion/
+  * 2018-07-10T08:58:35Z :thumbsup:
+  * 2018-07-10T07:33:54Z :thumbsup:
+
+## OnionShare
+
+* http://elx57ue5uyfplgva.onion/
+  * 2018-07-10T08:59:00Z :thumbsup:
+  * 2018-07-10T07:34:12Z :thumbsup:
+
+## Qubes OS
+
+* http://qubesos4rrrrz6n4.onion/
+  * 2018-07-10T08:59:09Z :thumbsup:
+  * 2018-07-10T07:34:24Z :thumbsup:
+
+## Tor Project
+
+* http://expyuzz4wqqyqhjn.onion/ main site
+  * 2018-07-10T08:59:05Z :thumbsup:
+  * 2018-07-10T07:34:18Z :thumbsup:
+
+## Tor Project
+
+* http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
+  * 2018-07-10T08:59:14Z :thumbsup:
+  * 2018-07-10T07:34:30Z :thumbsup:
+  * also https://onion.torproject.org/
+
+## Whonix
+
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ main page
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/main_page wiki
+* http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
+* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/forcing_.onion_on_whonix.org index of onion sites
+  * 2018-07-10T08:58:57Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+  * 2018-07-10T07:34:10Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+  * also https://www.whonix.org/wiki/forcing_.onion_on_whonix.org
+
+
+----
+
 # Globaleaks
 
 ## Afrileaks
@@ -307,88 +398,6 @@ Connectivity was last checked at: **2018-07-10T08:59:34Z**
   * 2018-07-10T08:40:09Z :thumbsup:
   * 2018-07-10T07:13:27Z :thumbsup:
   * https://xnet-x.net/en/xnetleaks/
-
-
-----
-
-# Tech And Software
-
-## Ablative Hosting (proof in ssl cert)
-
-* https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/ :lock:
-  * https://onioncontainers.com/
-
-## Cyph
-
-* https://www.cyphdbyhiddenbhs.onion/ :lock:
-  * 2018-07-10T08:58:51Z :thumbsup:
-  * 2018-07-10T07:34:00Z :thumbsup:
-
-## Debian
-
-* http://5nca3wxl33tzlzj5.onion/ index of onion sites
-  * 2018-07-10T08:58:33Z :thumbsup:
-  * 2018-07-10T07:33:53Z :thumbsup:
-  * also https://onion.debian.org/
-
-## Debian
-
-* http://sejnfjrq6szgca7v.onion/ main site
-  * 2018-07-10T08:59:12Z :thumbsup:
-  * 2018-07-10T07:34:28Z :thumbsup:
-
-## ExpressVPN
-
-* http://expressobutiolem.onion/
-  * 2018-07-10T08:59:03Z :thumbsup:
-  * 2018-07-10T07:34:15Z :thumbsup:
-
-## keybase.io
-
-* http://fncuwbiisyh6ak3i.onion/
-  * 2018-07-10T08:59:07Z :thumbsup:
-  * 2018-07-10T07:34:20Z :thumbsup:
-
-## Mailpile
-
-* http://clgs64523yi2bkhz.onion/
-  * 2018-07-10T08:58:35Z :thumbsup:
-  * 2018-07-10T07:33:54Z :thumbsup:
-
-## OnionShare
-
-* http://elx57ue5uyfplgva.onion/
-  * 2018-07-10T08:59:00Z :thumbsup:
-  * 2018-07-10T07:34:12Z :thumbsup:
-
-## Qubes OS
-
-* http://qubesos4rrrrz6n4.onion/
-  * 2018-07-10T08:59:09Z :thumbsup:
-  * 2018-07-10T07:34:24Z :thumbsup:
-
-## Tor Project
-
-* http://expyuzz4wqqyqhjn.onion/ main site
-  * 2018-07-10T08:59:05Z :thumbsup:
-  * 2018-07-10T07:34:18Z :thumbsup:
-
-## Tor Project
-
-* http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
-  * 2018-07-10T08:59:14Z :thumbsup:
-  * 2018-07-10T07:34:30Z :thumbsup:
-  * also https://onion.torproject.org/
-
-## Whonix
-
-* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ main page
-* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/main_page wiki
-* http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
-* http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/forcing_.onion_on_whonix.org index of onion sites
-  * 2018-07-10T08:58:57Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
-  * 2018-07-10T07:34:10Z :thumbsup: :thumbsup: :thumbsup: :thumbsup:
-  * also https://www.whonix.org/wiki/forcing_.onion_on_whonix.org
 
 
 ----

@@ -15,3 +15,7 @@ This list is for substantial, commercial-or-social-good mainstream websites with
 
 - This file (`README.md`) is now auto-generated; do not submit changes for it
 - Currently: submit an `Issue` for change requests (date: July 2018)
+
+## SSL Onions?
+
+This list of Onion Sites with SSL Certificates may be viewed at https://crt.sh/?q=%25.onion
