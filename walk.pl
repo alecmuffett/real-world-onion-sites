@@ -145,7 +145,7 @@ foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}
 
         foreach my $line (@{$onion->{proof}}) {
             print "  * $line";
-            print " :no_entry_sign: Not HTTPS" if ($line !~ m!https://!);
+            print " :no_entry_sign: Not HTTPS" if ($line =~ m!http://!);
             print "\n";
         }
 
