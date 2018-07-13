@@ -129,7 +129,7 @@ foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}
             print "\n";
         }
 
-        foreach $suffix ('', '-1') {
+        foreach $suffix ('', '-1', '-2', '-3', '-4') {
             $cd = "check-date$suffix";
             $cs = "check-status$suffix";
             if ($onion->{$cd}) {
