@@ -134,7 +134,7 @@ foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}
             $cs = "check-status$suffix";
             if ($onion->{$cd}) {
                 print "  * ";
-                print "@{$onion->{$cd}}";
+                print "`@{$onion->{$cd}}`";
                 if ($onion->{$cs}) {
                     print " ";
                     print "@{$onion->{$cs}}";
