@@ -26,7 +26,7 @@ This list of Onion Sites with SSL Certificates may be viewed at https://crt.sh/?
 
 This index is sorted alphabetically; the main text is sorted by size of each category.
 
-Connectivity was last checked at: **2018-07-13T10:36:30Z**
+Connectivity was last checked at: **2018-07-13T22:38:24Z**
 
 * [Academic](#academic)
 * [Civil Society And Community](#civil-society-and-community)
@@ -45,41 +45,10 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Surveillance Law / Stanford
 
 * http://7vrl523532rjjznj.onion/
+  * `2018-07-13T22:02:04Z` :sos:
   * `2018-07-13T10:02:03Z` :sos:
   * `2018-07-13T02:41:37Z` :sos:
   * `2018-07-13T02:32:06Z` :sos:
-  * `2018-07-11T00:57:03Z` :sos:
-
-
-----
-
-# News And Media
-
-## ProPublica
-
-* https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/ :lock:
-  * `2018-07-13T10:05:29Z` :thumbsup:
-  * `2018-07-13T02:44:35Z` :thumbsup:
-  * `2018-07-13T02:36:43Z` :thumbsup:
-  * `2018-07-11T01:00:14Z` :thumbsup:
-  * proof-in-ssl-cert
-
-## ProPublica
-
-* https://www.propub3r6espa33w.onion/ :lock:
-  * `2018-07-13T10:05:32Z` :thumbsup:
-  * `2018-07-13T02:44:40Z` :thumbsup:
-  * `2018-07-13T02:36:47Z` :thumbsup:
-  * `2018-07-11T01:00:16Z` :thumbsup:
-
-## The New York Times
-
-* https://www.nytimes3xbfgragh.onion/ :lock:
-* https://mobile.nytimes3xbfgragh.onion/ mobile site :lock:
-  * `2018-07-13T10:05:26Z` :thumbsup: :thumbsup:
-  * `2018-07-13T02:44:34Z` :thumbsup: :thumbsup:
-  * `2018-07-13T02:36:41Z` :thumbsup: :thumbsup:
-  * `2018-07-11T01:00:10Z` :thumbsup: :thumbsup:
 
 
 ----
@@ -89,6 +58,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Blockchain.Info
 
 * https://blockchainbdgpzk.onion/ bitcoin stuff :lock:
+  * `2018-07-13T22:04:46Z` :thumbsup:
   * `2018-07-13T10:04:39Z` :thumbsup:
   * `2018-07-13T02:43:57Z` :thumbsup:
   * `2018-07-13T02:35:06Z` :thumbsup:
@@ -97,6 +67,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## decoded:Legal
 
 * http://decodedsbwzj4nhq.onion/ english law firm
+  * `2018-07-13T22:04:52Z` :thumbsup:
   * `2018-07-13T10:04:41Z` :thumbsup:
   * `2018-07-13T02:43:57Z` :thumbsup:
   * `2018-07-13T02:35:09Z` :thumbsup:
@@ -105,10 +76,45 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## decoded:Legal
 
 * http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/ (additional v3/prop224 address)
+  * `2018-07-13T22:04:54Z` :thumbsup:
   * `2018-07-13T10:04:44Z` :thumbsup:
   * `2018-07-13T02:43:58Z` :thumbsup:
   * `2018-07-13T02:35:11Z` :thumbsup:
   * `2018-07-11T00:59:38Z` :thumbsup:
+
+
+----
+
+# News And Media
+
+## ProPublica
+
+* https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/ :lock:
+  * `2018-07-13T22:07:46Z` :thumbsup:
+  * `2018-07-13T10:05:29Z` :thumbsup:
+  * `2018-07-13T02:44:35Z` :thumbsup:
+  * `2018-07-13T02:36:43Z` :thumbsup:
+  * `2018-07-11T01:00:14Z` :thumbsup:
+  * proof-in-ssl-cert
+
+## ProPublica
+
+* https://www.propub3r6espa33w.onion/ :lock:
+  * `2018-07-13T22:07:52Z` :thumbsup:
+  * `2018-07-13T10:05:32Z` :thumbsup:
+  * `2018-07-13T02:44:40Z` :thumbsup:
+  * `2018-07-13T02:36:47Z` :thumbsup:
+  * `2018-07-11T01:00:16Z` :thumbsup:
+
+## The New York Times
+
+* https://www.nytimes3xbfgragh.onion/ :lock:
+* https://mobile.nytimes3xbfgragh.onion/ mobile site :lock:
+  * `2018-07-13T22:07:41Z` :thumbsup: :thumbsup:
+  * `2018-07-13T10:05:26Z` :thumbsup: :thumbsup:
+  * `2018-07-13T02:44:34Z` :thumbsup: :thumbsup:
+  * `2018-07-13T02:36:41Z` :thumbsup: :thumbsup:
+  * `2018-07-11T01:00:10Z` :thumbsup: :thumbsup:
 
 
 ----
@@ -118,6 +124,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Barton Gellman
 
 * http://mqddpn6yt4f5uqei.onion/
+  * `2018-07-13T22:07:58Z` :thumbsup:
   * `2018-07-13T10:05:42Z` :thumbsup:
   * `2018-07-13T02:46:53Z` :thumbsup:
   * `2018-07-11T01:00:20Z` :thumbsup:
@@ -126,6 +133,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Espen Andersen
 
 * http://espenav2n45atpsj.onion/
+  * `2018-07-13T22:07:56Z` :thumbsup:
   * `2018-07-13T10:05:38Z` :thumbsup:
   * `2018-07-13T02:46:49Z` :thumbsup:
   * `2018-07-11T01:00:19Z` :thumbsup:
@@ -134,6 +142,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Jean-Marc Manach
 
 * http://32qfx2skzcifeyg7.onion/
+  * `2018-07-13T22:07:54Z` :thumbsup:
   * `2018-07-13T10:05:33Z` :thumbsup:
   * `2018-07-13T02:44:41Z` :thumbsup:
   * `2018-07-13T02:36:51Z` :thumbsup:
@@ -143,6 +152,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Kevin Poulsen
 
 * http://poulsensqiv6ocq4.onion/
+  * `2018-07-13T22:08:04Z` :thumbsup:
   * `2018-07-13T10:05:45Z` :thumbsup:
   * `2018-07-13T02:46:57Z` :thumbsup:
   * `2018-07-11T01:00:22Z` :thumbsup:
@@ -156,6 +166,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Cloudflare Public DNS 1.1.1.1
 
 * https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ dns resolver by cloudflare :lock:
+  * `2018-07-13T22:38:00Z` :thumbsup:
   * `2018-07-13T10:36:10Z` :thumbsup:
   * `2018-07-13T03:14:09Z` :thumbsup:
   * `2018-07-11T01:18:20Z` :thumbsup:
@@ -163,6 +174,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## DuckDuckGo
 
 * https://3g2upl4pq6kufc4m.onion/ search engine :lock:
+  * `2018-07-13T22:37:56Z` :thumbsup:
   * `2018-07-13T10:36:03Z` :thumbsup:
   * `2018-07-13T03:14:05Z` :thumbsup:
   * `2018-07-11T01:18:16Z` :thumbsup:
@@ -171,6 +183,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 
 * https://www.facebookcorewwwi.onion/ :lock:
 * https://m.facebookcorewwwi.onion/ mobile site :lock:
+  * `2018-07-13T22:38:13Z` :thumbsup: :thumbsup:
   * `2018-07-13T10:36:16Z` :thumbsup: :thumbsup:
   * `2018-07-13T03:14:22Z` :thumbsup: :thumbsup:
   * `2018-07-11T01:18:26Z` :thumbsup: :thumbsup:
@@ -178,6 +191,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Mail2Tor
 
 * http://mail2tor2zyjdctd.onion/ mail gateway
+  * `2018-07-13T22:38:18Z` :thumbsup:
   * `2018-07-13T10:36:26Z` :thumbsup:
   * `2018-07-13T03:14:26Z` :thumbsup:
   * `2018-07-11T01:18:29Z` :thumbsup:
@@ -185,6 +199,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Protonmail
 
 * https://protonirockerxow.onion/ :lock:
+  * `2018-07-13T22:38:24Z` :thumbsup:
   * `2018-07-13T10:36:30Z` :thumbsup:
   * `2018-07-13T03:14:34Z` :thumbsup:
   * `2018-07-11T01:18:32Z` :thumbsup:
@@ -197,6 +212,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Brmlab / Prague Hackerspace
 
 * http://pmwdzvbyvnmwobk5.onion/
+  * `2018-07-13T22:04:24Z` :thumbsup:
   * `2018-07-13T10:04:23Z` :thumbsup:
   * `2018-07-13T02:43:45Z` :thumbsup:
   * `2018-07-13T02:34:33Z` :thumbsup:
@@ -205,6 +221,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Chelsea Manning for US Senate
 
 * https://xychelseaxqpywe4.onion/ :lock:
+  * `2018-07-13T22:04:38Z` :thumbsup:
   * `2018-07-13T10:04:33Z` :thumbsup:
   * `2018-07-13T02:43:51Z` :thumbsup:
   * `2018-07-13T02:34:50Z` :thumbsup:
@@ -214,6 +231,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Library Freedom Project
 
 * http://libraryxobbrbj33.onion/
+  * `2018-07-13T22:04:17Z` :sos:
   * `2018-07-13T10:04:15Z` :sos:
   * `2018-07-13T02:43:41Z` :sos:
   * `2018-07-13T02:34:21Z` :sos:
@@ -222,6 +240,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Privacy International
 
 * https://privacyintyqcroe.onion/ :lock:
+  * `2018-07-13T22:04:26Z` :thumbsup:
   * `2018-07-13T10:04:29Z` :thumbsup:
   * `2018-07-13T02:43:48Z` :thumbsup:
   * `2018-07-13T02:34:39Z` :thumbsup:
@@ -230,6 +249,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Riseup
 
 * http://5jp7xtmox6jyoqd5.onion/ riseup etherpad
+  * `2018-07-13T22:02:09Z` :thumbsup:
   * `2018-07-13T10:02:07Z` :thumbsup:
   * `2018-07-13T02:41:39Z` :thumbsup:
   * `2018-07-13T02:32:10Z` :thumbsup:
@@ -238,6 +258,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Riseup
 
 * http://6zc6sejeho3fwrd4.onion/ riseup file share & pastebin
+  * `2018-07-13T22:02:13Z` :thumbsup:
   * `2018-07-13T10:02:09Z` :thumbsup:
   * `2018-07-13T02:41:40Z` :thumbsup:
   * `2018-07-13T02:32:15Z` :thumbsup:
@@ -246,6 +267,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Riseup
 
 * http://j6uhdvbhz74oefxf.onion/ riseup user admin
+  * `2018-07-13T22:02:17Z` :thumbsup:
   * `2018-07-13T10:02:15Z` :thumbsup:
   * `2018-07-13T02:41:41Z` :thumbsup:
   * `2018-07-13T02:32:21Z` :thumbsup:
@@ -255,6 +277,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 
 * http://nzh3fv6jc6jskki3.onion/ riseup main site
 * http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services riseup index of onion sites
+  * `2018-07-13T22:04:21Z` :thumbsup: :thumbsup:
   * `2018-07-13T10:04:18Z` :thumbsup: :thumbsup:
   * `2018-07-13T02:43:43Z` :thumbsup: :thumbsup:
   * `2018-07-13T02:34:27Z` :thumbsup: :thumbsup:
@@ -263,6 +286,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Riseup
 
 * http://xpgylzydxykgdqyg.onion/ riseup lists
+  * `2018-07-13T22:04:31Z` :thumbsup:
   * `2018-07-13T10:04:31Z` :thumbsup:
   * `2018-07-13T02:43:49Z` :thumbsup:
   * `2018-07-13T02:34:43Z` :thumbsup:
@@ -271,6 +295,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Riseup
 
 * http://zsolxunfmbfuq7wf.onion/rc/ riseup mail
+  * `2018-07-13T22:04:41Z` :thumbsup:
   * `2018-07-13T10:04:37Z` :thumbsup:
   * `2018-07-13T02:43:54Z` :thumbsup:
   * `2018-07-13T02:34:54Z` :thumbsup:
@@ -284,6 +309,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Ablative Hosting
 
 * https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/ :lock:
+  * `2018-07-13T22:36:09Z` :thumbsup:
   * `2018-07-13T10:33:56Z` :thumbsup:
   * `2018-07-13T03:11:48Z` :thumbsup:
   * `2018-07-11T01:18:03Z` :thumbsup:
@@ -292,6 +318,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Cyph
 
 * https://www.cyphdbyhiddenbhs.onion/ :lock:
+  * `2018-07-13T22:34:37Z` :thumbsup:
   * `2018-07-13T10:28:47Z` :thumbsup:
   * `2018-07-13T03:09:16Z` :thumbsup:
   * `2018-07-11T01:17:44Z` :thumbsup:
@@ -299,6 +326,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Debian
 
 * http://5nca3wxl33tzlzj5.onion/ index of onion sites
+  * `2018-07-13T22:34:27Z` :thumbsup:
   * `2018-07-13T10:28:41Z` :thumbsup:
   * `2018-07-13T03:09:00Z` :thumbsup:
   * `2018-07-11T01:17:40Z` :thumbsup:
@@ -307,6 +335,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Debian
 
 * http://sejnfjrq6szgca7v.onion/ main site
+  * `2018-07-13T22:37:39Z` :thumbsup:
   * `2018-07-13T10:35:58Z` :sos:
   * `2018-07-13T03:13:51Z` :sos:
   * `2018-07-11T01:18:11Z` :thumbsup:
@@ -314,6 +343,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## ExpressVPN
 
 * http://expressobutiolem.onion/
+  * `2018-07-13T22:35:56Z` :thumbsup:
   * `2018-07-13T10:31:51Z` :thumbsup:
   * `2018-07-13T03:11:30Z` :thumbsup:
   * `2018-07-11T01:17:55Z` :thumbsup:
@@ -321,6 +351,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## keybase.io
 
 * http://fncuwbiisyh6ak3i.onion/
+  * `2018-07-13T22:36:06Z` :thumbsup:
   * `2018-07-13T10:33:53Z` :thumbsup:
   * `2018-07-13T03:11:46Z` :thumbsup:
   * `2018-07-11T01:18:00Z` :thumbsup:
@@ -328,6 +359,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Mailpile
 
 * http://clgs64523yi2bkhz.onion/
+  * `2018-07-13T22:34:31Z` :thumbsup:
   * `2018-07-13T10:28:44Z` :thumbsup:
   * `2018-07-13T03:09:06Z` :thumbsup:
   * `2018-07-11T01:17:42Z` :thumbsup:
@@ -335,6 +367,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## OnionShare
 
 * http://elx57ue5uyfplgva.onion/
+  * `2018-07-13T22:35:51Z` :thumbsup:
   * `2018-07-13T10:31:49Z` :thumbsup:
   * `2018-07-13T03:11:24Z` :sos:
   * `2018-07-11T01:17:53Z` :thumbsup:
@@ -342,6 +375,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Qubes OS
 
 * http://qubesos4rrrrz6n4.onion/
+  * `2018-07-13T22:36:12Z` :thumbsup:
   * `2018-07-13T10:33:58Z` :thumbsup:
   * `2018-07-13T03:11:51Z` :thumbsup:
   * `2018-07-11T01:18:07Z` :thumbsup:
@@ -349,6 +383,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Tor Project
 
 * http://expyuzz4wqqyqhjn.onion/ main site
+  * `2018-07-13T22:35:59Z` :thumbsup:
   * `2018-07-13T10:33:51Z` :sos:
   * `2018-07-13T03:11:36Z` :thumbsup:
   * `2018-07-11T01:17:58Z` :thumbsup:
@@ -356,6 +391,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Tor Project
 
 * http://yz7lpwfhhzcdyc5y.onion/ index of onion sites
+  * `2018-07-13T22:37:44Z` :thumbsup:
   * `2018-07-13T10:36:01Z` :thumbsup:
   * `2018-07-13T03:13:56Z` :thumbsup:
   * `2018-07-11T01:18:13Z` :thumbsup:
@@ -367,6 +403,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 * http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/main_page wiki
 * http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/ forums
 * http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/forcing_.onion_on_whonix.org index of onion sites
+  * `2018-07-13T22:35:47Z` :thumbsup: :thumbsup: :thumbsup: :thumbsup:
   * `2018-07-13T10:29:38Z` :thumbsup: :thumbsup: :thumbsup: :thumbsup:
   * `2018-07-13T03:09:24Z` :thumbsup: :thumbsup: :thumbsup: :thumbsup:
   * `2018-07-11T01:17:51Z` :thumbsup: :thumbsup: :thumbsup: :thumbsup:
@@ -380,6 +417,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Afrileaks
 
 * http://wcnueib4qrsm544n.onion/
+  * `2018-07-13T22:07:31Z` :thumbsup:
   * `2018-07-13T10:05:21Z` :thumbsup:
   * `2018-07-13T02:44:28Z` :thumbsup:
   * `2018-07-13T02:36:22Z` :thumbsup:
@@ -389,6 +427,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## ALAT / Allerta AntiCorruzione
 
 * http://fkut2p37apcg6l7f.onion/ italian whistleblowing
+  * `2018-07-13T22:05:16Z` :thumbsup:
   * `2018-07-13T10:05:05Z` :thumbsup:
   * `2018-07-13T02:44:18Z` :thumbsup:
   * `2018-07-13T02:35:48Z` :thumbsup:
@@ -398,6 +437,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Atlatszo MagyarLeaks
 
 * http://ak2uqfavwgmjrvtu.onion/ hungarian leaks
+  * `2018-07-13T22:05:10Z` :thumbsup:
   * `2018-07-13T10:05:01Z` :thumbsup:
   * `2018-07-13T02:44:15Z` :thumbsup:
   * `2018-07-13T02:35:38Z` :thumbsup:
@@ -407,6 +447,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## BalkanLeaks
 
 * http://3qf4wewa5bojmcgr.onion/
+  * `2018-07-13T22:04:58Z` :thumbsup:
   * `2018-07-13T10:04:54Z` :thumbsup:
   * `2018-07-13T02:44:02Z` :thumbsup:
   * `2018-07-13T02:35:18Z` :thumbsup:
@@ -416,6 +457,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Bezkorupce.cz
 
 * http://iopx5pchfdldldwp.onion/ czech anticorruption reporting site
+  * `2018-07-13T22:05:23Z` :thumbsup:
   * `2018-07-13T10:05:09Z` :thumbsup:
   * `2018-07-13T02:44:20Z` :thumbsup:
   * `2018-07-13T02:35:56Z` :thumbsup:
@@ -425,6 +467,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Curiamo La Corruzione
 
 * http://evz2fbu64s3lzhsi.onion/ italian government health whistleblowing
+  * `2018-07-13T22:05:13Z` :thumbsup:
   * `2018-07-13T10:05:03Z` :thumbsup:
   * `2018-07-13T02:44:17Z` :thumbsup:
   * `2018-07-13T02:35:43Z` :thumbsup:
@@ -434,6 +477,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## IRPILeaks
 
 * http://5r4bjnjug3apqdii.onion/ italian investigative reporting project
+  * `2018-07-13T22:05:02Z` :thumbsup:
   * `2018-07-13T10:04:55Z` :thumbsup:
   * `2018-07-13T02:44:02Z` :thumbsup:
   * `2018-07-13T02:35:23Z` :thumbsup:
@@ -443,6 +487,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Mexico Leaks
 
 * http://kjpkmlafh2ra57wz.onion/
+  * `2018-07-13T22:07:23Z` :sos:
   * `2018-07-13T10:05:16Z` :thumbsup:
   * `2018-07-13T02:44:22Z` :thumbsup:
   * `2018-07-13T02:36:02Z` :thumbsup:
@@ -452,6 +497,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Pistaljka.rs Whistleblowing
 
 * http://acabtd4btrxjjrvr.onion/#/
+  * `2018-07-13T22:05:07Z` :thumbsup:
   * `2018-07-13T10:04:58Z` :thumbsup:
   * `2018-07-13T02:44:08Z` :thumbsup:
   * `2018-07-13T02:35:27Z` :thumbsup:
@@ -461,6 +507,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Sourcesure.eu
 
 * http://hgowugmgkiv2wxs5.onion/ france & belgium whistleblowing
+  * `2018-07-13T22:05:20Z` :thumbsup:
   * `2018-07-13T10:05:07Z` :thumbsup:
   * `2018-07-13T02:44:19Z` :thumbsup:
   * `2018-07-13T02:35:51Z` :thumbsup:
@@ -470,6 +517,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Wildleaks
 
 * http://ppdz5djzpo3w5k2z.onion/ elephant action league
+  * `2018-07-13T22:07:28Z` :thumbsup:
   * `2018-07-13T10:05:18Z` :thumbsup:
   * `2018-07-13T02:44:26Z` :thumbsup:
   * `2018-07-13T02:36:18Z` :thumbsup:
@@ -479,6 +527,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## XNet Activism
 
 * http://ztjn5gcdsqeqzmw4.onion/ anticorruption whistleblowing
+  * `2018-07-13T22:07:36Z` :thumbsup:
   * `2018-07-13T10:05:23Z` :thumbsup:
   * `2018-07-13T02:44:29Z` :thumbsup:
   * `2018-07-13T02:36:26Z` :thumbsup:
@@ -493,6 +542,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Adresseavisen (.no)
 
 * http://xpx3m5hcnrkds5wg.onion/
+  * `2018-07-13T22:32:00Z` :thumbsup:
   * `2018-07-13T10:26:10Z` :thumbsup:
   * `2018-07-13T03:05:14Z` :thumbsup:
   * `2018-07-11T01:15:24Z` :thumbsup:
@@ -501,6 +551,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Aftenposten
 
 * http://bocl4xqbak4xvlh4.onion/
+  * `2018-07-13T22:15:21Z` :thumbsup:
   * `2018-07-13T10:13:08Z` :thumbsup:
   * `2018-07-13T02:53:43Z` :thumbsup:
   * `2018-07-11T01:06:44Z` :thumbsup:
@@ -509,6 +560,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Aftonbladet
 
 * https://y27vf7g2ce5g3fnl.onion/ :lock:
+  * `2018-07-13T22:32:05Z` :thumbsup:
   * `2018-07-13T10:26:16Z` :thumbsup:
   * `2018-07-13T03:05:28Z` :thumbsup:
   * `2018-07-11T01:15:29Z` :thumbsup:
@@ -517,6 +569,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Apache
 
 * http://zdf4nikyuswdzbt6.onion/
+  * `2018-07-13T22:34:12Z` :thumbsup:
   * `2018-07-13T10:28:29Z` :thumbsup:
   * `2018-07-13T03:08:44Z` :thumbsup:
   * `2018-07-11T01:17:35Z` :thumbsup:
@@ -525,6 +578,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Associated Press
 
 * http://3expgpdnrrzezf7r.onion/
+  * `2018-07-13T22:10:12Z` :thumbsup:
   * `2018-07-13T10:08:48Z` :thumbsup:
   * `2018-07-13T02:49:09Z` :thumbsup:
   * `2018-07-11T01:02:29Z` :thumbsup:
@@ -533,6 +587,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## BayLeaks
 
 * http://wd5x5eexdqcjrqfa.onion/
+  * `2018-07-13T22:31:55Z` :sos:
   * `2018-07-13T10:26:05Z` :sos:
   * `2018-07-13T03:05:01Z` :sos:
   * `2018-07-11T01:15:21Z` :sos:
@@ -541,6 +596,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Bergens Tidende
 
 * http://mxrrw2l3g5dyhgzn.onion/
+  * `2018-07-13T22:25:11Z` :thumbsup:
   * `2018-07-13T10:19:12Z` :thumbsup:
   * `2018-07-13T03:00:04Z` :thumbsup:
   * `2018-07-11T01:12:36Z` :thumbsup:
@@ -549,6 +605,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Bloomberg BNA (Bloomberg's legal, tax, regulatory arm)
 
 * http://efl3aizqpowu2yj5.onion/
+  * `2018-07-13T22:18:18Z` :thumbsup:
   * `2018-07-13T10:13:42Z` :thumbsup:
   * `2018-07-13T02:54:15Z` :thumbsup:
   * `2018-07-11T01:07:00Z` :thumbsup:
@@ -557,6 +614,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Bloomberg News
 
 * http://m4hynbhhctdk27jr.onion/
+  * `2018-07-13T22:25:08Z` :thumbsup:
   * `2018-07-13T10:19:06Z` :thumbsup:
   * `2018-07-13T02:59:58Z` :thumbsup:
   * `2018-07-11T01:12:27Z` :thumbsup:
@@ -565,6 +623,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Business Insider
 
 * http://doaxi7t7lkctvq5i.onion/
+  * `2018-07-13T22:17:26Z` :thumbsup:
   * `2018-07-13T10:13:18Z` :thumbsup:
   * `2018-07-13T02:53:55Z` :thumbsup:
   * `2018-07-11T01:06:50Z` :thumbsup:
@@ -573,6 +632,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## BuzzFeed News
 
 * http://ftugftwajmgsmoau.onion/
+  * `2018-07-13T22:21:49Z` :thumbsup:
   * `2018-07-13T10:15:51Z` :thumbsup:
   * `2018-07-13T02:56:25Z` :thumbsup:
   * `2018-07-11T01:09:05Z` :thumbsup:
@@ -581,6 +641,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## CBC / Canadian Broadcasting Corporation
 
 * http://ad2ztmbv5vmbj7ic.onion
+  * `2018-07-13T22:14:16Z` :thumbsup:
   * `2018-07-13T10:12:57Z` :thumbsup:
   * `2018-07-13T02:53:24Z` :thumbsup:
   * `2018-07-11T01:06:33Z` :thumbsup:
@@ -589,6 +650,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Center for Public Integrity
 
 * http://v2d6nf2nsvvbgaqe.onion
+  * `2018-07-13T22:27:53Z` :thumbsup:
   * `2018-07-13T10:21:59Z` :thumbsup:
   * `2018-07-13T03:02:15Z` :thumbsup:
   * `2018-07-11T01:13:15Z` :thumbsup:
@@ -597,6 +659,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Coworker.org
 
 * http://no4gurk7efg4abwv.onion/
+  * `2018-07-13T22:25:16Z` :thumbsup:
   * `2018-07-13T10:20:00Z` :thumbsup:
   * `2018-07-13T03:00:13Z` :thumbsup:
   * `2018-07-11T01:12:40Z` :thumbsup:
@@ -605,6 +668,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## CPJ / Committee to Protect Journalists
 
 * http://2x2hb5ykeu4qlxqe.onion/
+  * `2018-07-13T22:10:04Z` :sos:
   * `2018-07-13T10:07:45Z` :sos:
   * `2018-07-13T02:48:57Z` :sos:
   * `2018-07-11T01:02:22Z` :sos:
@@ -613,6 +677,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Dagbladet
 
 * http://mz33367mcdrcdi7s.onion/
+  * `2018-07-13T22:25:14Z` :thumbsup:
   * `2018-07-13T10:19:13Z` :thumbsup:
   * `2018-07-13T03:00:09Z` :thumbsup:
   * `2018-07-11T01:12:38Z` :thumbsup:
@@ -621,6 +686,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Dossier Secrets
 
 * http://jtbxrtnye26o4a2a.onion/
+  * `2018-07-13T22:24:39Z` :thumbsup:
   * `2018-07-13T10:18:32Z` :thumbsup:
   * `2018-07-13T02:59:24Z` :thumbsup:
   * `2018-07-11T01:12:07Z` :thumbsup:
@@ -629,6 +695,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## DuckDuckGo
 
 * http://dmys7duszeb2salo.onion/
+  * `2018-07-13T22:17:23Z` :sos:
   * `2018-07-13T10:13:14Z` :thumbsup:
   * `2018-07-13T02:53:52Z` :thumbsup:
   * `2018-07-11T01:06:49Z` :thumbsup:
@@ -637,6 +704,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## ExposeFacts
 
 * http://znig4bc5rlwyj4mz.onion/
+  * `2018-07-13T22:34:15Z` :thumbsup:
   * `2018-07-13T10:28:33Z` :thumbsup:
   * `2018-07-13T03:08:49Z` :thumbsup:
   * `2018-07-11T01:17:37Z` :thumbsup:
@@ -645,6 +713,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Fairfax Media Group (.au; SMH et al.)
 
 * http://ipfhnseo4hgfw5mg.onion/
+  * `2018-07-13T22:24:33Z` :thumbsup:
   * `2018-07-13T10:18:22Z` :thumbsup:
   * `2018-07-13T02:59:13Z` :thumbsup:
   * `2018-07-11T01:12:02Z` :thumbsup:
@@ -653,6 +722,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Field of Vision
 
 * http://fovisionunz7mtxw.onion/
+  * `2018-07-13T22:20:21Z` :thumbsup:
   * `2018-07-13T10:15:46Z` :thumbsup:
   * `2018-07-13T02:56:20Z` :thumbsup:
   * `2018-07-11T01:09:02Z` :thumbsup:
@@ -661,6 +731,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Financial Times
 
 * http://xdm7flvwt3uvsrrd.onion/
+  * `2018-07-13T22:31:58Z` :thumbsup:
   * `2018-07-13T10:26:09Z` :thumbsup:
   * `2018-07-13T03:05:05Z` :thumbsup:
   * `2018-07-11T01:15:22Z` :thumbsup:
@@ -669,6 +740,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Forbes
 
 * http://fje2vboa55bbxjpm.onion
+  * `2018-07-13T22:20:18Z` :sos:
   * `2018-07-13T10:15:42Z` :sos:
   * `2018-07-13T02:56:15Z` :sos:
   * `2018-07-11T01:09:00Z` :sos:
@@ -677,6 +749,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Forbes
 
 * http://t5pv5o4t6jyjilp6.onion/
+  * `2018-07-13T22:27:45Z` :thumbsup:
   * `2018-07-13T10:21:42Z` :thumbsup:
   * `2018-07-13T03:02:03Z` :thumbsup:
   * `2018-07-11T01:13:07Z` :thumbsup:
@@ -685,6 +758,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Forbidden Stories
 
 * http://w7t5f3u4mej6dvpt.onion/
+  * `2018-07-13T22:29:55Z` :sos:
   * `2018-07-13T10:24:05Z` :sos:
   * `2018-07-13T03:03:01Z` :sos:
   * `2018-07-11T01:13:21Z` :thumbsup:
@@ -693,6 +767,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Foreign Policy
 
 * http://ghs7kwtznbq6t2su.onion/
+  * `2018-07-13T22:21:52Z` :thumbsup:
   * `2018-07-13T10:15:56Z` :thumbsup:
   * `2018-07-13T02:56:34Z` :thumbsup:
   * `2018-07-11T01:09:49Z` :thumbsup:
@@ -701,6 +776,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Gizmodo Media Group
 
 * http://gmg7jl25ony5g7ws.onion/
+  * `2018-07-13T22:21:54Z` :thumbsup:
   * `2018-07-13T10:16:00Z` :thumbsup:
   * `2018-07-13T02:56:42Z` :thumbsup:
   * `2018-07-11T01:09:51Z` :thumbsup:
@@ -709,6 +785,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Globe and Mail (.ca; Toronto)
 
 * http://sml5wmpuq7ifq2mh.onion/
+  * `2018-07-13T22:27:41Z` :thumbsup:
   * `2018-07-13T10:21:34Z` :thumbsup:
   * `2018-07-13T03:01:57Z` :thumbsup:
   * `2018-07-11T01:13:01Z` :thumbsup:
@@ -717,6 +794,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Greenpeace New Zealand
 
 * http://ll6edwtpfl3zdwoi.onion/
+  * `2018-07-13T22:25:04Z` :thumbsup:
   * `2018-07-13T10:18:58Z` :thumbsup:
   * `2018-07-13T02:59:49Z` :thumbsup:
   * `2018-07-11T01:12:20Z` :thumbsup:
@@ -725,6 +803,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Guardian
 
 * http://33y6fjyhs3phzfjj.onion/
+  * `2018-07-13T22:10:10Z` :thumbsup:
   * `2018-07-13T10:08:43Z` :thumbsup:
   * `2018-07-13T02:49:05Z` :thumbsup:
   * `2018-07-11T01:02:27Z` :thumbsup:
@@ -733,6 +812,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Heise Investigativ
 
 * http://sq4lecqyx4izcpkp.onion/
+  * `2018-07-13T22:27:43Z` :thumbsup:
   * `2018-07-13T10:21:36Z` :thumbsup:
   * `2018-07-13T03:02:00Z` :thumbsup:
   * `2018-07-11T01:13:04Z` :thumbsup:
@@ -741,6 +821,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Houston Chronicle
 
 * http://ibnfpppyydd6mg46.onion/
+  * `2018-07-13T22:24:00Z` :thumbsup:
   * `2018-07-13T10:18:08Z` :thumbsup:
   * `2018-07-13T02:58:53Z` :thumbsup:
   * `2018-07-11T01:11:56Z` :thumbsup:
@@ -749,6 +830,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## HuffPost
 
 * http://rbugf2rz5lmjbfun.onion/
+  * `2018-07-13T22:27:34Z` :thumbsup:
   * `2018-07-13T10:20:35Z` :thumbsup:
   * `2018-07-13T03:01:46Z` :thumbsup:
   * `2018-07-11T01:12:56Z` :thumbsup:
@@ -757,6 +839,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## ICIJ / International Consortium of Investigative Journalists
 
 * http://lzpczap7l3zxu7zv.onion/
+  * `2018-07-13T22:25:06Z` :thumbsup:
   * `2018-07-13T10:19:03Z` :thumbsup:
   * `2018-07-13T02:59:54Z` :thumbsup:
   * `2018-07-11T01:12:24Z` :thumbsup:
@@ -765,6 +848,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Intercept
 
 * http://intrcept32ncblef.onion/
+  * `2018-07-13T22:24:04Z` :thumbsup:
   * `2018-07-13T10:18:19Z` :thumbsup:
   * `2018-07-13T02:59:08Z` :thumbsup:
   * `2018-07-11T01:12:00Z` :thumbsup:
@@ -773,6 +857,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## KUOW Public Radio
 
 * http://hcxmf67v3ltykmww.onion/
+  * `2018-07-13T22:21:57Z` :thumbsup:
   * `2018-07-13T10:16:03Z` :thumbsup:
   * `2018-07-13T02:56:47Z` :thumbsup:
   * `2018-07-11T01:09:54Z` :thumbsup:
@@ -781,6 +866,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Lucy Parsons Labs (.us; Chicago)
 
 * http://qn4qfeeslglmwxgb.onion/
+  * `2018-07-13T22:27:33Z` :sos:
   * `2018-07-13T10:20:28Z` :sos:
   * `2018-07-13T03:01:35Z` :thumbsup:
   * `2018-07-11T01:12:51Z` :thumbsup:
@@ -789,6 +875,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## McClatchy DC
 
 * http://zafull3et6muayeh.onion/
+  * `2018-07-13T22:34:10Z` :thumbsup:
   * `2018-07-13T10:28:26Z` :thumbsup:
   * `2018-07-13T03:07:57Z` :thumbsup:
   * `2018-07-11T01:17:33Z` :thumbsup:
@@ -797,6 +884,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Meduza
 
 * http://xwt2mqq64h63ydp5.onion/
+  * `2018-07-13T22:32:02Z` :thumbsup:
   * `2018-07-13T10:26:14Z` :thumbsup:
   * `2018-07-13T03:05:22Z` :thumbsup:
   * `2018-07-11T01:15:27Z` :thumbsup:
@@ -805,6 +893,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Morgenbladet
 
 * http://g4wmrmqxpj5bnvml.onion/
+  * `2018-07-13T22:21:50Z` :thumbsup:
   * `2018-07-13T10:15:52Z` :thumbsup:
   * `2018-07-13T02:56:30Z` :thumbsup:
   * `2018-07-11T01:09:48Z` :thumbsup:
@@ -813,6 +902,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## MormonLeaks
 
 * http://efeip5ekoqi4upkz.onion/
+  * `2018-07-13T22:18:15Z` :thumbsup:
   * `2018-07-13T10:13:38Z` :thumbsup:
   * `2018-07-13T02:54:11Z` :thumbsup:
   * `2018-07-11T01:06:57Z` :thumbsup:
@@ -821,6 +911,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## New Internationalist
 
 * http://axcdo2zaeyrpdc6z.onion/
+  * `2018-07-13T22:14:28Z` :thumbsup:
   * `2018-07-13T10:13:02Z` :thumbsup:
   * `2018-07-13T02:53:36Z` :thumbsup:
   * `2018-07-11T01:06:40Z` :thumbsup:
@@ -829,6 +920,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## New York Times
 
 * https://nyttips4bmquxfzw.onion/ :lock:
+  * `2018-07-13T22:25:28Z` :thumbsup:
   * `2018-07-13T10:20:17Z` :thumbsup:
   * `2018-07-13T03:00:28Z` :thumbsup:
   * `2018-07-11T01:12:46Z` :thumbsup:
@@ -837,6 +929,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## New Yorker
 
 * http://icpozbs6r6yrwt67.onion/
+  * `2018-07-13T22:24:02Z` :thumbsup:
   * `2018-07-13T10:18:15Z` :thumbsup:
   * `2018-07-13T02:59:04Z` :thumbsup:
   * `2018-07-11T01:11:58Z` :thumbsup:
@@ -845,6 +938,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## NPR
 
 * http://5ha7oig7du2jeyer.onion/
+  * `2018-07-13T22:10:14Z` :thumbsup:
   * `2018-07-13T10:08:52Z` :thumbsup:
   * `2018-07-13T02:49:20Z` :thumbsup:
   * `2018-07-11T01:02:31Z` :thumbsup:
@@ -853,6 +947,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## NRK
 
 * http://nrkvarslekidu2uz.onion/
+  * `2018-07-13T22:25:18Z` :thumbsup:
   * `2018-07-13T10:20:03Z` :thumbsup:
   * `2018-07-13T03:00:16Z` :thumbsup:
   * `2018-07-11T01:12:42Z` :thumbsup:
@@ -861,6 +956,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Oregonian
 
 * http://a5gvhrpulvq33b3q.onion/
+  * `2018-07-13T22:14:14Z` :sos:
   * `2018-07-13T10:12:52Z` :sos:
   * `2018-07-13T02:53:20Z` :sos:
   * `2018-07-11T01:06:31Z` :sos:
@@ -869,6 +965,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Peerlyst
 
 * http://z5hns3zhhne7z6bl.onion/
+  * `2018-07-13T22:34:08Z` :sos:
   * `2018-07-13T10:28:21Z` :sos:
   * `2018-07-13T03:07:32Z` :sos:
   * `2018-07-11T01:17:31Z` :sos:
@@ -877,6 +974,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## POGO / Project On Government Oversight
 
 * http://dqeasamlf3jld2kz.onion/
+  * `2018-07-13T22:17:28Z` :thumbsup:
   * `2018-07-13T10:13:23Z` :thumbsup:
   * `2018-07-13T02:54:01Z` :thumbsup:
   * `2018-07-11T01:06:52Z` :thumbsup:
@@ -885,6 +983,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Politico
 
 * http://mq2du34rci6arhbd.onion/
+  * `2018-07-13T22:25:10Z` :thumbsup:
   * `2018-07-13T10:19:10Z` :thumbsup:
   * `2018-07-13T03:00:02Z` :thumbsup:
   * `2018-07-11T01:12:29Z` :thumbsup:
@@ -893,6 +992,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Public Intelligence
 
 * http://arujlhu2zjjhc3bw.onion/
+  * `2018-07-13T22:14:21Z` :thumbsup:
   * `2018-07-13T10:12:59Z` :thumbsup:
   * `2018-07-13T02:53:30Z` :thumbsup:
   * `2018-07-11T01:06:35Z` :thumbsup:
@@ -901,6 +1001,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Radio-Canada
 
 * http://w5jfqhep2jbypkek.onion/
+  * `2018-07-13T22:27:55Z` :thumbsup:
   * `2018-07-13T10:22:05Z` :thumbsup:
   * `2018-07-13T03:02:22Z` :thumbsup:
   * `2018-07-11T01:13:19Z` :thumbsup:
@@ -909,6 +1010,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Radio24syv
 
 * http://hpjw636qnt5avq62.onion/
+  * `2018-07-13T22:23:58Z` :sos:
   * `2018-07-13T10:18:03Z` :sos:
   * `2018-07-13T02:58:47Z` :sos:
   * `2018-07-11T01:11:54Z` :sos:
@@ -917,6 +1019,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Reuters
 
 * http://smb7p276iht3i2fj.onion/
+  * `2018-07-13T22:27:38Z` :thumbsup:
   * `2018-07-13T10:21:29Z` :thumbsup:
   * `2018-07-13T03:01:52Z` :thumbsup:
   * `2018-07-11T01:13:00Z` :thumbsup:
@@ -925,6 +1028,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Reveal
 
 * http://k4jn3q4ob77nefhv.onion/
+  * `2018-07-13T22:24:43Z` :thumbsup:
   * `2018-07-13T10:18:35Z` :thumbsup:
   * `2018-07-13T02:59:29Z` :thumbsup:
   * `2018-07-11T01:12:11Z` :thumbsup:
@@ -933,6 +1037,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## RISE Moldova
 
 * http://6lhmirnluwmvjw4z.onion/
+  * `2018-07-13T22:12:14Z` :sos:
   * `2018-07-13T10:10:52Z` :sos:
   * `2018-07-13T02:51:20Z` :sos:
   * `2018-07-11T01:04:31Z` :sos:
@@ -941,6 +1046,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## San Francisco Chronicle
 
 * http://nrwvazcz6figxpg5.onion/
+  * `2018-07-13T22:25:23Z` :thumbsup:
   * `2018-07-13T10:20:09Z` :thumbsup:
   * `2018-07-13T03:00:23Z` :thumbsup:
   * `2018-07-11T01:12:44Z` :thumbsup:
@@ -949,6 +1055,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Schwartz Media
 
 * http://od2icdth5ceo32wq.onion/
+  * `2018-07-13T22:25:33Z` :thumbsup:
   * `2018-07-13T10:20:23Z` :thumbsup:
   * `2018-07-13T03:01:31Z` :thumbsup:
   * `2018-07-11T01:12:49Z` :thumbsup:
@@ -957,6 +1064,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Stuff Limited
 
 * http://ki3emfb55ywtg5tm.onion/
+  * `2018-07-13T22:24:52Z` :thumbsup:
   * `2018-07-13T10:18:51Z` :thumbsup:
   * `2018-07-13T02:59:38Z` :thumbsup:
   * `2018-07-11T01:12:15Z` :thumbsup:
@@ -965,6 +1073,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Svenska Dagbladet
 
 * http://cnhuql7wj2ga5iv7.onion/
+  * `2018-07-13T22:15:23Z` :thumbsup:
   * `2018-07-13T10:13:09Z` :thumbsup:
   * `2018-07-13T02:53:46Z` :thumbsup:
   * `2018-07-11T01:06:46Z` :thumbsup:
@@ -973,6 +1082,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## The Atlantic
 
 * http://s6xle2dgrsqcxiwb.onion/
+  * `2018-07-13T22:27:37Z` :thumbsup:
   * `2018-07-13T10:20:44Z` :thumbsup:
   * `2018-07-13T03:01:50Z` :thumbsup:
   * `2018-07-11T01:12:58Z` :thumbsup:
@@ -981,6 +1091,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## The Daily Beast
 
 * http://bcwyjiwj25t44it6.onion/
+  * `2018-07-13T22:14:29Z` :thumbsup:
   * `2018-07-13T10:13:06Z` :thumbsup:
   * `2018-07-13T02:53:39Z` :thumbsup:
   * `2018-07-11T01:06:42Z` :thumbsup:
@@ -989,6 +1100,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## The Telegraph
 
 * http://ldbtuktejbkg227d.onion/
+  * `2018-07-13T22:24:56Z` :thumbsup:
   * `2018-07-13T10:18:56Z` :thumbsup:
   * `2018-07-13T02:59:44Z` :thumbsup:
   * `2018-07-11T01:12:17Z` :thumbsup:
@@ -997,6 +1109,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## The Verge, Racked, Eater
 
 * http://2xat73hlwcpwo2zy.onion/
+  * `2018-07-13T22:10:07Z` :thumbsup:
   * `2018-07-13T10:07:58Z` :thumbsup:
   * `2018-07-13T02:49:02Z` :thumbsup:
   * `2018-07-11T01:02:25Z` :thumbsup:
@@ -1005,6 +1118,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## USA Today
 
 * https://usatodayw7vu5egc.onion :lock:
+  * `2018-07-13T22:27:47Z` :thumbsup:
   * `2018-07-13T10:21:48Z` :thumbsup:
   * `2018-07-13T03:02:07Z` :thumbsup:
   * `2018-07-11T01:13:12Z` :thumbsup:
@@ -1013,6 +1127,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## VG / Verdens Gang
 
 * http://vgnettwin5lyl4yr.onion/
+  * `2018-07-13T22:27:54Z` :thumbsup:
   * `2018-07-13T10:22:00Z` :thumbsup:
   * `2018-07-13T03:02:18Z` :thumbsup:
   * `2018-07-11T01:13:17Z` :thumbsup:
@@ -1021,6 +1136,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## VICE Media
 
 * http://e3v3x57ykz25uvij.onion/
+  * `2018-07-13T22:17:30Z` :thumbsup:
   * `2018-07-13T10:13:34Z` :thumbsup:
   * `2018-07-13T02:54:04Z` :thumbsup:
   * `2018-07-11T01:06:55Z` :thumbsup:
@@ -1029,6 +1145,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Wall Street Journal
 
 * http://z5duvjw7ztnuc6fg.onion/
+  * `2018-07-13T22:32:08Z` :thumbsup:
   * `2018-07-13T10:26:21Z` :thumbsup:
   * `2018-07-13T03:05:32Z` :thumbsup:
   * `2018-07-11T01:15:31Z` :thumbsup:
@@ -1037,6 +1154,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Washington Post
 
 * https://jcw5q6uyjioupxcc.onion/ :lock:
+  * `2018-07-13T22:24:36Z` :thumbsup:
   * `2018-07-13T10:18:27Z` :thumbsup:
   * `2018-07-13T02:59:20Z` :thumbsup:
   * `2018-07-11T01:12:05Z` :thumbsup:
@@ -1045,6 +1163,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Whistleblower Aid
 
 * http://uwd57qermcote3au.onion/
+  * `2018-07-13T22:27:51Z` :thumbsup:
   * `2018-07-13T10:21:52Z` :thumbsup:
   * `2018-07-13T03:02:11Z` :thumbsup:
   * `2018-07-11T01:13:14Z` :thumbsup:
@@ -1053,6 +1172,7 @@ Connectivity was last checked at: **2018-07-13T10:36:30Z**
 ## Wired
 
 * http://k5ri3fdr232d36nb.onion/
+  * `2018-07-13T22:24:47Z` :thumbsup:
   * `2018-07-13T10:18:48Z` :thumbsup:
   * `2018-07-13T02:59:32Z` :thumbsup:
   * `2018-07-11T01:12:13Z` :thumbsup:
