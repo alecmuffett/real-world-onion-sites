@@ -112,7 +112,11 @@ foreach $catname (sort keys %tree) {
 print "\n";
 
 
-foreach $catname (sort { (scalar keys %{$tree{$a}}) <=> (scalar keys %{$tree{$b}}) } keys %tree) {
+foreach $catname (sort {
+    ((scalar keys %{$tree{$a}}) <=>
+     (scalar keys %{$tree{$b}})) or
+     ($a cmp $b)
+                  } keys %tree) {
     print "----\n\n";
     my $catprint = &canon($catname);
     print "# $catprint\n\n";
