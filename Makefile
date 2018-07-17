@@ -9,3 +9,6 @@ all:
 
 clean:
 	rm *~
+
+wat:
+	git diff HEAD^
