@@ -6,6 +6,7 @@ all:
 	./get-ct-logs.sh
 	git add .
 	git commit -m "auto-update on `date`"
+	git push
 
 clean:
 	rm *~
