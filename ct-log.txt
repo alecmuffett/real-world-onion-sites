@@ -4,6 +4,7 @@ ajarouh33jee5tos.onion
 *.api.nytimes3xbfgragh.onion
 *.api.stg.nytimes3xbfgragh.onion
 audio.cyphdbyhiddenbhs.onion
+bfnews3u2ox4m4ty.onion
 blockchainbdgpzk.onion
 blockchatvqztbll.onion
 *.blogs5.stg.nytimes3xbfgragh.onion
