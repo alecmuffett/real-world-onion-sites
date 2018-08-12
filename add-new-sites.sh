@@ -1,6 +1,8 @@
 #!/bin/sh
 
 while read category scheme onion_address proof_url title ; do
+    test x$category = x && continue
+
     if [ ! -d "directory/$category" ] ; then
         echo oops: bad category $category for $onion_address
         exit 1
@@ -21,9 +23,14 @@ while read category scheme onion_address proof_url title ; do
     echo $proof_url >$dir/proof
     echo $scheme://$onion_address/ >$dir/urls # add more by hand, later
 done <<EOF
-securedrop-for-organisations http lzpczap7l3zxu7zv.onion https://www.icij.org/securedrop ICIJ / International Consortium of Investigative Journalists
-tech-and-software https hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion proof-in-ssl-cert Ablative Hosting
-civil-society-and-community https xychelseaxqpywe4.onion https://twitter.com/xychelsea/status/989539441978040321 Chelsea Manning for US Senate
-news-and-media https p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion proof-in-ssl-cert ProPublica
-securedrop-for-organisations https y27vf7g2ce5g3fnl.onion proof-in-ssl-cert Aftonbladet
+news-and-media https bfnews3u2ox4m4ty.onion proof-in-ssl-cert BuzzFeed News
+
+tech-and-software http lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion https://onionshare.org/ OnionShare
+
+tech-and-software http sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion http://sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion/ Qubes OS
+
+tech-and-software http dxsj6ifxytlgq33k.onion https://hardenedbsd.org/article/shawn-webb/2017-03-11/hardenedbsd-through-tor-hidden-service Hardened BSD
+
+tech-and-software http 3jkjhrvkdbdkqisnwhdpe4afh2j2g3suhsfcewiemsyk5ecd6gadmxyd.onion https://hardenedbsd.org/article/shawn-webb/2017-03-11/hardenedbsd-through-tor-hidden-service Hardened BSD
+
 EOF
