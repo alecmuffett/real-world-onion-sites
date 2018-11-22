@@ -38,6 +38,7 @@ hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion
 Identity LIKE '%.onion'
 *.idp.persgroepsttfzr7.onion
 im.cyphdbyhiddenbhs.onion
+itipwhiteopsdx64.onion
 jcw5q6uyjioupxcc.onion
 k2hzvhcagvmx4us2.onion
 k6jyto7zq7xxriux.onion
