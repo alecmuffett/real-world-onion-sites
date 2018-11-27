@@ -69,6 +69,7 @@ pubapp7v22ykdou3.onion
 pubdrop4dw6rk3aq.onion
 sarajarxpvoenum6.onion
 *.sbx.nytimes3xbfgragh.onion
+secrdrop5wyphb5x.onion
 sgeffsn6tztqzlpx.onion
 sgpsbq5hd3pxwl7m.onion
 *.stg.blogs.nytimes3xbfgragh.onion
@@ -93,6 +94,7 @@ www.k6jyto7zq7xxriux.onion
 www.osf22p3lmweopgho.onion
 www.p5xhdvsjmnlmeo6v.onion
 www.privacyintyqcroe.onion
+www.secrdrop5wyphb5x.onion
 www.sgpsbq5hd3pxwl7m.onion
 www.tess2mkorb55pl7i.onion
 www.try2checklm32oc3.onion
