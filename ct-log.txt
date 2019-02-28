@@ -4,6 +4,7 @@ ajarouh33jee5tos.onion
 *.api.nytimes3xbfgragh.onion
 *.api.stg.nytimes3xbfgragh.onion
 audio.cyphdbyhiddenbhs.onion
+bbpclp57ed3yhnqj.onion
 bfnews3u2ox4m4ty.onion
 blockchainbdgpzk.onion
 blockchatvqztbll.onion
@@ -85,6 +86,7 @@ video.cyphdbyhiddenbhs.onion
 *.vipebuzedutoa6p6.onion
 vipebuzedutoa6p6.onion
 www.3g2upl4pq6kufc4m.onion
+www.bbpclp57ed3yhnqj.onion
 www.bestsellers.nytimes3xbfgragh.onion
 www.btcforuml2pcfkyx.onion
 www.haiwnaestfknxbda.onion
