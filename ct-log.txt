@@ -38,9 +38,11 @@ htikmirac7bzq75o.onion
 hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion
 Identity LIKE '%.onion'
 *.idp.persgroepsttfzr7.onion
+iiutnqstqrrygumyggv4t7vsrzf3dgd27rolrfkhkus4mg5i6yein4qd.onion
 im.cyphdbyhiddenbhs.onion
 itipwhiteopsdx64.onion
 jcw5q6uyjioupxcc.onion
+jg2kqkrs2rapdiu5.onion
 k2hzvhcagvmx4us2.onion
 k6jyto7zq7xxriux.onion
 *.m.facebookcorewwwi.onion
