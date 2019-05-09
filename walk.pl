@@ -129,6 +129,7 @@ foreach $catname (sort {
 
         foreach my $line (@{$onion->{urls}}) {
             print "* $line";
+            print " :small_orange_diamond:" if ($line =~ m!http://!);
             print " :lock:" if ($line =~ m!https://!);
             print "\n";
         }
