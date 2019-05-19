@@ -35,6 +35,7 @@ graylady3jvrrxbe.onion
 greyrallymarqk3t.onion
 haiwnaestfknxbda.onion
 htikmirac7bzq75o.onion
+*.hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion
 hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion
 Identity LIKE '%.onion'
 *.idp.persgroepsttfzr7.onion
