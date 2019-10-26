@@ -23,6 +23,5 @@ while read category scheme onion_address proof_url title ; do
     echo $proof_url >$dir/proof
     echo $scheme://$onion_address/ >$dir/urls # add more by hand, later
 done <<EOF
-news-and-media https www.bbcnewsv2vjtpsuy.onion https://www.bbc.co.uk/news/technology-50150981 BBC News
-web-and-internet http archivecaslytosk.onion https://archive.is/ Archive Today (archive.is)
+tech-and-software http keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion https://keybase.io/docs/command_line/tor  keybase.io
 EOF
