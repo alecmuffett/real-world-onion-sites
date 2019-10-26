@@ -23,8 +23,6 @@ while read category scheme onion_address proof_url title ; do
     echo $proof_url >$dir/proof
     echo $scheme://$onion_address/ >$dir/urls # add more by hand, later
 done <<EOF
-government http ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion https://www.cia.gov/news-information/featured-story-archive/2019-featured-story-archive/latest-layer-an-onion-site.html US Central Intelligence Agency
+news-and-media https www.bbcnewsv2vjtpsuy.onion https://www.bbc.co.uk/news/technology-50150981 BBC News
+web-and-internet http archivecaslytosk.onion https://archive.is/ Archive Today (archive.is)
 EOF
-
-#web-and-internet ???? freenodeok2gncmy.onion https://freenode.net/kb/answer/chat Freenode
-#web-and-internet ???? ajnvpgl6prmkb7yktvue6im5wiedlz2w32uhcwaamdiecdrfpwwgnlqd.onion https://freenode.net/kb/answer/chat Freenode
