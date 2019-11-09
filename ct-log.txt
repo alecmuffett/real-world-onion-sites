@@ -22,12 +22,15 @@ blockchatvqztbll.onion
 cf6kvc4g63fnhkkq.onion
 *.cfvod.qklykfiomrwjhdz4.onion
 coinpaymtstgtibr.onion
+*.commons.dwnewsvdyyiamwnp.onion
 cyphdbyhiddenbhs.onion
 *.dev.blogs.nytimes3xbfgragh.onion
 *.dev.graylady3jvrrxbe.onion
 *.dev.nytimes3xbfgragh.onion
 *.dnr.persgroepsttfzr7.onion
 dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion
+*.dwnewsvdyyiamwnp.onion
+dwnewsvdyyiamwnp.onion
 *.erzs4cd7i5eox4cg.onion
 erzs4cd7i5eox4cg.onion
 *.facebookcorewwwi.onion
@@ -55,6 +58,8 @@ k2hzvhcagvmx4us2.onion
 *.live.s5rhoqqosmcispfb.onion
 *.m.facebookcorewwwi.onion
 m.facebookcorewwwi.onion
+*.mkyivn5qd25lf7r6.onion
+mkyivn5qd25lf7r6.onion
 *.newsdev.nytimes3xbfgragh.onion
 nytimes2tsqtnxek.onion
 *.nytimes3xbfgragh.onion
@@ -98,6 +103,8 @@ try2checklm32oc3.onion
 usatodayw7vu5egc.onion
 *.vipebuzedutoa6p6.onion
 vipebuzedutoa6p6.onion
+*.wcoc6qfoyfmrqj2r.onion
+wcoc6qfoyfmrqj2r.onion
 www.3g2upl4pq6kufc4m.onion
 www.bbpclp57ed3yhnqj.onion
 www.bestsellers.nytimes3xbfgragh.onion
