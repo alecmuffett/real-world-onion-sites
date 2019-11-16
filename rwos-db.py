@@ -189,9 +189,9 @@ def grep_using(chunk, k, v, invert=False):
 
 def get_proof(row):
     url = get_placeholder(row, 'proof_url')
-    if url == '-': return 'proof to be done'
-    if url == 'ssl': return 'check tls/ssl certificate'
-    return '[proof link]({})'.format(url)
+    if url == '-': return 'to be done'
+    if url == 'ssl': return 'see tls/ssl certificate'
+    return '[link]({})'.format(url)
 
 def get_summary(url):
     rows = GLOBAL_DB.summary(url)
@@ -229,7 +229,7 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         if comment != '-': print('*{}*'.format(comment))
         print(B, '[{0}]({0})'.format(url), padlock)
         # print proof unconditionally, as encouragement to fix it
-        print(B, '*{0}*'.format(get_proof(row)))
+        print(B, 'proof: {0}'.format(get_proof(row)))
         if print_bar:
             for fetch in get_summary(url):
                 print(BB, fetch)
