@@ -2,26 +2,28 @@
 
 This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 
-- no onion-only sites
+- no sites with an "onion-only" presence
 - no sites for tech with less than (arbitrary) 10,000 users
 - no nudity, exploitation, drugs, copyright infringement or sketchy-content sites
-- the editor may annotate or drop any entries as deemed fit
+- the editor reserves all rights to annotate or drop any or all entries as deemed fit
 - updated: [see the change history for specifics](https://github.com/alecmuffett/onion-sites-that-dont-suck/commits/master/README.md)
 - licensed: cc-by-sa
 - author/editor: alec muffett
 
 ## Notes
 
-- This file (`README.md`) is now auto-generated; do not submit changes for it
-  - Please submit an `Issue` for consideration / change requests
+- If both v2 and v3 addresses are provided for a service, the v3 address will be preferred / cited
 - Code `9xx` if cited below, is a special code which indicates (possibly temporary) failure to connect
 - The master list of Onion SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
+- This file (`README.md`) is auto-generated; do not submit changes nor pull-requests for it
+  - Please submit an `Issue` for consideration / change requests
 
 ----
 # Index
 
 * [Civil Society And Community](#civil-society-and-community)
 * [Companies And Services](#companies-and-services)
+* [Education](#education)
 * [Globaleaks](#globaleaks)
 * [Government](#government)
 * [News And Media](#news-and-media)
@@ -46,6 +48,7 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:38+00:00
 
 ### [Riseup Onion Index](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services)
+*provides shared notepad, file sharing, code hosting, and other services*
 * [http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services) :wrench:
 * *[proof link](https://riseup.net/en/security/network-security/tor#riseups-tor-onion-services)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:40+00:00
@@ -57,6 +60,7 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:42+00:00
 
 ### [Systemli Onion Index](http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/service/onion.html)
+*provides shared notepad, spreadsheet, pastebin, and other services*
 * [http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/service/onion.html](http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/service/onion.html) :wrench:
 * *[proof link](https://www.systemli.org/en/service/onion.html)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:45+00:00
@@ -66,19 +70,33 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 ## Companies And Services
 
 ### [decoded:Legal](http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/)
+*english law firm*
 * [http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/](http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/) :wrench:
-* *english law firm*
 * *[proof link](https://solicitors.lawsociety.org.uk/office/593348/decoded-legal-limited)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:46+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:37+00:00
   * :white_check_mark: attempt=3 code=200 time=2019-11-16 16:41:52+00:00
 
 ----
+## Education
+
+### [BBC Learning English](http://www.s5rhoqqosmcispfb.onion/learningenglish/)
+*includes resources for many languages*
+* [http://www.s5rhoqqosmcispfb.onion/learningenglish/](http://www.s5rhoqqosmcispfb.onion/learningenglish/) :wrench:
+* *check tls/ssl certificate*
+  * :interrobang:
+
+### [BBC Learning English: Mandarin](http://www.s5rhoqqosmcispfb.onion/learningenglish/chinese)
+* [http://www.s5rhoqqosmcispfb.onion/learningenglish/chinese](http://www.s5rhoqqosmcispfb.onion/learningenglish/chinese) :wrench:
+* *check tls/ssl certificate*
+  * :interrobang:
+
+----
 ## Globaleaks
 
 ### [ALAT / Allerta AntiCorruzione](http://fkut2p37apcg6l7f.onion/)
+*italian whistleblowing*
 * [http://fkut2p37apcg6l7f.onion/](http://fkut2p37apcg6l7f.onion/) :wrench:
-* *italian whistleblowing*
 * *[proof link](https://allertaanticorruzione.transparency.it/servizio-alac/)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:57+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:50+00:00
@@ -92,24 +110,24 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:02+00:00
 
 ### [Atlatszo MagyarLeaks](http://ak2uqfavwgmjrvtu.onion/)
+*hungarian leaks*
 * [http://ak2uqfavwgmjrvtu.onion/](http://ak2uqfavwgmjrvtu.onion/) :wrench:
-* *hungarian leaks*
 * *[proof link](https://atlatszo.hu/magyarleaks/)*
   * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 18:42:28+00:00
   * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 17:59:38+00:00
   * :negative_squared_cross_mark: attempt=2 code=405 time=2019-11-16 16:40:02+00:00
 
 ### [Bezkorupce.cz](http://iopx5pchfdldldwp.onion/)
+*czech anticorruption reporting site*
 * [http://iopx5pchfdldldwp.onion/](http://iopx5pchfdldldwp.onion/) :wrench:
-* *czech anticorruption reporting site*
 * *[proof link](https://secure.bezkorupce.cz/)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:33+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:45+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:40:40+00:00
 
 ### [IRPILeaks](http://5r4bjnjug3apqdii.onion/)
+*italian investigative reporting project*
 * [http://5r4bjnjug3apqdii.onion/](http://5r4bjnjug3apqdii.onion/) :wrench:
-* *italian investigative reporting project*
 * *[proof link](https://irpi.eu/en/leaks/how-irpileaks-works/)*
   * :sos: attempt=5 code=903 time=2019-11-16 18:46:42+00:00
   * :sos: attempt=5 code=903 time=2019-11-16 18:03:57+00:00
@@ -130,16 +148,16 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:21+00:00
 
 ### [Wildleaks](http://ppdz5djzpo3w5k2z.onion/)
+*elephant action league*
 * [http://ppdz5djzpo3w5k2z.onion/](http://ppdz5djzpo3w5k2z.onion/) :wrench:
-* *elephant action league*
 * *[proof link](https://www.wildleaks.org/the-technology/)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:43+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:55+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:43:09+00:00
 
 ### [XNet Activism](http://ztjn5gcdsqeqzmw4.onion/)
+*anticorruption whistleblowing*
 * [http://ztjn5gcdsqeqzmw4.onion/](http://ztjn5gcdsqeqzmw4.onion/) :wrench:
-* *anticorruption whistleblowing*
 * *[proof link](https://xnet-x.net/en/xnetleaks/)*
   * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 18:42:29+00:00
   * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 17:59:40+00:00
@@ -164,6 +182,11 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:39+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:52+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:41:33+00:00
+
+### [BBC News Arabic](https://www.s5rhoqqosmcispfb.onion/arabic)
+* [https://www.s5rhoqqosmcispfb.onion/arabic](https://www.s5rhoqqosmcispfb.onion/arabic) :closed_lock_with_key:
+* *check tls/ssl certificate*
+  * :interrobang:
 
 ### [BBC News Chinese](https://www.s5rhoqqosmcispfb.onion/ukchina/simp)
 * [https://www.s5rhoqqosmcispfb.onion/ukchina/simp](https://www.s5rhoqqosmcispfb.onion/ukchina/simp) :closed_lock_with_key:
@@ -192,6 +215,11 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:30+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:40+00:00
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:10+00:00
+
+### [BBC News Vietnam](https://www.s5rhoqqosmcispfb.onion/vietnamese)
+* [https://www.s5rhoqqosmcispfb.onion/vietnamese](https://www.s5rhoqqosmcispfb.onion/vietnamese) :closed_lock_with_key:
+* *check tls/ssl certificate*
+  * :interrobang:
 
 ### [BuzzFeed News](https://bfnews3u2ox4m4ty.onion/)
 * [https://bfnews3u2ox4m4ty.onion/](https://bfnews3u2ox4m4ty.onion/) :closed_lock_with_key:
@@ -240,6 +268,11 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 ----
 ## Securedrop For Organisations
 
+### [2600: The Hacker Quarterly](http://lxa4rh3xy2s7cvfy.onion/)
+* [http://lxa4rh3xy2s7cvfy.onion/](http://lxa4rh3xy2s7cvfy.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
+
 ### [Adresseavisen](http://xpx3m5hcnrkds5wg.onion/)
 * [http://xpx3m5hcnrkds5wg.onion/](http://xpx3m5hcnrkds5wg.onion/) :wrench:
 * *[proof link](https://securedrop.adressa.no/)*
@@ -260,6 +293,11 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:43+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:13+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:26+00:00
+
+### [Al-Jazeera](http://aljazeerafo4sau2.onion/)
+* [http://aljazeerafo4sau2.onion/](http://aljazeerafo4sau2.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
 
 ### [Apache](http://zdf4nikyuswdzbt6.onion/)
 * [http://zdf4nikyuswdzbt6.onion/](http://zdf4nikyuswdzbt6.onion/) :wrench:
@@ -282,6 +320,16 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:20+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:21+00:00
 
+### [BuzzFeed](http://ndg43ilvrrj465ix.onion/)
+* [http://ndg43ilvrrj465ix.onion/](http://ndg43ilvrrj465ix.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
+
+### [CBC / Canadian Broadcasting Corporation](http://odazpl6u3vhoedhn.onion/)
+* [http://odazpl6u3vhoedhn.onion/](http://odazpl6u3vhoedhn.onion/) :wrench:
+* *[proof link](https://securedrop.cbc.ca/)*
+  * :interrobang:
+
 ### [Coworker.org](http://no4gurk7efg4abwv.onion/)
 * [http://no4gurk7efg4abwv.onion/](http://no4gurk7efg4abwv.onion/) :wrench:
 * *[proof link](https://home.coworker.org/contact/)*
@@ -296,12 +344,10 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:10+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:43:36+00:00
 
-### [Field of Vision](http://fovisionunz7mtxw.onion/)
-* [http://fovisionunz7mtxw.onion/](http://fovisionunz7mtxw.onion/) :wrench:
+### [Field of Vision](http://2mgwjg7ezpxhx5wb7zktijtnuy6qnobvurtberow52hlij2iw6eo5rad.onion/)
+* [http://2mgwjg7ezpxhx5wb7zktijtnuy6qnobvurtberow52hlij2iw6eo5rad.onion/](http://2mgwjg7ezpxhx5wb7zktijtnuy6qnobvurtberow52hlij2iw6eo5rad.onion/) :wrench:
 * *[proof link](https://fieldofvision.org/securedrop)*
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:53+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:18+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:20+00:00
+  * :interrobang:
 
 ### [Financial Times](http://xdm7flvwt3uvsrrd.onion/)
 * [http://xdm7flvwt3uvsrrd.onion/](http://xdm7flvwt3uvsrrd.onion/) :wrench:
@@ -324,12 +370,15 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:17+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:43:36+00:00
 
-### [Globe and Mail (Toronto)](http://sml5wmpuq7ifq2mh.onion/)
-* [http://sml5wmpuq7ifq2mh.onion/](http://sml5wmpuq7ifq2mh.onion/) :wrench:
-* *[proof link](https://sec.theglobeandmail.com/securedrop/)*
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:43+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:06+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:41:50+00:00
+### [Gizmodo Media Group](http://gmg7jl25ony5g7ws.onion/)
+* [http://gmg7jl25ony5g7ws.onion/](http://gmg7jl25ony5g7ws.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
+
+### [Global Witness](http://37fmdxug33hhyi2g.onion/)
+* [http://37fmdxug33hhyi2g.onion/](http://37fmdxug33hhyi2g.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
 
 ### [Guardian](http://33y6fjyhs3phzfjj.onion/)
 * [http://33y6fjyhs3phzfjj.onion/](http://33y6fjyhs3phzfjj.onion/) :wrench:
@@ -366,12 +415,10 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:21+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:53+00:00
 
-### [Intercept](http://intrcept32ncblef.onion/)
-* [http://intrcept32ncblef.onion/](http://intrcept32ncblef.onion/) :wrench:
-* *[proof link](https://theintercept.com/securedrop/)*
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:46+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:10+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:41+00:00
+### [Institute for Quantitative Social Science at Harvard University](http://loshhem4ebuaos3q.onion/)
+* [http://loshhem4ebuaos3q.onion/](http://loshhem4ebuaos3q.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
 
 ### [KUOW Public Radio](http://hcxmf67v3ltykmww.onion/)
 * [http://hcxmf67v3ltykmww.onion/](http://hcxmf67v3ltykmww.onion/) :wrench:
@@ -401,12 +448,17 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:11+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:08+00:00
 
-### [MormonLeaks](http://efeip5ekoqi4upkz.onion/)
+### [MormonLeaks / FaithLeaks](http://efeip5ekoqi4upkz.onion/)
 * [http://efeip5ekoqi4upkz.onion/](http://efeip5ekoqi4upkz.onion/) :wrench:
 * *[proof link](https://mormonleaks.io/)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:57+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:18+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:36+00:00
+
+### [NBCNews](http://htikmirac7bzq75o.onion/)
+* [http://htikmirac7bzq75o.onion/](http://htikmirac7bzq75o.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
 
 ### [NPR](http://5ha7oig7du2jeyer.onion/)
 * [http://5ha7oig7du2jeyer.onion/](http://5ha7oig7du2jeyer.onion/) :wrench:
@@ -450,6 +502,11 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:24+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:43:51+00:00
 
+### [Reflets.info](http://ehcxwl4f62lkek65.onion/)
+* [http://ehcxwl4f62lkek65.onion/](http://ehcxwl4f62lkek65.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
+
 ### [Reuters](http://smb7p276iht3i2fj.onion/)
 * [http://smb7p276iht3i2fj.onion/](http://smb7p276iht3i2fj.onion/) :wrench:
 * *[proof link](https://www.reuters.com/investigates/special-report/tips/)*
@@ -471,12 +528,38 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:35+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:53+00:00
 
+### [Süddeutsche Zeitung](http://rx4g2bilxipcryde.onion/)
+* [http://rx4g2bilxipcryde.onion/](http://rx4g2bilxipcryde.onion/) :wrench:
+* *proof to be done*
+  * :interrobang:
+
 ### [The Daily Beast](http://bcwyjiwj25t44it6.onion/)
 * [http://bcwyjiwj25t44it6.onion/](http://bcwyjiwj25t44it6.onion/) :wrench:
 * *[proof link](https://www.thedailybeast.com/tips)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:57+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:42+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:06+00:00
+
+### [The Globe and Mail (Toronto)](http://sml5wmpuq7ifq2mh.onion/)
+* [http://sml5wmpuq7ifq2mh.onion/](http://sml5wmpuq7ifq2mh.onion/) :wrench:
+* *[proof link](https://sec.theglobeandmail.com/securedrop/)*
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:43+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:06+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:41:50+00:00
+
+### [The Intercept](http://intrcept32ncblef.onion/)
+* [http://intrcept32ncblef.onion/](http://intrcept32ncblef.onion/) :wrench:
+* *[proof link](https://theintercept.com/securedrop/)*
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:46+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:10+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:41+00:00
+
+### [The Washington Post](https://jcw5q6uyjioupxcc.onion/)
+* [https://jcw5q6uyjioupxcc.onion/](https://jcw5q6uyjioupxcc.onion/) :closed_lock_with_key:
+* *[proof link](https://www.washingtonpost.com/securedrop/)*
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:30+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:33+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:22+00:00
 
 ### [USA Today](https://usatodayw7vu5egc.onion/)
 * [https://usatodayw7vu5egc.onion/](https://usatodayw7vu5egc.onion/) :closed_lock_with_key:
@@ -498,13 +581,6 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:58+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:28+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:43:50+00:00
-
-### [Washington Post](https://jcw5q6uyjioupxcc.onion/)
-* [https://jcw5q6uyjioupxcc.onion/](https://jcw5q6uyjioupxcc.onion/) :closed_lock_with_key:
-* *[proof link](https://www.washingtonpost.com/securedrop/)*
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:30+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:33+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:22+00:00
 
 ### [Whistleblower Aid](http://uwd57qermcote3au.onion/)
 * [http://uwd57qermcote3au.onion/](http://uwd57qermcote3au.onion/) :wrench:
@@ -553,6 +629,7 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:34+00:00
 
 ### [Debian Onion Index](http://5nca3wxl33tzlzj5.onion/)
+*everything debian*
 * [http://5nca3wxl33tzlzj5.onion/](http://5nca3wxl33tzlzj5.onion/) :wrench:
 * *[proof link](https://onion.debian.org/)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:27+00:00
@@ -595,6 +672,7 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:58+00:00
 
 ### [Tor Project Onion Index](http://yz7lpwfhhzcdyc5y.onion/)
+*everything tor*
 * [http://yz7lpwfhhzcdyc5y.onion/](http://yz7lpwfhhzcdyc5y.onion/) :wrench:
 * *[proof link](https://onion.torproject.org/)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:31+00:00
@@ -660,7 +738,7 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:45+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:46:03+00:00
 
-### [Facebook Desktop](https://www.facebookcorewwwi.onion/)
+### [Facebook](https://www.facebookcorewwwi.onion/)
 * [https://www.facebookcorewwwi.onion/](https://www.facebookcorewwwi.onion/) :closed_lock_with_key:
 * *[proof link](https://www.facebook.com/notes/protect-the-graph/making-connections-to-facebook-more-secure/1526085754298237/)*
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:50+00:00
@@ -700,10 +778,6 @@ These sites have apparently stopped responding.
 ### [Business Insider](http://doaxi7t7lkctvq5i.onion/)
 * [http://doaxi7t7lkctvq5i.onion/](http://doaxi7t7lkctvq5i.onion/) :wrench:
 * *[proof link](https://www.businessinsider.com/how-to-tip-business-insider-securely-guide-signal-securedrop-2017-6)*
-
-### [CBC / Canadian Broadcasting Corporation](http://ad2ztmbv5vmbj7ic.onion/)
-* [http://ad2ztmbv5vmbj7ic.onion/](http://ad2ztmbv5vmbj7ic.onion/) :wrench:
-* *[proof link](https://securedrop.cbc.ca/)*
 
 ### [Fairfax Media Group (SMH et al.)](http://ipfhnseo4hgfw5mg.onion/)
 * [http://ipfhnseo4hgfw5mg.onion/](http://ipfhnseo4hgfw5mg.onion/) :wrench:

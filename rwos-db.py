@@ -225,9 +225,9 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         url = row['onion_url']
         padlock = EMOJI_HTTPS if url.startswith('https') else EMOJI_HTTP
         print(H3, '[{site_name}]({onion_url})'.format(**row))
-        print(B, '[{0}]({0})'.format(url), padlock)
         comment = get_placeholder(row, 'comment')
-        if comment != '-': print(B, '*{}*'.format(comment))
+        if comment != '-': print('*{}*'.format(comment))
+        print(B, '[{0}]({0})'.format(url), padlock)
         # print proof unconditionally, as encouragement to fix it
         print(B, '*{0}*'.format(get_proof(row)))
         if print_bar:

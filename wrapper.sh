@@ -10,6 +10,11 @@ exe="./rwos-db.py"
 
 exec </dev/null >$out 2>$err
 
+case "x$1" in
+    x-n) dofetch=false ;;
+    *) dofetch=true ;;
+esac
+
 set -x
 
 curl "$url" > $tmp || exit 1
@@ -18,7 +23,9 @@ if [ -s $tmp ] ; then
     cmp $tmp $csv || cp $tmp $csv
 fi
 
-$exe fetch || exit 1
+if $dofetch ; then
+    $exe fetch || exit 1
+fi
 
 (
     cat 01-preamble.md
