@@ -10,11 +10,9 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - licensed: cc-by-sa
 - author/editor: alec muffett
 
-## Important Notice
+## Notes
 
 - This file (`README.md`) is now auto-generated; do not submit changes for it
-- Please submit an `Issue` for consideration / change requests
-
-## SSL Onions
-
-The master list of Onion Sites with SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
+  - Please submit an `Issue` for consideration / change requests
+- Code `9xx` if cited below, is a special code which indicates (possibly temporary) failure to connect
+- The master list of Onion SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
