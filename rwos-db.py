@@ -204,15 +204,18 @@ def get_summary(url):
         result.append('{0} attempt={1} code={2} time={3}'.format(emoji, attempt, code, t))
     return result
 
-def print_chunk(chunk, title, print_bar=True):
+def print_chunk(chunk, title, description=None, print_bar=True):
     print(LINE)
     print(H2, caps(title))
     print()
+    if description:
+        print(description)
+        print()
     for row in sort_using(chunk, 'site_name'):
         url = row['onion_url']
         padlock = EMOJI_HTTPS if url.startswith('https') else EMOJI_HTTP
-        print(H3, '[{site_name}]({onion_url})'.format(**row), padlock)
-        print(B, '[{0}]({0})'.format(url))
+        print(H3, '[{site_name}]({onion_url})'.format(**row))
+        print(B, '[{0}]({0})'.format(url), padlock)
         comment = get_placeholder(row, 'comment')
         if comment != '-': print(B, '*{}*'.format(comment))
         # print proof unconditionally, as encouragement to fix it
@@ -246,7 +249,7 @@ def do_print(master):
         chunk = grep_using(chunk, 'flaky', YES, invert=True)
         print_chunk(chunk, cat)
     flaky = grep_using(master, 'flaky', YES)
-    print_chunk(flaky, 'Flaky Sites', print_bar=False)
+    print_chunk(flaky, 'Flaky Sites', description='These sites have apparently stopped responding.', print_bar=False)
 
 if __name__ == '__main__':
     master = None
