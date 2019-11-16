@@ -1,7 +1,6 @@
 # Real-World Onion Sites
-## An index of the non-dark web...
 
-This list is for substantial, commercial-or-social-good mainstream websites with onion presence.
+This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 
 - no onion-only sites
 - no sites for tech with less than (arbitrary) 10,000 users
@@ -14,8 +13,8 @@ This list is for substantial, commercial-or-social-good mainstream websites with
 ## Important Notice
 
 - This file (`README.md`) is now auto-generated; do not submit changes for it
-- Currently: submit an `Issue` for change requests (date: July 2018)
+- Please submit an `Issue` for consideration / change requests
 
-## SSL Onions?
+## SSL Onions
 
-This list of Onion Sites with SSL Certificates may be viewed at https://crt.sh/?q=%25.onion
+The master list of Onion Sites with SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
