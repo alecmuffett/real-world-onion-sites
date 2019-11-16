@@ -21,6 +21,8 @@ PLACEHOLDER = '-'
 POOL_WORKERS = 10
 YES = 'y'
 
+EMOJI_HTTP = ':wrench:'
+EMOJI_HTTPS = ':closed_lock_with_key:'
 EMOJI_UNSET = ':question:'
 EMOJI_2xx = ':white_check_mark:'
 EMOJI_3xx = ':arrow_right:'
@@ -184,7 +186,7 @@ def get_proof(row):
 def get_summary(url):
     rows = GLOBAL_DB.summary(url)
     if len(rows) == 0:
-        return EMOJI_NO_DATA
+        return ( EMOJI_NO_DATA, )
     result = []
     for when, attempt, code in rows:
         emoji = EMOJI_UNSET
@@ -207,15 +209,17 @@ def print_chunk(chunk, title, print_bar=True):
     print(H2, caps(title))
     print()
     for row in sort_using(chunk, 'site_name'):
-        print(H3, '[{site_name}]({onion_url})'.format(**row))
+        url = row['onion_url']
+        padlock = EMOJI_HTTPS if url.startswith('https') else EMOJI_HTTP
+        print(H3, '[{site_name}]({onion_url})'.format(**row), padlock)
+        print(B, '[{0}]({0})'.format(url))
         comment = get_placeholder(row, 'comment')
-        if comment != '-':
-            print(B, '*{}*'.format(comment))
+        if comment != '-': print(B, '*{}*'.format(comment))
         # print proof unconditionally, as encouragement to fix it
-        print(B, '*{}*'.format(get_proof(row)))
+        print(B, '*{0}*'.format(get_proof(row)))
         if print_bar:
-            for foo in get_summary(row['onion_url']):
-                print(BB, foo)
+            for fetch in get_summary(url):
+                print(BB, fetch)
         print()
 
 def poolhook(x):
