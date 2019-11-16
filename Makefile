@@ -1,15 +1,17 @@
+DB=fetch.sqlite3
+
 all:
-	git pull
-	./checker.sh
-	git pull
-	( cat 01-preamble.md ; perl walk.pl ; cat 02-footnotes.md ) > README.md
-	./get-ct-logs.sh
-	git add .
-	git commit -m "auto-update on `date`"
-	git push
+	-echo "make what?"
+
+run:
+	./wrapper.sh
 
 clean:
-	rm *~
+	-rm *~
+	-rm log*.txt
 
-wat:
-	git diff HEAD^
+db:
+	sqlite3 $(DB)
+
+db-nuke: clean
+	-rm $(DB) $(DB)-*

@@ -1,0 +1,260 @@
+#!/usr/bin/env python3
+from datetime import datetime, timezone
+from multiprocessing import Pool, Lock
+import csv
+import datetime as dt
+import sqlite3
+import subprocess
+import sys
+import time
+
+GLOBAL_DB = None # has to be a global because pickling :-(
+
+MASTER_CSV = 'master.csv'
+DB_FILENAME = 'fetch.sqlite3'
+SOCKS_PROXY = 'socks5h://127.0.0.1:9150/'
+USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0"
+BADNESS = 900
+CURL_TIMEOUT = 120
+RETRY_SLEEP = 60
+PLACEHOLDER = '-'
+POOL_WORKERS = 8
+YES = 'y'
+
+EMOJI_UNSET = ':question:'
+EMOJI_2xx = ':white_check_mark:'
+EMOJI_3xx = ':arrow_right:'
+EMOJI_4xx = ':negative_squared_cross_mark:'
+EMOJI_5xx = ':red_circle:'
+EMOJI_DEAD = ':sos:'
+EMOJI_NO_DATA = ':interrobang:'
+
+H1 = '#'
+H2 = '##'
+H3 = '###'
+H4 = '####'
+B = '*'
+BB = '  *'
+BBB = '    *'
+LINE = '----'
+
+SCHEMA_SQL = '''
+PRAGMA journal_mode = wal;
+PRAGMA foreign_keys = ON;
+PRAGMA encoding = "UTF-8";
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS fetches (
+    id INTEGER PRIMARY KEY NOT NULL,
+    ctime INTEGER DEFAULT (CAST(strftime('%s','now') AS INTEGER)) NOT NULL,
+    run TEXT NOT NULL,
+    url TEXT NOT NULL,
+    attempt INTEGER NOT NULL,
+    http_code INTEGER NOT NULL,
+    curl_exit INTEGER NOT NULL,
+    out TEXT NOT NULL,
+    err TEXT NOT NULL
+    );
+PRAGMA user_version = 1;
+COMMIT;
+'''
+
+INSERT_SQL = '''
+INSERT INTO
+fetches (run, url, attempt, out, err, http_code, curl_exit)
+VALUES (:run, :url, :attempt, :out, :err, :http_code, :curl_exit)
+'''
+
+SUMMARY_SQL = '''
+SELECT ctime, attempt, http_code
+FROM fetches
+WHERE url=:url
+ORDER BY ctime DESC
+LIMIT :limit
+'''
+
+def extract_hcode(s): # static
+    if s == None:
+        return BADNESS + 1
+    lines = s.splitlines()
+    if len(lines) == 0:
+        return BADNESS + 2
+    fields = lines[0].split()
+    if len(fields) < 2:
+        return BADNESS + 3
+    try:
+        code = int(fields[1])
+    except:
+        code = BADNESS + 4
+    return code
+
+class Database:
+    def __init__(self, filename):
+        self.connection = sqlite3.connect(filename)
+        self.connection.text_factory = lambda x: unicode(x, UTF8, 'ignore') # ignore bad unicode shit
+        self.cursor = self.connection.cursor()
+        self.cursor.executescript(SCHEMA_SQL)
+        self.now = time.strftime('%Y%m%d%H%M%S', time.gmtime())
+        self.lock = Lock()
+
+    def commit(self):
+        self.connection.commit()
+
+    def close(self):
+        self.commit()
+        self.connection.close()
+
+    def summary(self, url, limit=10):
+        params = { 'url': url, 'limit': limit }
+        rows = self.cursor.execute(SUMMARY_SQL, params)
+        return rows.fetchall()
+
+    def insert(self, rowhash):
+        rowhash['run'] = self.now
+        self.lock.acquire() # BEGIN PRIVILEGED CODE
+        self.cursor.execute(INSERT_SQL, rowhash)
+        self.commit()
+        self.lock.release() # END PRIVILEGED CODE
+
+class URL:
+    def __init__(self, url):
+        self.url = url
+        self.attempt = 0
+        self.last_code = None
+
+    def fetch1(self):
+        args = [ 'curl', '--head', '--user-agent', USER_AGENT, '--proxy', SOCKS_PROXY, self.url ]
+        try:
+            p = subprocess.Popen(args, stdin=subprocess.DEVNULL, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            (out, err) = p.communicate(timeout=CURL_TIMEOUT)
+            hcode = extract_hcode(out)
+            if hcode == 200: err = PLACEHOLDER
+            ecode = p.returncode
+        except subprocess.TimeoutExpired as e:
+            (out, err) = (PLACEHOLDER, str(e))
+            hcode = BADNESS + 10
+            ecode = BADNESS + 10
+        self.last_code = hcode
+        self.attempt += 1
+        GLOBAL_DB.insert(dict(
+            url=self.url,
+            attempt=self.attempt,
+            out=out,
+            err=err,
+            http_code=hcode,
+            curl_exit=ecode,
+        ))
+
+    def fetchwrap(self):
+        for i in [ 1, 2, 3 ]:
+            self.fetch1()
+            print('try{0}: {1} {2}'.format(i, self.url, self.last_code))
+            if self.last_code < BADNESS: return
+            time.sleep(RETRY_SLEEP)
+
+def placeholder(s):
+    if s == '': return PLACEHOLDER
+    if s == None: return PLACEHOLDER
+    return s
+
+def caps(s):
+    return ' '.join([w.capitalize() for w in s.lower().split()])
+
+def get_categories(chunk):
+    return sorted(set([x['category'] for x in chunk]))
+
+def get_placeholder(row, k):
+    return placeholder(row.get(k, ''))
+
+def sort_using(chunk, k):
+    return sorted(chunk, key=lambda x: x[k])
+
+def grep_using(chunk, k, v, invert=False):
+    if invert:
+        return [ x for x in chunk if x.get(k, '') != v ]
+    else:
+        return [ x for x in chunk if x.get(k, '') == v ]
+
+def get_proof(row):
+    url = get_placeholder(row, 'proof_url')
+    if url == '-': return 'proof to be done'
+    if url == 'ssl': return 'check tls/ssl certificate'
+    return '[proof link]({})'.format(url)
+
+def get_summary(url):
+    rows = GLOBAL_DB.summary(url)
+    if len(rows) == 0:
+        return EMOJI_NO_DATA
+    result = []
+    for when, attempt, code in rows:
+        emoji = EMOJI_UNSET
+        if code >= 200 and code < 300:
+            emoji = EMOJI_2xx
+        elif code >= 300 and code < 400:
+            emoji = EMOJI_3xx
+        elif code >= 400 and code < 500:
+            emoji = EMOJI_4xx
+        elif code >= 500 and code < 600:
+            emoji = EMOJI_5xx
+        elif code >= BADNESS:
+            emoji = EMOJI_DEAD
+        t = datetime.fromtimestamp(when, timezone.utc)
+        result.append('{0} attempt={1} code={2} time={3}'.format(emoji, attempt, code, t))
+    return result
+
+def print_chunk(chunk, title, print_bar=True):
+    print(LINE)
+    print(H2, caps(title))
+    print()
+    for row in sort_using(chunk, 'site_name'):
+        print(H3, '[{site_name}]({onion_url})'.format(**row))
+        comment = get_placeholder(row, 'comment')
+        if comment != '-':
+            print(B, '*{}*'.format(comment))
+        # print proof unconditionally, as encouragement to fix it
+        print(B, '*{}*'.format(get_proof(row)))
+        if print_bar:
+            for foo in get_summary(row['onion_url']):
+                print(BB, foo)
+        print()
+
+def poolhook(x):
+    x.fetchwrap()
+
+def do_fetch(master):
+    chunk = grep_using(master, 'flaky', YES, invert=True)
+    work = [ URL(x['onion_url']) for x in chunk ]
+    with Pool(POOL_WORKERS) as p: p.map(poolhook, work)
+
+def print_index(cats):
+    print(LINE)
+    print(H1, 'Index')
+    print()
+    for cat in cats:
+        print(B, '[{0}](#{1})'.format(caps(cat), cat.lower().replace(' ', '-')))
+    print()
+
+def do_print(master):
+    cats = get_categories(master)
+    print_index(cats)
+    for cat in cats:
+        chunk = grep_using(master, 'category', cat)
+        chunk = grep_using(chunk, 'flaky', YES, invert=True)
+        print_chunk(chunk, cat)
+    flaky = grep_using(master, 'flaky', YES)
+    print_chunk(flaky, 'Flaky Sites', print_bar=False)
+
+if __name__ == '__main__':
+    master = None
+
+    # csv: category, site_name, flaky, onion_url, comment, proof_url
+    with open(MASTER_CSV, 'r') as fh:
+        dr = csv.DictReader(fh)
+        master = [ x for x in dr ]
+
+    GLOBAL_DB = Database(DB_FILENAME)
+
+    for arg in sys.argv[1:]:
+        if arg == 'fetch': do_fetch(master)
+        if arg == 'print': do_print(master)
+
+    GLOBAL_DB.close()
