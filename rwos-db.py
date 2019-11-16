@@ -148,7 +148,7 @@ class URL:
         ))
 
     def fetchwrap(self):
-        for i in [ 1, 2, 3 ]:
+        for i in range(5):
             self.fetch1()
             print('try{0}: {1} {2}'.format(i, self.url, self.last_code))
             if self.last_code < BADNESS: return
