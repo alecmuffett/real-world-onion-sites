@@ -17,6 +17,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0"
 BADNESS = 900
 CURL_TIMEOUT = 120
 RETRY_SLEEP = 60
+RETRY_LIMIT = 6
 PLACEHOLDER = '-'
 POOL_WORKERS = 10
 YES = 'y'
@@ -158,7 +159,7 @@ class URL:
         ))
 
     def fetchwrap(self):
-        for i in range(5):
+        for i in range(RETRY_LIMIT):
             self.fetch1()
             print('try{0}: {1} {2}'.format(i, self.url, self.last_code))
             if self.last_code < BADNESS: return

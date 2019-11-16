@@ -280,13 +280,6 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:34+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:16+00:00
 
-### [Whonix Wiki](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page)
-* [http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page) :wrench:
-* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:44:36+00:00
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:00:36+00:00
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 16:45:18+00:00
-
 ### [keybase.io](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/)
 * [http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/) :wrench:
 * proof: [link](https://keybase.io/docs/command_line/tor)
