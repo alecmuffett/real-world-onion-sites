@@ -18,7 +18,7 @@ BADNESS = 900
 CURL_TIMEOUT = 120
 RETRY_SLEEP = 60
 PLACEHOLDER = '-'
-POOL_WORKERS = 8
+POOL_WORKERS = 10
 YES = 'y'
 
 EMOJI_UNSET = ':question:'
@@ -123,10 +123,11 @@ class URL:
 
     def fetch1(self):
         args = [ 'curl', '--head', '--user-agent', USER_AGENT, '--proxy', SOCKS_PROXY, self.url ]
+        time.sleep(1) # slight breathing space because MP
         try:
-            p = subprocess.Popen(args, stdin=subprocess.DEVNULL, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            p = subprocess.Popen(args, stdin=subprocess.DEVNULL, stdout=subprocess.PIPE, stderr=subprocess.PIPE) # todo: text=True
             (out, err) = p.communicate(timeout=CURL_TIMEOUT)
-            hcode = extract_hcode(out)
+            hcode = extract_hcode(str(out)) # str() not needed if text=True
             if hcode == 200: err = PLACEHOLDER
             ecode = p.returncode
         except subprocess.TimeoutExpired as e:

@@ -14,4 +14,4 @@ db:
 	sqlite3 $(DB)
 
 db-nuke: clean
-	-rm $(DB) $(DB)-*
+	-rm $(DB) $(DB)-* master.csv
