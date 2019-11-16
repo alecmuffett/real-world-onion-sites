@@ -24,13 +24,13 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 * [Civil Society And Community](#civil-society-and-community)
 * [Companies And Services](#companies-and-services)
 * [Education](#education)
-* [Globaleaks](#globaleaks)
 * [Government](#government)
 * [News And Media](#news-and-media)
-* [Securedrop For Individuals](#securedrop-for-individuals)
-* [Securedrop For Organisations](#securedrop-for-organisations)
 * [Tech And Software](#tech-and-software)
 * [Web And Internet](#web-and-internet)
+* [Globaleaks](#globaleaks)
+* [Securedrop For Individuals](#securedrop-for-individuals)
+* [Securedrop For Organisations](#securedrop-for-organisations)
 
 ----
 ## Civil Society And Community
@@ -90,78 +90,6 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 * [http://www.s5rhoqqosmcispfb.onion/learningenglish/chinese](http://www.s5rhoqqosmcispfb.onion/learningenglish/chinese) :wrench:
 * proof: see tls/ssl certificate
   * :interrobang:
-
-----
-## Globaleaks
-
-### [ALAT / Allerta AntiCorruzione](http://fkut2p37apcg6l7f.onion/)
-*italian whistleblowing*
-* [http://fkut2p37apcg6l7f.onion/](http://fkut2p37apcg6l7f.onion/) :wrench:
-* proof: [link](https://allertaanticorruzione.transparency.it/servizio-alac/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:57+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:50+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:21+00:00
-
-### [Afrileaks](http://wcnueib4qrsm544n.onion/)
-* [http://wcnueib4qrsm544n.onion/](http://wcnueib4qrsm544n.onion/) :wrench:
-* proof: [link](https://www.afrileaks.org/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:52+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:45+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:02+00:00
-
-### [Atlatszo MagyarLeaks](http://ak2uqfavwgmjrvtu.onion/)
-*hungarian leaks*
-* [http://ak2uqfavwgmjrvtu.onion/](http://ak2uqfavwgmjrvtu.onion/) :wrench:
-* proof: [link](https://atlatszo.hu/magyarleaks/)
-  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 18:42:28+00:00
-  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 17:59:38+00:00
-  * :negative_squared_cross_mark: attempt=2 code=405 time=2019-11-16 16:40:02+00:00
-
-### [Bezkorupce.cz](http://iopx5pchfdldldwp.onion/)
-*czech anticorruption reporting site*
-* [http://iopx5pchfdldldwp.onion/](http://iopx5pchfdldldwp.onion/) :wrench:
-* proof: [link](https://secure.bezkorupce.cz/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:33+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:45+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:40:40+00:00
-
-### [IRPILeaks](http://5r4bjnjug3apqdii.onion/)
-*italian investigative reporting project*
-* [http://5r4bjnjug3apqdii.onion/](http://5r4bjnjug3apqdii.onion/) :wrench:
-* proof: [link](https://irpi.eu/en/leaks/how-irpileaks-works/)
-  * :sos: attempt=5 code=903 time=2019-11-16 18:46:42+00:00
-  * :sos: attempt=5 code=903 time=2019-11-16 18:03:57+00:00
-  * :sos: attempt=3 code=903 time=2019-11-16 16:43:06+00:00
-
-### [Mexico Leaks](http://kjpkmlafh2ra57wz.onion/)
-* [http://kjpkmlafh2ra57wz.onion/](http://kjpkmlafh2ra57wz.onion/) :wrench:
-* proof: [link](https://mexicoleaks.mx/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:37+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:42+00:00
-  * :white_check_mark: attempt=3 code=200 time=2019-11-16 16:41:52+00:00
-
-### [Pistaljka.rs Whistleblowing](http://acabtd4btrxjjrvr.onion/#/)
-* [http://acabtd4btrxjjrvr.onion/#/](http://acabtd4btrxjjrvr.onion/#/) :wrench:
-* proof: [link](https://pistaljka.rs/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:40+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:48+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:21+00:00
-
-### [Wildleaks](http://ppdz5djzpo3w5k2z.onion/)
-*elephant action league*
-* [http://ppdz5djzpo3w5k2z.onion/](http://ppdz5djzpo3w5k2z.onion/) :wrench:
-* proof: [link](https://www.wildleaks.org/the-technology/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:43+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:55+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:43:09+00:00
-
-### [XNet Activism](http://ztjn5gcdsqeqzmw4.onion/)
-*anticorruption whistleblowing*
-* [http://ztjn5gcdsqeqzmw4.onion/](http://ztjn5gcdsqeqzmw4.onion/) :wrench:
-* proof: [link](https://xnet-x.net/en/xnetleaks/)
-  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 18:42:29+00:00
-  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 17:59:40+00:00
-  * :negative_squared_cross_mark: attempt=2 code=405 time=2019-11-16 16:40:00+00:00
 
 ----
 ## Government
@@ -247,6 +175,248 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:29+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:43+00:00
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:11+00:00
+
+----
+## Tech And Software
+
+### [Ablative Hosting](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/)
+* [https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+  * :red_circle: attempt=1 code=503 time=2019-11-16 18:44:30+00:00
+  * :red_circle: attempt=1 code=503 time=2019-11-16 18:00:46+00:00
+  * :red_circle: attempt=1 code=503 time=2019-11-16 16:45:21+00:00
+
+### [DEF CON Groups](http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/)
+* [http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/](http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/) :wrench:
+* proof: [link](https://www.facebook.com/defcon/posts/i-am-proud-to-announce-the-v3-onion-address-for-def-condefconorg-main-web-siteht/10155438526096656/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:42+00:00
+
+### [DEF CON Home](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/)
+* [http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/) :wrench:
+* proof: [link](https://www.facebook.com/defcon/posts/i-am-proud-to-announce-the-v3-onion-address-for-def-condefconorg-main-web-siteht/10155438526096656/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:46+00:00
+
+### [DEF CON Media](http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/)
+* [http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/](http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/) :wrench:
+* proof: [link](https://www.facebook.com/defcon/posts/i-am-proud-to-announce-the-v3-onion-address-for-def-condefconorg-main-web-siteht/10155438526096656/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:52+00:00
+
+### [Debian Home](http://sejnfjrq6szgca7v.onion/)
+* [http://sejnfjrq6szgca7v.onion/](http://sejnfjrq6szgca7v.onion/) :wrench:
+* proof: [link](https://onion.debian.org)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:35+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:52+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:34+00:00
+
+### [Debian Onion Index](http://5nca3wxl33tzlzj5.onion/)
+*everything debian*
+* [http://5nca3wxl33tzlzj5.onion/](http://5nca3wxl33tzlzj5.onion/) :wrench:
+* proof: [link](https://onion.debian.org/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:27+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:28+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:06+00:00
+
+### [ExpressVPN](http://expressobutiolem.onion/)
+* [http://expressobutiolem.onion/](http://expressobutiolem.onion/) :wrench:
+* proof: [link](https://www.expressvpn.com/blog/expressvpn-launches-tor-onion/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:33+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:32+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:32+00:00
+
+### [Mailpile](http://clgs64523yi2bkhz.onion/)
+* [http://clgs64523yi2bkhz.onion/](http://clgs64523yi2bkhz.onion/) :wrench:
+* proof: [link](https://www.mailpile.is)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:27+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:38+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:14+00:00
+
+### [OnionShare](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/)
+* [http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/) :wrench:
+* proof: [link](https://onionshare.org/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:31+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:42+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:36+00:00
+
+### [Qubes OS](http://sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion/)
+* [http://sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion/](http://sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion/) :wrench:
+* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
+  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:44:37+00:00
+  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:00:37+00:00
+  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 16:45:31+00:00
+
+### [Tor Project Home](http://expyuzz4wqqyqhjn.onion/)
+* [http://expyuzz4wqqyqhjn.onion/](http://expyuzz4wqqyqhjn.onion/) :wrench:
+* proof: [link](https://onion.torproject.org)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:28+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:58+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:58+00:00
+
+### [Tor Project Onion Index](http://yz7lpwfhhzcdyc5y.onion/)
+*everything tor*
+* [http://yz7lpwfhhzcdyc5y.onion/](http://yz7lpwfhhzcdyc5y.onion/) :wrench:
+* proof: [link](https://onion.torproject.org/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:31+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:35+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:50+00:00
+
+### [Whonix](http://kkkkkkkkkk63ava6.onion/)
+* [http://kkkkkkkkkk63ava6.onion/](http://kkkkkkkkkk63ava6.onion/) :wrench:
+* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:38+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:39+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:16+00:00
+
+### [Whonix Forums](http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)
+* [http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/](http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/) :wrench:
+* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:31+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:41+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:18+00:00
+
+### [Whonix Home](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)
+* [http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/) :wrench:
+* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:34+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:34+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:16+00:00
+
+### [Whonix Wiki](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page)
+* [http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page) :wrench:
+* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
+  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:44:36+00:00
+  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:00:36+00:00
+  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 16:45:18+00:00
+
+### [keybase.io](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/)
+* [http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/) :wrench:
+* proof: [link](https://keybase.io/docs/command_line/tor)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:37+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:35+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:56+00:00
+
+----
+## Web And Internet
+
+### [Archive Today (archive.is)](http://archivecaslytosk.onion/)
+* [http://archivecaslytosk.onion/](http://archivecaslytosk.onion/) :wrench:
+* proof: [link](https://archive.is/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:33+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:41+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:49+00:00
+
+### [Cloudflare Public DNS 1.1.1.1](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/)
+* [https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+  * :negative_squared_cross_mark: attempt=1 code=409 time=2019-11-16 18:44:37+00:00
+  * :negative_squared_cross_mark: attempt=1 code=409 time=2019-11-16 18:00:41+00:00
+  * :negative_squared_cross_mark: attempt=1 code=409 time=2019-11-16 16:45:01+00:00
+
+### [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/)
+* [https://3g2upl4pq6kufc4m.onion/](https://3g2upl4pq6kufc4m.onion/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:41+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:45+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:46:03+00:00
+
+### [Facebook](https://www.facebookcorewwwi.onion/)
+* [https://www.facebookcorewwwi.onion/](https://www.facebookcorewwwi.onion/) :closed_lock_with_key:
+* proof: [link](https://www.facebook.com/notes/protect-the-graph/making-connections-to-facebook-more-secure/1526085754298237/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:50+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:30+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:46:06+00:00
+
+### [Facebook Mobile](https://m.facebookcorewwwi.onion/)
+* [https://m.facebookcorewwwi.onion/](https://m.facebookcorewwwi.onion/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:52+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:30+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:09+00:00
+
+### [Mail2Tor](http://mail2tor2zyjdctd.onion/)
+* [http://mail2tor2zyjdctd.onion/](http://mail2tor2zyjdctd.onion/) :wrench:
+* proof: [link](http://mail2tor.com)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:55+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:32+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:24+00:00
+
+### [Protonmail](https://protonirockerxow.onion/)
+* [https://protonirockerxow.onion/](https://protonirockerxow.onion/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:38+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:35+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:43+00:00
+
+----
+## Globaleaks
+
+### [ALAT / Allerta AntiCorruzione](http://fkut2p37apcg6l7f.onion/)
+*italian whistleblowing*
+* [http://fkut2p37apcg6l7f.onion/](http://fkut2p37apcg6l7f.onion/) :wrench:
+* proof: [link](https://allertaanticorruzione.transparency.it/servizio-alac/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:57+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:50+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:21+00:00
+
+### [Afrileaks](http://wcnueib4qrsm544n.onion/)
+* [http://wcnueib4qrsm544n.onion/](http://wcnueib4qrsm544n.onion/) :wrench:
+* proof: [link](https://www.afrileaks.org/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:52+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:45+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:02+00:00
+
+### [Atlatszo MagyarLeaks](http://ak2uqfavwgmjrvtu.onion/)
+*hungarian leaks*
+* [http://ak2uqfavwgmjrvtu.onion/](http://ak2uqfavwgmjrvtu.onion/) :wrench:
+* proof: [link](https://atlatszo.hu/magyarleaks/)
+  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 18:42:28+00:00
+  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 17:59:38+00:00
+  * :negative_squared_cross_mark: attempt=2 code=405 time=2019-11-16 16:40:02+00:00
+
+### [Bezkorupce.cz](http://iopx5pchfdldldwp.onion/)
+*czech anticorruption reporting site*
+* [http://iopx5pchfdldldwp.onion/](http://iopx5pchfdldldwp.onion/) :wrench:
+* proof: [link](https://secure.bezkorupce.cz/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:33+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:45+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:40:40+00:00
+
+### [IRPILeaks](http://5r4bjnjug3apqdii.onion/)
+*italian investigative reporting project*
+* [http://5r4bjnjug3apqdii.onion/](http://5r4bjnjug3apqdii.onion/) :wrench:
+* proof: [link](https://irpi.eu/en/leaks/how-irpileaks-works/)
+  * :sos: attempt=5 code=903 time=2019-11-16 18:46:42+00:00
+  * :sos: attempt=5 code=903 time=2019-11-16 18:03:57+00:00
+  * :sos: attempt=3 code=903 time=2019-11-16 16:43:06+00:00
+
+### [Mexico Leaks](http://kjpkmlafh2ra57wz.onion/)
+* [http://kjpkmlafh2ra57wz.onion/](http://kjpkmlafh2ra57wz.onion/) :wrench:
+* proof: [link](https://mexicoleaks.mx/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:37+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:42+00:00
+  * :white_check_mark: attempt=3 code=200 time=2019-11-16 16:41:52+00:00
+
+### [Pistaljka.rs Whistleblowing](http://acabtd4btrxjjrvr.onion/#/)
+* [http://acabtd4btrxjjrvr.onion/#/](http://acabtd4btrxjjrvr.onion/#/) :wrench:
+* proof: [link](https://pistaljka.rs/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:40+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:48+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:42:21+00:00
+
+### [Wildleaks](http://ppdz5djzpo3w5k2z.onion/)
+*elephant action league*
+* [http://ppdz5djzpo3w5k2z.onion/](http://ppdz5djzpo3w5k2z.onion/) :wrench:
+* proof: [link](https://www.wildleaks.org/the-technology/)
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:42:43+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 17:59:55+00:00
+  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:43:09+00:00
+
+### [XNet Activism](http://ztjn5gcdsqeqzmw4.onion/)
+*anticorruption whistleblowing*
+* [http://ztjn5gcdsqeqzmw4.onion/](http://ztjn5gcdsqeqzmw4.onion/) :wrench:
+* proof: [link](https://xnet-x.net/en/xnetleaks/)
+  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 18:42:29+00:00
+  * :negative_squared_cross_mark: attempt=1 code=405 time=2019-11-16 17:59:40+00:00
+  * :negative_squared_cross_mark: attempt=2 code=405 time=2019-11-16 16:40:00+00:00
 
 ----
 ## Securedrop For Individuals
@@ -595,176 +765,6 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:27+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:42+00:00
   * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:23+00:00
-
-----
-## Tech And Software
-
-### [Ablative Hosting](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/)
-* [https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/) :closed_lock_with_key:
-* proof: see tls/ssl certificate
-  * :red_circle: attempt=1 code=503 time=2019-11-16 18:44:30+00:00
-  * :red_circle: attempt=1 code=503 time=2019-11-16 18:00:46+00:00
-  * :red_circle: attempt=1 code=503 time=2019-11-16 16:45:21+00:00
-
-### [DEF CON Groups](http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/)
-* [http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/](http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/) :wrench:
-* proof: [link](https://www.facebook.com/defcon/posts/i-am-proud-to-announce-the-v3-onion-address-for-def-condefconorg-main-web-siteht/10155438526096656/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:42+00:00
-
-### [DEF CON Home](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/)
-* [http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/](http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/) :wrench:
-* proof: [link](https://www.facebook.com/defcon/posts/i-am-proud-to-announce-the-v3-onion-address-for-def-condefconorg-main-web-siteht/10155438526096656/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:46+00:00
-
-### [DEF CON Media](http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/)
-* [http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/](http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/) :wrench:
-* proof: [link](https://www.facebook.com/defcon/posts/i-am-proud-to-announce-the-v3-onion-address-for-def-condefconorg-main-web-siteht/10155438526096656/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:52+00:00
-
-### [Debian Home](http://sejnfjrq6szgca7v.onion/)
-* [http://sejnfjrq6szgca7v.onion/](http://sejnfjrq6szgca7v.onion/) :wrench:
-* proof: [link](https://onion.debian.org)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:35+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:52+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:34+00:00
-
-### [Debian Onion Index](http://5nca3wxl33tzlzj5.onion/)
-*everything debian*
-* [http://5nca3wxl33tzlzj5.onion/](http://5nca3wxl33tzlzj5.onion/) :wrench:
-* proof: [link](https://onion.debian.org/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:27+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:28+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:06+00:00
-
-### [ExpressVPN](http://expressobutiolem.onion/)
-* [http://expressobutiolem.onion/](http://expressobutiolem.onion/) :wrench:
-* proof: [link](https://www.expressvpn.com/blog/expressvpn-launches-tor-onion/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:33+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:32+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:32+00:00
-
-### [Mailpile](http://clgs64523yi2bkhz.onion/)
-* [http://clgs64523yi2bkhz.onion/](http://clgs64523yi2bkhz.onion/) :wrench:
-* proof: [link](https://www.mailpile.is)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:27+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:38+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:14+00:00
-
-### [OnionShare](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/)
-* [http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/) :wrench:
-* proof: [link](https://onionshare.org/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:31+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:42+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:36+00:00
-
-### [Qubes OS](http://sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion/)
-* [http://sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion/](http://sik5nlgfc5qylnnsr57qrbm64zbdx6t4lreyhpon3ychmxmiem7tioad.onion/) :wrench:
-* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:44:37+00:00
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:00:37+00:00
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 16:45:31+00:00
-
-### [Tor Project Home](http://expyuzz4wqqyqhjn.onion/)
-* [http://expyuzz4wqqyqhjn.onion/](http://expyuzz4wqqyqhjn.onion/) :wrench:
-* proof: [link](https://onion.torproject.org)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:28+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:58+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:58+00:00
-
-### [Tor Project Onion Index](http://yz7lpwfhhzcdyc5y.onion/)
-*everything tor*
-* [http://yz7lpwfhhzcdyc5y.onion/](http://yz7lpwfhhzcdyc5y.onion/) :wrench:
-* proof: [link](https://onion.torproject.org/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:31+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:35+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:50+00:00
-
-### [Whonix](http://kkkkkkkkkk63ava6.onion/)
-* [http://kkkkkkkkkk63ava6.onion/](http://kkkkkkkkkk63ava6.onion/) :wrench:
-* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:38+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:39+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:16+00:00
-
-### [Whonix Forums](http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)
-* [http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/](http://forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/) :wrench:
-* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:31+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:41+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:18+00:00
-
-### [Whonix Home](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/)
-* [http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/) :wrench:
-* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:34+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:34+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:16+00:00
-
-### [Whonix Wiki](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page)
-* [http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Main_page) :wrench:
-* proof: [link](https://www.qubes-os.org/news/2018/01/23/qubes-whonix-next-gen-tor-onion-services/)
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:44:36+00:00
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 18:00:36+00:00
-  * :negative_squared_cross_mark: attempt=1 code=404 time=2019-11-16 16:45:18+00:00
-
-### [keybase.io](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/)
-* [http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/) :wrench:
-* proof: [link](https://keybase.io/docs/command_line/tor)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:37+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:35+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:44:56+00:00
-
-----
-## Web And Internet
-
-### [Archive Today (archive.is)](http://archivecaslytosk.onion/)
-* [http://archivecaslytosk.onion/](http://archivecaslytosk.onion/) :wrench:
-* proof: [link](https://archive.is/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:33+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:41+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:49+00:00
-
-### [Cloudflare Public DNS 1.1.1.1](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/)
-* [https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/) :closed_lock_with_key:
-* proof: see tls/ssl certificate
-  * :negative_squared_cross_mark: attempt=1 code=409 time=2019-11-16 18:44:37+00:00
-  * :negative_squared_cross_mark: attempt=1 code=409 time=2019-11-16 18:00:41+00:00
-  * :negative_squared_cross_mark: attempt=1 code=409 time=2019-11-16 16:45:01+00:00
-
-### [DuckDuckGo](https://3g2upl4pq6kufc4m.onion/)
-* [https://3g2upl4pq6kufc4m.onion/](https://3g2upl4pq6kufc4m.onion/) :closed_lock_with_key:
-* proof: see tls/ssl certificate
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:41+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:00:45+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:46:03+00:00
-
-### [Facebook](https://www.facebookcorewwwi.onion/)
-* [https://www.facebookcorewwwi.onion/](https://www.facebookcorewwwi.onion/) :closed_lock_with_key:
-* proof: [link](https://www.facebook.com/notes/protect-the-graph/making-connections-to-facebook-more-secure/1526085754298237/)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:50+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:30+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:46:06+00:00
-
-### [Facebook Mobile](https://m.facebookcorewwwi.onion/)
-* [https://m.facebookcorewwwi.onion/](https://m.facebookcorewwwi.onion/) :closed_lock_with_key:
-* proof: see tls/ssl certificate
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:52+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:30+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:09+00:00
-
-### [Mail2Tor](http://mail2tor2zyjdctd.onion/)
-* [http://mail2tor2zyjdctd.onion/](http://mail2tor2zyjdctd.onion/) :wrench:
-* proof: [link](http://mail2tor.com)
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:55+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:32+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:24+00:00
-
-### [Protonmail](https://protonirockerxow.onion/)
-* [https://protonirockerxow.onion/](https://protonirockerxow.onion/) :closed_lock_with_key:
-* proof: see tls/ssl certificate
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:44:38+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 18:01:35+00:00
-  * :white_check_mark: attempt=1 code=200 time=2019-11-16 16:45:43+00:00
 
 ----
 ## Flaky Sites

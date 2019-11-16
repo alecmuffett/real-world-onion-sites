@@ -172,8 +172,14 @@ def placeholder(s):
 def caps(s):
     return ' '.join([w.capitalize() for w in s.lower().split()])
 
+def deferred(s):
+    return s.startswith('globaleaks') or s.startswith('securedrop')
+
 def get_categories(chunk):
-    return sorted(set([x['category'] for x in chunk]))
+    src = sorted(set([x['category'] for x in chunk]))
+    dst = [ x for x in src if not deferred(x) ]
+    dst.extend([ x for x in src if deferred(x) ])
+    return dst
 
 def get_placeholder(row, k):
     return placeholder(row.get(k, ''))
