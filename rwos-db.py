@@ -67,9 +67,17 @@ VALUES (:run, :url, :attempt, :out, :err, :http_code, :curl_exit)
 '''
 
 SUMMARY_SQL = '''
-SELECT ctime, attempt, http_code
-FROM fetches
-WHERE url=:url
+SELECT foo.ctime, foo.attempt, foo.http_code
+FROM fetches foo
+INNER JOIN (
+  SELECT url, run, MAX(attempt) AS pivot
+  FROM fetches
+  WHERE url = :url
+  GROUP BY url, run
+) bar
+ON foo.url = bar.url
+AND foo.run = bar.run
+AND foo.attempt = bar.pivot
 ORDER BY ctime DESC
 LIMIT :limit
 '''

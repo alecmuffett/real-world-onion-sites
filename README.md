@@ -39,7 +39,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * [https://privacyintyqcroe.onion/](https://privacyintyqcroe.onion/) :closed_lock_with_key:
 * *check tls/ssl certificate*
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:02+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ### [Riseup Etherpad](http://5jp7xtmox6jyoqd5.onion/)
 * [http://5jp7xtmox6jyoqd5.onion/](http://5jp7xtmox6jyoqd5.onion/) :wrench:
@@ -55,7 +54,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * [http://nzh3fv6jc6jskki3.onion/](http://nzh3fv6jc6jskki3.onion/) :wrench:
 * *proof to be done*
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:04+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ### [Riseup Lists](http://7sbw6jufrirhyltzkslhcmkik4z7yrsmbpnptyritvz5nhbk35hncsqd.onion/www/)
 * [http://7sbw6jufrirhyltzkslhcmkik4z7yrsmbpnptyritvz5nhbk35hncsqd.onion/www/](http://7sbw6jufrirhyltzkslhcmkik4z7yrsmbpnptyritvz5nhbk35hncsqd.onion/www/) :wrench:
@@ -71,7 +69,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * [http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services](http://nzh3fv6jc6jskki3.onion/en/security/network-security/tor#riseups-tor-hidden-services) :wrench:
 * *proof to be done*
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:04+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ### [Riseup User Admin](http://j6uhdvbhz74oefxf.onion/)
 * [http://j6uhdvbhz74oefxf.onion/](http://j6uhdvbhz74oefxf.onion/) :wrench:
@@ -92,8 +89,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * *english law firm*
 * *proof to be done*
   * :white_check_mark: attempt=3 code=200 time=2019-11-16 16:41:52+00:00
-  * :sos: attempt=2 code=910 time=2019-11-16 16:40:50+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ----
 ## Globaleaks
@@ -114,7 +109,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * *hungarian leaks*
 * *[proof link](https://atlatszo.hu/magyarleaks/)*
   * :negative_squared_cross_mark: attempt=2 code=405 time=2019-11-16 16:40:02+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ### [Bezkorupce.cz](http://iopx5pchfdldldwp.onion/)
 * [http://iopx5pchfdldldwp.onion/](http://iopx5pchfdldldwp.onion/) :wrench:
@@ -127,15 +121,11 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * *italian investigative reporting project*
 * *[proof link](https://irpi.eu/en/leaks/how-irpileaks-works/)*
   * :sos: attempt=3 code=903 time=2019-11-16 16:43:06+00:00
-  * :sos: attempt=2 code=903 time=2019-11-16 16:42:05+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:41:03+00:00
 
 ### [Mexico Leaks](http://kjpkmlafh2ra57wz.onion/)
 * [http://kjpkmlafh2ra57wz.onion/](http://kjpkmlafh2ra57wz.onion/) :wrench:
 * *[proof link](https://mexicoleaks.mx/)*
   * :white_check_mark: attempt=3 code=200 time=2019-11-16 16:41:52+00:00
-  * :sos: attempt=2 code=910 time=2019-11-16 16:40:50+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ### [Pistaljka.rs Whistleblowing](http://acabtd4btrxjjrvr.onion/#/)
 * [http://acabtd4btrxjjrvr.onion/#/](http://acabtd4btrxjjrvr.onion/#/) :wrench:
@@ -153,7 +143,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * *anticorruption whistleblowing*
 * *[proof link](https://xnet-x.net/en/xnetleaks/)*
   * :negative_squared_cross_mark: attempt=2 code=405 time=2019-11-16 16:40:00+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ----
 ## Government
@@ -175,7 +164,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * [https://www.s5rhoqqosmcispfb.onion/ukchina/simp](https://www.s5rhoqqosmcispfb.onion/ukchina/simp) :closed_lock_with_key:
 * *check tls/ssl certificate*
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:10+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ### [BBC News Persian](https://www.s5rhoqqosmcispfb.onion/persian)
 * [https://www.s5rhoqqosmcispfb.onion/persian](https://www.s5rhoqqosmcispfb.onion/persian) :closed_lock_with_key:
@@ -191,7 +179,6 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * [https://www.s5rhoqqosmcispfb.onion/russian](https://www.s5rhoqqosmcispfb.onion/russian) :closed_lock_with_key:
 * *check tls/ssl certificate*
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:10+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ### [BuzzFeed News](https://bfnews3u2ox4m4ty.onion/)
 * [https://bfnews3u2ox4m4ty.onion/](https://bfnews3u2ox4m4ty.onion/) :closed_lock_with_key:
@@ -202,13 +189,11 @@ The master list of Onion Sites with SSL EV Certificates may be viewed at https:/
 * [https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/) :closed_lock_with_key:
 * *check tls/ssl certificate*
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:44:00+00:00
-  * :sos: attempt=1 code=910 time=2019-11-16 16:42:57+00:00
 
 ### [The New York Times](https://www.nytimes3xbfgragh.onion/)
 * [https://www.nytimes3xbfgragh.onion/](https://www.nytimes3xbfgragh.onion/) :closed_lock_with_key:
 * *[proof link](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)*
   * :white_check_mark: attempt=2 code=200 time=2019-11-16 16:40:11+00:00
-  * :sos: attempt=1 code=903 time=2019-11-16 16:37:49+00:00
 
 ----
 ## Securedrop For Individuals
