@@ -127,6 +127,8 @@ class Database:
 
 class URL:
     def __init__(self, url):
+        if not (url.startswith('http://') or url.startswith('https://')):
+            raise RuntimeError('not a proper url: ' + url)
         self.url = url
         self.attempt = 0
         self.last_code = None
