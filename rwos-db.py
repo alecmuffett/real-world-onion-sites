@@ -218,7 +218,7 @@ def get_summary(url):
         elif code >= BADNESS:
             emoji = EMOJI_DEAD
         t = datetime.fromtimestamp(when, timezone.utc)
-        result.append('{0} attempt={1} code={2} time={3}'.format(emoji, attempt, code, t))
+        result.append('<span title="attempts={1} code={2} time={3}">{0}</span>'.format(emoji, attempt, code, t))
     return result
 
 def print_chunk(chunk, title, description=None, print_bar=True):
@@ -238,8 +238,8 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         # print proof unconditionally, as encouragement to fix it
         print(B, 'proof: {0}'.format(get_proof(row)))
         if print_bar:
-            for fetch in get_summary(url):
-                print(BB, fetch)
+            bar = ''.join(get_summary(url))
+            print(B, bar)
         print()
 
 def poolhook(x):
