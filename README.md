@@ -101,17 +101,17 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 * proof: [link](https://www.bbc.co.uk/news/technology-50150981)
 * up: <span title="attempts=1 code=200 time=2019-11-17 06:00:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 18:42:39+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 17:59:52+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 16:41:33+00:00">:white_check_mark:</span>
 
-### [BBC News Arabic](https://www.s5rhoqqosmcispfb.onion/arabic)
+### [BBC News Arabic | عربى](https://www.s5rhoqqosmcispfb.onion/arabic)
 * [https://www.s5rhoqqosmcispfb.onion/arabic](https://www.s5rhoqqosmcispfb.onion/arabic) :closed_lock_with_key:
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 time=2019-11-17 06:00:25+00:00">:white_check_mark:</span>
 
-### [BBC News Chinese](https://www.s5rhoqqosmcispfb.onion/ukchina/simp)
+### [BBC News Chinese | 中文](https://www.s5rhoqqosmcispfb.onion/ukchina/simp)
 * [https://www.s5rhoqqosmcispfb.onion/ukchina/simp](https://www.s5rhoqqosmcispfb.onion/ukchina/simp) :closed_lock_with_key:
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 time=2019-11-17 06:00:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 18:42:31+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 17:59:39+00:00">:white_check_mark:</span><span title="attempts=2 code=200 time=2019-11-16 16:40:10+00:00">:white_check_mark:</span>
 
-### [BBC News Persian](https://www.s5rhoqqosmcispfb.onion/persian)
+### [BBC News Persian | فارسی](https://www.s5rhoqqosmcispfb.onion/persian)
 * [https://www.s5rhoqqosmcispfb.onion/persian](https://www.s5rhoqqosmcispfb.onion/persian) :closed_lock_with_key:
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 time=2019-11-17 06:00:22+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 18:42:35+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 17:59:43+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 16:40:12+00:00">:white_check_mark:</span>
@@ -121,15 +121,21 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 time=2019-11-17 06:00:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 18:42:37+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 17:59:47+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 16:40:15+00:00">:white_check_mark:</span>
 
-### [BBC News Russian](https://www.s5rhoqqosmcispfb.onion/russian)
+### [BBC News Russian | Русская](https://www.s5rhoqqosmcispfb.onion/russian)
 * [https://www.s5rhoqqosmcispfb.onion/russian](https://www.s5rhoqqosmcispfb.onion/russian) :closed_lock_with_key:
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 time=2019-11-17 06:00:31+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 18:42:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 time=2019-11-16 17:59:40+00:00">:white_check_mark:</span><span title="attempts=2 code=200 time=2019-11-16 16:40:10+00:00">:white_check_mark:</span>
 
-### [BBC News Vietnam](https://www.s5rhoqqosmcispfb.onion/vietnamese)
+### [BBC News Vietnam | Tiếng Việt](https://www.s5rhoqqosmcispfb.onion/vietnamese)
 * [https://www.s5rhoqqosmcispfb.onion/vietnamese](https://www.s5rhoqqosmcispfb.onion/vietnamese) :closed_lock_with_key:
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 time=2019-11-17 06:00:22+00:00">:white_check_mark:</span>
+
+### [BBC News | In Your Language](https://www.s5rhoqqosmcispfb.onion/ws/languages)
+*language index*
+* [https://www.s5rhoqqosmcispfb.onion/ws/languages](https://www.s5rhoqqosmcispfb.onion/ws/languages) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+* up: :interrobang:
 
 ### [BuzzFeed News](https://bfnews3u2ox4m4ty.onion/)
 * [https://bfnews3u2ox4m4ty.onion/](https://bfnews3u2ox4m4ty.onion/) :closed_lock_with_key:
