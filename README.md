@@ -135,7 +135,7 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 *language index*
 * [https://www.s5rhoqqosmcispfb.onion/ws/languages](https://www.s5rhoqqosmcispfb.onion/ws/languages) :closed_lock_with_key:
 * proof: see tls/ssl certificate
-* up: :interrobang:
+* up: :new:
 
 ### [BuzzFeed News](https://bfnews3u2ox4m4ty.onion/)
 * [https://bfnews3u2ox4m4ty.onion/](https://bfnews3u2ox4m4ty.onion/) :closed_lock_with_key:

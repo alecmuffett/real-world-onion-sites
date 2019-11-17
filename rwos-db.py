@@ -30,7 +30,7 @@ EMOJI_3xx = ':arrow_right:'
 EMOJI_4xx = ':negative_squared_cross_mark:'
 EMOJI_5xx = ':red_circle:'
 EMOJI_DEAD = ':sos:'
-EMOJI_NO_DATA = ':interrobang:'
+EMOJI_NO_DATA = ':new:'
 
 H1 = '#'
 H2 = '##'
