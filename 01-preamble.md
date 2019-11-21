@@ -17,3 +17,12 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - The master list of Onion SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
 - This file (`README.md`) is auto-generated; do not submit changes nor pull-requests for it
   - Please submit an `Issue` for consideration / change requests
+
+## Legend
+
+- :white_check_mark: site up
+- :eight_spoked_asterisk: site up, and redirected to another page
+- :negative_squared_cross_mark: site up, but could not access the page
+- :red_circle: site up, but reported a system error
+- :sos: site possibly down, or a transient network error
+- :new: site is newly added, no data yet
