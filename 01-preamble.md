@@ -13,12 +13,11 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 ## Notes
 
 - If both v2 and v3 addresses are provided for a service, the v3 address will be preferred / cited
-- Code `9xx` if cited below, is a special code which indicates (possibly temporary) failure to connect
 - The master list of Onion SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
 - This file (`README.md`) is auto-generated; do not submit changes nor pull-requests for it
   - Please submit an `Issue` for consideration / change requests
 
-### Status-Detector Legend
+### RWOS Status Detector
 
 - :white_check_mark: site up
 - :eight_spoked_asterisk: site up, and redirected to another page
@@ -37,4 +36,4 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
   - `910` - connection timeout
 - exits [are from Curl and are documented elsewhere](https://curl.haxx.se/libcurl/c/libcurl-errors.html); common ones include:
   - `7` - "curl couldn't connect"
-  - `52` - "curl got nothing"
+  - `52` - "curl got nothing", received no data from upstream
