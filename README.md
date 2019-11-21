@@ -13,12 +13,11 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 ## Notes
 
 - If both v2 and v3 addresses are provided for a service, the v3 address will be preferred / cited
-- Code `9xx` if cited below, is a special code which indicates (possibly temporary) failure to connect
 - The master list of Onion SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
 - This file (`README.md`) is auto-generated; do not submit changes nor pull-requests for it
   - Please submit an `Issue` for consideration / change requests
 
-### Status-Detector Legend
+### RWOS Status Detector
 
 - :white_check_mark: site up
 - :eight_spoked_asterisk: site up, and redirected to another page
@@ -37,7 +36,7 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
   - `910` - connection timeout
 - exits [are from Curl and are documented elsewhere](https://curl.haxx.se/libcurl/c/libcurl-errors.html); common ones include:
   - `7` - "curl couldn't connect"
-  - `52` - "curl got nothing"
+  - `52` - "curl got nothing", received no data from upstream
 
 ----
 # Index
@@ -297,6 +296,7 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
 * up: <span title="attempts=1 code=200 exit=0 time=2019-11-21 11:34:27+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-21 02:34:10+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-20 10:36:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-19 07:10:01+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-18 03:43:09+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-17 06:02:11+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 18:44:52+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 18:01:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 16:45:09+00:00">:white_check_mark:</span>
 
 ### [Internet Archive (archive.org)](http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/)
+*archive.org appears to block the RWOS status detector*
 * [http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/](http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/) :wrench:
 * proof: [link](https://archive.org/about/offline-archive/)
 * up: <span title="attempts=6 code=903 exit=52 time=2019-11-21 11:39:22+00:00">:sos:</span><span title="attempts=6 code=903 exit=52 time=2019-11-21 02:39:15+00:00">:sos:</span>
