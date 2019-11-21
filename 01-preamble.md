@@ -18,11 +18,22 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - This file (`README.md`) is auto-generated; do not submit changes nor pull-requests for it
   - Please submit an `Issue` for consideration / change requests
 
-## Legend
+## Technical Legend
 
 - :white_check_mark: site up
 - :eight_spoked_asterisk: site up, and redirected to another page
 - :negative_squared_cross_mark: site up, but could not access the page
 - :red_circle: site up, but reported a system error
-- :sos: site possibly down, or a transient network error
+- :sos: site returned no data, or is down, or curl experienced a transient network error
 - :new: site is newly added, no data yet
+
+### Special Codes and Exits
+
+Mouse-over the icons for details:
+
+- code 901, 902, 903 - malformed HTTP response
+- code 904 - HTTP status code parse error
+- code 910 - connection timeout
+- exit codes are from Curl and are documented at https://curl.haxx.se/libcurl/c/libcurl-errors.html; particular ones include:
+  - 7 - "curl couldn't connect"
+  - 52 - "curl got nothing"
