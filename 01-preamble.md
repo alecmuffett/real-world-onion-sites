@@ -18,7 +18,7 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - This file (`README.md`) is auto-generated; do not submit changes nor pull-requests for it
   - Please submit an `Issue` for consideration / change requests
 
-## Technical Legend
+### Status-Detector Legend
 
 - :white_check_mark: site up
 - :eight_spoked_asterisk: site up, and redirected to another page
@@ -27,13 +27,14 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - :sos: site returned no data, or is down, or curl experienced a transient network error
 - :new: site is newly added, no data yet
 
-### Special Codes and Exits
+### Codes & Exit Statuses
 
-Mouse-over the icons for details:
+Mouse-over the icons for details of HTTP codes, curl exit statuses, and the number of attempts made on each site.
 
-- code 901, 902, 903 - malformed HTTP response
-- code 904 - HTTP status code parse error
-- code 910 - connection timeout
-- exit codes are from Curl and are documented at https://curl.haxx.se/libcurl/c/libcurl-errors.html; particular ones include:
-  - 7 - "curl couldn't connect"
-  - 52 - "curl got nothing"
+- codes [are from HTTP and are documented elsewhere](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes); RWOS-internal ones include:
+  - `901`, `902`, `903` - malformed HTTP response
+  - `904` - HTTP status code parse error
+  - `910` - connection timeout
+- exits [are from Curl and are documented elsewhere](https://curl.haxx.se/libcurl/c/libcurl-errors.html); common ones include:
+  - `7` - "curl couldn't connect"
+  - `52` - "curl got nothing"
