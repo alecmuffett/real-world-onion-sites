@@ -20,6 +20,7 @@ RETRY_SLEEP = 60
 RETRY_LIMIT = 6
 PLACEHOLDER = '-'
 POOL_WORKERS = 10
+DETECTOR_HISTORY=14
 YES = 'y'
 
 EMOJI_HTTP = ':wrench:'
@@ -114,7 +115,7 @@ class Database:
         self.commit()
         self.connection.close()
 
-    def summary(self, url, limit=10):
+    def summary(self, url, limit=DETECTOR_HISTORY):
         params = { 'url': url, 'limit': limit }
         rows = self.cursor.execute(SUMMARY_SQL, params)
         return rows.fetchall()
