@@ -23,6 +23,12 @@ POOL_WORKERS = 10
 DETECTOR_HISTORY=14
 YES = 'y'
 
+DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
+    'globaleaks',
+    'securedrop for individuals',
+    'securedrop for organisations',
+)
+
 EMOJI_HTTP = ':wrench:'
 EMOJI_HTTPS = ':closed_lock_with_key:'
 EMOJI_UNSET = ':question:'
@@ -175,7 +181,7 @@ def caps(s):
     return ' '.join([w.capitalize() for w in s.lower().split()])
 
 def deferred(s):
-    return s.startswith('globaleaks') or s.startswith('securedrop')
+    return s in DEFERRED_CATEGORIES
 
 def get_categories(chunk):
     src = sorted(set([x['category'] for x in chunk]))
