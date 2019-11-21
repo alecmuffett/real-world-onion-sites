@@ -68,7 +68,7 @@ VALUES (:run, :url, :attempt, :out, :err, :http_code, :curl_exit)
 '''
 
 SUMMARY_SQL = '''
-SELECT foo.ctime, foo.attempt, foo.http_code
+SELECT foo.ctime, foo.attempt, foo.http_code, foo.curl_exit
 FROM fetches foo
 INNER JOIN (
   SELECT url, run, MAX(attempt) AS pivot
@@ -205,20 +205,20 @@ def get_summary(url):
     if len(rows) == 0:
         return ( EMOJI_NO_DATA, )
     result = []
-    for when, attempt, code in rows:
+    for when, attempt, hcode, ecode in rows:
         emoji = EMOJI_UNSET
-        if code >= 200 and code < 300:
+        if hcode >= 200 and hcode < 300:
             emoji = EMOJI_2xx
-        elif code >= 300 and code < 400:
+        elif hcode >= 300 and hcode < 400:
             emoji = EMOJI_3xx
-        elif code >= 400 and code < 500:
+        elif hcode >= 400 and hcode < 500:
             emoji = EMOJI_4xx
-        elif code >= 500 and code < 600:
+        elif hcode >= 500 and hcode < 600:
             emoji = EMOJI_5xx
-        elif code >= BADNESS:
+        elif hcode >= BADNESS:
             emoji = EMOJI_DEAD
         t = datetime.fromtimestamp(when, timezone.utc)
-        result.append('<span title="attempts={1} code={2} time={3}">{0}</span>'.format(emoji, attempt, code, t))
+        result.append('<span title="attempts={1} code={2} exit={3} time={4}">{0}</span>'.format(emoji, attempt, hcode, ecode, t))
     return result
 
 def print_chunk(chunk, title, description=None, print_bar=True):
