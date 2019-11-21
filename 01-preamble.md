@@ -21,8 +21,8 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 
 - :white_check_mark: site up
 - :eight_spoked_asterisk: site up, and redirected to another page
-- :negative_squared_cross_mark: site up, but could not access the page
-- :red_circle: site up, but reported a system error
+- :no_entry_sign: site up, but could not access the page
+- :stop_sign: site up, but reported a system error
 - :sos: site returned no data, or is down, or curl experienced a transient network error
 - :new: site is newly added, no data yet
 
