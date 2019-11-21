@@ -146,7 +146,12 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 exit=0 time=2019-11-21 13:57:16+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-21 11:30:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-21 02:29:41+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-20 10:32:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-19 07:06:32+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-18 03:40:32+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-17 06:00:31+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 18:42:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 17:59:40+00:00">:white_check_mark:</span><span title="attempts=2 code=200 exit=0 time=2019-11-16 16:40:10+00:00">:white_check_mark:</span>
 
-### [BBC News Vietnam | Tiếng Việt](https://www.s5rhoqqosmcispfb.onion/vietnamese)
+### [BBC News Turkish | Türkçe](https://www.s5rhoqqosmcispfb.onion/turkce)
+* [https://www.s5rhoqqosmcispfb.onion/turkce](https://www.s5rhoqqosmcispfb.onion/turkce) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+* up: :new:
+
+### [BBC News Vietnamese | Tiếng Việt](https://www.s5rhoqqosmcispfb.onion/vietnamese)
 * [https://www.s5rhoqqosmcispfb.onion/vietnamese](https://www.s5rhoqqosmcispfb.onion/vietnamese) :closed_lock_with_key:
 * proof: see tls/ssl certificate
 * up: <span title="attempts=1 code=200 exit=0 time=2019-11-21 13:57:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-21 11:30:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-21 02:29:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-20 10:32:28+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-19 07:06:35+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-18 03:40:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-17 06:00:22+00:00">:white_check_mark:</span>
@@ -163,9 +168,35 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
 * up: <span title="attempts=1 code=200 exit=0 time=2019-11-21 13:57:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-21 11:30:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-21 02:29:15+00:00">:white_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2019-11-20 10:49:34+00:00">:sos:</span><span title="attempts=6 code=910 exit=910 time=2019-11-19 07:23:42+00:00">:sos:</span><span title="attempts=1 code=200 exit=0 time=2019-11-18 03:40:45+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-17 06:00:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 18:42:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 17:59:47+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2019-11-16 16:40:56+00:00">:white_check_mark:</span>
 
 ### [Deutsche Welle](https://www.dwnewsvdyyiamwnp.onion/)
+*language selection menu in titlebar*
 * [https://www.dwnewsvdyyiamwnp.onion/](https://www.dwnewsvdyyiamwnp.onion/) :closed_lock_with_key:
 * proof: [link](https://www.dw.com/en/deutsche-welle-websites-now-accessible-via-tor-protocol/a-51338328)
 * up: <span title="attempts=1 code=302 exit=0 time=2019-11-21 13:57:15+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=302 exit=0 time=2019-11-21 11:30:20+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=302 exit=0 time=2019-11-21 02:29:24+00:00">:eight_spoked_asterisk:</span>
+
+### [Deutsche Welle Arabic](https://www.dwnewsvdyyiamwnp.onion/ar/)
+* [https://www.dwnewsvdyyiamwnp.onion/ar/](https://www.dwnewsvdyyiamwnp.onion/ar/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+* up: :new:
+
+### [Deutsche Welle Chinese](https://www.dwnewsvdyyiamwnp.onion/zh/)
+* [https://www.dwnewsvdyyiamwnp.onion/zh/](https://www.dwnewsvdyyiamwnp.onion/zh/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+* up: :new:
+
+### [Deutsche Welle Persian](https://www.dwnewsvdyyiamwnp.onion/fa-ir/)
+* [https://www.dwnewsvdyyiamwnp.onion/fa-ir/](https://www.dwnewsvdyyiamwnp.onion/fa-ir/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+* up: :new:
+
+### [Deutsche Welle Russian](https://www.dwnewsvdyyiamwnp.onion/ru/)
+* [https://www.dwnewsvdyyiamwnp.onion/ru/](https://www.dwnewsvdyyiamwnp.onion/ru/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+* up: :new:
+
+### [Deutsche Welle Turkish](https://www.dwnewsvdyyiamwnp.onion/tr/)
+* [https://www.dwnewsvdyyiamwnp.onion/tr/](https://www.dwnewsvdyyiamwnp.onion/tr/) :closed_lock_with_key:
+* proof: see tls/ssl certificate
+* up: :new:
 
 ### [ProPublica](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/)
 * [https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/) :closed_lock_with_key:
