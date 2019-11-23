@@ -246,7 +246,7 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         print(B, 'proof: {0}'.format(get_proof(row)))
         if print_bar:
             bar = ''.join(get_summary(url))
-            print(B, 'up:', bar)
+            print(B, 'check:', bar)
         print()
 
 def poolhook(x):
