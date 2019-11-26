@@ -26,6 +26,8 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - :sos: site returned no data, or is down, or curl experienced a transient network error
 - :new: site is newly added, no data yet
 
+You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
+
 ### Codes & Exit Statuses
 
 Mouse-over the icons for details of HTTP codes, curl exit statuses, and the number of attempts made on each site.
