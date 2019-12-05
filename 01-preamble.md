@@ -46,17 +46,15 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
   best; will not respect browser secure/HTTPS behaviour
 - :closed_lock_with_key: secure HTTPS Onion site, protected by both
   Onion circuits and TLS, will respect browser secure/HTTPS behaviour
-
-Due to the fundamental protocol differences between `HTTP` and
-`HTTPS`, it is not wise to consider HTTP-over-Onion to be "as secure
-as HTTPS"; web browsers *do* and *must* treat HTTPS in ways that are
-fundamentally more secure than HTTP - e.g.: with respect to cookie
-handling or loading insecure content - and the necessity of broad
-adherence to web standards would make it harmful to attempt to
-optimise just one browser (Tor Browser) to elevate HTTP-over-Onion to
-the same levels of trust as HTTPS-over-TCP, let alone
-HTTPS-over-Onion.
-
-tl;dr - HTTP-over-Onion is not as secure as HTTPS-over-Onion, and
-attempting to force it to be so will create a compatibility mess for
-the ecosystem of onion-capable browsers.
+- Due to the fundamental protocol differences between `HTTP` and
+  `HTTPS`, it is not wise to consider HTTP-over-Onion to be "as secure
+  as HTTPS"; web browsers *do* and *must* treat HTTPS in ways that are
+  fundamentally more secure than HTTP - e.g.: with respect to cookie
+  handling, where the trusted connection terminates, or in loading
+  insecure content - and the necessity of broad adherence to web
+  standards would make it harmful to attempt to optimise just one
+  browser (Tor Browser) to elevate HTTP-over-Onion to the same levels
+  of trust as HTTPS-over-TCP, let alone HTTPS-over-Onion.
+- tl;dr - HTTP-over-Onion is not as secure as HTTPS-over-Onion, and
+  attempting to force it to be so will create a compatibility mess for
+  the ecosystem of onion-capable browsers.
