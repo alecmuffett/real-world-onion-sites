@@ -44,18 +44,23 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
 
 Due to the fundamental protocol differences between `HTTP` and
 `HTTPS`, it is not wise to consider HTTP-over-Onion to be "as secure
-as HTTPS"; web browsers *do* and *must* treat HTTPS in ways that are
-fundamentally more secure than HTTP, e.g.:
+as HTTPS"; web browsers **do** and **must** treat HTTPS in ways that
+are fundamentally more secure than HTTP, e.g.:
 
 - with respect to cookie handling, or
 - where the trusted connection terminates, or
-- how to deal with loading embedded insecure content
+- how to deal with loading embedded insecure content, or
 - whether to permit access to camera and microphone devices (WebRTC)
 
 ...and the necessity of broad adherence to web standards would make it
 harmful to attempt to optimise just one browser (e.g. Tor Browser) to
 elevate HTTP-over-Onion to the same levels of trust as HTTPS-over-TCP,
 let alone HTTPS-over-Onion.
+
+Doubtless some browsers will *attempt* to implement
+"better-than-default trust and security via HTTP over onions", but
+this behaviour will not be standard, cannot be relied upon by
+clients/users, and will therefore be **risky**.
 
 **tl;dr** - HTTP-over-Onion should not be considered as secure as
 HTTPS-over-Onion, and attempting to force it thusly will create a
