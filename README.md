@@ -1,20 +1,25 @@
-# Real-World Onion Sites
+# [Real-World Onion Sites](#index)
 
 This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 
 - no sites with an "onion-only" presence
 - no sites for tech with less than (arbitrary) 10,000 users
-- no nudity, exploitation, drugs, copyright infringement or sketchy-content sites
-- the editor reserves all rights to annotate or drop any or all entries as deemed fit
+- no nudity, exploitation, drugs, copyright infringement or
+  sketchy-content sites
+- the editor reserves all rights to annotate or drop any or all
+  entries as deemed fit
 - updated: [see the change history for specifics](https://github.com/alecmuffett/onion-sites-that-dont-suck/commits/master/README.md)
 - licensed: cc-by-sa
 - author/editor: alec muffett
 
 ## Notes
 
-- If both v2 and v3 addresses are provided for a service, the v3 address will be preferred / cited
-- The master list of Onion SSL EV Certificates may be viewed at https://crt.sh/?q=%25.onion
-- This file (`README.md`) is auto-generated; do not submit changes nor pull-requests for it
+- If both v2 and v3 addresses are provided for a service, the v3
+  address will be preferred / cited
+- The master list of Onion SSL EV Certificates may be viewed at
+  https://crt.sh/?q=%25.onion
+- This file (`README.md`) is auto-generated; do not submit changes nor
+  pull-requests for it
   - Please submit an `Issue` for consideration / change requests
 
 ### RWOS Status Detector
@@ -23,14 +28,16 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - :eight_spoked_asterisk: site up, and redirected to another page
 - :no_entry_sign: site up, but could not access the page
 - :stop_sign: site up, but reported a system error
-- :sos: site returned no data, or is down, or curl experienced a transient network error
+- :sos: site returned no data, or is down, or curl experienced a
+  transient network error
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
 
 ### Codes & Exit Statuses
 
-Mouse-over the icons for details of HTTP codes, curl exit statuses, and the number of attempts made on each site.
+Mouse-over the icons for details of HTTP codes, curl exit statuses,
+and the number of attempts made on each site.
 
 - codes [are from HTTP and are documented elsewhere](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes); RWOS-internal ones include:
   - `901`, `902`, `903` - malformed HTTP response
@@ -44,8 +51,8 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
 
 Due to the fundamental protocol differences between `HTTP` and
 `HTTPS`, it is not wise to consider HTTP-over-Onion to be "as secure
-as HTTPS"; web browsers **do** and **must** treat HTTPS in ways that
-are fundamentally more secure than HTTP, e.g.:
+as HTTPS"; web browsers **do** and **must** treat HTTPS requests in
+ways that are fundamentally different to HTTP, e.g.:
 
 - with respect to cookie handling, or
 - where the trusted connection terminates, or
@@ -55,12 +62,10 @@ are fundamentally more secure than HTTP, e.g.:
 ...and the necessity of broad adherence to web standards would make it
 harmful to attempt to optimise just one browser (e.g. Tor Browser) to
 elevate HTTP-over-Onion to the same levels of trust as HTTPS-over-TCP,
-let alone HTTPS-over-Onion.
-
-Doubtless some browsers will *attempt* to implement
-"better-than-default trust and security via HTTP over onions", but
-this behaviour will not be standard, cannot be relied upon by
-clients/users, and will therefore be **risky**.
+let alone HTTPS-over-Onion.  Doubtless some browsers will *attempt* to
+implement "better-than-default trust and security via HTTP over
+onions", but this behaviour will not be **standard**, cannot be
+**relied upon** by clients/users, and will therefore be **risky**.
 
 **tl;dr** - HTTP-over-Onion should not be considered as secure as
 HTTPS-over-Onion, and attempting to force it thusly will create a
