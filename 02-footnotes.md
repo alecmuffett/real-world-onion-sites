@@ -67,3 +67,6 @@ future compatibility mess for the ecosystem of onion-capable browsers.
 [The issues page](https://github.com/alecmuffett/real-world-onion-sites/issues)
 is the fastest and most effective way to submit a suggestion; if you
 lack a Github account, try messaging `@alecmuffett` on Twitter.
+
+----
+[Back to Top](#real-world-onion-sites)
