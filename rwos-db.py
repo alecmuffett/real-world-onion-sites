@@ -241,7 +241,8 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         print(H3, '[{site_name}]({onion_url})'.format(**row))
         comment = get_placeholder(row, 'comment')
         if comment != '-': print('*{}*'.format(comment))
-        print(B, '[{0}]({0})'.format(url), padlock)
+        # linky-linky, with https-emoji
+        print(B, 'link: [{0}]({0})'.format(url), padlock)
         # apparently some people like copying and pasting plain text
         print(B, 'plain: `{0}`'.format(url))
         # print proof unconditionally, as encouragement to fix it
