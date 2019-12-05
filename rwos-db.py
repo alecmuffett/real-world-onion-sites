@@ -238,11 +238,11 @@ def print_chunk(chunk, title, description=None, print_bar=True):
     for row in sort_using(chunk, 'site_name'):
         url = row['onion_url']
         padlock = EMOJI_HTTPS if url.startswith('https') else EMOJI_HTTP
-        print(H3, '[{site_name}]({onion_url})'.format(**row))
+        print(H3, '[{site_name}]({onion_url})'.format(**row), padlock)
         comment = get_placeholder(row, 'comment')
         if comment != '-': print('*{}*'.format(comment))
         # linky-linky, with https-emoji
-        print(B, 'link: [{0}]({0})'.format(url), padlock)
+        print(B, 'link: [{0}]({0})'.format(url))
         # apparently some people like copying and pasting plain text
         print(B, 'plain: `{0}`'.format(url))
         # print proof unconditionally, as encouragement to fix it
