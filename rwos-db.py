@@ -242,6 +242,8 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         comment = get_placeholder(row, 'comment')
         if comment != '-': print('*{}*'.format(comment))
         print(B, '[{0}]({0})'.format(url), padlock)
+        # apparently some people like copying and pasting plain text
+        print(B, 'plain: `{0}`'.format(url))
         # print proof unconditionally, as encouragement to fix it
         print(B, 'proof: {0}'.format(get_proof(row)))
         if print_bar:
