@@ -45,11 +45,12 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses, and the numb
 Due to the fundamental protocol differences between `HTTP` and
 `HTTPS`, it is not wise to consider HTTP-over-Onion to be "as secure
 as HTTPS"; web browsers *do* and *must* treat HTTPS in ways that are
-fundamentally more secure than HTTP - e.g.:
+fundamentally more secure than HTTP, e.g.:
 
 - with respect to cookie handling, or
 - where the trusted connection terminates, or
 - how to deal with loading embedded insecure content
+- whether to permit access to camera and microphone devices (WebRTC)
 
 ...and the necessity of broad adherence to web standards would make it
 harmful to attempt to optimise just one browser (e.g. Tor Browser) to
