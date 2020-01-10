@@ -2,6 +2,7 @@
 *.37nhmdszo2ltkkfo.onion 37nhmdszo2ltkkfo.onion *.56m4joozvkzlx6ln.onion 56m4joozvkzlx6ln.onion *.api.37nhmdszo2ltkkfo.onion *.api.bbcnewsv2vjtpsuy.onion *.api.s5rhoqqosmcispfb.onion *.bbcnewsv2vjtpsuy.onion bbcnewsv2vjtpsuy.onion *.bidi.bbcnewsv2vjtpsuy.onion *.bidi.live.bbcnewsv2vjtpsuy.onion *.cf6kvc4g63fnhkkq.onion cf6kvc4g63fnhkkq.onion *.files.37nhmdszo2ltkkfo.onion *.iplayer.api.bbcnewsv2vjtpsuy.onion *.jxtwbvj32chvkay5.onion jxtwbvj32chvkay5.onion *.live.37nhmdszo2ltkkfo.onion *.live.bbcnewsv2vjtpsuy.onion *.live.s5rhoqqosmcispfb.onion *.notifications.api.bbcnewsv2vjtpsuy.onion *.s5rhoqqosmcispfb.onion s5rhoqqosmcispfb.onion *.test.37nhmdszo2ltkkfo.onion
 3g2upl4pq6kufc4m.onion www.3g2upl4pq6kufc4m.onion
 5qlhz3jow7zhxtpx.onion
+6wvybf7ub3xk5ow66wt7os3aovbzoo2eei6vjirvhvvkmqg4alnezzid.onion
 ajarouh33jee5tos.onion
 amcd7mdy354fajrr.onion
 *.analytics.qklykfiomrwjhdz4.onion *.cdnapisec.qklykfiomrwjhdz4.onion *.cfvod.qklykfiomrwjhdz4.onion *.erzs4cd7i5eox4cg.onion erzs4cd7i5eox4cg.onion *.qklykfiomrwjhdz4.onion qklykfiomrwjhdz4.onion *.rfa62zl6z6owmtlf.onion rfa62zl6z6owmtlf.onion *.stats.qklykfiomrwjhdz4.onion *.tags.erzs4cd7i5eox4cg.onion *.www.rfa62zl6z6owmtlf.onion
