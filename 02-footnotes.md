@@ -1,12 +1,12 @@
 ## Footnotes
 
+- This file (`README.md`) is auto-generated
+  - *Do NOT submit changes NOR pull-requests for it*
+  - Please submit an `Issue` for consideration / change requests
 - If both v2 and v3 addresses are provided for a service, the v3
   address will be preferred / cited
 - The master list of Onion SSL EV Certificates may be viewed at
   https://crt.sh/?q=%25.onion
-- This file (`README.md`) is auto-generated; do not submit changes nor
-  pull-requests for it
-  - Please submit an `Issue` for consideration / change requests
 
 ### RWOS Status Detector
 
