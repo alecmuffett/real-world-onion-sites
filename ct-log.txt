@@ -37,6 +37,7 @@ facebookcorewwwi.onion
 *.facebookcorewwwi.onion facebookcorewwwi.onion fbcdn23dssr3jqnq.onion fbsbx2q4mvcl63pw.onion
 *.facebookcorewwwi.onion facebookcorewwwi.onion *.fbcdn23dssr3jqnq.onion *.fbsbx2q4mvcl63pw.onion *.m.facebookcorewwwi.onion *.xx.fbcdn23dssr3jqnq.onion *.xy.fbcdn23dssr3jqnq.onion *.xz.fbcdn23dssr3jqnq.onion
 *.facebookcorewwwi.onion facebookcorewwwi.onion fbcdn23dssr3jqnq.onion fbsbx2q4mvcl63pw.onion m.facebookcorewwwi.onion xx.fbcdn23dssr3jqnq.onion xy.fbcdn23dssr3jqnq.onion xz.fbcdn23dssr3jqnq.onion
+facebookcorewwwi.onion fbcdn23dssr3jqnq.onion fbsbx2q4mvcl63pw.onion
 *.fbcdn23dssr3jqnq.onion fbcdn23dssr3jqnq.onion
 *.fbsbx2q4mvcl63pw.onion fbsbx2q4mvcl63pw.onion
 Franje Onions B.V. franjeonions.nl www.franjeonions.nl
@@ -101,3 +102,4 @@ www.y6xjgkgwj47us5ca.onion y6xjgkgwj47us5ca.onion
 *.xy.fbcdn23dssr3jqnq.onion xy.fbcdn23dssr3jqnq.onion
 *.xz.fbcdn23dssr3jqnq.onion xz.fbcdn23dssr3jqnq.onion
 y6xjgkgwj47us5ca.onion
+zelenina.onions@seznam.cz ZELENINA ONIONS s.r.o. [I\304\214 26346907]
