@@ -5,6 +5,10 @@
   - Please submit an `Issue` for consideration / change requests
 - If both v2 and v3 addresses are provided for a service, the v3
   address will be preferred / cited
+- At the moment where an organisation runs 2+ onion addresses for
+  closely related services that do not reflect distinct languages /
+  national interests, I am posting a link to an index of their
+  onions. Examples: Riseup, Systemli, TorProject, ...
 - The master list of Onion SSL EV Certificates may be viewed at
   https://crt.sh/?q=%25.onion
 

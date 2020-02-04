@@ -1,4 +1,5 @@
 DB=fetch.sqlite3
+LOGDIR=old-logs
 
 all:
 	-echo "make what?"
@@ -13,7 +14,9 @@ run:
 
 clean:
 	-rm *~
-	-rm log*.txt
+	test -d $(LOGDIR) || mkdir $(LOGDIR)
+	mv log*.txt $(LOGDIR)
+	ls -lh
 
 db:
 	sqlite3 $(DB)
