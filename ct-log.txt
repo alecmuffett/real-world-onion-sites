@@ -1,3 +1,4 @@
+fyxifz6xwx3d67a2.onion
 k2hzvhcagvmx4us2.onion
 www.k2hzvhcagvmx4us2.onion
 voatibenjgi7dx33.onion
@@ -5,6 +6,8 @@ voatibenjgi7dx33.onion
 *.www.voatibenjgi7dx33.onion
 try2checklm32oc3.onion
 www.try2checklm32oc3.onion
+pubapp7v22ykdou3.onion
+*.pubapp7v22ykdou3.onion
 itipwhiteopsdx64.onion
 xychelseaxqpywe4.onion
 www.xychelseaxqpywe4.onion
@@ -22,16 +25,21 @@ urdvoauhitx5icb5.onion
 jg2kqkrs2rapdiu5.onion
 jxtwbvj32chvkay5.onion
 *.jxtwbvj32chvkay5.onion
+sarajarxpvoenum6.onion
 vipebuzedutoa6p6.onion
 *.vipebuzedutoa6p6.onion
 www.vipebuzedutoa6p6.onion
 mkyivn5qd25lf7r6.onion
 *.mkyivn5qd25lf7r6.onion
+ppasset42kropoy6.onion
+*.ppasset42kropoy6.onion
 *.idelrea5soxeg7h7.onion
 *.www.idelrea5soxeg7h7.onion
 *.persgroepsttfzr7.onion
 *.idp.persgroepsttfzr7.onion
 *.dnr.persgroepsttfzr7.onion
+y6xjgkgwj47us5ca.onion
+www.y6xjgkgwj47us5ca.onion
 haiwnaestfknxbda.onion
 www.haiwnaestfknxbda.onion
 voacant5lzidz4ma.onion
@@ -57,6 +65,8 @@ kavkazr6vak4ftdd.onion
 hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion
 *.hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion
 6wvybf7ub3xk5ow66wt7os3aovbzoo2eei6vjirvhvvkmqg4alnezzid.onion
+tomritterbassljd.onion
+*.tomritterbassljd.onion
 iiutnqstqrrygumyggv4t7vsrzf3dgd27rolrfkhkus4mg5i6yein4qd.onion
 p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion
 *.p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion
@@ -117,6 +127,7 @@ www.bbpclp57ed3yhnqj.onion
 golosctnxclzq4xj.onion
 *.golosctnxclzq4xj.onion
 *.www.golosctnxclzq4xj.onion
+nytimes2tsqtnxek.onion
 blockchainbdgpzk.onion
 t3y3qp7zoduvisdl.onion
 www.t3y3qp7zoduvisdl.onion
@@ -152,6 +163,7 @@ www.osf22p3lmweopgho.onion
 dwnewsvdyyiamwnp.onion
 *.dwnewsvdyyiamwnp.onion
 *.commons.dwnewsvdyyiamwnp.onion
+*.xczxxczkjivdfsop.onion
 pubdrop4dw6rk3aq.onion
 radiosvqf2b7qycq.onion
 *.radiosvqf2b7qycq.onion
@@ -172,7 +184,12 @@ coinpaymtstgtibr.onion
 amcd7mdy354fajrr.onion
 cyphdbyhiddenbhs.onion
 *.cyphdbyhiddenbhs.onion
+im.cyphdbyhiddenbhs.onion
+video.cyphdbyhiddenbhs.onion
+audio.cyphdbyhiddenbhs.onion
+cyph.ws.cyphdbyhiddenbhs.onion
 voanewsktwx4bxhs.onion
+ajarouh33jee5tos.onion
 greyrallymarqk3t.onion
 p5xhdvsjmnlmeo6v.onion
 *.p5xhdvsjmnlmeo6v.onion
@@ -189,6 +206,8 @@ container656ovix.onion
 *.container656ovix.onion
 sgeffsn6tztqzlpx.onion
 5qlhz3jow7zhxtpx.onion
+k6jyto7zq7xxriux.onion
+www.k6jyto7zq7xxriux.onion
 btcforuml2pcfkyx.onion
 www.btcforuml2pcfkyx.onion
 bfnews3u2ox4m4ty.onion
