@@ -190,6 +190,7 @@ video.cyphdbyhiddenbhs.onion
 audio.cyphdbyhiddenbhs.onion
 cyph.ws.cyphdbyhiddenbhs.onion
 voanewsktwx4bxhs.onion
+*.voanewsktwx4bxhs.onion
 ajarouh33jee5tos.onion
 greyrallymarqk3t.onion
 p5xhdvsjmnlmeo6v.onion
