@@ -17,7 +17,7 @@ esac
 
 set -x
 
-curl "$url" > $tmp || exit 1
+curl -L "$url" > $tmp || exit 1
 
 if [ -s $tmp ] ; then
     cmp $tmp $csv || cp $tmp $csv
