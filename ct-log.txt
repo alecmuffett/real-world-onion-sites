@@ -214,6 +214,7 @@ www.k6jyto7zq7xxriux.onion
 btcforuml2pcfkyx.onion
 www.btcforuml2pcfkyx.onion
 bfnews3u2ox4m4ty.onion
+www.bfnews3u2ox4m4ty.onion
 bbcnewsv2vjtpsuy.onion
 *.bbcnewsv2vjtpsuy.onion
 *.live.bbcnewsv2vjtpsuy.onion
