@@ -18,8 +18,8 @@
 - :eight_spoked_asterisk: site up, and redirected to another page
 - :no_entry_sign: site up, but could not access the page
 - :stop_sign: site up, but reported a system error
-- :sos: site returned no data, or is down, or curl experienced a
-  transient network error
+- :sos: site returned no data, or is down, or curl experienced a transient
+  network error (may be a problem with the RWOS server connection)
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).

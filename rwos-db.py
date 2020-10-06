@@ -205,6 +205,7 @@ def get_proof(row):
     url = get_placeholder(row, 'proof_url')
     if url == '-': return 'to be done'
     if url == 'ssl': return 'see tls/ssl certificate'
+    if url == 'header': return 'see onion-location header'
     return '[link]({})'.format(url)
 
 def get_summary(url):
