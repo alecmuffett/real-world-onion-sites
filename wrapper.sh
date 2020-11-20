@@ -1,6 +1,6 @@
 #!/bin/sh
 # hello! yes, this is a public link to a google sheet, to fetch as csv; and yes, i do know.
-url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjEEqZ2bGYQcvTvWqJfNvw_NCTrcIM9C2GzriqGyEfz_8C9ZAj2c9gaR6ew6u4X-qRsYxgeD_zZMxD/pub?gid=0&single=true&output=csv"
+url='google broke this function'
 now=`date "+%Y%m%d%H%M%S"`
 out="log-$now.out.txt"
 err="log-$now.err.txt"
@@ -17,11 +17,10 @@ esac
 
 set -x
 
-curl -L "$url" > $tmp || exit 1
-
-if [ -s $tmp ] ; then
-    cmp $tmp $csv || cp $tmp $csv
-fi
+# curl -L "$url" > $tmp || exit 1
+# if [ -s $tmp ] ; then
+#    cmp $tmp $csv || cp $tmp $csv
+# fi
 
 if $dofetch ; then
     $exe fetch || exit 1
