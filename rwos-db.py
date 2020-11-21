@@ -12,7 +12,7 @@ GLOBAL_DB = None # has to be a global because pickling :-(
 
 MASTER_CSV = 'master.csv'
 DB_FILENAME = 'fetch.sqlite3'
-SOCKS_PROXY = 'socks5h://127.0.0.1:9150/'
+SOCKS_PROXY = 'socks5h://127.0.0.1:9050/'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0'
 BADNESS = 900
 CURL_TIMEOUT = 120
