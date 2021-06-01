@@ -9,7 +9,7 @@ curl "https://crt.sh/?q=\.onion" |
     sort -u |
     awk -F. '{print $(NF-1), $0}' |
     sort |
-    awk 'BEGIN {print "# Onion Certificate Transparency Log"} $2~/^\*/{print "* wildcard `" $2 "`"; next} {print "* `https://" $2 "`"}' >$tf
+    awk 'BEGIN {print "# Onion Certificate Transparency Log"} $2~/^\*/{print "* *wildcard* `" $2 "`"; next} {url = "https://" $2; printf("* [`%s`](%s)\n",url,url)}' >$tf
 
 test -s $tf && cp $tf $log
 rm $tf

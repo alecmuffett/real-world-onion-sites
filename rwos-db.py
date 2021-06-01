@@ -11,6 +11,7 @@ import time
 GLOBAL_DB = None # has to be a global because pickling :-(
 
 MASTER_CSV = 'master.csv'
+SECUREDROP_CSV = 'securedrop-api.csv'
 DB_FILENAME = 'fetch.sqlite3'
 SOCKS_PROXY = 'socks5h://127.0.0.1:9050/'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0'
@@ -25,6 +26,7 @@ TRUE_STRING = 'TRUE'
 
 DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
     'globaleaks',
+    'securedrop',
     'securedrop for individuals',
     'securedrop for organisations',
 )
@@ -306,10 +308,13 @@ def do_trash():
 if __name__ == '__main__':
     master = None
 
-    # csv: category, site_name, flaky, onion_url, comment, proof_url
     with open(MASTER_CSV, 'r') as fh:
         dr = csv.DictReader(fh)
         master = [ x for x in dr ]
+
+    with open(SECUREDROP_CSV, 'r') as fh:
+        dr = csv.DictReader(fh)
+        master.extend([ x for x in dr ])
 
     GLOBAL_DB = Database(DB_FILENAME)
 

@@ -19,10 +19,10 @@ def push(stack, entry):
     result = dict()
     result['legacy'] = 'FALSE'
     result['flaky'] = ''
-    result['category'] = 'securedrop for organisations'
+    result['category'] = 'securedrop'
     result['site_name'] = xx(entry, 'title')
     result['onion_url'] = '{0}://{1}'.format(method, xx(entry, 'onion_address'))
-    result['onion_addr'] = 'TO BE COMPUTED BY SHEET'
+    result['onion_addr'] = '*TBD*' # not really needed
     result['onion_name'] = xx(entry, 'onion_name')
     result['proof_url'] = xx(entry, 'landing_page_url')
     result['comment'] = 'via: {}'.format(sd_url)
