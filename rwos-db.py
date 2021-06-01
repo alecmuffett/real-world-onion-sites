@@ -21,7 +21,7 @@ RETRY_LIMIT = 6
 PLACEHOLDER = '-'
 POOL_WORKERS = 10
 DETECTOR_HISTORY=14
-YES = 'y'
+TRUE_STRING = 'TRUE'
 
 DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
     'globaleaks',
@@ -257,7 +257,8 @@ def poolhook(x):
     x.fetchwrap()
 
 def do_fetch(master):
-    chunk = grep_using(master, 'flaky', YES, invert=True)
+    chunk = grep_using(master, 'flaky', TRUE_STRING, invert=True)
+    chunk = grep_using(chunk, 'legacy', TRUE_STRING, invert=True)
     work = [ URL(x['onion_url']) for x in chunk ]
     with Pool(POOL_WORKERS) as p: p.map(poolhook, work)
 
@@ -274,9 +275,12 @@ def do_print(master):
     print_index(cats)
     for cat in cats:
         chunk = grep_using(master, 'category', cat)
-        chunk = grep_using(chunk, 'flaky', YES, invert=True)
+        chunk = grep_using(chunk, 'legacy', TRUE_STRING, invert=True)
+        chunk = grep_using(chunk, 'flaky', TRUE_STRING, invert=True)
         print_chunk(chunk, cat)
-    flaky = grep_using(master, 'flaky', YES)
+    legacy = grep_using(master, 'legacy', TRUE_STRING)
+    print_chunk(legacy, 'Legacy Sites', description='These sites have "legacy" v2 onion addresses.', print_bar=False)
+    flaky = grep_using(master, 'flaky', TRUE_STRING)
     print_chunk(flaky, 'Flaky Sites', description='These sites have apparently stopped responding.', print_bar=False)
 
 if __name__ == '__main__':

@@ -4,7 +4,6 @@ url='google broke this function'
 now=`date "+%Y%m%d%H%M%S"`
 out="log-$now.out.txt"
 err="log-$now.err.txt"
-tmp="/tmp/onion-tmp-$$.csv"
 csv="master.csv"
 exe="./rwos-db.py"
 
@@ -17,10 +16,7 @@ esac
 
 set -x
 
-# curl -L "$url" > $tmp || exit 1
-# if [ -s $tmp ] ; then
-#    cmp $tmp $csv || cp $tmp $csv
-# fi
+# todo: update the CSV?
 
 if $dofetch ; then
     $exe fetch || exit 1
