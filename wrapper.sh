@@ -16,12 +16,15 @@ esac
 
 set -x
 
+# date
 # todo: update the CSV?
 
+date
 if $dofetch ; then
     $exe fetch || exit 1
 fi
 
+date
 (
     cat 01-preamble.md
     echo ""
@@ -31,4 +34,5 @@ fi
     echo ""
 ) > README.md
 
+date
 exit 0

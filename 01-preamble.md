@@ -1,4 +1,4 @@
-# [Real-World Onion Sites](#index)
+# [Real-World Onion Sites](#index) (v3-onions only)
 
 This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 
