@@ -255,6 +255,9 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         print(H3, '[{site_name}]({onion_url})'.format(**row), padlock)
         comment = get_placeholder(row, 'comment')
         if comment != '-': print('*{}*'.format(comment))
+        # short name
+        oname = row['onion_name']
+        if oname != '': print(B, 'short: `{0}`'.format(oname))
         # linky-linky, with https-emoji
         print(B, 'link: [{0}]({0})'.format(url))
         # apparently some people like copying and pasting plain text
