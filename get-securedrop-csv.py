@@ -12,10 +12,7 @@ fieldnames = "legacy flaky category site_name onion_name onion_addr onion_url pr
 def xx(thing, key): return thing.get(key, '')
 
 def push(stack, entry):
-    if entry['latest_scan']['forces_https']:
-        method = 'https'
-    else:
-        method = 'http'
+    method = 'http' # this needs some discussion with Securedrop
     result = dict()
     result['legacy'] = 'FALSE'
     result['flaky'] = ''
