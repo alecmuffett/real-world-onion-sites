@@ -1,4 +1,5 @@
 # Onion Certificate Transparency Log
+## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * *wildcard* `*.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
 * *wildcard* `*.prod.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
 * [`https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion)

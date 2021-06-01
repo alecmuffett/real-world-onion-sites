@@ -11,7 +11,7 @@
   national interests, I am posting a link to an index of their
   onions. Examples: Riseup, Systemli, TorProject, ...
 - The master list of Onion SSL EV Certificates may be viewed at
-  https://crt.sh/?q=%25.onion
+  https://crt.sh/?q=\.onion
 
 ### RWOS Status Detector
 
