@@ -1,6 +1,4 @@
 #!/bin/sh
-# hello! yes, this is a public link to a google sheet, to fetch as csv; and yes, i do know.
-url='google broke this function'
 now=`date "+%Y%m%d%H%M%S"`
 log="log-$now.txt"
 csv="master.csv"
@@ -15,8 +13,8 @@ esac
 
 set -x
 
-# date
-# todo: update the CSV?
+date
+./get-fresh-csv.sh || exit 1
 
 date
 if $dofetch ; then
