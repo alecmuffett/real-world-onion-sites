@@ -1,4 +1,5 @@
-## Footnotes
+----
+# Footnotes
 
 - This file (`README.md`) is auto-generated
   - *Do NOT submit changes NOR pull-requests for it*
