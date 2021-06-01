@@ -5,7 +5,7 @@ tf=/tmp/ctget$$.txt
 
 curl "https://crt.sh/?q=%25.onion" |
     perl -nle 'next unless m!TD.*\.onion\b!; s!\s+!\n!go; s!</?TD>!\n!goi; s!<BR>!\n!goi; print' |
-    egrep '\.onion$' |
+    egrep '[2-7a-z]{56}\.onion$' |
     sort -u |
     rev |
     sort |
