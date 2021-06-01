@@ -90,6 +90,12 @@ ORDER BY ctime DESC
 LIMIT :limit
 '''
 
+TRASH_SQL = '''
+DELETE
+FROM fetches
+WHERE ctime < (CAST(strftime('%s', (SELECT DATETIME('now', '-30 day'))) AS INTEGER));
+'''
+
 def extract_hcode(s): # static
     if s == None:
         return BADNESS + 1
@@ -132,6 +138,13 @@ class Database:
         self.cursor.execute(INSERT_SQL, rowhash)
         self.commit()
         self.lock.release() # END PRIVILEGED CODE
+
+    def trash(self):
+        self.lock.acquire() # BEGIN PRIVILEGED CODE
+        result = self.cursor.execute(TRASH_SQL)
+        self.commit()
+        self.lock.release() # END PRIVILEGED CODE
+        return result.fetchall()
 
 class URL:
     def __init__(self, url):
@@ -283,6 +296,10 @@ def do_print(master):
     flaky = grep_using(master, 'flaky', TRUE_STRING)
     print_chunk(flaky, 'Flaky Sites', description='These sites have apparently stopped responding.', print_bar=False)
 
+def do_trash():
+    for x in GLOBAL_DB.trash():
+        print('trash:', x)
+
 if __name__ == '__main__':
     master = None
 
@@ -296,5 +313,6 @@ if __name__ == '__main__':
     for arg in sys.argv[1:]:
         if arg == 'fetch': do_fetch(master)
         if arg == 'print': do_print(master)
+        if arg == 'trash': do_trash()
 
     GLOBAL_DB.close()

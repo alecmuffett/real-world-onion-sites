@@ -2,12 +2,11 @@
 # hello! yes, this is a public link to a google sheet, to fetch as csv; and yes, i do know.
 url='google broke this function'
 now=`date "+%Y%m%d%H%M%S"`
-out="log-$now.out.txt"
-err="log-$now.err.txt"
+log="log-$now.txt"
 csv="master.csv"
 exe="./rwos-db.py"
 
-exec </dev/null >$out 2>$err
+exec </dev/null 2>$log 1>&2
 
 case "x$1" in
     x-n) dofetch=false ;;
@@ -33,6 +32,9 @@ date
     cat 02-footnotes.md
     echo ""
 ) > README.md
+
+date
+$exe trash
 
 date
 exit 0
