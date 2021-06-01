@@ -1,6 +1,6 @@
 #!/bin/sh
 
-log=ct-log.txt
+log=ct-log.md
 tf=/tmp/ctget$$.txt
 
 curl "https://crt.sh/?q=\.onion" |
@@ -9,7 +9,7 @@ curl "https://crt.sh/?q=\.onion" |
     sort -u |
     awk -F. '{print $(NF-1), $0}' |
     sort |
-    awk '{print $2}' >$tf
+    awk 'BEGIN {print "# Onion Certificate Transparency Log"} $2~/^\*/{print "* wildcard `" $2 "`"; next} {print "* `https://" $2 "`"}' >$tf
 
 test -s $tf && cp $tf $log
 rm $tf
