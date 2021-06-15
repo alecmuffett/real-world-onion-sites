@@ -1,7 +1,7 @@
 legacy,flaky,category,site_name,onion_name,onion_addr,onion_url,proof_url,comment
 FALSE,,securedrop,The Globe and Mail,theglobeandmail.securedrop.tor.onion,*TBD*,http://a4zum5ydurvljrohxqp2rjjal5kro4ge2q2qizuonf2jubkhcr627gad.onion,https://sec.theglobeandmail.com/securedrop/,via: https://securedrop.org/api/v1/directory/
 FALSE,,securedrop,2600: The Hacker Quarterly,2600.securedrop.tor.onion,*TBD*,http://cy6wj77vryhcyh6go576hxycjz4wxlo4s5vevdinkw3armwzty5jozyd.onion,https://www.2600.com/securedrop,via: https://securedrop.org/api/v1/directory/
-FALSE,,securedrop,Forbidden Stories,,*TBD*,http://fg25fqpu2dnxp24xs3jlcley4hp2inshpzek44q3czkhq3zffoqk26id.onion,https://forbiddenstories.org/protect-your-stories/,via: https://securedrop.org/api/v1/directory/
+FALSE,,securedrop,Forbidden Stories,forbiddenstories.securedrop.tor.onion,*TBD*,http://fg25fqpu2dnxp24xs3jlcley4hp2inshpzek44q3czkhq3zffoqk26id.onion,https://forbiddenstories.org/protect-your-stories/,via: https://securedrop.org/api/v1/directory/
 FALSE,,securedrop,ABC,abc.au.securedrop.tor.onion,*TBD*,http://dqa4zahticcobfq5rmmmbewbdtyiznbl75hu23k4i37y7yfoosrh7mqd.onion,https://www.abc.net.au/news/securedrop/,via: https://securedrop.org/api/v1/directory/
 FALSE,,securedrop,TV2 Denmark,,*TBD*,http://srumyob2jq5nvppzt66aaab333n2wmq6xgkg4khfe24ixdb7umf7mtyd.onion,https://tv2.dk/secure,via: https://securedrop.org/api/v1/directory/
 FALSE,,securedrop,Aftenposten AS,aftenposten.securedrop.tor.onion,*TBD*,http://tiykfvhb562gheutfnedysnhrxpxoztyszkqyroloyepwzxmxien77id.onion,https://www.aftenposten.no/securedrop,via: https://securedrop.org/api/v1/directory/
