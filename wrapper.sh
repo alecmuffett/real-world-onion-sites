@@ -13,14 +13,12 @@ esac
 
 set -x
 
-date
-./get-fresh-csv.sh || exit 1
-
-date
-./get-securedrop-csv.py || exit 1
-
-date
 if $dofetch ; then
+    date
+    ./get-fresh-csv.sh || exit 1
+    date
+    ./get-securedrop-csv.py || exit 1
+    date
     $exe fetch || exit 1
 fi
 
