@@ -25,10 +25,10 @@ DETECTOR_HISTORY=14
 TRUE_STRING = 'TRUE'
 
 DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
-    # 'globaleaks',
+    'globaleaks',
     'securedrop',
-    # 'securedrop for individuals',
-    # 'securedrop for organisations',
+    'securedrop for individuals',
+    'securedrop for organisations',
 )
 
 EMOJI_HTTP = ':wrench:'
