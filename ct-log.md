@@ -52,6 +52,7 @@
 * [`https://lukshelpqmximhkx4dd6374gqwwwur2fccw5kk7wfbdubyfip5eiugad.onion`](https://lukshelpqmximhkx4dd6374gqwwwur2fccw5kk7wfbdubyfip5eiugad.onion)
 * [`https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion`](https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion)
 * [`https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion`](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion)
+* [`https://nukeshopgmpyjav4durgjiot2xziafa43cphk3v25wpgk7u6ive2tcyd.onion`](https://nukeshopgmpyjav4durgjiot2xziafa43cphk3v25wpgk7u6ive2tcyd.onion)
 * [`https://oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion`](https://oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion)
 * [`https://p4mqzgt6ft35hodx2gjnnsdmg7p6w3qatqbnbwlzynqn7gymw2tarpad.onion`](https://p4mqzgt6ft35hodx2gjnnsdmg7p6w3qatqbnbwlzynqn7gymw2tarpad.onion)
 * *wildcard* `*.p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`
@@ -66,6 +67,7 @@
 * [`https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion)
 * [`https://wdwjgd7rb5baghfkhx75iylwk257qvkqumdsgcjrqkuowvi7ruscvaqd.onion`](https://wdwjgd7rb5baghfkhx75iylwk257qvkqumdsgcjrqkuowvi7ruscvaqd.onion)
 * [`https://whcsyqqkurwfly6dp7dkk547bft73n2xdexjxhvaceykoevfnoysxtid.onion`](https://whcsyqqkurwfly6dp7dkk547bft73n2xdexjxhvaceykoevfnoysxtid.onion)
+* [`https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion`](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion)
 * [`https://yggdrasitadzqcveh3safb7ha665yei4f2uqwepopxnu3axvsrlenvad.onion`](https://yggdrasitadzqcveh3safb7ha665yei4f2uqwepopxnu3axvsrlenvad.onion)
 * [`https://ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion`](https://ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion)
 * [`https://ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion`](https://ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion)
