@@ -49,6 +49,7 @@
 * *wildcard* `*.projects.kuy2bbth3t7m46oidbhdq7os7ebnijgzdxhl3ttvpmijo7nqbopwizyd.onion`
 * [`https://kuy2bbth3t7m46oidbhdq7os7ebnijgzdxhl3ttvpmijo7nqbopwizyd.onion`](https://kuy2bbth3t7m46oidbhdq7os7ebnijgzdxhl3ttvpmijo7nqbopwizyd.onion)
 * [`https://projects.kuy2bbth3t7m46oidbhdq7os7ebnijgzdxhl3ttvpmijo7nqbopwizyd.onion`](https://projects.kuy2bbth3t7m46oidbhdq7os7ebnijgzdxhl3ttvpmijo7nqbopwizyd.onion)
+* [`https://kzok5cc3o3qjbbn4k4pa3llawfaoeuaxgvoc7vt7asmy2er4c2zxgoyd.onion`](https://kzok5cc3o3qjbbn4k4pa3llawfaoeuaxgvoc7vt7asmy2er4c2zxgoyd.onion)
 * [`https://lukshelpqmximhkx4dd6374gqwwwur2fccw5kk7wfbdubyfip5eiugad.onion`](https://lukshelpqmximhkx4dd6374gqwwwur2fccw5kk7wfbdubyfip5eiugad.onion)
 * [`https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion`](https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion)
 * [`https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion`](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion)
