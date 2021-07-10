@@ -26,6 +26,7 @@
 * *wildcard* `*.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
 * [`https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion)
 * [`https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion)
+* [`https://ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion`](https://ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion)
 * [`https://er3n3jnvoyj2t37yngvzr35b6f4ch5mgzl3i6qlkvyhzmaxo62nlqmqd.onion`](https://er3n3jnvoyj2t37yngvzr35b6f4ch5mgzl3i6qlkvyhzmaxo62nlqmqd.onion)
 * [`https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion`](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)
 * [`https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion`](https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion)
@@ -39,6 +40,7 @@
 * *wildcard* `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
 * *wildcard* `*.m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
 * [`https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`](https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion)
+* [`https://glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion`](https://glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion)
 * [`https://h32njsj5f5dd4hbzxmupx76o7ktzybnrwp2c4eu7kirzhrvduq73ysad.onion`](https://h32njsj5f5dd4hbzxmupx76o7ktzybnrwp2c4eu7kirzhrvduq73ysad.onion)
 * *wildcard* `*.hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion`
 * [`https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion`](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion)
