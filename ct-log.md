@@ -17,6 +17,7 @@
 * *wildcard* `*.us.archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion`
 * [`https://archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion`](https://archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion)
 * [`https://badapplesifsmfpeetrmnfdk7jbvgidfcy7f3m64c53mccljw4efisad.onion`](https://badapplesifsmfpeetrmnfdk7jbvgidfcy7f3m64c53mccljw4efisad.onion)
+* [`https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion)
 * [`https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion`](https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion)
 * [`https://ce2qbvaezhl33x5mv2y5nxfzcyorc7ylshkiubrppt7uooklv34uauad.onion`](https://ce2qbvaezhl33x5mv2y5nxfzcyorc7ylshkiubrppt7uooklv34uauad.onion)
 * [`https://d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion`](https://d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion)
