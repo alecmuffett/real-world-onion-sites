@@ -21,6 +21,7 @@
 * [`https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion`](https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion)
 * [`https://ce2qbvaezhl33x5mv2y5nxfzcyorc7ylshkiubrppt7uooklv34uauad.onion`](https://ce2qbvaezhl33x5mv2y5nxfzcyorc7ylshkiubrppt7uooklv34uauad.onion)
 * [`https://d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion`](https://d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion)
+* [`https://d6dx2v2kh34q3mil3c774ozfa637czrrfwgevvpbujhbk5axyy7hoiqd.onion`](https://d6dx2v2kh34q3mil3c774ozfa637czrrfwgevvpbujhbk5axyy7hoiqd.onion)
 * [`https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion)
 * *wildcard* `*.duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
 * [`https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion)
@@ -67,8 +68,15 @@
 * [`https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion`](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion)
 * [`https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion)
 * [`https://q6ya35haacxfyc3hn6sofogtyo4tbydjb6qybej6adxdr3g4jwdjbsad.onion`](https://q6ya35haacxfyc3hn6sofogtyo4tbydjb6qybej6adxdr3g4jwdjbsad.onion)
+* *wildcard* `*.gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
+* *wildcard* `*.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
+* *wildcard* `*.www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
+* [`https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
+* [`https://rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
+* [`https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
 * [`https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion`](https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion)
 * [`https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion)
+* [`https://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion`](https://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion)
 * [`https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion)
 * [`https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion)
 * [`https://wdwjgd7rb5baghfkhx75iylwk257qvkqumdsgcjrqkuowvi7ruscvaqd.onion`](https://wdwjgd7rb5baghfkhx75iylwk257qvkqumdsgcjrqkuowvi7ruscvaqd.onion)
