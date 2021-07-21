@@ -48,7 +48,7 @@ for r in results:
         if done.get(san, False): continue
         done[san] = True
         if re.match(r'\*', san):
-            print('* `{san}` {when}'.format(san=san, when=stamps))
+            print('* `{san}`\n  * {when}'.format(san=san, when=stamps))
         else:
             url = 'https://' + san
-            print('* [`{url}`]({url}) {when}'.format(url=url, when=stamps))
+            print('* [`{url}`]({url})\n  * {when}'.format(url=url, when=stamps))
