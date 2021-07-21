@@ -40,7 +40,7 @@ for tr in table_rows: # skip header
 done = dict()
 for r in results:
     # pprint.pprint(r)
-    stamps = '{0} nb={1} na={2}'.format(r['at'], r['nb'], r['na'])
+    stamps = '{0} not_before={1} not_after={2}'.format(r['at'], r['nb'], r['na'])
     sans = r['cn'].split()
     sans.extend(r['san'].split())
     for san in sans:
@@ -51,4 +51,4 @@ for r in results:
             print('* `{san}`\n  * {when}'.format(san=san, when=stamps))
         else:
             url = 'https://' + san
-            print('* [`{url}`]({url})\n  * {when}'.format(url=url, when=stamps))
+            print('* [`{san}`]({url})\n  * {when}'.format(san=san, url=url, when=stamps))
