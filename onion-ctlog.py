@@ -41,9 +41,10 @@ for r in results:
     # pprint.pprint(r)
     dates = 'date={0} not_before={1} not_after={2}'.format(r['at'], r['nb'], r['na'])
     sans = r['cn'].split()
-    ca_data = [ x.strip() for x in r['in'].lower().split(',') ]
-    ca = [x for x in ca_data if x.startswith('cn=')][0][3:]
     sans.extend(r['san'].split())
+    ca_data = [ x.strip() for x in r['in'].lower().split(',') ]
+    ca_data.append('cn=BAD OR MISSING CN FIELD IN CT LOG')
+    ca = [x for x in ca_data if x.startswith('cn=')][0][3:]
     for san in sans:
         if not onion_re.search(san): continue
         if done.get(san, False): continue
