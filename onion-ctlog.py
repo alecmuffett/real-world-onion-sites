@@ -39,7 +39,7 @@ for tr in table_rows: # skip header
 done = dict()
 for r in results:
     # pprint.pprint(r)
-    dates = '{0} not_before={1} not_after={2}'.format(r['at'], r['nb'], r['na'])
+    dates = 'date={0} not_before={1} not_after={2}'.format(r['at'], r['nb'], r['na'])
     sans = r['cn'].split()
     ca_data = [ x.strip() for x in r['in'].lower().split(',') ]
     ca = [x for x in ca_data if x.startswith('cn=')][0][3:]
@@ -49,6 +49,8 @@ for r in results:
         if done.get(san, False): continue
         done[san] = True
         if re.match(r'\*', san):
-            print('* `{san}`\n  * {dates} **{ca}**'.format(san=san, dates=dates, ca=ca))
+            print('* `{}`'.format(san))
         else:
-            print('* [`{san}`](https://{san})\n  * {dates} **{ca}**'.format(san=san, dates=dates, ca=ca))
+            print('* [`{san}`](https://{san})'.format(san=san))
+        print('  * {0}'.format(dates))
+        print('  * **{0}**'.format(ca))
