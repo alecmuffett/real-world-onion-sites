@@ -50,5 +50,4 @@ for r in results:
         if re.match(r'\*', san):
             print('* `{san}`\n  * {when}'.format(san=san, when=stamps))
         else:
-            url = 'https://' + san
-            print('* [`{san}`]({url})\n  * {when}'.format(san=san, url=url, when=stamps))
+            print('* [`{san}`](https://{san})\n  * {when}'.format(san=san, when=stamps))
