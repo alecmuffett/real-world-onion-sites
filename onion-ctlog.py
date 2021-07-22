@@ -49,6 +49,6 @@ for r in results:
         if done.get(san, False): continue
         done[san] = True
         if re.match(r'\*', san):
-            print('* `{san}`\n  * {dates} *{ca}*'.format(san=san, dates=dates, ca=ca))
+            print('* `{san}`\n  * {dates} **{ca}**'.format(san=san, dates=dates, ca=ca))
         else:
-            print('* [`{san}`](https://{san})\n  * {dates} *{ca}*'.format(san=san, dates=dates, ca=ca))
+            print('* [`{san}`](https://{san})\n  * {dates} **{ca}**'.format(san=san, dates=dates, ca=ca))
