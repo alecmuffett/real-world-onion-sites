@@ -1,9 +1,12 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
-* [`f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion`](https://f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion)
-  * date=2021-08-05 not_before=2021-08-05 not_after=2022-08-05
+* [`glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion`](https://glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion)
+  * date=2021-08-06 not_before=2021-07-09 not_after=2022-07-09
   * **harica ssl rsa subca r3**
 * [`kgaalsjzcz3o2ydu4tvdwcwxyabx26sx2tbdbtmqmc6tamyptpdhk5id.onion`](https://kgaalsjzcz3o2ydu4tvdwcwxyabx26sx2tbdbtmqmc6tamyptpdhk5id.onion)
+  * date=2021-08-06 not_before=2021-08-06 not_after=2022-08-06
+  * **harica ssl rsa subca r3**
+* [`f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion`](https://f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion)
   * date=2021-08-05 not_before=2021-08-05 not_after=2022-08-05
   * **harica ssl rsa subca r3**
 * [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
@@ -86,9 +89,6 @@
   * **harica ssl rsa subca r3**
 * [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion)
   * date=2021-07-11 not_before=2021-07-11 not_after=2022-08-12
-  * **harica ssl rsa subca r3**
-* [`glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion`](https://glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion)
-  * date=2021-07-09 not_before=2021-07-09 not_after=2022-07-09
   * **harica ssl rsa subca r3**
 * [`ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion`](https://ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion)
   * date=2021-07-09 not_before=2021-07-09 not_after=2022-07-09
