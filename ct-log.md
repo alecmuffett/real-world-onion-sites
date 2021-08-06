@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion`](https://f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion)
+  * date=2021-08-05 not_before=2021-08-05 not_after=2022-08-05
+  * **harica ssl rsa subca r3**
+* [`kgaalsjzcz3o2ydu4tvdwcwxyabx26sx2tbdbtmqmc6tamyptpdhk5id.onion`](https://kgaalsjzcz3o2ydu4tvdwcwxyabx26sx2tbdbtmqmc6tamyptpdhk5id.onion)
+  * date=2021-08-05 not_before=2021-08-05 not_after=2022-08-05
+  * **harica ssl rsa subca r3**
 * [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
   * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
   * **digicert tls hybrid ecc sha384 2020 ca1**
@@ -504,12 +510,3 @@
 * [`www.bfnews3u2ox4m4ty.onion`](https://www.bfnews3u2ox4m4ty.onion)
   * date=2020-09-05 not_before=2020-09-02 not_after=2021-09-07
   * **digicert sha2 extended validation server ca**
-* `*.privacyintyqcroe.onion`
-  * date=2020-08-03 not_before=2020-08-01 not_after=2021-08-05
-  * **digicert ecc extended validation server ca**
-* [`privacyintyqcroe.onion`](https://privacyintyqcroe.onion)
-  * date=2020-08-03 not_before=2020-08-01 not_after=2021-08-05
-  * **digicert ecc extended validation server ca**
-* [`www.privacyintyqcroe.onion`](https://www.privacyintyqcroe.onion)
-  * date=2020-07-31 not_before=2020-07-31 not_after=2021-08-05
-  * **digicert ecc extended validation server ca**
