@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`bfnews3u2ox4m4ty.onion`](https://bfnews3u2ox4m4ty.onion)
+  * date=2021-08-10 not_before=2021-08-10 not_after=2022-09-08
+  * **digicert sha2 extended validation server ca**
+* [`www.bfnews3u2ox4m4ty.onion`](https://www.bfnews3u2ox4m4ty.onion)
+  * date=2021-08-10 not_before=2021-08-10 not_after=2022-09-08
+  * **digicert sha2 extended validation server ca**
 * [`3apa3am766l2bo7gd677zwq5qzoefu5edztso43sjoaab7bmxvyfmlad.onion`](https://3apa3am766l2bo7gd677zwq5qzoefu5edztso43sjoaab7bmxvyfmlad.onion)
   * date=2021-08-10 not_before=2021-08-09 not_after=2022-08-09
   * **harica ssl rsa subca r3**
@@ -512,10 +518,4 @@
   * **digicert sha2 extended validation server ca**
 * [`www.brave5t5rjjg3s6k.onion`](https://www.brave5t5rjjg3s6k.onion)
   * date=2020-09-15 not_before=2020-09-15 not_after=2021-09-14
-  * **digicert sha2 extended validation server ca**
-* [`bfnews3u2ox4m4ty.onion`](https://bfnews3u2ox4m4ty.onion)
-  * date=2020-09-05 not_before=2020-09-02 not_after=2021-09-07
-  * **digicert sha2 extended validation server ca**
-* [`www.bfnews3u2ox4m4ty.onion`](https://www.bfnews3u2ox4m4ty.onion)
-  * date=2020-09-05 not_before=2020-09-02 not_after=2021-09-07
   * **digicert sha2 extended validation server ca**
