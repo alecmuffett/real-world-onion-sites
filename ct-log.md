@@ -1,7 +1,106 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`kutj6adn66vdrpauox236wbc6g52ogg3pl4nfb5bfx7gzdgnqvhsl2qd.onion`](https://kutj6adn66vdrpauox236wbc6g52ogg3pl4nfb5bfx7gzdgnqvhsl2qd.onion)
+  * date=2021-08-14 not_before=2021-03-18 not_after=2022-03-23
+  * **digicert sha2 extended validation server ca**
+* [`exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion`](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)
+  * date=2021-08-14 not_before=2021-04-08 not_after=2022-05-10
+  * **harica ssl rsa subca r3**
 * [`ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion`](https://ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion)
-  * date=2021-08-12 not_before=2021-08-12 not_after=2022-08-12
+  * date=2021-08-14 not_before=2021-08-12 not_after=2022-08-12
+  * **harica ssl rsa subca r3**
+* [`vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion)
+  * date=2021-08-14 not_before=2021-03-04 not_after=2022-03-09
+  * **digicert sha2 extended validation server ca**
+* [`www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion)
+  * date=2021-08-14 not_before=2021-03-04 not_after=2022-03-09
+  * **digicert sha2 extended validation server ca**
+* [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion)
+  * date=2021-08-14 not_before=2021-07-11 not_after=2022-08-12
+  * **harica ssl rsa subca r3**
+* [`pcpjqqaogbywoymsgwo7btjkw6mt7dngvq535nhxjhhrzcmwfghmo6ad.onion`](https://pcpjqqaogbywoymsgwo7btjkw6mt7dngvq535nhxjhhrzcmwfghmo6ad.onion)
+  * date=2021-08-14 not_before=2021-07-02 not_after=2022-07-02
+  * **harica ssl rsa subca r3**
+* [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* `*.s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
+  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* `*.search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
+  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion`](https://ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion)
+  * date=2021-08-14 not_before=2021-07-09 not_after=2022-07-09
+  * **harica ssl rsa subca r3**
+* [`4checkzxxpcj3j5csupmiqcob3ygnpcogvsdf3igxybg6tgemo5bmcqd.onion`](https://4checkzxxpcj3j5csupmiqcob3ygnpcogvsdf3igxybg6tgemo5bmcqd.onion)
+  * date=2021-08-14 not_before=2021-08-07 not_after=2022-08-07
+  * **harica ssl rsa subca r3**
+* [`nukeshopgmpyjav4durgjiot2xziafa43cphk3v25wpgk7u6ive2tcyd.onion`](https://nukeshopgmpyjav4durgjiot2xziafa43cphk3v25wpgk7u6ive2tcyd.onion)
+  * date=2021-08-14 not_before=2021-06-29 not_after=2022-07-31
+  * **harica ssl ecc subca r2**
+* [`d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion`](https://d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion)
+  * date=2021-08-14 not_before=2021-07-06 not_after=2022-08-07
+  * **harica ssl ecc subca r2**
+* `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* `*.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* [`facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`](https://facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion)
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* `*.facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* [`facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`](https://facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion)
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* [`facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`](https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion)
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* `*.m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* `*.xx.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* `*.xy.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* `*.xz.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2021-08-14 not_before=2021-07-02 not_after=2021-09-22
+  * **digicert ecc extended validation server ca**
+* [`rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
+  * date=2021-08-14 not_before=2021-07-12 not_after=2022-08-13
+  * **harica ssl rsa subca r3**
+* `*.gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
+  * date=2021-08-14 not_before=2021-07-12 not_after=2022-08-13
+  * **harica ssl rsa subca r3**
+* [`gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
+  * date=2021-08-14 not_before=2021-07-12 not_after=2022-08-13
+  * **harica ssl rsa subca r3**
+* `*.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
+  * date=2021-08-14 not_before=2021-07-12 not_after=2022-08-13
+  * **harica ssl rsa subca r3**
+* `*.www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
+  * date=2021-08-14 not_before=2021-07-12 not_after=2022-08-13
+  * **harica ssl rsa subca r3**
+* [`www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
+  * date=2021-08-14 not_before=2021-07-12 not_after=2022-08-13
   * **harica ssl rsa subca r3**
 * [`bfnews3u2ox4m4ty.onion`](https://bfnews3u2ox4m4ty.onion)
   * date=2021-08-10 not_before=2021-08-10 not_after=2022-09-08
@@ -15,9 +114,6 @@
 * [`ixhz3supogngan7boh27a3enx5ax6ygao4kaal7gfwu6uziqkjglf7qd.onion`](https://ixhz3supogngan7boh27a3enx5ax6ygao4kaal7gfwu6uziqkjglf7qd.onion)
   * date=2021-08-08 not_before=2021-08-08 not_after=2022-08-08
   * **harica ssl rsa subca r3**
-* [`4checkzxxpcj3j5csupmiqcob3ygnpcogvsdf3igxybg6tgemo5bmcqd.onion`](https://4checkzxxpcj3j5csupmiqcob3ygnpcogvsdf3igxybg6tgemo5bmcqd.onion)
-  * date=2021-08-07 not_before=2021-08-07 not_after=2022-08-07
-  * **harica ssl rsa subca r3**
 * [`glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion`](https://glanddcdlfftpjgwkly27gxjzkokb7zodkddtfm4sir2ep5vucwuiryd.onion)
   * date=2021-08-06 not_before=2021-07-09 not_after=2022-07-09
   * **harica ssl rsa subca r3**
@@ -27,27 +123,6 @@
 * [`f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion`](https://f47f6q7x24ny3tolsulpktvoehl3g24lvs2jp5e6vteyrmubfccvcsid.onion)
   * date=2021-08-05 not_before=2021-08-05 not_after=2022-08-05
   * **harica ssl rsa subca r3**
-* [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
-  * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
-  * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-07-28 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
 * `*.facebookcorewwwi.onion`
   * date=2021-07-28 not_before=2021-07-28 not_after=2021-10-13
   * **digicert ecc extended validation server ca**
@@ -84,77 +159,14 @@
 * [`thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion`](https://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion)
   * date=2021-07-13 not_before=2021-07-12 not_after=2022-08-13
   * **harica ssl ecc subca r2**
-* [`rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
-  * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
-  * **harica ssl rsa subca r3**
-* `*.gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
-  * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
-  * **harica ssl rsa subca r3**
-* [`gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://gdb.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
-  * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
-  * **harica ssl rsa subca r3**
-* `*.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
-  * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
-  * **harica ssl rsa subca r3**
-* `*.www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`
-  * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
-  * **harica ssl rsa subca r3**
-* [`www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
-  * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
-  * **harica ssl rsa subca r3**
 * [`d6dx2v2kh34q3mil3c774ozfa637czrrfwgevvpbujhbk5axyy7hoiqd.onion`](https://d6dx2v2kh34q3mil3c774ozfa637czrrfwgevvpbujhbk5axyy7hoiqd.onion)
   * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
   * **harica ssl rsa subca r3**
-* [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion)
-  * date=2021-07-11 not_before=2021-07-11 not_after=2022-08-12
-  * **harica ssl rsa subca r3**
-* [`ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion`](https://ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion)
-  * date=2021-07-09 not_before=2021-07-09 not_after=2022-07-09
-  * **harica ssl rsa subca r3**
-* [`d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion`](https://d2wneoet76oeoxnxp37cs2kgp5ztwunatcejc56ivzzhqkyud6a33oid.onion)
-  * date=2021-07-06 not_before=2021-07-06 not_after=2022-08-07
-  * **harica ssl ecc subca r2**
 * [`kzok5cc3o3qjbbn4k4pa3llawfaoeuaxgvoc7vt7asmy2er4c2zxgoyd.onion`](https://kzok5cc3o3qjbbn4k4pa3llawfaoeuaxgvoc7vt7asmy2er4c2zxgoyd.onion)
   * date=2021-07-04 not_before=2021-07-04 not_after=2022-07-04
   * **harica ssl ecc subca r2**
-* `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* `*.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* [`facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`](https://facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion)
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* `*.facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* [`facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`](https://facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion)
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* [`facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`](https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion)
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* `*.m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* `*.xx.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* `*.xy.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* `*.xz.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2021-07-02 not_before=2021-07-02 not_after=2021-09-22
-  * **digicert ecc extended validation server ca**
-* [`pcpjqqaogbywoymsgwo7btjkw6mt7dngvq535nhxjhhrzcmwfghmo6ad.onion`](https://pcpjqqaogbywoymsgwo7btjkw6mt7dngvq535nhxjhhrzcmwfghmo6ad.onion)
-  * date=2021-07-02 not_before=2021-07-02 not_after=2022-07-02
-  * **harica ssl rsa subca r3**
 * [`xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion`](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion)
   * date=2021-06-29 not_before=2021-06-29 not_after=2022-06-29
-  * **harica ssl ecc subca r2**
-* [`nukeshopgmpyjav4durgjiot2xziafa43cphk3v25wpgk7u6ive2tcyd.onion`](https://nukeshopgmpyjav4durgjiot2xziafa43cphk3v25wpgk7u6ive2tcyd.onion)
-  * date=2021-06-29 not_before=2021-06-29 not_after=2022-07-31
   * **harica ssl ecc subca r2**
 * [`a5s67suzwofysmqdrlrgp643fgb5ujki44alpwinms5va2rhf4dizcqd.onion`](https://a5s67suzwofysmqdrlrgp643fgb5ujki44alpwinms5va2rhf4dizcqd.onion)
   * date=2021-06-25 not_before=2021-06-25 not_after=2022-06-25
@@ -267,9 +279,6 @@
 * [`h32njsj5f5dd4hbzxmupx76o7ktzybnrwp2c4eu7kirzhrvduq73ysad.onion`](https://h32njsj5f5dd4hbzxmupx76o7ktzybnrwp2c4eu7kirzhrvduq73ysad.onion)
   * date=2021-04-14 not_before=2021-04-14 not_after=2022-04-14
   * **harica ssl ecc subca r2**
-* [`exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion`](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)
-  * date=2021-04-08 not_before=2021-04-08 not_after=2022-05-10
-  * **harica ssl rsa subca r3**
 * [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion)
   * date=2021-04-06 not_before=2021-04-06 not_after=2022-04-06
   * **harica ssl rsa subca r3**
@@ -297,9 +306,6 @@
 * [`zrrridrxzn6fz4qhy33hvfr2xj7z4yt3i4tll7e47eglo35augdomrqd.onion`](https://zrrridrxzn6fz4qhy33hvfr2xj7z4yt3i4tll7e47eglo35augdomrqd.onion)
   * date=2021-03-22 not_before=2021-03-22 not_after=2022-03-22
   * **harica ssl rsa subca r3**
-* [`kutj6adn66vdrpauox236wbc6g52ogg3pl4nfb5bfx7gzdgnqvhsl2qd.onion`](https://kutj6adn66vdrpauox236wbc6g52ogg3pl4nfb5bfx7gzdgnqvhsl2qd.onion)
-  * date=2021-03-18 not_before=2021-03-18 not_after=2022-03-23
-  * **digicert sha2 extended validation server ca**
 * [`q6ya35haacxfyc3hn6sofogtyo4tbydjb6qybej6adxdr3g4jwdjbsad.onion`](https://q6ya35haacxfyc3hn6sofogtyo4tbydjb6qybej6adxdr3g4jwdjbsad.onion)
   * date=2021-03-17 not_before=2021-03-17 not_after=2022-03-17
   * **harica ssl rsa subca r3**
@@ -323,12 +329,6 @@
   * **digicert sha2 extended validation server ca**
 * [`www.jcw5q6uyjioupxcc.onion`](https://www.jcw5q6uyjioupxcc.onion)
   * date=2021-03-08 not_before=2020-12-18 not_after=2022-01-04
-  * **digicert sha2 extended validation server ca**
-* [`vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion)
-  * date=2021-03-04 not_before=2021-03-04 not_after=2022-03-09
-  * **digicert sha2 extended validation server ca**
-* [`www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion)
-  * date=2021-03-04 not_before=2021-03-04 not_after=2022-03-09
   * **digicert sha2 extended validation server ca**
 * [`nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion`](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion)
   * date=2021-03-03 not_before=2021-03-02 not_after=2022-04-03
