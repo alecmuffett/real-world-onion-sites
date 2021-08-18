@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`5hdscqfujvsx3sdqj36r3ey55jtkoyieblea72f3lotnawg6r33batqd.onion`](https://5hdscqfujvsx3sdqj36r3ey55jtkoyieblea72f3lotnawg6r33batqd.onion)
+  * date=2021-08-18 not_before=2021-08-18 not_after=2022-08-18
+  * **harica ssl rsa subca r3**
 * `*.facebookcorewwwi.onion`
   * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
   * **digicert sha2 extended validation server ca**
