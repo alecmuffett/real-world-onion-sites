@@ -538,13 +538,7 @@
   * date=2020-10-18 not_before=2020-10-15 not_after=2021-10-19
   * **digicert sha2 extended validation server ca**
 * [`brave5t5rjjg3s6k.onion`](https://brave5t5rjjg3s6k.onion)
-  * date=2020-09-16 not_before=2020-09-16 not_after=2021-09-20
-  * **digicert sha2 extended validation server ca**
-* `*.brave5t5rjjg3s6k.onion`
-  * date=2020-09-16 not_before=2020-09-16 not_after=2021-09-20
-  * **digicert sha2 extended validation server ca**
-* `*.s3.brave5t5rjjg3s6k.onion`
-  * date=2020-09-16 not_before=2020-09-16 not_after=2021-09-20
+  * date=2020-09-11 not_before=2020-09-09 not_after=2021-10-11
   * **digicert sha2 extended validation server ca**
 * [`www.brave5t5rjjg3s6k.onion`](https://www.brave5t5rjjg3s6k.onion)
   * date=2020-09-11 not_before=2020-09-09 not_after=2021-10-11
