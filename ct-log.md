@@ -1,5 +1,149 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`](https://bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.37nhmdszo2ltkkfo.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`37nhmdszo2ltkkfo.onion`](https://37nhmdszo2ltkkfo.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.56m4joozvkzlx6ln.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`56m4joozvkzlx6ln.onion`](https://56m4joozvkzlx6ln.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.api.37nhmdszo2ltkkfo.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.api.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.api.bbcnewsv2vjtpsuy.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.api.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.api.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.api.s5rhoqqosmcispfb.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bbcnewsv2vjtpsuy.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`bbcnewsv2vjtpsuy.onion`](https://bbcnewsv2vjtpsuy.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion`](https://bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`](https://bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bbcws3ufawi7rl6ow6e56vhvieeb7uox5pzcyd6x2eewhdrzhxfb35qd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`bbcws3ufawi7rl6ow6e56vhvieeb7uox5pzcyd6x2eewhdrzhxfb35qd.onion`](https://bbcws3ufawi7rl6ow6e56vhvieeb7uox5pzcyd6x2eewhdrzhxfb35qd.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion`](https://bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion`](https://bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bidi.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bidi.bbcnewsv2vjtpsuy.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bidi.live.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.bidi.live.bbcnewsv2vjtpsuy.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.cf6kvc4g63fnhkkq.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`cf6kvc4g63fnhkkq.onion`](https://cf6kvc4g63fnhkkq.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.files.37nhmdszo2ltkkfo.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.files.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.iplayer.api.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.iplayer.api.bbcnewsv2vjtpsuy.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.jxtwbvj32chvkay5.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`jxtwbvj32chvkay5.onion`](https://jxtwbvj32chvkay5.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.live.37nhmdszo2ltkkfo.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.live.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.live.bbcnewsv2vjtpsuy.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.live.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.live.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.live.s5rhoqqosmcispfb.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.notifications.api.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.notifications.api.bbcnewsv2vjtpsuy.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.s5rhoqqosmcispfb.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* [`s5rhoqqosmcispfb.onion`](https://s5rhoqqosmcispfb.onion)
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.test.37nhmdszo2ltkkfo.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
+* `*.test.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
+  * date=2021-09-22 not_before=2021-09-22 not_after=2021-10-26
+  * **digicert sha2 extended validation server ca**
 * [`yoaenchicimox2qdc47p36zm3cuclq7s7qxx6kvxqaxjodigfifljqqd.onion`](https://yoaenchicimox2qdc47p36zm3cuclq7s7qxx6kvxqaxjodigfifljqqd.onion)
   * date=2021-09-20 not_before=2021-09-20 not_after=2022-09-20
   * **harica ssl rsa subca r3**
@@ -458,78 +602,6 @@
   * **digicert sha2 extended validation server ca**
 * [`wcoc6qfoyfmrqj2r.onion`](https://wcoc6qfoyfmrqj2r.onion)
   * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
-  * **digicert sha2 extended validation server ca**
-* [`bbcnewsv2vjtpsuy.onion`](https://bbcnewsv2vjtpsuy.onion)
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.37nhmdszo2ltkkfo.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* [`37nhmdszo2ltkkfo.onion`](https://37nhmdszo2ltkkfo.onion)
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.56m4joozvkzlx6ln.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* [`56m4joozvkzlx6ln.onion`](https://56m4joozvkzlx6ln.onion)
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.api.37nhmdszo2ltkkfo.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.api.bbcnewsv2vjtpsuy.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.api.s5rhoqqosmcispfb.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.bbcnewsv2vjtpsuy.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.bidi.bbcnewsv2vjtpsuy.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.bidi.live.bbcnewsv2vjtpsuy.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.cf6kvc4g63fnhkkq.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* [`cf6kvc4g63fnhkkq.onion`](https://cf6kvc4g63fnhkkq.onion)
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.files.37nhmdszo2ltkkfo.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.iplayer.api.bbcnewsv2vjtpsuy.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.jxtwbvj32chvkay5.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* [`jxtwbvj32chvkay5.onion`](https://jxtwbvj32chvkay5.onion)
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.live.37nhmdszo2ltkkfo.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.live.bbcnewsv2vjtpsuy.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.live.s5rhoqqosmcispfb.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.notifications.api.bbcnewsv2vjtpsuy.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.s5rhoqqosmcispfb.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* [`s5rhoqqosmcispfb.onion`](https://s5rhoqqosmcispfb.onion)
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
-  * **digicert sha2 extended validation server ca**
-* `*.test.37nhmdszo2ltkkfo.onion`
-  * date=2020-11-02 not_before=2020-10-30 not_after=2021-10-25
   * **digicert sha2 extended validation server ca**
 * [`archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion`](https://archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion)
   * date=2020-10-18 not_before=2020-10-15 not_after=2021-10-19
