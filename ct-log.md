@@ -1,5 +1,20 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`](https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion)
+  * date=2021-09-27 not_before=2021-09-27 not_after=2022-10-28
+  * **digicert sha2 extended validation server ca**
+* `*.api.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
+  * date=2021-09-27 not_before=2021-09-27 not_after=2022-10-28
+  * **digicert sha2 extended validation server ca**
+* `*.nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion`
+  * date=2021-09-27 not_before=2021-09-27 not_after=2022-10-28
+  * **digicert sha2 extended validation server ca**
+* [`nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion`](https://nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion)
+  * date=2021-09-27 not_before=2021-09-27 not_after=2022-10-28
+  * **digicert sha2 extended validation server ca**
+* `*.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
+  * date=2021-09-27 not_before=2021-09-27 not_after=2022-10-28
+  * **digicert sha2 extended validation server ca**
 * [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion)
   * date=2021-09-23 not_before=2021-09-23 not_after=2022-09-23
   * **harica ssl rsa subca r3**
