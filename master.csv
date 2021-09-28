@@ -1,6 +1,4 @@
 legacy,flaky,category,site_name,onion_name,onion_addr,onion_url,proof_url,comment
-FALSE,TRUE,securedrop for organisations,Field of Vision,,2mgwjg7ezpxhx5wb7zktijtnuy6qnobvurtberow52hlij2iw6eo5rad,http://2mgwjg7ezpxhx5wb7zktijtnuy6qnobvurtberow52hlij2iw6eo5rad.onion/,https://fieldofvision.org/securedrop,
-FALSE,TRUE,securedrop for organisations,Toronto Crime Stoppers,,q6jfhwkeyeidwgi2acift4epcxmzaxzxuyy6rezafee4riuniervhnyd,http://q6jfhwkeyeidwgi2acift4epcxmzaxzxuyy6rezafee4riuniervhnyd.onion,https://www.222tips.com/SecureDrop,
 FALSE,TRUE,web and internet,Internet Archive (archive.org),,archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid,https://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/,ssl,
 FALSE,,blogs,Alexander Færøy,,lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd,https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion/,https://ahf.me,
 FALSE,,blogs,Ctrl blog,,v65ngaoj2nyaiq2ltf4uzota254gnasarrkuj4aqndi2bb5lw6frt3ad,http://v65ngaoj2nyaiq2ltf4uzota254gnasarrkuj4aqndi2bb5lw6frt3ad.onion/,https://www.ctrl.blog/entry/ctrlblog-onion-mirror.html,
@@ -15,7 +13,7 @@ FALSE,,civil society and community,Riseup Onion Index,,vww6ybal4bd7szmgncyruucpg
 FALSE,,civil society and community,Systemli Home,,7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd,http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/index.html,https://www.systemli.org/en/service/onion.html,
 FALSE,,civil society and community,Systemli Onion Index,,7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd,http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/en/service/onion.html,https://www.systemli.org/en/service/onion.html,"provides shared notepad, spreadsheet, pastebin, and other services"
 FALSE,,companies and services,decoded:Legal,,dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd,http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/,https://solicitors.lawsociety.org.uk/office/593348/decoded-legal-limited,english law firm
-FALSE,,companies and services,Impffrei.work,,5sh6hmyvnm4nux5hibm7i3eakhzhdrs647ntv3ekuys2exskmtire4id,https://5sh6hmyvnm4nux5hibm7i3eakhzhdrs647ntv3ekuys2exskmtire4id.onion/,https://impffrei.work,job agency
+FALSE,TRUE,companies and services,Impffrei.work,,5sh6hmyvnm4nux5hibm7i3eakhzhdrs647ntv3ekuys2exskmtire4id,https://5sh6hmyvnm4nux5hibm7i3eakhzhdrs647ntv3ekuys2exskmtire4id.onion/,https://impffrei.work,job agency
 FALSE,,education,BBC Learning English,,bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad,https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/learningenglish/,ssl,includes resources for many languages
 FALSE,,education,BBC Learning English: Mandarin,,bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad,https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/learningenglish/chinese,ssl,
 FALSE,,government,US Central Intelligence Agency,,ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad,http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/index.html,https://www.cia.gov/stories/story/cias-latest-layer-an-onion-site/,

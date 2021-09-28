@@ -4,12 +4,15 @@ import csv
 import pprint
 import json
 import requests
+import html
 
 output_csv = 'securedrop-api.csv'
 sd_url = 'https://securedrop.org/api/v1/directory/'
 fieldnames = "legacy flaky category site_name onion_name onion_addr onion_url proof_url comment".split()
 
-def xx(thing, key): return thing.get(key, '')
+def xx(thing, key):
+    val = thing.get(key, None) or '' # catches instance where key=existing and val=None
+    return html.escape(val)
 
 def push(stack, entry):
     method = 'http' # this needs some discussion with Securedrop

@@ -27,8 +27,6 @@ TRUE_STRING = 'TRUE'
 DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
     'globaleaks',
     'securedrop',
-    'securedrop for individuals',
-    'securedrop for organisations',
 )
 
 EMOJI_HTTP = ':small_red_triangle:'
