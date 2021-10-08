@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
+  * date=2021-10-08 not_before=2021-10-08 not_after=2022-10-08
+  * **digicert sha2 extended validation server ca**
 * `*.facebookcorewwwi.onion`
   * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
   * **digicert ecc extended validation server ca**
