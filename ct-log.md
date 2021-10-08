@@ -1,5 +1,29 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* `*.facebookcorewwwi.onion`
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
+* [`facebookcorewwwi.onion`](https://facebookcorewwwi.onion)
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
+* `*.fbcdn23dssr3jqnq.onion`
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
+* `*.fbsbx2q4mvcl63pw.onion`
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
+* `*.m.facebookcorewwwi.onion`
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
+* `*.xx.fbcdn23dssr3jqnq.onion`
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
+* `*.xy.fbcdn23dssr3jqnq.onion`
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
+* `*.xz.fbcdn23dssr3jqnq.onion`
+  * date=2021-10-07 not_before=2021-10-07 not_after=2022-01-04
+  * **digicert ecc extended validation server ca**
 * [`uapssoofphiqklth4vxab7wcfq4g3masx26vedxrzro2cv54chiqf4qd.onion`](https://uapssoofphiqklth4vxab7wcfq4g3masx26vedxrzro2cv54chiqf4qd.onion)
   * date=2021-09-29 not_before=2021-09-29 not_after=2022-09-29
   * **harica ssl rsa subca r3**
@@ -225,30 +249,6 @@
 * [`5hdscqfujvsx3sdqj36r3ey55jtkoyieblea72f3lotnawg6r33batqd.onion`](https://5hdscqfujvsx3sdqj36r3ey55jtkoyieblea72f3lotnawg6r33batqd.onion)
   * date=2021-08-18 not_before=2021-08-18 not_after=2022-08-18
   * **harica ssl rsa subca r3**
-* `*.facebookcorewwwi.onion`
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
-* [`facebookcorewwwi.onion`](https://facebookcorewwwi.onion)
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
-* `*.fbcdn23dssr3jqnq.onion`
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
-* `*.fbsbx2q4mvcl63pw.onion`
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
-* `*.m.facebookcorewwwi.onion`
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
-* `*.xx.fbcdn23dssr3jqnq.onion`
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
-* `*.xy.fbcdn23dssr3jqnq.onion`
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
-* `*.xz.fbcdn23dssr3jqnq.onion`
-  * date=2021-08-16 not_before=2021-08-16 not_after=2021-11-11
-  * **digicert sha2 extended validation server ca**
 * [`nmdlmm7bamv777drxh4icyxmmdcwasbygaso3kuthy5rrfiaxofddcyd.onion`](https://nmdlmm7bamv777drxh4icyxmmdcwasbygaso3kuthy5rrfiaxofddcyd.onion)
   * date=2021-08-15 not_before=2021-08-15 not_after=2022-08-15
   * **harica ssl rsa subca r3**
