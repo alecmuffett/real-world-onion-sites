@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion)
+  * date=2021-10-11 not_before=2021-09-23 not_after=2022-09-23
+  * **harica ssl rsa subca r3**
 * [`i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion`](https://i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion)
   * date=2021-10-10 not_before=2021-08-26 not_after=2022-08-26
   * **harica ssl rsa subca r3**
@@ -207,9 +210,6 @@
 * `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
   * date=2021-10-08 not_before=2021-10-08 not_after=2022-10-08
   * **digicert sha2 extended validation server ca**
-* [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion)
-  * date=2021-09-23 not_before=2021-09-23 not_after=2022-09-23
-  * **harica ssl rsa subca r3**
 * [`pmk4nsptopspcpvjzlvrzjigvcadbshmm2fipbc6ljr7scpscnkru3id.onion`](https://pmk4nsptopspcpvjzlvrzjigvcadbshmm2fipbc6ljr7scpscnkru3id.onion)
   * date=2021-09-12 not_before=2021-09-12 not_after=2022-09-12
   * **harica ssl rsa subca r3**
