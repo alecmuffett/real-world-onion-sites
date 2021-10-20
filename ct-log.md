@@ -636,12 +636,3 @@
 * [`wcoc6qfoyfmrqj2r.onion`](https://wcoc6qfoyfmrqj2r.onion)
   * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
   * **digicert sha2 extended validation server ca**
-* [`archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion`](https://archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion)
-  * date=2020-10-18 not_before=2020-10-15 not_after=2021-10-19
-  * **digicert sha2 extended validation server ca**
-* `*.archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion`
-  * date=2020-10-18 not_before=2020-10-15 not_after=2021-10-19
-  * **digicert sha2 extended validation server ca**
-* `*.us.archivev3qli37bju4rlh27glh24lljyezwxf4pokmrdbpefjlcrp5id.onion`
-  * date=2020-10-18 not_before=2020-10-15 not_after=2021-10-19
-  * **digicert sha2 extended validation server ca**
