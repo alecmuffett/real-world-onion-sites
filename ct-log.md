@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
+  * date=2021-10-20 not_before=2021-10-20 not_after=2022-10-08
+  * **digicert sha2 extended validation server ca**
+* [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion)
+  * date=2021-10-20 not_before=2021-10-20 not_after=2022-10-08
+  * **digicert sha2 extended validation server ca**
 * [`bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`](https://bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion)
   * date=2021-10-18 not_before=2021-10-18 not_after=2022-10-27
   * **digicert sha2 extended validation server ca**
@@ -213,9 +219,6 @@
 * [`yoaenchicimox2qdc47p36zm3cuclq7s7qxx6kvxqaxjodigfifljqqd.onion`](https://yoaenchicimox2qdc47p36zm3cuclq7s7qxx6kvxqaxjodigfifljqqd.onion)
   * date=2021-10-10 not_before=2021-09-20 not_after=2022-09-20
   * **harica ssl rsa subca r3**
-* `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
-  * date=2021-10-08 not_before=2021-10-08 not_after=2022-10-08
-  * **digicert sha2 extended validation server ca**
 * [`pmk4nsptopspcpvjzlvrzjigvcadbshmm2fipbc6ljr7scpscnkru3id.onion`](https://pmk4nsptopspcpvjzlvrzjigvcadbshmm2fipbc6ljr7scpscnkru3id.onion)
   * date=2021-09-12 not_before=2021-09-12 not_after=2022-09-12
   * **harica ssl rsa subca r3**
@@ -475,9 +478,6 @@
   * date=2021-04-24 not_before=2021-04-19 not_after=2022-05-20
   * **digicert sha2 extended validation server ca**
 * [`protonirockerxow.onion`](https://protonirockerxow.onion)
-  * date=2021-04-19 not_before=2021-03-29 not_after=2022-04-29
-  * **digicert sha2 extended validation server ca**
-* [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion)
   * date=2021-04-19 not_before=2021-03-29 not_after=2022-04-29
   * **digicert sha2 extended validation server ca**
 * [`sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion)
