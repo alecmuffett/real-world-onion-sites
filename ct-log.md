@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`luomoa6vmyq5sxfipqg7mipkhzyggfgkzbodqmvkq3oxinz6s2mdmyid.onion`](https://luomoa6vmyq5sxfipqg7mipkhzyggfgkzbodqmvkq3oxinz6s2mdmyid.onion)
+  * date=2021-11-02 not_before=2021-10-13 not_after=2022-10-13
+  * **harica ssl rsa subca r3**
+* [`4freunde265k4te5axjcjyqeqduofuqorfjs7ux3v6dbhqpozf2d2kyd.onion`](https://4freunde265k4te5axjcjyqeqduofuqorfjs7ux3v6dbhqpozf2d2kyd.onion)
+  * date=2021-11-02 not_before=2021-10-13 not_after=2022-11-14
+  * **harica ssl ecc subca r2**
 * [`freddytndqgcmlgxt3m67ik66envhvs6wtccnoij24a7hoh6vwovjxyd.onion`](https://freddytndqgcmlgxt3m67ik66envhvs6wtccnoij24a7hoh6vwovjxyd.onion)
   * date=2021-11-01 not_before=2021-11-01 not_after=2022-11-01
   * **harica ssl rsa subca r3**
@@ -141,12 +147,6 @@
 * `*.test.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
   * date=2021-10-18 not_before=2021-10-18 not_after=2022-10-27
   * **digicert sha2 extended validation server ca**
-* [`luomoa6vmyq5sxfipqg7mipkhzyggfgkzbodqmvkq3oxinz6s2mdmyid.onion`](https://luomoa6vmyq5sxfipqg7mipkhzyggfgkzbodqmvkq3oxinz6s2mdmyid.onion)
-  * date=2021-10-13 not_before=2021-10-13 not_after=2022-10-13
-  * **harica ssl rsa subca r3**
-* [`4freunde265k4te5axjcjyqeqduofuqorfjs7ux3v6dbhqpozf2d2kyd.onion`](https://4freunde265k4te5axjcjyqeqduofuqorfjs7ux3v6dbhqpozf2d2kyd.onion)
-  * date=2021-10-13 not_before=2021-10-13 not_after=2022-11-14
-  * **harica ssl ecc subca r2**
 * [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion)
   * date=2021-10-11 not_before=2021-09-23 not_after=2022-09-23
   * **harica ssl rsa subca r3**
