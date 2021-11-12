@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`cvvme2ig7356otuvcndxeogj7dmize5u6ec5tt7ymfuwioudecmtajqd.onion`](https://cvvme2ig7356otuvcndxeogj7dmize5u6ec5tt7ymfuwioudecmtajqd.onion)
+  * date=2021-11-12 not_before=2021-10-25 not_after=2022-10-25
+  * **harica ssl rsa subca r3**
 * [`darkcrmrlpctrdg6sp4qrs7k5jlwlddndbyykp6nxqllnbys66busdyd.onion`](https://darkcrmrlpctrdg6sp4qrs7k5jlwlddndbyykp6nxqllnbys66busdyd.onion)
   * date=2021-11-10 not_before=2021-11-10 not_after=2022-11-10
   * **harica ssl rsa subca r3**
@@ -11,9 +14,6 @@
   * **harica ssl ecc subca r2**
 * [`freddytndqgcmlgxt3m67ik66envhvs6wtccnoij24a7hoh6vwovjxyd.onion`](https://freddytndqgcmlgxt3m67ik66envhvs6wtccnoij24a7hoh6vwovjxyd.onion)
   * date=2021-11-01 not_before=2021-11-01 not_after=2022-11-01
-  * **harica ssl rsa subca r3**
-* [`cvvme2ig7356otuvcndxeogj7dmize5u6ec5tt7ymfuwioudecmtajqd.onion`](https://cvvme2ig7356otuvcndxeogj7dmize5u6ec5tt7ymfuwioudecmtajqd.onion)
-  * date=2021-10-25 not_before=2021-10-25 not_after=2022-10-25
   * **harica ssl rsa subca r3**
 * [`einqofj2yahyzcw54u4fbd5bcwchhw25h4b4hlyhyz6uqmaodemyuoad.onion`](https://einqofj2yahyzcw54u4fbd5bcwchhw25h4b4hlyhyz6uqmaodemyuoad.onion)
   * date=2021-10-25 not_before=2021-10-25 not_after=2022-10-25
