@@ -62,11 +62,6 @@ onions", but this behaviour will not be **standard**, cannot be
 HTTPS-over-Onion, and attempting to force it thusly will create a
 future compatibility mess for the ecosystem of onion-capable browsers.
 
-- :wrench: semi-secure HTTP Onion site, protected by Onion circuits at
-  best; will not respect browser secure/HTTPS behaviour
-- :closed_lock_with_key: secure HTTPS Onion site, protected by both
-  Onion circuits and TLS, will respect browser secure/HTTPS behaviour
-
 ### Feedback
 
 [The issues page](https://github.com/alecmuffett/real-world-onion-sites/issues)
