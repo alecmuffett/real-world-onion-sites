@@ -10,7 +10,7 @@ url = 'https://crt.sh/?dNSName=%25.onion&exclude=expired&match=ILIKE'
 session = requests.Session()
 response = session.get(url)
 results = []
-onion_re = re.compile(r'[2-7a-z]{16}([2-7a-z]{40})?\.onion(\s|$)')
+onion_re = re.compile(r'[2-7a-z]{56}\.onion(\s|$)')
 
 status = response.status_code
 if status != 200: raise RuntimeError('http status: {}'.format(status))

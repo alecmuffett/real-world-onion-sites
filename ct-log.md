@@ -60,30 +60,6 @@
 * `*.xz.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
   * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-17
   * **digicert ecc extended validation server ca**
-* `*.facebookcorewwwi.onion`
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
-* [`facebookcorewwwi.onion`](https://facebookcorewwwi.onion)
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
-* `*.fbcdn23dssr3jqnq.onion`
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
-* `*.fbsbx2q4mvcl63pw.onion`
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
-* `*.m.facebookcorewwwi.onion`
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
-* `*.xx.fbcdn23dssr3jqnq.onion`
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
-* `*.xy.fbcdn23dssr3jqnq.onion`
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
-* `*.xz.fbcdn23dssr3jqnq.onion`
-  * date=2021-10-22 not_before=2021-10-22 not_after=2022-01-09
-  * **digicert sha2 extended validation server ca**
 * `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
   * date=2021-10-20 not_before=2021-10-20 not_after=2022-10-08
   * **digicert sha2 extended validation server ca**
@@ -288,12 +264,6 @@
 * [`www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion`](https://www.rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion)
   * date=2021-08-14 not_before=2021-07-12 not_after=2022-08-13
   * **harica ssl rsa subca r3**
-* [`bfnews3u2ox4m4ty.onion`](https://bfnews3u2ox4m4ty.onion)
-  * date=2021-08-10 not_before=2021-08-10 not_after=2022-09-08
-  * **digicert sha2 extended validation server ca**
-* [`www.bfnews3u2ox4m4ty.onion`](https://www.bfnews3u2ox4m4ty.onion)
-  * date=2021-08-10 not_before=2021-08-10 not_after=2022-09-08
-  * **digicert sha2 extended validation server ca**
 * [`3apa3am766l2bo7gd677zwq5qzoefu5edztso43sjoaab7bmxvyfmlad.onion`](https://3apa3am766l2bo7gd677zwq5qzoefu5edztso43sjoaab7bmxvyfmlad.onion)
   * date=2021-08-10 not_before=2021-08-09 not_after=2022-08-09
   * **harica ssl rsa subca r3**
@@ -396,28 +366,13 @@
 * [`ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion`](https://ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion)
   * date=2021-05-06 not_before=2021-05-06 not_after=2022-06-07
   * **harica ssl rsa subca r3**
-* [`cyphdbyhiddenbhs.onion`](https://cyphdbyhiddenbhs.onion)
-  * date=2021-05-04 not_before=2021-05-04 not_after=2022-06-04
-  * **digicert sha2 extended validation server ca**
-* `*.cyphdbyhiddenbhs.onion`
-  * date=2021-05-04 not_before=2021-05-04 not_after=2022-06-04
-  * **digicert sha2 extended validation server ca**
 * [`lukshelpqmximhkx4dd6374gqwwwur2fccw5kk7wfbdubyfip5eiugad.onion`](https://lukshelpqmximhkx4dd6374gqwwwur2fccw5kk7wfbdubyfip5eiugad.onion)
   * date=2021-04-28 not_before=2021-04-28 not_after=2022-04-28
   * **harica ssl rsa subca r3**
-* [`3g2upl4pq6kufc4m.onion`](https://3g2upl4pq6kufc4m.onion)
-  * date=2021-04-27 not_before=2021-02-24 not_after=2022-03-22
-  * **digicert sha2 extended validation server ca**
-* [`www.3g2upl4pq6kufc4m.onion`](https://www.3g2upl4pq6kufc4m.onion)
-  * date=2021-04-27 not_before=2021-02-24 not_after=2022-03-22
-  * **digicert sha2 extended validation server ca**
 * [`p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion)
   * date=2021-04-27 not_before=2021-04-26 not_after=2022-05-27
   * **digicert sha2 extended validation server ca**
 * `*.p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`
-  * date=2021-04-27 not_before=2021-04-26 not_after=2022-05-27
-  * **digicert sha2 extended validation server ca**
-* [`propub3r6espa33w.onion`](https://propub3r6espa33w.onion)
   * date=2021-04-27 not_before=2021-04-26 not_after=2022-05-27
   * **digicert sha2 extended validation server ca**
 * `*.duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
@@ -425,12 +380,6 @@
   * **digicert sha2 extended validation server ca**
 * [`duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion)
   * date=2021-04-27 not_before=2021-04-27 not_after=2022-05-02
-  * **digicert sha2 extended validation server ca**
-* [`orionyg556j7qidr.onion`](https://orionyg556j7qidr.onion)
-  * date=2021-04-24 not_before=2021-04-19 not_after=2022-05-20
-  * **digicert sha2 extended validation server ca**
-* [`protonirockerxow.onion`](https://protonirockerxow.onion)
-  * date=2021-04-19 not_before=2021-03-29 not_after=2022-04-29
   * **digicert sha2 extended validation server ca**
 * [`sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion)
   * date=2021-04-16 not_before=2021-04-16 not_after=2022-05-18
@@ -483,108 +432,12 @@
 * [`4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion`](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion)
   * date=2021-03-09 not_before=2021-02-23 not_after=2022-03-27
   * **harica ssl ecc subca r2**
-* [`jcw5q6uyjioupxcc.onion`](https://jcw5q6uyjioupxcc.onion)
-  * date=2021-03-08 not_before=2020-12-18 not_after=2022-01-04
-  * **digicert sha2 extended validation server ca**
-* [`www.jcw5q6uyjioupxcc.onion`](https://www.jcw5q6uyjioupxcc.onion)
-  * date=2021-03-08 not_before=2020-12-18 not_after=2022-01-04
-  * **digicert sha2 extended validation server ca**
 * [`nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion`](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion)
   * date=2021-03-03 not_before=2021-03-02 not_after=2022-04-03
   * **harica ssl rsa subca r3**
 * [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion)
   * date=2021-02-18 not_before=2021-02-17 not_after=2022-03-20
   * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`nytimes3xbfgragh.onion`](https://nytimes3xbfgragh.onion)
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.api.dev.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.api.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.api.stg.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.blogs5.stg.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.blogs.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.blogs.stg.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.dev.blogs.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.dev.graylady3jvrrxbe.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.dev.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.graylady3jvrrxbe.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* [`graylady3jvrrxbe.onion`](https://graylady3jvrrxbe.onion)
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.newsdev.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.prd.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.sbx.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.stg.blogs.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.stg.graylady3jvrrxbe.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.stg.newsdev.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* `*.stg.nytimes3xbfgragh.onion`
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* [`www.bestsellers.nytimes3xbfgragh.onion`](https://www.bestsellers.nytimes3xbfgragh.onion)
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* [`www.homedelivery.nytimes3xbfgragh.onion`](https://www.homedelivery.nytimes3xbfgragh.onion)
-  * date=2021-02-18 not_before=2020-11-20 not_after=2021-12-21
-  * **digicert sha2 extended validation server ca**
-* [`nyttips4bmquxfzw.onion`](https://nyttips4bmquxfzw.onion)
-  * date=2021-02-18 not_before=2020-12-01 not_after=2022-01-01
-  * **digicert sha2 extended validation server ca**
 * [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion)
   * date=2021-02-18 not_before=2020-12-01 not_after=2022-01-01
-  * **digicert sha2 extended validation server ca**
-* [`dwnewsvdyyiamwnp.onion`](https://dwnewsvdyyiamwnp.onion)
-  * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
-  * **digicert sha2 extended validation server ca**
-* `*.commons.dwnewsvdyyiamwnp.onion`
-  * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
-  * **digicert sha2 extended validation server ca**
-* `*.dwnewsvdyyiamwnp.onion`
-  * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
-  * **digicert sha2 extended validation server ca**
-* `*.mkyivn5qd25lf7r6.onion`
-  * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
-  * **digicert sha2 extended validation server ca**
-* [`mkyivn5qd25lf7r6.onion`](https://mkyivn5qd25lf7r6.onion)
-  * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
-  * **digicert sha2 extended validation server ca**
-* `*.wcoc6qfoyfmrqj2r.onion`
-  * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
-  * **digicert sha2 extended validation server ca**
-* [`wcoc6qfoyfmrqj2r.onion`](https://wcoc6qfoyfmrqj2r.onion)
-  * date=2021-02-18 not_before=2020-12-03 not_after=2021-12-07
   * **digicert sha2 extended validation server ca**
