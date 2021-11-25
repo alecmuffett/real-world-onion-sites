@@ -29,4 +29,4 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,securedrop,TechCrunch,techcrunch.securedrop.tor.onion,http://vplxle7awnyvvvduv6exnwrxbf4gzsh7lv7fxosnfl2ecidkttcbfcqd.onion,https://techcrunch.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Stefania Maurizi,maurizi.securedrop.tor.onion,http://jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion,https://stefaniamaurizi.it/en-contactme.html,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Investigace.cz,investigace.securedrop.tor.onion,http://e2kkexl7exz6rg7fhl4oftkaeojm7wlbw567hqu2tbrjlixsjjoynzad.onion,https://www.investigace.cz/securedrop/,via: https://securedrop.org/api/v1/directory/
-,securedrop,Financial Times,,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
+,securedrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
