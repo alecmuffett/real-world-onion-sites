@@ -68,3 +68,17 @@ jobs:
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
+      
+      - isim: Python Kurulumu
+   kullanır: eylemler/kurulum-python@v2.3.1
+   ile birlikte:
+     # Kullanılacak bir Python sürümünün sürüm aralığı veya tam sürümü, SemVer'in sürüm aralığı sözdizimini kullanarak.
+     python sürümü: # isteğe bağlı, varsayılan 3.x
+     # Varsayılan dizinde önbelleğe almak için bir paket yöneticisi belirtmek için kullanılır.  Desteklenen değerler: pip, pipenv.
+     önbellek: # isteğe bağlı
+     # Python yorumlayıcısının hedef mimarisi (x86, x64).
+     mimari: # isteğe bağlı
+     # Eylemlerden/python sürümlerinden python dağıtımlarını çekmek için kullanılır.  Bir varsayılan olduğundan, bu genellikle kullanıcı tarafından sağlanmaz.
+     belirteç: # isteğe bağlı, varsayılan ${{ github.token }}
+     # Bağımlılık dosyalarının yolunu belirtmek için kullanılır.  Birden çok bağımlılığı önbelleğe almak için joker karakterleri veya dosya adları listesini destekler.
+     önbellek bağımlılığı yolu: # isteğe bağlı 
