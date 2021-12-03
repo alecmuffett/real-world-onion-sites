@@ -1,0 +1,69 @@
+# This workflow will upload a Python Package using Twine when a release is created
+# For more information see: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#publishing-to-package-registries
+
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+name: Upload Python Package
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install build
+    - name: Build package
+      run: python -m build
+    - name: Publish package
+      uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
+      with:
+        user: __token__
+        password: ${{ secrets.PYPI_API_TOKEN }}
+- ad: Java JDK'yı Kur
+   kullanır: eylemler/kurulum-java@v2.4.0
+   ile birlikte:
+     # Kurulacak Java sürümü.  Java sürümünün tamamını veya bir kısmını alır.  README dosyasında desteklenen sözdizimi örneklerine bakın
+     java sürümü: 
+     # Java dağıtımı.  README dosyasındaki desteklenen dağıtımların listesine bakın
+     dağıtım: 
+     # Paket tipi (jdk, jre, jdk+fx, jre+fx)
+     java paketi: # isteğe bağlı, varsayılan jdk'dir
+     # Paketin mimarisi
+     mimari: # isteğe bağlı, varsayılan x64
+     # Sıkıştırılmış JDK'nın bulunduğu yol
+     jdkFile: # isteğe bağlı
+     # İşlemin sürüm özelliklerini karşılayan en son sürümü kontrol etmesini istiyorsanız bu seçeneği ayarlayın.
+     en son kontrol: # isteğe bağlı
+     # pom.xml dosyasındaki dağıtım Yönetimi deposunun kimliği.  Varsayılan "github"
+     sunucu kimliği: # isteğe bağlı, varsayılan github'dır
+     # Apache Maven deposunda kimlik doğrulaması için kullanıcı adı için ortam değişkeni adı.  Varsayılan $GITHUB_ACTOR
+     sunucu-kullanıcı adı: # isteğe bağlı, varsayılan GITHUB_ACTOR
+     # Apache Maven deposunda kimlik doğrulaması için parola veya belirteç için ortam değişkeni adı.  Varsayılan $GITHUB_TOKEN
+     sunucu şifresi: # isteğe bağlı, varsayılan GITHUB_TOKEN
+     # settings.xml dosyasının yazılacağı yol.  Varsayılan ~/.m2'dir.
+     ayarlar yolu: # isteğe bağlı
+     # Varsa settings.xml dosyasının üzerine yazın.  Varsayılan "doğru"dur.
+     üzerine yazma ayarları: # isteğe bağlı, varsayılan değer doğrudur
+     # İçe aktarılacak GPG özel anahtarı.  Varsayılan boş dizedir.
+     gpg-private-key: # isteğe bağlı
+     # GPG özel anahtar parolası için ortam değişkeni adı.  Varsayılan $GPG_PASSPHRASE'dir.
+     gpg parolası: # isteğe bağlı
+     # Bağımlılıkları önbelleğe alacak yapı platformunun adı.  "Maven" veya "gradle" olabilir.
+     önbellek: # isteğe bağlı
+     # İş durumunu iş adımını göndermek için geçirmek için geçici çözüm.  Bu değişken manuel ayar için tasarlanmamıştır
+     iş durumu: # isteğe bağlı, varsayılan değer ${{ iş.status }} 
