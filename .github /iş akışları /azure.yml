@@ -49,3 +49,21 @@ jobs:
         app-name: ${{ env.AZURE_WEBAPP_NAME }}
         publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
         package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+- ad: Bir Yapı Eseri Yükleyin
+   kullanır: eylemler/yükleme-artifact@v2.2.4
+   ile birlikte:
+     # Eser adı
+     ad: # isteğe bağlı, varsayılan yapaydır
+     # Neyin yükleneceğini açıklayan bir dosya, dizin veya joker karakter kalıbı
+     yol: 
+     # Sağlanan yol kullanılarak hiçbir dosya bulunamazsa istenen davranış.
+ Mevcut seçenekler:
+   uyar: Bir uyarı verir ancak eylemi başarısızlığa uğratmaz
+   hata: Eylemde bir hata mesajıyla başarısız olun
+   yoksay: Herhangi bir uyarı veya hata vermeyin, işlem başarısız olmaz
+
+     if-no-files-found: # isteğe bağlı, varsayılan uyarıdır
+     # Yapıtın gün olarak sona ereceği süre.  0, varsayılan saklamayı kullanmak anlamına gelir.
+ En az 1 gün.  Depo ayarları sayfasından değiştirilmedikçe maksimum 90 gün.
+
+     saklama günleri: # isteğe bağlı 
