@@ -1,0 +1,56 @@
+name: Django CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 4
+      matrix:
+        python-version: [3.7, 3.8, 3.9]
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - ad: Node.js ortamını kurun
+   kullanır: eylemler/kurulum-node@v2.5.0
+   ile birlikte:
+     # npmrc'de her zaman yetkilendirmeyi ayarla
+     Always-auth: # isteğe bağlı, varsayılan değer yanlış
+     # Kullanılacak sürümün Sürüm Özelliği.  Örnekler: 12.x, 10.15.1, >=10.15.0
+     düğüm sürümü: # isteğe bağlı
+     # Kullanılacak sürümün sürüm özelliklerini içeren dosya.  Örnekler: .nvmrc, .node sürümü
+     düğüm sürümü dosyası: # isteğe bağlı
+     # Düğümün kullanması için hedef mimari.  Örnekler: x86, x64.  Varsayılan olarak sistem mimarisini kullanır.
+     mimari: # isteğe bağlı
+     # İşlemin sürüm özelliklerini karşılayan en son sürümü kontrol etmesini istiyorsanız bu seçeneği ayarlayın.
+     en son kontrol: # isteğe bağlı
+     # Yetkilendirmeyi ayarlamak için isteğe bağlı kayıt defteri.  Kayıt defterini bir proje düzeyinde .npmrc ve .yarnrc dosyasında ayarlayacak ve env.NODE_AUTH_TOKEN'den okumak için yetkilendirmeyi ayarlayacaktır
+     kayıt-url'si: # isteğe bağlı
+     # Kapsamlı kayıtlara karşı kimlik doğrulaması için isteğe bağlı kapsam
+     kapsam: # isteğe bağlı
+     # Düğüm sürümlerinden düğüm dağıtımlarını çekmek için kullanılır.  Bir varsayılan olduğundan, bu genellikle kullanıcı tarafından sağlanmaz.
+     belirteç: # isteğe bağlı, varsayılan ${{ github.token }}
+     # Varsayılan dizinde önbelleğe almak için bir paket yöneticisi belirtmek için kullanılır.  Desteklenen değerler: npm, iplik, pnpm
+     önbellek: # isteğe bağlı
+     # Bir bağımlılık dosyasının yolunu belirtmek için kullanılır: package-lock.json, yarn.lock, vb. Birden çok bağımlılığı önbelleğe almak için joker karakterleri veya dosya adları listesini destekler.
+     önbellek bağımlılığı yolu: # isteğe bağlı
+     # Kullanımdan kaldırıldı.  Bunun yerine düğüm sürümünü kullanın.  1 Ekim 2019'dan sonra desteklenmeyecektir
+     sürüm: # isteğe bağlı 
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run Tests
+      run: |
+        python manage.py test
