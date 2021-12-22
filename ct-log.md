@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`nam6afxwim4w3fldle2qjsaiwbb3s2dwxbummh3d2dotqvddayqdswqd.onion`](https://nam6afxwim4w3fldle2qjsaiwbb3s2dwxbummh3d2dotqvddayqdswqd.onion)
+  * date=2021-12-22 not_before=2021-12-22 not_after=2022-12-22
+  * **harica ssl rsa subca r3**
 * [`verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion`](https://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion)
   * date=2021-12-22 not_before=2021-12-22 not_after=2022-12-22
   * **harica ssl rsa subca r3**
