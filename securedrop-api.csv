@@ -18,7 +18,6 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,securedrop,Aftonbladet,aftonbladet.securedrop.tor.onion,http://xm33ge4kupk5o66eqxcd2r4fqcplpqb2sbdduf5z2nw4g2jrxe57luid.onion,https://www.aftonbladet.se/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,VICE Media,,http://a2c6mmacrmxtaspbolytfxm6q2zq7svtkuaog5xetbcxr3mpy4pmomid.onion,https://news.vice.com/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,NRK,nrk.securedrop.tor.onion,http://537ztcntpbmspja4mkpxldpsoc46mqlssnsaklqnfw3gnlpj5glcjgid.onion,https://www.nrk.no/varsle/,via: https://securedrop.org/api/v1/directory/
-,securedrop,The Center for Public Integrity,,http://ahgpmkiaqfde4innkotgz5q6bgt4gbxmelqod3tjtmpdt3zvxaxareyd.onion,https://apps.publicintegrity.org/tips,via: https://securedrop.org/api/v1/directory/
 ,securedrop,The Intercept,theintercept.securedrop.tor.onion,http://xpxduj55x2j27l2qytu2tcetykyfxbjbafin3x4i3ywddzphkbrd3jyd.onion,https://theintercept.com/source/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,The Washington Post,washingtonpost.securedrop.tor.onion,http://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion,https://www.washingtonpost.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Dagbladet,,http://udgkmwzb5jmucs2r2cjtfscgf6s6d6otbt2qfiinovtwknsxk5oyzeid.onion,https://www.dagbladet.no/securedrop/,via: https://securedrop.org/api/v1/directory/
@@ -30,3 +29,4 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,securedrop,Stefania Maurizi,maurizi.securedrop.tor.onion,http://jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion,https://stefaniamaurizi.it/en-contactme.html,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Investigace.cz,investigace.securedrop.tor.onion,http://e2kkexl7exz6rg7fhl4oftkaeojm7wlbw567hqu2tbrjlixsjjoynzad.onion,https://www.investigace.cz/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
+,securedrop,The Center for Public Integrity,publicintegrity.securedrop.tor.onion,http://ahgpmkiaqfde4innkotgz5q6bgt4gbxmelqod3tjtmpdt3zvxaxareyd.onion,https://apps.publicintegrity.org/tips,via: https://securedrop.org/api/v1/directory/
