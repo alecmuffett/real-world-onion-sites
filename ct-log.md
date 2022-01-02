@@ -450,6 +450,3 @@
 * [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion)
   * date=2021-02-18 not_before=2021-02-17 not_after=2022-03-20
   * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion)
-  * date=2021-02-18 not_before=2020-12-01 not_after=2022-01-01
-  * **digicert sha2 extended validation server ca**
