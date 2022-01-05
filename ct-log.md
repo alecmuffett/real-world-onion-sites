@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion`](https://nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion)
+  * date=2022-01-05 not_before=2022-01-05 not_after=2023-01-05
+  * **harica ssl rsa subca r3**
 * [`ajaryxxssjqqpohhmbqbabxoy73cmx3cgxqhcinnigata6cnuh6pzaad.onion`](https://ajaryxxssjqqpohhmbqbabxoy73cmx3cgxqhcinnigata6cnuh6pzaad.onion)
   * date=2022-01-03 not_before=2022-01-03 not_after=2023-01-03
   * **harica ssl ecc subca r2**
@@ -8,9 +11,6 @@
   * **harica ssl ecc subca r2**
 * [`verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion`](https://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion)
   * date=2022-01-03 not_before=2021-12-22 not_after=2022-12-22
-  * **harica ssl rsa subca r3**
-* [`nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion`](https://nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion)
-  * date=2022-01-02 not_before=2022-01-02 not_after=2023-01-02
   * **harica ssl rsa subca r3**
 * [`purblodit2j753sog7vqmpwnoo5l6xpj6jemr3fg6xsyxwd2pwoh73id.onion`](https://purblodit2j753sog7vqmpwnoo5l6xpj6jemr3fg6xsyxwd2pwoh73id.onion)
   * date=2021-12-31 not_before=2021-12-31 not_after=2022-12-31
