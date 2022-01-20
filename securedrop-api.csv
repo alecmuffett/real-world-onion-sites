@@ -30,4 +30,4 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,securedrop,Investigace.cz,investigace.securedrop.tor.onion,http://e2kkexl7exz6rg7fhl4oftkaeojm7wlbw567hqu2tbrjlixsjjoynzad.onion,https://www.investigace.cz/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,The Center for Public Integrity,publicintegrity.securedrop.tor.onion,http://ahgpmkiaqfde4innkotgz5q6bgt4gbxmelqod3tjtmpdt3zvxaxareyd.onion,https://apps.publicintegrity.org/tips,via: https://securedrop.org/api/v1/directory/
-,securedrop,Lessig.law LLC,,http://o4nhtigrvss5wktskr5ph5m22ewmhk7nr5at2tac2wdsworcqz62vsqd.onion,https://lessig.law/securedrop-info/,via: https://securedrop.org/api/v1/directory/
+,securedrop,Lessig.law LLC,lessig.securedrop.tor.onion,http://o4nhtigrvss5wktskr5ph5m22ewmhk7nr5at2tac2wdsworcqz62vsqd.onion,https://lessig.law/securedrop-info/,via: https://securedrop.org/api/v1/directory/
