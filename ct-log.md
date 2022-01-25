@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion)
+  * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* `*.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
+  * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* `*.prod.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
+  * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
+  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion`](https://nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion)
   * date=2022-01-15 not_before=2022-01-05 not_after=2023-01-05
   * **harica ssl rsa subca r3**
@@ -438,15 +447,6 @@
 * [`3lyjmg4nw7krshaxrbojmw7vpa22rfafekc6eitk3h4eul5fnlkbdyqd.onion`](https://3lyjmg4nw7krshaxrbojmw7vpa22rfafekc6eitk3h4eul5fnlkbdyqd.onion)
   * date=2021-03-25 not_before=2021-03-25 not_after=2022-03-25
   * **harica ssl rsa subca r3**
-* [`27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion)
-  * date=2021-03-25 not_before=2021-03-25 not_after=2022-03-30
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
-  * date=2021-03-25 not_before=2021-03-25 not_after=2022-03-30
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.prod.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
-  * date=2021-03-25 not_before=2021-03-25 not_after=2022-03-30
-  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`zrrridrxzn6fz4qhy33hvfr2xj7z4yt3i4tll7e47eglo35augdomrqd.onion`](https://zrrridrxzn6fz4qhy33hvfr2xj7z4yt3i4tll7e47eglo35augdomrqd.onion)
   * date=2021-03-22 not_before=2021-03-22 not_after=2022-03-22
   * **harica ssl rsa subca r3**
