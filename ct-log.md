@@ -1,7 +1,7 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion)
-  * date=2022-01-25 not_before=2022-01-25 not_after=2023-02-25
+  * date=2022-01-26 not_before=2022-01-25 not_after=2023-02-25
   * **digicert sha2 extended validation server ca**
 * [`27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion)
   * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
