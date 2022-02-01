@@ -1,5 +1,29 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* `*.s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* `*.search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
+  * date=2022-01-31 not_before=2022-01-31 not_after=2022-07-28
+  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion)
   * date=2022-01-26 not_before=2022-01-25 not_after=2023-02-25
   * **digicert sha2 extended validation server ca**
@@ -261,27 +285,6 @@
 * [`pcpjqqaogbywoymsgwo7btjkw6mt7dngvq535nhxjhhrzcmwfghmo6ad.onion`](https://pcpjqqaogbywoymsgwo7btjkw6mt7dngvq535nhxjhhrzcmwfghmo6ad.onion)
   * date=2021-08-14 not_before=2021-07-02 not_after=2022-07-02
   * **harica ssl rsa subca r3**
-* [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
-  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
-  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion)
-  * date=2021-08-14 not_before=2021-07-28 not_after=2022-07-28
-  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion`](https://ejk4rd7z66xoh7pomrlihvb6hzv2lcqvhk5dfppyruxm6bvrgfucjtad.onion)
   * date=2021-08-14 not_before=2021-07-09 not_after=2022-07-09
   * **harica ssl rsa subca r3**
