@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion)
+  * date=2022-02-07 not_before=2022-02-07 not_after=2023-02-03
+  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion`](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion)
   * date=2022-02-04 not_before=2022-02-03 not_after=2023-03-06
   * **digicert sha2 extended validation server ca**
@@ -480,6 +483,3 @@
 * [`nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion`](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion)
   * date=2021-03-03 not_before=2021-03-02 not_after=2022-04-03
   * **harica ssl rsa subca r3**
-* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion)
-  * date=2021-02-18 not_before=2021-02-17 not_after=2022-03-20
-  * **digicert tls hybrid ecc sha384 2020 ca1**
