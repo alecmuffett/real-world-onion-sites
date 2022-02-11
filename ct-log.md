@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`romainmanwes26bh6qgqkkymyclmzqtn5n75yuka7v2d5wtxhpkjtcqd.onion`](https://romainmanwes26bh6qgqkkymyclmzqtn5n75yuka7v2d5wtxhpkjtcqd.onion)
+  * date=2022-02-11 not_before=2022-02-11 not_after=2023-02-11
+  * **harica ssl rsa subca r3**
 * [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion)
   * date=2022-02-07 not_before=2022-02-07 not_after=2023-02-03
   * **digicert tls hybrid ecc sha384 2020 ca1**
