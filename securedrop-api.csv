@@ -27,6 +27,7 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,securedrop,Al Jazeera Media Network,ajiunit.securedrop.tor.onion,http://jkta32w5gvk6pmqdfwj67psojot3l2iwoqbdvrvywi5bkudfeandq7id.onion,https://webapps.aljazeera.net/aje/tips/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,TechCrunch,techcrunch.securedrop.tor.onion,http://vplxle7awnyvvvduv6exnwrxbf4gzsh7lv7fxosnfl2ecidkttcbfcqd.onion,https://techcrunch.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Stefania Maurizi,maurizi.securedrop.tor.onion,http://jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion,https://stefaniamaurizi.it/en-contactme.html,via: https://securedrop.org/api/v1/directory/
+,securedrop,The Markup,,http://fhrkds5du4uvv33ibce5bnwppih6kkzyam7othip4dywrpy46rxoytid.onion,https://themarkup.org/tips/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Investigace.cz,investigace.securedrop.tor.onion,http://e2kkexl7exz6rg7fhl4oftkaeojm7wlbw567hqu2tbrjlixsjjoynzad.onion,https://www.investigace.cz/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Bloomberg Law,bloomberglaw.securedrop.tor.onion,http://33buewrpzrfpttl7kerqvtvzyo3ivumilwwmeqjryzajusltibaqc6ad.onion,https://news.bloomberglaw.com/tips,via: https://securedrop.org/api/v1/directory/
 ,securedrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
