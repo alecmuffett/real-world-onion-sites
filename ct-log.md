@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion`](https://apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion)
+  * date=2022-02-15 not_before=2022-02-15 not_after=2023-02-15
+  * **harica ssl rsa subca r3**
+* [`iatif7n6e6mfjtn6grfa7srgsitlr43bgjg7bubbzumch4nevck7beqd.onion`](https://iatif7n6e6mfjtn6grfa7srgsitlr43bgjg7bubbzumch4nevck7beqd.onion)
+  * date=2022-02-15 not_before=2022-02-15 not_after=2023-02-15
+  * **harica ssl rsa subca r3**
+* [`blacksc35lzf6zgzyrcfay6r62flsgkfbpbwp4ld2cubahvuk5b6nmqd.onion`](https://blacksc35lzf6zgzyrcfay6r62flsgkfbpbwp4ld2cubahvuk5b6nmqd.onion)
+  * date=2022-02-15 not_before=2022-02-15 not_after=2023-02-15
+  * **harica ssl rsa subca r3**
 * [`5hdtqsljimbr4p4hxq4vgzdovqvntfo6z5o7wh6ar4an7mglo66d5eqd.onion`](https://5hdtqsljimbr4p4hxq4vgzdovqvntfo6z5o7wh6ar4an7mglo66d5eqd.onion)
   * date=2022-02-14 not_before=2022-02-14 not_after=2023-02-14
   * **harica ssl rsa subca r3**
