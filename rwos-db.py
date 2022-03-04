@@ -216,10 +216,10 @@ def grep_using(chunk, k, v, invert=False):
 
 def get_proof(row):
     url = get_placeholder(row, 'proof_url')
-    if url == '-': return 'to be confirmed'
-    if url == 'tbc': return 'to be confirmed'
-    if url == 'ssl': return 'see tls/ssl certificate'
-    if url == 'header': return 'see onion-location header'
+    if url == '-': return ':crystal_ball: to be confirmed'
+    if url == 'tbc': return ':crystal_ball: to be confirmed'
+    if url == 'ssl': return ':lock: see tls/ssl certificate'
+    if url == 'header': return ':mag: see onion-location header'
     return '[link]({})'.format(url)
 
 def get_summary(url):
