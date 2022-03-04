@@ -216,7 +216,8 @@ def grep_using(chunk, k, v, invert=False):
 
 def get_proof(row):
     url = get_placeholder(row, 'proof_url')
-    if url == '-': return 'to be done'
+    if url == '-': return 'to be confirmed'
+    if url == 'tbc': return 'to be confirmed'
     if url == 'ssl': return 'see tls/ssl certificate'
     if url == 'header': return 'see onion-location header'
     return '[link]({})'.format(url)
