@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`guild66haocmtmro4ouevwuqi3elffegtbjw3p4mxofv2soueucb5tad.onion`](https://guild66haocmtmro4ouevwuqi3elffegtbjw3p4mxofv2soueucb5tad.onion)
+  * date=2022-03-05 not_before=2022-01-10 not_after=2023-01-10
+  * **harica ssl rsa subca r3**
+* [`twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion`](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion)
+  * date=2022-03-05 not_before=2022-03-04 not_after=2023-03-04
+  * **harica ssl rsa subca r3**
 * [`svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion`](https://svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion)
   * date=2022-03-04 not_before=2022-03-04 not_after=2023-03-04
   * **harica ssl rsa subca r3**
@@ -61,9 +67,6 @@
   * date=2022-03-04 not_before=2022-03-04 not_after=2023-03-04
   * **harica ssl rsa subca r3**
 * [`twitterhbmit57bzbcjnujedrn7uk73geo4ackio4lxdj6t7w6f4zsid.onion`](https://twitterhbmit57bzbcjnujedrn7uk73geo4ackio4lxdj6t7w6f4zsid.onion)
-  * date=2022-03-04 not_before=2022-03-04 not_after=2023-03-04
-  * **harica ssl rsa subca r3**
-* [`twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion`](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion)
   * date=2022-03-04 not_before=2022-03-04 not_after=2023-03-04
   * **harica ssl rsa subca r3**
 * [`svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion`](https://svobod7mjzb3hwxhgcnx7ui2ffd4p5zulftzkzdlmpaztuuoxnlpwhyd.onion)
@@ -184,9 +187,6 @@
   * date=2022-01-15 not_before=2022-01-13 not_after=2022-04-01
   * **digicert ecc extended validation server ca**
 * [`adminmp2uz7qxc7k2rfeqkijev2uq4lqhydxvb2o72fbnxlhwdozuiad.onion`](https://adminmp2uz7qxc7k2rfeqkijev2uq4lqhydxvb2o72fbnxlhwdozuiad.onion)
-  * date=2022-01-10 not_before=2022-01-10 not_after=2023-01-10
-  * **harica ssl rsa subca r3**
-* [`guild66haocmtmro4ouevwuqi3elffegtbjw3p4mxofv2soueucb5tad.onion`](https://guild66haocmtmro4ouevwuqi3elffegtbjw3p4mxofv2soueucb5tad.onion)
   * date=2022-01-10 not_before=2022-01-10 not_after=2023-01-10
   * **harica ssl rsa subca r3**
 * [`meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion`](https://meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion)
