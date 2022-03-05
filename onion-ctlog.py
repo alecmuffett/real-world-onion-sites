@@ -49,9 +49,10 @@ for r in results:
         if not onion_re.search(san): continue
         if done.get(san, False): continue
         done[san] = True
-        if re.match(r'\*', san):
+        is_wildcard = True if re.match(r'\*', san) else False
+        if is_wildcard:
             print('* `{}`'.format(san))
         else:
-            print('* [`{san}`](https://{san})'.format(san=san))
+            print('* [`{san}`](https://{san}) [eotk?](https://{san}/hello-onion/)'.format(san=san))
         print('  * {0}'.format(dates))
         print('  * **{0}**'.format(ca))
