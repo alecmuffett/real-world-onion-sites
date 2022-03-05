@@ -18,7 +18,7 @@ def push(stack, entry):
     method = 'http' # this needs some discussion with Securedrop
     result = dict()
     result['flaky'] = ''
-    result['category'] = 'securedrop'
+    result['category'] = 'SecureDrop'
     result['site_name'] = xx(entry, 'title')
     result['onion_url'] = '{0}://{1}'.format(method, xx(entry, 'onion_address'))
     result['onion_name'] = xx(entry, 'onion_name')

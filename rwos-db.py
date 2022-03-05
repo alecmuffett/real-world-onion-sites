@@ -25,8 +25,8 @@ DETECTOR_HISTORY=14
 TRUE_STRING = 'TRUE'
 
 DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
-    'globaleaks',
-    'securedrop',
+    'Globaleaks',
+    'SecureDrop',
 )
 
 EMOJI_HTTP = ':small_red_triangle: HTTP'
