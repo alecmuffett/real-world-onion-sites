@@ -245,7 +245,7 @@ def get_summary(url):
 
 def print_chunk(chunk, title, description=None, print_bar=True):
     print(LINE)
-    print(H2, caps(title))
+    print(H2, title) # was: caps(title)
     print()
     if description:
         print(description)
@@ -283,7 +283,8 @@ def print_index(cats):
     print(H1, 'Index')
     print()
     for cat in cats:
-        print(B, '[{0}](#{1})'.format(caps(cat), cat.lower().replace(' ', '-')))
+        print(B, '[{0}](#{1})'.format(cat, # was: caps(cat)
+                                      cat.lower().replace(' ', '-')))
     print()
 
 def do_print(master):
