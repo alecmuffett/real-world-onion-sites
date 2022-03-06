@@ -47,7 +47,7 @@ B = '*'
 BB = '  *'
 BBB = '    *'
 LINE = '----'
-INDEXJUMP = ':up_arrow: [return to top index](#index)'
+INDEXJUMP = ':arrow_up: [return to top index](#index)'
 
 SCHEMA_SQL = '''
 PRAGMA journal_mode = wal;

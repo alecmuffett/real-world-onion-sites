@@ -74,7 +74,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:22+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:07+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:29+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:28+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:49+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:49+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:16+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:18+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:32+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Civil Society and Community
@@ -119,7 +119,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:40+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:13+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:29+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:35+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:31+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:33+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:17+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:22+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Education
@@ -138,7 +138,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:47+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:10+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:27+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:37+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:18+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:54+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:22+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:26+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Government
@@ -150,7 +150,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:09:59+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:16+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:28+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:17:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:29+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:42+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:18+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:22+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## News
@@ -194,7 +194,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:18+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:46+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:50:02+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:17+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:46+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:40+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:47+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## News BBC World Service
@@ -453,7 +453,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:42+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:08+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:56+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:28+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## News Deutsche Welle World
@@ -646,7 +646,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=301 exit=0 time=2022-03-06 12:15:46+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 08:48:03+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 02:10:31+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 01:16:44+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 00:32:01+00:00">:eight_spoked_asterisk:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## News RFERL
@@ -718,7 +718,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=403 exit=0 time=2022-03-06 12:15:36+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 08:48:05+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 02:10:25+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 01:16:41+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 00:31:55+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 00:15:39+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 23:11:40+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 23:04:47+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 22:21:35+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 20:49:28+00:00">:no_entry_sign:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:08+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:34+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Search Engines
@@ -737,7 +737,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:58+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:43+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:16:03+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:47+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:05:02+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:53+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:50:11+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:56+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:04:07+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Social Networks
@@ -755,7 +755,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:16:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:37+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:58+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:02+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:48+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:42+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:51+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:51+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:50:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:51+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:54+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Tech and Software
@@ -846,7 +846,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:53+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 09:06:11+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:11+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:40+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:41+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:49+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:40+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:17+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:41+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:47+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Web and Internet
@@ -876,7 +876,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:56+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:37+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:56+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:10+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:58+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:48+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:05:13+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:48+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:57+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:53+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## SecureDrop
@@ -1146,7 +1146,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-06 12:16:01+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:59+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:17:08+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:16:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:43+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:05:03+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:50:00+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:51+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:03:55+00:00">:white_check_mark:</span>
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 ----
 ## Flaky Sites
@@ -1175,7 +1175,7 @@ These sites have apparently stopped responding.
 * proof: [link](https://treacherous.tech/mirroring-a-site-on-a-onion-address.html)
 
 
-:up_arrow: [return to top index](#index)
+:arrow_up: [return to top index](#index)
 
 
 ----
