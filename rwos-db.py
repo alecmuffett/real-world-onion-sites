@@ -47,6 +47,7 @@ B = '*'
 BB = '  *'
 BBB = '    *'
 LINE = '----'
+INDEXJUMP = '[:up_arrow: return to index](#index)'
 
 SCHEMA_SQL = '''
 PRAGMA journal_mode = wal;
@@ -269,6 +270,7 @@ def print_chunk(chunk, title, description=None, print_bar=True):
             bar = ''.join(get_summary(url))
             print(B, 'check:', bar)
         print()
+    print(INDEXJUMP)
 
 def poolhook(x):
     x.fetchwrap()
