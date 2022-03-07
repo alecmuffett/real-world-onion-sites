@@ -10,3 +10,9 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - author/editor: alec muffett
 
 You can find techical details and the legend/key for symbols in the [footnotes section](#footnotes), below.
+
+## Regarding Updates and Suggestions
+
+- This file (`README.md`) is auto-generated from a spreadsheet
+- Please submit an `Issue` for consideration / desired change requests
+- **Do NOT submit changes NOR pull-requests for it**

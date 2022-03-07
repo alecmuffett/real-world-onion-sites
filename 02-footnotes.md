@@ -1,11 +1,6 @@
 ----
 # Footnotes
 
-- This file (`README.md`) is auto-generated
-  - *Do NOT submit changes NOR pull-requests for it*
-  - Please submit an `Issue` for consideration / change requests
-- If both v2 and v3 addresses are provided for a service, the v3
-  address will be preferred / cited
 - At the moment where an organisation runs 2+ onion addresses for
   closely related services that do not reflect distinct languages /
   national interests, I am posting a link to an index of their
