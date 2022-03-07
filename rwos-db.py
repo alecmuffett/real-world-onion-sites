@@ -29,8 +29,8 @@ DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
     'SecureDrop',
 )
 
-EMOJI_HTTP = ':small_red_triangle: HTTP'
-EMOJI_HTTPS = ':closed_lock_with_key: HTTPS'
+EMOJI_HTTP = ':small_red_triangle: **HTTP**'
+EMOJI_HTTPS = ':closed_lock_with_key: **HTTPS**'
 EMOJI_UNSET = ':question:'
 EMOJI_2xx = ':white_check_mark:'
 EMOJI_3xx = ':eight_spoked_asterisk:'
