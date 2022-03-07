@@ -247,7 +247,6 @@ def get_summary(url):
 def print_chunk(chunk, title, description=None, print_bar=True):
     print(LINE)
     print(H2, title) # was: caps(title)
-    print(INDEXJUMP)
     print()
     if description:
         print(description)
@@ -271,6 +270,7 @@ def print_chunk(chunk, title, description=None, print_bar=True):
             bar = ''.join(get_summary(url))
             print(B, 'check:', bar)
         print()
+    print(INDEXJUMP)
     print()
 
 def poolhook(x):
