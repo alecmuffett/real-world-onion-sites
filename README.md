@@ -30,6 +30,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 
 ----
 ## Blogs
+:arrow_up: [return to top index](#index)
 
 ### [Alexander Færøy](https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion/)
 * link: [https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion/](https://lxwu7pwyszfevhglxfgaukjqjdk2belosfvsl2ekzx3vrboacvewc7qd.onion/) :closed_lock_with_key: **HTTPS**
@@ -74,10 +75,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:22+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:07+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:29+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:28+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:49+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:49+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:16+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:18+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Civil Society and Community
+:arrow_up: [return to top index](#index)
 
 ### [Privacy International](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion/)
 * link: [https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion/](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion/) :closed_lock_with_key: **HTTPS**
@@ -119,10 +119,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:27+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:40+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:13+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:29+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:35+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:31+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:33+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:17+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Education
+:arrow_up: [return to top index](#index)
 
 ### [BBC Learning English](https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/learningenglish/)
 *includes resources for many languages*
@@ -138,10 +137,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:32+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:47+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:10+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:27+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:37+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:18+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:54+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:22+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Government
+:arrow_up: [return to top index](#index)
 
 ### [US Central Intelligence Agency](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/index.html)
 * link: [http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/index.html](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/index.html) :small_red_triangle: **HTTP**
@@ -150,10 +148,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:09:59+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:16+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:28+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:17:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:29+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:42+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:18+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## News
+:arrow_up: [return to top index](#index)
 
 ### [BBC](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/)
 * link: [https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/) :closed_lock_with_key: **HTTPS**
@@ -194,10 +191,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:22+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:18+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:46+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:50:02+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:17+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:46+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:40+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## News BBC World Service
+:arrow_up: [return to top index](#index)
 
 ### [BBC News /afaanoromoo | Afaan Oromoo](https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/afaanoromoo)
 * link: [https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/afaanoromoo](https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/afaanoromoo) :closed_lock_with_key: **HTTPS**
@@ -453,10 +449,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:47:42+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:08+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:31:38+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:19+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:20:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:23+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:17:56+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:24+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## News Deutsche Welle World
+:arrow_up: [return to top index](#index)
 
 ### [Deutsche Welle Albanian | Shqip](https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/sq/)
 * link: [https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/sq/](https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/sq/) :closed_lock_with_key: **HTTPS**
@@ -646,10 +641,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=301 exit=0 time=2022-03-07 03:40:52+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 12:15:46+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 08:48:03+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 02:10:31+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 01:16:44+00:00">:eight_spoked_asterisk:</span><span title="attempts=1 code=301 exit=0 time=2022-03-06 00:32:01+00:00">:eight_spoked_asterisk:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## News RFERL
+:arrow_up: [return to top index](#index)
 
 ### [RFERL | Idel Реалии](https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion/)
 * link: [https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion/](https://www.idelraalduykh5md4f5kempsx2vhhvs53sf7td25imcsyscru7i63cyd.onion/) :closed_lock_with_key: **HTTPS**
@@ -718,10 +712,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:41+00:00">:white_check_mark:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 12:15:36+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 08:48:05+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 02:10:25+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 01:16:41+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 00:31:55+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-06 00:15:39+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 23:11:40+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 23:04:47+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 22:21:35+00:00">:no_entry_sign:</span><span title="attempts=1 code=403 exit=0 time=2022-03-05 20:49:28+00:00">:no_entry_sign:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:08+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:30+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Search Engines
+:arrow_up: [return to top index](#index)
 
 ### [Brave Search](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/)
 *seems to block curl / upness-tester*
@@ -737,10 +730,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:41:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:58+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:24+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:43+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:16:03+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:47+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:05:02+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:53+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:50:11+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:56+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Social Networks
+:arrow_up: [return to top index](#index)
 
 ### [Facebook](https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/)
 * link: [https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/](https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/) :closed_lock_with_key: **HTTPS**
@@ -755,10 +747,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:41:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:16:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:37+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:34+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:58+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:02+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:48+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:42+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:51+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:51+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:20+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:50:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:51+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Tech and Software
+:arrow_up: [return to top index](#index)
 
 ### [Ablative Hosting](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/)
 * link: [https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/) :closed_lock_with_key: **HTTPS**
@@ -846,10 +837,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:40:57+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:53+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 09:06:11+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:11+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:40+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:41+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:04:49+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:14+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:40+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:17+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:41+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:44+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Web and Internet
+:arrow_up: [return to top index](#index)
 
 ### [Archive Today](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/)
 * link: [http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/) :small_red_triangle: **HTTP**
@@ -876,10 +866,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:41:04+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:15:56+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:15+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:37+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:16:56+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:10+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:15:58+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:48+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:05:13+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:30+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:44+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:21+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:49:48+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:57+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## SecureDrop
+:arrow_up: [return to top index](#index)
 
 ### [2600: The Hacker Quarterly](http://cy6wj77vryhcyh6go576hxycjz4wxlo4s5vevdinkw3armwzty5jozyd.onion)
 *via: https://securedrop.org/api/v1/directory/*
@@ -1146,10 +1135,9 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * check: <span title="attempts=1 code=200 exit=0 time=2022-03-07 03:41:52+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 12:16:01+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 08:48:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 02:10:59+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 01:17:08+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:32:26+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-06 00:16:05+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:11:43+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 23:05:03+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 22:21:36+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 20:49:50+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 09:18:25+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-05 08:50:00+00:00">:white_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2022-03-04 23:31:51+00:00">:white_check_mark:</span>
 
 
-:arrow_up: [return to top index](#index)
-
 ----
 ## Flaky Sites
+:arrow_up: [return to top index](#index)
 
 These sites have apparently stopped responding.
 
@@ -1174,8 +1162,6 @@ These sites have apparently stopped responding.
 * plain: `https://ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion/`
 * proof: [link](https://treacherous.tech/mirroring-a-site-on-a-onion-address.html)
 
-
-:arrow_up: [return to top index](#index)
 
 
 ----
