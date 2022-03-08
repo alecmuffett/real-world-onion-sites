@@ -260,8 +260,10 @@ def print_chunk(chunk, title, description=None, print_bar=True):
         # short name
         oname = row['onion_name']
         if oname != '': print(B, 'short: `{0}`'.format(oname))
-        # linky-linky, with https-emoji
-        print(B, 'link: [{0}]({0})'.format(url), padlock)
+        # transport
+        print(B, 'transport:', padlock)
+        # linky-linky
+        print(B, 'link: [{0}]({0})'.format(url))
         # apparently some people like copying and pasting plain text
         print(B, 'plain: `{0}`'.format(url))
         # print proof unconditionally, as encouragement to fix it
