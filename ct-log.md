@@ -1,10 +1,10 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`myrasecurgogroaus4koapksp5i5wetbmy3vpfye5h64lfbba6g564yd.onion`](https://myrasecurgogroaus4koapksp5i5wetbmy3vpfye5h64lfbba6g564yd.onion) [eotk?](https://myrasecurgogroaus4koapksp5i5wetbmy3vpfye5h64lfbba6g564yd.onion/hello-onion/)
-  * date=2022-03-09 not_before=2022-03-09 not_after=2023-03-09
+  * date=2022-03-10 not_before=2022-03-09 not_after=2023-03-09
   * **harica ssl ecc subca r2**
 * [`c6usaa6obkiahck7rkn2phbffb3strd375pfpxmawuexnmectjizyjad.onion`](https://c6usaa6obkiahck7rkn2phbffb3strd375pfpxmawuexnmectjizyjad.onion) [eotk?](https://c6usaa6obkiahck7rkn2phbffb3strd375pfpxmawuexnmectjizyjad.onion/hello-onion/)
-  * date=2022-03-09 not_before=2022-03-09 not_after=2023-03-09
+  * date=2022-03-10 not_before=2022-03-09 not_after=2023-03-09
   * **harica ssl rsa subca r3**
 * [`digicihme5l3lc3ziclrn4fkfmzxhuqrpmrrrwkxgg3bx27r4u2mc6yd.onion`](https://digicihme5l3lc3ziclrn4fkfmzxhuqrpmrrrwkxgg3bx27r4u2mc6yd.onion) [eotk?](https://digicihme5l3lc3ziclrn4fkfmzxhuqrpmrrrwkxgg3bx27r4u2mc6yd.onion/hello-onion/)
   * date=2022-03-09 not_before=2022-03-09 not_after=2023-04-09
@@ -462,12 +462,6 @@
 * [`ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion`](https://ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion) [eotk?](https://ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion/hello-onion/)
   * date=2021-08-14 not_before=2021-08-12 not_after=2022-08-12
   * **harica ssl rsa subca r3**
-* [`vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion) [eotk?](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion/hello-onion/)
-  * date=2021-08-14 not_before=2021-03-04 not_after=2022-03-09
-  * **digicert sha2 extended validation server ca**
-* [`www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion) [eotk?](https://www.vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion/hello-onion/)
-  * date=2021-08-14 not_before=2021-03-04 not_after=2022-03-09
-  * **digicert sha2 extended validation server ca**
 * [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) [eotk?](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/hello-onion/)
   * date=2021-08-14 not_before=2021-07-11 not_after=2022-08-12
   * **harica ssl rsa subca r3**
