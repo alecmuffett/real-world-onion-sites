@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* `*.cf7v353ortguz42isjgke3vwbqwg5yzn7qndvdlb7geazkivocek7yqd.onion`
+  * date=2022-03-24 not_before=2022-03-24 not_after=2022-03-30
+  * **thawte ev rsa ca 2018**
 * [`torfind3qw6agxnmmkt53ns34rfnzgg4z6uewqf5fpgtov55r6nigvid.onion`](https://torfind3qw6agxnmmkt53ns34rfnzgg4z6uewqf5fpgtov55r6nigvid.onion) [eotk?](https://torfind3qw6agxnmmkt53ns34rfnzgg4z6uewqf5fpgtov55r6nigvid.onion/hello-onion/)
   * date=2022-03-24 not_before=2022-03-23 not_after=2023-03-23
   * **harica ssl rsa subca r3**
