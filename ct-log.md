@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`exmple27tdg5nesxaao6khfuk5ac723n7tpqkzhyytnjm2ltt6tgkhyd.onion`](https://exmple27tdg5nesxaao6khfuk5ac723n7tpqkzhyytnjm2ltt6tgkhyd.onion) [eotk?](https://exmple27tdg5nesxaao6khfuk5ac723n7tpqkzhyytnjm2ltt6tgkhyd.onion/hello-onion/)
+  * date=2022-03-27 not_before=2022-03-27 not_after=2023-03-27
+  * **harica ssl ecc subca r2**
 * [`kutj6adn66vdrpauox236wbc6g52ogg3pl4nfb5bfx7gzdgnqvhsl2qd.onion`](https://kutj6adn66vdrpauox236wbc6g52ogg3pl4nfb5bfx7gzdgnqvhsl2qd.onion) [eotk?](https://kutj6adn66vdrpauox236wbc6g52ogg3pl4nfb5bfx7gzdgnqvhsl2qd.onion/hello-onion/)
   * date=2022-03-25 not_before=2022-03-25 not_after=2023-03-27
   * **digicert sha2 extended validation server ca**
@@ -702,9 +705,6 @@
 * [`kushal76uaid62oup5774umh654scnu5dwzh4u2534qxhcbi4wbab3ad.onion`](https://kushal76uaid62oup5774umh654scnu5dwzh4u2534qxhcbi4wbab3ad.onion) [eotk?](https://kushal76uaid62oup5774umh654scnu5dwzh4u2534qxhcbi4wbab3ad.onion/hello-onion/)
   * date=2021-03-09 not_before=2021-02-23 not_after=2022-03-27
   * **harica ssl rsa subca r3**
-* [`4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion`](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion) [eotk?](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion/hello-onion/)
-  * date=2021-03-09 not_before=2021-02-23 not_after=2022-03-27
-  * **harica ssl ecc subca r2**
 * [`nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion`](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion) [eotk?](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion/hello-onion/)
   * date=2021-03-03 not_before=2021-03-02 not_after=2022-04-03
   * **harica ssl rsa subca r3**
