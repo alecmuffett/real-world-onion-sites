@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion`](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion) [eotk?](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion/hello-onion/)
+  * date=2022-03-28 not_before=2022-03-28 not_after=2023-03-28
+  * **harica ssl ecc subca r2**
+* [`oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion`](https://oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion) [eotk?](https://oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion/hello-onion/)
+  * date=2022-03-28 not_before=2022-03-28 not_after=2023-03-28
+  * **harica ssl rsa subca r3**
 * [`exmple27tdg5nesxaao6khfuk5ac723n7tpqkzhyytnjm2ltt6tgkhyd.onion`](https://exmple27tdg5nesxaao6khfuk5ac723n7tpqkzhyytnjm2ltt6tgkhyd.onion) [eotk?](https://exmple27tdg5nesxaao6khfuk5ac723n7tpqkzhyytnjm2ltt6tgkhyd.onion/hello-onion/)
   * date=2022-03-27 not_before=2022-03-27 not_after=2023-03-27
   * **harica ssl ecc subca r2**
@@ -689,9 +695,6 @@
   * **harica ssl ecc subca r2**
 * [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
   * date=2021-04-06 not_before=2021-04-06 not_after=2022-04-06
-  * **harica ssl rsa subca r3**
-* [`oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion`](https://oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion) [eotk?](https://oisav4mtyhfjpde3o46btnahguh2ebdfod2ua6vk3ltqjmmd6wjfceid.onion/hello-onion/)
-  * date=2021-04-02 not_before=2021-04-02 not_after=2022-04-02
   * **harica ssl rsa subca r3**
 * [`ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion`](https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion) [eotk?](https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/hello-onion/)
   * date=2021-03-13 not_before=2021-03-11 not_after=2022-04-12
