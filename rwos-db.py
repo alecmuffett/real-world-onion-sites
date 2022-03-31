@@ -23,6 +23,7 @@ PLACEHOLDER = '-'
 POOL_WORKERS = 10
 DETECTOR_HISTORY=14
 TRUE_STRING = 'TRUE'
+FOOTNOTES = 'Footnotes'
 
 DEFERRED_CATEGORIES = ( # stuff to push down the page due to size
     'Globaleaks',
@@ -290,6 +291,7 @@ def print_index(cats):
     for cat in cats:
         print(B, '[{0}](#{1})'.format(cat, # was: caps(cat)
                                       cat.lower().replace(' ', '-')))
+    print(B, '[{0}](#{1})'.format(FOOTNOTES, FOOTNOTES.lower()))
     print()
 
 def do_print(master):

@@ -33,6 +33,7 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 * [Tech and Software](#tech-and-software)
 * [Web and Internet](#web-and-internet)
 * [SecureDrop](#securedrop)
+* [Footnotes](#footnotes)
 
 ----
 ## Blogs
