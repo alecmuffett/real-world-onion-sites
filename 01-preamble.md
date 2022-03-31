@@ -16,3 +16,6 @@ You can find techical details and the legend/key for symbols in the [footnotes s
 - This file (`README.md`) is auto-generated from a spreadsheet
 - Please submit an `Issue` for consideration / desired change requests
 - **Do NOT submit changes NOR pull-requests for it**
+- **Re: SecureDrop** - all SecureDrop entries are taken automatically from
+  `https://securedrop.org/api/v1/directory/` and must be amended on that site,
+  not this one.
