@@ -39,6 +39,7 @@ EMOJI_4xx = ':no_entry_sign:'
 EMOJI_5xx = ':stop_sign:'
 EMOJI_DEAD = ':sos:'
 EMOJI_NO_DATA = ':new:'
+EMOJI_BAD_CERT = ':old_key:'
 
 H1 = '#'
 H2 = '##'
@@ -77,7 +78,7 @@ VALUES (:run, :url, :attempt, :out, :err, :http_code, :curl_exit)
 '''
 
 SUMMARY_SQL = '''
-SELECT foo.ctime, foo.attempt, foo.http_code, foo.curl_exit
+SELECT foo.ctime, foo.attempt, foo.http_code, foo.curl_exit, foo.err
 FROM fetches foo
 INNER JOIN (
   SELECT url, run, MAX(attempt) AS pivot
@@ -113,10 +114,23 @@ def extract_hcode(s): # static
         code = BADNESS + 4
     return code
 
+def placeholder(s):
+    if s == '': return PLACEHOLDER
+    if s == None: return PLACEHOLDER
+    return s
+
+def unicode_cleanup(x):
+    x = placeholder(x) # canonicalise blanks and None
+    if isinstance(x, str): # native python3 utf-8 string
+        result = x
+    else: # is byte array
+        result = x.decode('utf-8', 'ignore')
+    return result
+
 class Database:
     def __init__(self, filename):
         self.connection = sqlite3.connect(filename)
-        self.connection.text_factory = lambda x: unicode(x, UTF8, 'ignore') # ignore bad unicode shit
+        self.connection.text_factory = lambda x: unicode_cleanup(x)
         self.cursor = self.connection.cursor()
         self.cursor.executescript(SCHEMA_SQL)
         self.now = time.strftime('%Y%m%d%H%M%S', time.gmtime())
@@ -187,11 +201,6 @@ class URL:
             if self.last_code < BADNESS: return
             time.sleep(RETRY_SLEEP)
 
-def placeholder(s):
-    if s == '': return PLACEHOLDER
-    if s == None: return PLACEHOLDER
-    return s
-
 def caps(s):
     return ' '.join([w.capitalize() for w in s.lower().split()])
 
@@ -229,7 +238,8 @@ def get_summary(url):
     if len(rows) == 0:
         return ( EMOJI_NO_DATA, )
     result = []
-    for when, attempt, hcode, ecode in rows:
+    for when, attempt, hcode, ecode, errstr in rows:
+        errstr = unicode_cleanup(errstr) # THIS SHOULD NOT BE NEEDED, WHY? PERHAPS BECAUSE MULTI-LINE?
         emoji = EMOJI_UNSET
         if hcode >= 200 and hcode < 300:
             emoji = EMOJI_2xx
@@ -240,7 +250,10 @@ def get_summary(url):
         elif hcode >= 500 and hcode < 600:
             emoji = EMOJI_5xx
         elif hcode >= BADNESS:
-            emoji = EMOJI_DEAD
+            if 'SSL certificate' in errstr:
+                emoji = EMOJI_BAD_CERT
+            else:
+                emoji = EMOJI_DEAD
         t = datetime.fromtimestamp(when, timezone.utc)
         result.append('<span title="attempts={1} code={2} exit={3} time={4}">{0}</span>'.format(emoji, attempt, hcode, ecode, t))
     return result

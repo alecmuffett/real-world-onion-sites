@@ -9,6 +9,8 @@ This is a list of substantial, commercial-or-social-good mainstream websites whi
 - licensed: cc-by-sa
 - author/editor: alec muffett
 
+## Legend/Key for Symbols
+
 You can find techical details and the legend/key for symbols in the [footnotes section](#footnotes), below.
 
 ## Regarding Updates and Suggestions

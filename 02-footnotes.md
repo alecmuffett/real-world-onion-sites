@@ -14,8 +14,7 @@
 - :eight_spoked_asterisk: site up, and redirected to another page
 - :no_entry_sign: site up, but could not access the page
 - :stop_sign: site up, but reported a system error
-- :sos: site returned no data, or is down, or curl experienced a transient
-  network error (may be a problem with the RWOS server connection)
+- :sos: site returned no data, or is down, or curl experienced a transient or permanent network error; may also reflect a problem with the RWOS server connection
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
@@ -26,7 +25,9 @@ Mouse-over the icons for details of HTTP codes, curl exit statuses,
 and the number of attempts made on each site.
 
 - codes [are from HTTP and are documented elsewhere](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes); RWOS-internal ones include:
-  - `901`, `902`, `903` - malformed HTTP response
+  - `901` - malformed HTTP response
+  - `902` - malformed HTTP response
+  - `903` - malformed HTTP response, commonly including (e.g.) invalid HTTPS certificate
   - `904` - HTTP status code parse error
   - `910` - connection timeout
 - exits [are from Curl and are documented elsewhere](https://curl.haxx.se/libcurl/c/libcurl-errors.html); common ones include:
