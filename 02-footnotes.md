@@ -15,6 +15,7 @@
 - :no_entry_sign: site up, but could not access the page
 - :stop_sign: site up, but reported a system error
 - :sos: site returned no data, or is down, or curl experienced a transient or permanent network error; may also reflect a problem with the RWOS server connection
+- :old_key: same as :sos: but curl specifically mentioned SSL certificates as an issue
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
