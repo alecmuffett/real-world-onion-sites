@@ -43,7 +43,8 @@ EMOJI_DEAD = ':sos:'
 EMOJI_NO_CONN = ':exclamation:'
 EMOJI_NO_DATA = ':new:'
 EMOJI_NO_DESC = ':question:'
-EMOJI_TIMED_OUT = ':alarm_clock:'
+EMOJI_CONN_TIMEOUT = ':alarm_clock:'
+EMOJI_TTL_TIMEOUT = ':timer_clock:'
 
 H1 = '#'
 H2 = '##'
@@ -258,13 +259,15 @@ def get_summary(url):
             if 'SSL certificate' in errstr:
                 emoji = EMOJI_BAD_CERT
             elif 'timed out' in errstr:
-                emoji = EMOJI_TIMED_OUT
+                emoji = EMOJI_CONN_TIMEOUT
             elif "Can't complete SOCKS5 connection" in errstr:
                 # todo: parse out socks error codes from https://datatracker.ietf.org/doc/html/rfc1928#section-6
-                if re.search(r'\(4\)$', errstr):
-                    emoji = EMOJI_NO_DESC
-                elif re.search(r'\(1\)$', errstr):
+                if re.search(r'\(1\)$', errstr):
                     emoji = EMOJI_NO_CONN
+                elif re.search(r'\(4\)$', errstr):
+                    emoji = EMOJI_NO_DESC
+                elif re.search(r'\(6\)$', errstr):
+                    emoji = EMOJI_TTL_TIMEOUT
         t = datetime.fromtimestamp(when, timezone.utc)
         result.append('<span title="attempts={1} code={2} exit={3} time={4}">{0}</span>'.format(emoji, attempt, hcode, ecode, t))
     return result

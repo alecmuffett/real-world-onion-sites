@@ -16,7 +16,8 @@
 - :stop_sign: site up, but reported a system error
 - :sos: site returned no data, or is down, or curl experienced a transient or permanent network error; may also reflect a problem with the RWOS server connection
 - :boom: same as :sos: but curl specifically mentioned SSL certificates as an issue
-- :alarm_clock: same as :sos: but curl specifically mentioned timeout as an issue
+- :alarm_clock: same as :sos: but curl specifically mentioned connection timeout as an issue
+- :timer_clock: same as :sos: but curl specifically mentioned ttl expiry as an issue
 - :question: same as :sos: but curl specifically mentioned inability to resolve an onion descriptor
 - :exclamation: same as :sos: but curl specifically mentioned inability to connect to the server
 - :new: site is newly added, no data yet
