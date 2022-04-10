@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 from multiprocessing import Pool, Lock
 import csv
 import datetime as dt
+import re
 import sqlite3
 import subprocess
 import sys
@@ -40,6 +41,7 @@ EMOJI_5xx = ':stop_sign:'
 EMOJI_DEAD = ':sos:'
 EMOJI_NO_DATA = ':new:'
 EMOJI_BAD_CERT = ':boom:'
+EMOJI_NO_DESC = ':question:'
 EMOJI_TIMED_OUT = ':alarm_clock:'
 
 H1 = '#'
@@ -251,12 +253,15 @@ def get_summary(url):
         elif hcode >= 500 and hcode < 600:
             emoji = EMOJI_5xx
         elif hcode >= BADNESS:
+            emoji = EMOJI_DEAD # default
             if 'SSL certificate' in errstr:
                 emoji = EMOJI_BAD_CERT
             elif 'timed out' in errstr:
                 emoji = EMOJI_TIMED_OUT
-            else:
-                emoji = EMOJI_DEAD
+            elif "Can't complete SOCKS5 connection" in errstr:
+                # todo: parse out socks error codes from https://datatracker.ietf.org/doc/html/rfc1928#section-6
+                if re.search(r'\(4\)$', errstr):
+                    emoji = EMOJI_NO_DESC
         t = datetime.fromtimestamp(when, timezone.utc)
         result.append('<span title="attempts={1} code={2} exit={3} time={4}">{0}</span>'.format(emoji, attempt, hcode, ecode, t))
     return result

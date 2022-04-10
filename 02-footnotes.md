@@ -17,6 +17,7 @@
 - :sos: site returned no data, or is down, or curl experienced a transient or permanent network error; may also reflect a problem with the RWOS server connection
 - :boom: same as :sos: but curl specifically mentioned SSL certificates as an issue
 - :alarm_clock: same as :sos: but curl specifically mentioned timeout as an issue
+- :question: same as :sos: but curl specifically mentioned inability to resolve an onion descriptor
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
