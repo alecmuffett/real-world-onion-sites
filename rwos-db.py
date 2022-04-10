@@ -40,6 +40,7 @@ EMOJI_5xx = ':stop_sign:'
 EMOJI_DEAD = ':sos:'
 EMOJI_NO_DATA = ':new:'
 EMOJI_BAD_CERT = ':boom:'
+EMOJI_TIMED_OUT = ':alarm_clock:'
 
 H1 = '#'
 H2 = '##'
@@ -252,6 +253,8 @@ def get_summary(url):
         elif hcode >= BADNESS:
             if 'SSL certificate' in errstr:
                 emoji = EMOJI_BAD_CERT
+            elif 'timed out' in errstr:
+                emoji = EMOJI_TIMED_OUT
             else:
                 emoji = EMOJI_DEAD
         t = datetime.fromtimestamp(when, timezone.utc)
