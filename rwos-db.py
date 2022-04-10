@@ -38,9 +38,10 @@ EMOJI_2xx = ':white_check_mark:'
 EMOJI_3xx = ':eight_spoked_asterisk:'
 EMOJI_4xx = ':no_entry_sign:'
 EMOJI_5xx = ':stop_sign:'
-EMOJI_DEAD = ':sos:'
-EMOJI_NO_DATA = ':new:'
 EMOJI_BAD_CERT = ':boom:'
+EMOJI_DEAD = ':sos:'
+EMOJI_NO_CONN = ':exclamation:'
+EMOJI_NO_DATA = ':new:'
 EMOJI_NO_DESC = ':question:'
 EMOJI_TIMED_OUT = ':alarm_clock:'
 
@@ -262,6 +263,8 @@ def get_summary(url):
                 # todo: parse out socks error codes from https://datatracker.ietf.org/doc/html/rfc1928#section-6
                 if re.search(r'\(4\)$', errstr):
                     emoji = EMOJI_NO_DESC
+                elif re.search(r'\(1\)$', errstr):
+                    emoji = EMOJI_NO_CONN
         t = datetime.fromtimestamp(when, timezone.utc)
         result.append('<span title="attempts={1} code={2} exit={3} time={4}">{0}</span>'.format(emoji, attempt, hcode, ecode, t))
     return result

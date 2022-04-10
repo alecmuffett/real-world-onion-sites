@@ -18,6 +18,7 @@
 - :boom: same as :sos: but curl specifically mentioned SSL certificates as an issue
 - :alarm_clock: same as :sos: but curl specifically mentioned timeout as an issue
 - :question: same as :sos: but curl specifically mentioned inability to resolve an onion descriptor
+- :exclamation: same as :sos: but curl specifically mentioned inability to connect to the server
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
