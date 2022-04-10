@@ -39,7 +39,7 @@ EMOJI_4xx = ':no_entry_sign:'
 EMOJI_5xx = ':stop_sign:'
 EMOJI_DEAD = ':sos:'
 EMOJI_NO_DATA = ':new:'
-EMOJI_BAD_CERT = ':old_key:'
+EMOJI_BAD_CERT = ':boom:'
 
 H1 = '#'
 H2 = '##'
