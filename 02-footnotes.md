@@ -15,11 +15,11 @@
 - :no_entry_sign: site up, but could not access the page
 - :stop_sign: site up, but reported a system error
 - :sos: site returned no data, or is down, or curl experienced a transient or permanent network error; may also reflect a problem with the RWOS server connection
-- :boom: same as :sos: but curl specifically mentioned SSL certificates as an issue
+- :question: same as :sos: but curl specifically mentioned inability to fetch an onion descriptor
+- :exclamation: same as :sos: but curl specifically mentioned inability to connect to the server
 - :alarm_clock: same as :sos: but curl specifically mentioned connection timeout as an issue
 - :timer_clock: same as :sos: but curl specifically mentioned ttl expiry as an issue
-- :question: same as :sos: but curl specifically mentioned inability to resolve an onion descriptor
-- :exclamation: same as :sos: but curl specifically mentioned inability to connect to the server
+- :boom: same as :sos: but curl specifically mentioned SSL certificates as an issue
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
