@@ -19,7 +19,7 @@
 - :exclamation: same as :sos: but curl specifically mentioned inability to connect to the server
 - :alarm_clock: same as :sos: but curl specifically mentioned connection timeout as an issue
 - :timer_clock: same as :sos: but curl specifically mentioned ttl expiry as an issue
-- :boom: same as :sos: but curl specifically mentioned SSL certificates as an issue
+- :key: same as :sos: but curl specifically mentioned SSL certificates as an issue
 - :new: site is newly added, no data yet
 
 You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
