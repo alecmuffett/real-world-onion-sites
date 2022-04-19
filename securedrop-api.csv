@@ -22,10 +22,10 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,Dagbladet,,http://udgkmwzb5jmucs2r2cjtfscgf6s6d6otbt2qfiinovtwknsxk5oyzeid.onion,https://www.dagbladet.no/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Süddeutsche Zeitung,,http://udhauo3m3fh7v6yfiuornjzxn3fh6vlp4ooo3wogvghcnv5xik6mnayd.onion,https://www.sueddeutsche.de/projekte/kontakt/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CBC,,http://gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion,https://www.cbc.ca/securedrop,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Al Jazeera Media Network,ajiunit.securedrop.tor.onion,http://jkta32w5gvk6pmqdfwj67psojot3l2iwoqbdvrvywi5bkudfeandq7id.onion,https://webapps.aljazeera.net/aje/tips/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,TechCrunch,techcrunch.securedrop.tor.onion,http://vplxle7awnyvvvduv6exnwrxbf4gzsh7lv7fxosnfl2ecidkttcbfcqd.onion,https://techcrunch.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Stefania Maurizi,maurizi.securedrop.tor.onion,http://jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion,https://stefaniamaurizi.it/en-contactme.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Markup,,http://fhrkds5du4uvv33ibce5bnwppih6kkzyam7othip4dywrpy46rxoytid.onion,https://themarkup.org/tips/,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,Al Jazeera Media Network,ajiunit.securedrop.tor.onion,http://jkta32w5gvk6pmqdfwj67psojot3l2iwoqbdvrvywi5bkudfeandq7id.onion,https://webapps.aljazeera.net/aje/tips/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Investigace.cz,investigace.securedrop.tor.onion,http://e2kkexl7exz6rg7fhl4oftkaeojm7wlbw567hqu2tbrjlixsjjoynzad.onion,https://www.investigace.cz/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CNN,cnn.securedrop.tor.onion,http://qmifwf762qftydprw2adbg7hs2mkunac5xrz3cb5busaflji3rja5lid.onion,https://www.cnn.com/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
