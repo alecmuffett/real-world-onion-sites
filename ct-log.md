@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`y6gupgneeoxkfwatrv5tpablodgfpx7t5go3k5netbrt5ji726tn4wad.onion`](https://y6gupgneeoxkfwatrv5tpablodgfpx7t5go3k5netbrt5ji726tn4wad.onion) [eotk?](https://y6gupgneeoxkfwatrv5tpablodgfpx7t5go3k5netbrt5ji726tn4wad.onion/hello-onion/)
+  * date=2022-05-09 not_before=2022-05-09 not_after=2023-05-09
+  * **harica ssl ecc subca r2**
 * [`rcclubcom7eocdlycjjoh2x22edsomny46goacgkeylntp546bekxyad.onion`](https://rcclubcom7eocdlycjjoh2x22edsomny46goacgkeylntp546bekxyad.onion) [eotk?](https://rcclubcom7eocdlycjjoh2x22edsomny46goacgkeylntp546bekxyad.onion/hello-onion/)
   * date=2022-05-06 not_before=2022-05-06 not_after=2023-05-06
   * **harica ssl ecc subca r2**
