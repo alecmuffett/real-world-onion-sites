@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion`](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion) [eotk?](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/hello-onion/)
+  * date=2022-05-11 not_before=2022-05-11 not_after=2023-04-08
+  * **harica ssl rsa subca r3**
 * [`sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion) [eotk?](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion/hello-onion/)
   * date=2022-05-10 not_before=2022-05-10 not_after=2023-05-10
   * **harica ssl ecc subca r2**
@@ -741,15 +744,15 @@
 * [`wdwjgd7rb5baghfkhx75iylwk257qvkqumdsgcjrqkuowvi7ruscvaqd.onion`](https://wdwjgd7rb5baghfkhx75iylwk257qvkqumdsgcjrqkuowvi7ruscvaqd.onion) [eotk?](https://wdwjgd7rb5baghfkhx75iylwk257qvkqumdsgcjrqkuowvi7ruscvaqd.onion/hello-onion/)
   * date=2021-05-26 not_before=2021-05-26 not_after=2022-05-26
   * **harica ssl rsa subca r3**
-* [`ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion`](https://ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion) [eotk?](https://ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion/hello-onion/)
-  * date=2021-05-23 not_before=2021-05-23 not_after=2022-05-11
-  * **harica ssl rsa subca r3**
 * `*.privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion`
   * date=2021-05-21 not_before=2021-05-20 not_after=2022-06-20
   * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion`](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion) [eotk?](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion/hello-onion/)
   * date=2021-05-21 not_before=2021-05-20 not_after=2022-06-20
   * **digicert tls hybrid ecc sha384 2020 ca1**
+* [`ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion`](https://ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion) [eotk?](https://ygwdnjw2gt6sabcrhjqmpgsn4hhddomhipdpxbx6bru2zr2damxevqyd.onion/hello-onion/)
+  * date=2021-05-19 not_before=2021-05-19 not_after=2022-05-16
+  * **harica ssl rsa subca r3**
 * [`2te4smoyyc2txmlhwdgiup4zk4ka276mdpy3k65ix2qk5n5lvbjfgnad.onion`](https://2te4smoyyc2txmlhwdgiup4zk4ka276mdpy3k65ix2qk5n5lvbjfgnad.onion) [eotk?](https://2te4smoyyc2txmlhwdgiup4zk4ka276mdpy3k65ix2qk5n5lvbjfgnad.onion/hello-onion/)
   * date=2021-05-14 not_before=2021-05-14 not_after=2022-05-14
   * **harica ssl rsa subca r3**
