@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) [eotk?](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/hello-onion/)
+  * date=2022-05-17 not_before=2022-05-17 not_after=2023-06-17
+  * **digicert sha2 extended validation server ca**
+* `*.p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`
+  * date=2022-05-17 not_before=2022-05-17 not_after=2023-06-17
+  * **digicert sha2 extended validation server ca**
+* [`tdt74wyri5mxvqbk4k7q3kkqurc7gechhuudtjhfbgccgk2c6htk44id.onion`](https://tdt74wyri5mxvqbk4k7q3kkqurc7gechhuudtjhfbgccgk2c6htk44id.onion) [eotk?](https://tdt74wyri5mxvqbk4k7q3kkqurc7gechhuudtjhfbgccgk2c6htk44id.onion/hello-onion/)
+  * date=2022-05-17 not_before=2022-05-17 not_after=2023-05-17
+  * **harica ssl rsa subca r3**
 * [`drivehseryg2ehyn7rcn5rjfemgbtvoe6gkgyudnofkvg34aasa3pxyd.onion`](https://drivehseryg2ehyn7rcn5rjfemgbtvoe6gkgyudnofkvg34aasa3pxyd.onion) [eotk?](https://drivehseryg2ehyn7rcn5rjfemgbtvoe6gkgyudnofkvg34aasa3pxyd.onion/hello-onion/)
   * date=2022-05-14 not_before=2022-05-13 not_after=2023-05-13
   * **harica ssl rsa subca r3**
@@ -765,9 +774,3 @@
 * [`ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion`](https://ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion) [eotk?](https://ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion/hello-onion/)
   * date=2021-05-06 not_before=2021-05-06 not_after=2022-06-07
   * **harica ssl rsa subca r3**
-* [`p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) [eotk?](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/hello-onion/)
-  * date=2021-04-27 not_before=2021-04-26 not_after=2022-05-27
-  * **digicert sha2 extended validation server ca**
-* `*.p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`
-  * date=2021-04-27 not_before=2021-04-26 not_after=2022-05-27
-  * **digicert sha2 extended validation server ca**
