@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion`](https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion) [eotk?](https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion/hello-onion/)
+  * date=2022-06-14 not_before=2022-06-14 not_after=2023-06-14
+  * **harica dv tls rsa**
 * [`blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion`](https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion) [eotk?](https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion/hello-onion/)
   * date=2022-06-13 not_before=2022-06-13 not_after=2023-06-13
   * **harica dv tls rsa**
@@ -777,6 +780,3 @@
 * [`privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion`](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion) [eotk?](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion/hello-onion/)
   * date=2021-05-21 not_before=2021-05-20 not_after=2022-06-20
   * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion`](https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion) [eotk?](https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion/hello-onion/)
-  * date=2021-05-14 not_before=2021-05-14 not_after=2022-06-15
-  * **harica ssl rsa subca r3**
