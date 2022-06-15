@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* `*.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
+  * date=2022-06-15 not_before=2022-06-15 not_after=2023-07-16
+  * **digicert sha2 extended validation server ca**
+* [`dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion) [eotk?](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/hello-onion/)
+  * date=2022-06-15 not_before=2022-06-15 not_after=2023-07-16
+  * **digicert sha2 extended validation server ca**
 * [`rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion`](https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion) [eotk?](https://rljh7whv7im7m2pwacnwmkggxt7cbgypkl4zc4kxicphoav3g2yrotid.onion/hello-onion/)
   * date=2022-06-14 not_before=2022-06-14 not_after=2023-06-14
   * **harica dv tls rsa**
@@ -765,12 +771,6 @@
 * [`yggdrasitadzqcveh3safb7ha665yei4f2uqwepopxnu3axvsrlenvad.onion`](https://yggdrasitadzqcveh3safb7ha665yei4f2uqwepopxnu3axvsrlenvad.onion) [eotk?](https://yggdrasitadzqcveh3safb7ha665yei4f2uqwepopxnu3axvsrlenvad.onion/hello-onion/)
   * date=2021-06-18 not_before=2021-06-18 not_after=2022-06-18
   * **harica ssl rsa subca r3**
-* `*.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
-  * date=2021-06-15 not_before=2021-06-14 not_after=2022-07-15
-  * **digicert sha2 extended validation server ca**
-* [`dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion) [eotk?](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/hello-onion/)
-  * date=2021-06-15 not_before=2021-06-14 not_after=2022-07-15
-  * **digicert sha2 extended validation server ca**
 * [`amuffettdexn6r5s4lt45b6mlrgmsmo56szaaighyjurp4ccuj63zkad.onion`](https://amuffettdexn6r5s4lt45b6mlrgmsmo56szaaighyjurp4ccuj63zkad.onion) [eotk?](https://amuffettdexn6r5s4lt45b6mlrgmsmo56szaaighyjurp4ccuj63zkad.onion/hello-onion/)
   * date=2021-05-30 not_before=2021-05-30 not_after=2022-07-01
   * **harica ssl ecc subca r2**
