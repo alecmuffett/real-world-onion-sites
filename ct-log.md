@@ -1,7 +1,10 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`playbav3ozraqweh5ey3g4qvq5n4cuijxiuf5y4xgmu42bgt5zeyh7qd.onion`](https://playbav3ozraqweh5ey3g4qvq5n4cuijxiuf5y4xgmu42bgt5zeyh7qd.onion) [eotk?](https://playbav3ozraqweh5ey3g4qvq5n4cuijxiuf5y4xgmu42bgt5zeyh7qd.onion/hello-onion/)
-  * date=2022-06-20 not_before=2022-06-20 not_after=2023-06-20
+  * date=2022-06-21 not_before=2022-06-21 not_after=2023-06-20
+  * **harica dv tls rsa**
+* [`btcpay23sx4vo5jqdgudqj4hf7khlog2fmmeg77i5upnlhunlnp5zhyd.onion`](https://btcpay23sx4vo5jqdgudqj4hf7khlog2fmmeg77i5upnlhunlnp5zhyd.onion) [eotk?](https://btcpay23sx4vo5jqdgudqj4hf7khlog2fmmeg77i5upnlhunlnp5zhyd.onion/hello-onion/)
+  * date=2022-06-21 not_before=2022-06-21 not_after=2023-06-21
   * **harica dv tls rsa**
 * [`playbgwxqxav477mvtzggqc5mfvj5xfls6xyhpb3eu66txzr6stlpxyd.onion`](https://playbgwxqxav477mvtzggqc5mfvj5xfls6xyhpb3eu66txzr6stlpxyd.onion) [eotk?](https://playbgwxqxav477mvtzggqc5mfvj5xfls6xyhpb3eu66txzr6stlpxyd.onion/hello-onion/)
   * date=2022-06-20 not_before=2022-06-20 not_after=2023-06-20
@@ -780,9 +783,3 @@
 * [`amuffettdexn6r5s4lt45b6mlrgmsmo56szaaighyjurp4ccuj63zkad.onion`](https://amuffettdexn6r5s4lt45b6mlrgmsmo56szaaighyjurp4ccuj63zkad.onion) [eotk?](https://amuffettdexn6r5s4lt45b6mlrgmsmo56szaaighyjurp4ccuj63zkad.onion/hello-onion/)
   * date=2021-05-30 not_before=2021-05-30 not_after=2022-07-01
   * **harica ssl ecc subca r2**
-* `*.privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion`
-  * date=2021-05-21 not_before=2021-05-20 not_after=2022-06-20
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion`](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion) [eotk?](https://privacy2ws3ora5p4qpzptqr32qm54gf5ifyzvo5bhl7bb254c6nbiyd.onion/hello-onion/)
-  * date=2021-05-21 not_before=2021-05-20 not_after=2022-06-20
-  * **digicert tls hybrid ecc sha384 2020 ca1**
