@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) [eotk?](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/hello-onion/)
+  * date=2022-08-01 not_before=2022-08-01 not_after=2023-08-01
+  * **harica dv tls rsa**
+* [`purednsxr4shjkobosrqf7qebwzch3e4ignfr4beq34ngr4nkp2z32id.onion`](https://purednsxr4shjkobosrqf7qebwzch3e4ignfr4beq34ngr4nkp2z32id.onion) [eotk?](https://purednsxr4shjkobosrqf7qebwzch3e4ignfr4beq34ngr4nkp2z32id.onion/hello-onion/)
+  * date=2022-08-01 not_before=2022-08-01 not_after=2023-08-01
+  * **harica dv tls ecc**
 * [`darkside6fy5vyutp6nf6o6rirkah2o7beithn4tv5ad236zh6d3teqd.onion`](https://darkside6fy5vyutp6nf6o6rirkah2o7beithn4tv5ad236zh6d3teqd.onion) [eotk?](https://darkside6fy5vyutp6nf6o6rirkah2o7beithn4tv5ad236zh6d3teqd.onion/hello-onion/)
   * date=2022-07-31 not_before=2022-07-31 not_after=2023-07-31
   * **harica dv tls rsa**
@@ -728,9 +734,6 @@
   * **harica ssl rsa subca r3**
 * [`ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion`](https://ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion) [eotk?](https://ng3x5zysadauxqaoqlp2rxvffcrtvhl5g6dumv654bhzeitbg6u2xmqd.onion/hello-onion/)
   * date=2021-08-14 not_before=2021-08-12 not_after=2022-08-12
-  * **harica ssl rsa subca r3**
-* [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) [eotk?](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/hello-onion/)
-  * date=2021-08-14 not_before=2021-07-11 not_after=2022-08-12
   * **harica ssl rsa subca r3**
 * [`4checkzxxpcj3j5csupmiqcob3ygnpcogvsdf3igxybg6tgemo5bmcqd.onion`](https://4checkzxxpcj3j5csupmiqcob3ygnpcogvsdf3igxybg6tgemo5bmcqd.onion) [eotk?](https://4checkzxxpcj3j5csupmiqcob3ygnpcogvsdf3igxybg6tgemo5bmcqd.onion/hello-onion/)
   * date=2021-08-14 not_before=2021-08-07 not_after=2022-08-07
