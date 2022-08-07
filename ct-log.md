@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion`](https://i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion) [eotk?](https://i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion/hello-onion/)
+  * date=2022-08-06 not_before=2022-08-06 not_after=2023-08-06
+  * **harica dv tls rsa**
 * [`rtuyjoxwxxfdzhtrignwbr7acdlnu5m4gwfqvhkywmnflkajcpjwnhyd.onion`](https://rtuyjoxwxxfdzhtrignwbr7acdlnu5m4gwfqvhkywmnflkajcpjwnhyd.onion) [eotk?](https://rtuyjoxwxxfdzhtrignwbr7acdlnu5m4gwfqvhkywmnflkajcpjwnhyd.onion/hello-onion/)
   * date=2022-08-06 not_before=2022-08-06 not_after=2023-08-06
   * **harica dv tls rsa**
@@ -722,9 +725,6 @@
   * **digicert sha2 extended validation server ca**
 * [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion) [eotk?](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion/hello-onion/)
   * date=2021-10-11 not_before=2021-09-23 not_after=2022-09-23
-  * **harica ssl rsa subca r3**
-* [`i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion`](https://i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion) [eotk?](https://i6miyweb773v2nwirtjoey2eckxbennbe27ldryaophqiedtq742lbqd.onion/hello-onion/)
-  * date=2021-10-10 not_before=2021-08-26 not_after=2022-08-26
   * **harica ssl rsa subca r3**
 * [`z5whlxee7ehzoofevqts22tucpbt7ogzbtt42qfdkjxsvemnbdo4xuad.onion`](https://z5whlxee7ehzoofevqts22tucpbt7ogzbtt42qfdkjxsvemnbdo4xuad.onion) [eotk?](https://z5whlxee7ehzoofevqts22tucpbt7ogzbtt42qfdkjxsvemnbdo4xuad.onion/hello-onion/)
   * date=2021-10-10 not_before=2021-09-02 not_after=2022-09-02
