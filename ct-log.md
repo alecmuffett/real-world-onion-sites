@@ -1,5 +1,65 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* `*.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* [`facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`](https://facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion) [eotk?](https://facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* `*.facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* [`facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`](https://facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion) [eotk?](https://facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* [`facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`](https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) [eotk?](https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* `*.m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* `*.xx.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* `*.xy.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* `*.xz.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
+  * date=2022-08-13 not_before=2022-08-01 not_after=2022-10-29
+  * **digicert ecc extended validation server ca**
+* [`currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion`](https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion) [eotk?](https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-06-07 not_after=2023-06-07
+  * **harica dv tls ecc**
+* `*.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion`
+  * date=2022-08-13 not_before=2022-06-07 not_after=2023-06-07
+  * **harica dv tls ecc**
+* [`urduvo6lm7jua2ewtpps7qwocv4yampizls4vmb4jqjlnyqxx5euddad.onion`](https://urduvo6lm7jua2ewtpps7qwocv4yampizls4vmb4jqjlnyqxx5euddad.onion) [eotk?](https://urduvo6lm7jua2ewtpps7qwocv4yampizls4vmb4jqjlnyqxx5euddad.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
+* `*.urduvo6lm7jua2ewtpps7qwocv4yampizls4vmb4jqjlnyqxx5euddad.onion`
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
+* [`polygra7p2n2ovyxb76ck2gff46atktgqsh3mjwrbog5llstaldkruqd.onion`](https://polygra7p2n2ovyxb76ck2gff46atktgqsh3mjwrbog5llstaldkruqd.onion) [eotk?](https://polygra7p2n2ovyxb76ck2gff46atktgqsh3mjwrbog5llstaldkruqd.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
+* `*.polygra7p2n2ovyxb76ck2gff46atktgqsh3mjwrbog5llstaldkruqd.onion`
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
+* [`pashtoviqsqqat4e24borp72h5h4mvpwzknbxdtkyzyxb3bfcuafkxyd.onion`](https://pashtoviqsqqat4e24borp72h5h4mvpwzknbxdtkyzyxb3bfcuafkxyd.onion) [eotk?](https://pashtoviqsqqat4e24borp72h5h4mvpwzknbxdtkyzyxb3bfcuafkxyd.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
+* `*.pashtoviqsqqat4e24borp72h5h4mvpwzknbxdtkyzyxb3bfcuafkxyd.onion`
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
+* [`glasame2p4dxwkcqop3i3uph3w5xum6rbiaw763ccyr5475twos2mzqd.onion`](https://glasame2p4dxwkcqop3i3uph3w5xum6rbiaw763ccyr5475twos2mzqd.onion) [eotk?](https://glasame2p4dxwkcqop3i3uph3w5xum6rbiaw763ccyr5475twos2mzqd.onion/hello-onion/)
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
+* `*.glasame2p4dxwkcqop3i3uph3w5xum6rbiaw763ccyr5475twos2mzqd.onion`
+  * date=2022-08-13 not_before=2022-08-12 not_after=2023-08-12
+  * **harica dv tls ecc**
 * [`darivoaw7yax3xqupowgqshowtkunw3xhwtwz7pxhwdtlur47jzawzad.onion`](https://darivoaw7yax3xqupowgqshowtkunw3xhwtwz7pxhwdtlur47jzawzad.onion) [eotk?](https://darivoaw7yax3xqupowgqshowtkunw3xhwtwz7pxhwdtlur47jzawzad.onion/hello-onion/)
   * date=2022-08-12 not_before=2022-08-10 not_after=2023-08-10
   * **harica dv tls ecc**
@@ -33,36 +93,6 @@
 * [`er3n3jnvoyj2t37yngvzr35b6f4ch5mgzl3i6qlkvyhzmaxo62nlqmqd.onion`](https://er3n3jnvoyj2t37yngvzr35b6f4ch5mgzl3i6qlkvyhzmaxo62nlqmqd.onion) [eotk?](https://er3n3jnvoyj2t37yngvzr35b6f4ch5mgzl3i6qlkvyhzmaxo62nlqmqd.onion/hello-onion/)
   * date=2022-08-05 not_before=2022-08-05 not_after=2023-08-05
   * **harica dv tls rsa**
-* `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* `*.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* [`facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`](https://facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion) [eotk?](https://facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion/hello-onion/)
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* `*.facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* [`facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion`](https://facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion) [eotk?](https://facebooksg4bc7ddneq44pf4miux7o7oqdn2agstg5v3d45odhyu4sqd.onion/hello-onion/)
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* [`facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`](https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) [eotk?](https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/hello-onion/)
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* `*.m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* `*.xx.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* `*.xy.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
-* `*.xz.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
-  * date=2022-08-03 not_before=2022-06-08 not_after=2022-09-05
-  * **digicert ecc extended validation server ca**
 * [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) [eotk?](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/hello-onion/)
   * date=2022-08-03 not_before=2022-08-01 not_after=2023-08-01
   * **harica dv tls rsa**
@@ -173,12 +203,6 @@
   * **harica dv tls ecc**
 * `*.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion`
   * date=2022-06-08 not_before=2022-06-08 not_after=2023-06-08
-  * **harica dv tls ecc**
-* [`currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion`](https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion) [eotk?](https://currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion/hello-onion/)
-  * date=2022-06-07 not_before=2022-06-07 not_after=2023-06-07
-  * **harica dv tls ecc**
-* `*.currtv242aqatxhyqfyh3mtq2ubzxz7crvj7aon3zccrnwatc5gugvqd.onion`
-  * date=2022-06-07 not_before=2022-06-07 not_after=2023-06-07
   * **harica dv tls ecc**
 * [`6wvybf7ub3xk5ow66wt7os3aovbzoo2eei6vjirvhvvkmqg4alnezzid.onion`](https://6wvybf7ub3xk5ow66wt7os3aovbzoo2eei6vjirvhvvkmqg4alnezzid.onion) [eotk?](https://6wvybf7ub3xk5ow66wt7os3aovbzoo2eei6vjirvhvvkmqg4alnezzid.onion/hello-onion/)
   * date=2022-06-07 not_before=2022-06-07 not_after=2023-06-07
@@ -798,6 +822,3 @@
 * [`thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion`](https://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion) [eotk?](https://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/hello-onion/)
   * date=2021-07-13 not_before=2021-07-12 not_after=2022-08-13
   * **harica ssl ecc subca r2**
-* [`d6dx2v2kh34q3mil3c774ozfa637czrrfwgevvpbujhbk5axyy7hoiqd.onion`](https://d6dx2v2kh34q3mil3c774ozfa637czrrfwgevvpbujhbk5axyy7hoiqd.onion) [eotk?](https://d6dx2v2kh34q3mil3c774ozfa637czrrfwgevvpbujhbk5axyy7hoiqd.onion/hello-onion/)
-  * date=2021-07-12 not_before=2021-07-12 not_after=2022-08-13
-  * **harica ssl rsa subca r3**
