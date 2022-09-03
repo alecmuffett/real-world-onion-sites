@@ -34,4 +34,4 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,Bloomberg Law,bloomberglaw.securedrop.tor.onion,http://33buewrpzrfpttl7kerqvtvzyo3ivumilwwmeqjryzajusltibaqc6ad.onion,https://news.bloomberglaw.com/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Center for Public Integrity,publicintegrity.securedrop.tor.onion,http://ahgpmkiaqfde4innkotgz5q6bgt4gbxmelqod3tjtmpdt3zvxaxareyd.onion,https://apps.publicintegrity.org/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Claudio Guarnieri,nex.securedrop.tor.onion,http://7dw7foypguycptlodmkscnziw5a65ilivzz6ajiei3yhe3gsfojlqwad.onion,https://nex.sx/securedrop/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,POLITICO,,http://mzi5yynpd6qqq3lnh7vnaojy36v3hcorytsut47zwkguhnorduyxwead.onion,https://www.politico.com/news-tips,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,POLITICO,politico.securedrop.tor.onion,http://mzi5yynpd6qqq3lnh7vnaojy36v3hcorytsut47zwkguhnorduyxwead.onion,https://www.politico.com/news-tips,via: https://securedrop.org/api/v1/directory/
