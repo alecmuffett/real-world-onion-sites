@@ -969,9 +969,6 @@
 * `*.test.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
   * date=2021-10-18 not_before=2021-10-18 not_after=2022-10-27
   * **digicert sha2 extended validation server ca**
-* [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion) [eotk?](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion/hello-onion/)
-  * date=2021-10-11 not_before=2021-09-23 not_after=2022-09-23
-  * **harica ssl rsa subca r3**
 * [`nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`](https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion) [eotk?](https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/hello-onion/)
   * date=2021-10-10 not_before=2021-09-27 not_after=2022-10-28
   * **digicert sha2 extended validation server ca**
