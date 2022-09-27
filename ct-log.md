@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) [eotk?](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/hello-onion/)
+  * date=2022-09-26 not_before=2022-09-26 not_after=2023-10-10
+  * **digicert sha2 extended validation server ca**
+* `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
+  * date=2022-09-26 not_before=2022-09-26 not_after=2023-10-10
+  * **digicert sha2 extended validation server ca**
 * `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
   * date=2022-09-25 not_before=2022-09-14 not_after=2023-09-14
   * **digicert ecc extended validation server ca**
@@ -891,12 +897,6 @@
 * [`einqofj2yahyzcw54u4fbd5bcwchhw25h4b4hlyhyz6uqmaodemyuoad.onion`](https://einqofj2yahyzcw54u4fbd5bcwchhw25h4b4hlyhyz6uqmaodemyuoad.onion) [eotk?](https://einqofj2yahyzcw54u4fbd5bcwchhw25h4b4hlyhyz6uqmaodemyuoad.onion/hello-onion/)
   * date=2021-10-25 not_before=2021-10-25 not_after=2022-10-25
   * **harica ssl rsa subca r3**
-* `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
-  * date=2021-10-20 not_before=2021-10-20 not_after=2022-10-08
-  * **digicert sha2 extended validation server ca**
-* [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) [eotk?](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/hello-onion/)
-  * date=2021-10-20 not_before=2021-10-20 not_after=2022-10-08
-  * **digicert sha2 extended validation server ca**
 * [`bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`](https://bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion) [eotk?](https://bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/hello-onion/)
   * date=2021-10-18 not_before=2021-10-18 not_after=2022-10-27
   * **digicert sha2 extended validation server ca**
