@@ -1,7 +1,7 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion`](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion) [eotk?](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion/hello-onion/)
-  * date=2022-09-28 not_before=2022-09-28 not_after=2023-09-24
+  * date=2022-09-29 not_before=2022-09-29 not_after=2023-09-29
   * **harica dv tls rsa**
 * `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
   * date=2022-09-26 not_before=2021-10-20 not_after=2022-10-08
@@ -987,6 +987,3 @@
 * `*.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
   * date=2021-10-10 not_before=2021-09-27 not_after=2022-10-28
   * **digicert sha2 extended validation server ca**
-* [`uapssoofphiqklth4vxab7wcfq4g3masx26vedxrzro2cv54chiqf4qd.onion`](https://uapssoofphiqklth4vxab7wcfq4g3masx26vedxrzro2cv54chiqf4qd.onion) [eotk?](https://uapssoofphiqklth4vxab7wcfq4g3masx26vedxrzro2cv54chiqf4qd.onion/hello-onion/)
-  * date=2021-10-10 not_before=2021-09-29 not_after=2022-09-29
-  * **harica ssl rsa subca r3**
