@@ -1,11 +1,17 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion`](https://theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion) [eotk?](https://theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion/hello-onion/)
+  * date=2022-10-10 not_before=2022-10-10 not_after=2023-10-10
+  * **harica dv tls ecc**
+* [`mirror.theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion`](https://mirror.theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion) [eotk?](https://mirror.theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion/hello-onion/)
+  * date=2022-10-10 not_before=2022-10-10 not_after=2023-10-10
+  * **harica dv tls ecc**
+* [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion) [eotk?](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion/hello-onion/)
+  * date=2022-10-08 not_before=2022-10-07 not_after=2023-10-07
+  * **harica dv tls rsa**
 * [`b3ttntbojgjyj54nbjrvcabqftyti5m6p6vebkqmwvbbxydvevkhp3ad.onion`](https://b3ttntbojgjyj54nbjrvcabqftyti5m6p6vebkqmwvbbxydvevkhp3ad.onion) [eotk?](https://b3ttntbojgjyj54nbjrvcabqftyti5m6p6vebkqmwvbbxydvevkhp3ad.onion/hello-onion/)
   * date=2022-10-08 not_before=2022-10-08 not_after=2023-10-08
   * **harica dv tls ecc**
-* [`cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion`](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion) [eotk?](https://cryptex3urinscfyyndm7wa4ghvzbqwkzsqdyb3icckpfxgnoxgi3jad.onion/hello-onion/)
-  * date=2022-10-07 not_before=2022-10-07 not_after=2023-10-07
-  * **harica dv tls rsa**
 * [`apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion`](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion) [eotk?](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion/hello-onion/)
   * date=2022-09-29 not_before=2022-09-29 not_after=2023-09-29
   * **harica dv tls rsa**
