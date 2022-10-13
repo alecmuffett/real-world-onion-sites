@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) [eotk?](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/hello-onion/)
+  * date=2022-10-13 not_before=2022-10-13 not_after=2023-10-09
+  * **digicert sha2 extended validation server ca**
+* `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
+  * date=2022-10-13 not_before=2022-10-13 not_after=2023-10-09
+  * **digicert sha2 extended validation server ca**
 * [`theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion`](https://theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion) [eotk?](https://theo546ggzbt3t5bnnv5eex6hkqtwkyulqlvzsggbni3xa7rnm4amhyd.onion/hello-onion/)
   * date=2022-10-10 not_before=2022-10-10 not_after=2023-10-10
   * **harica dv tls ecc**
@@ -15,12 +21,6 @@
 * [`apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion`](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion) [eotk?](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion/hello-onion/)
   * date=2022-09-29 not_before=2022-09-29 not_after=2023-09-29
   * **harica dv tls rsa**
-* [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) [eotk?](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/hello-onion/)
-  * date=2022-09-26 not_before=2022-09-26 not_after=2023-10-10
-  * **digicert sha2 extended validation server ca**
-* `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
-  * date=2022-09-26 not_before=2022-09-26 not_after=2023-10-10
-  * **digicert sha2 extended validation server ca**
 * `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
   * date=2022-09-25 not_before=2022-09-14 not_after=2023-09-14
   * **digicert ecc extended validation server ca**
