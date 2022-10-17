@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`botnetjoquyzkp5elvwet2nlqsn6u23tjm7ymtaxh6u7w4w67w45bfyd.onion`](https://botnetjoquyzkp5elvwet2nlqsn6u23tjm7ymtaxh6u7w4w67w45bfyd.onion) [eotk?](https://botnetjoquyzkp5elvwet2nlqsn6u23tjm7ymtaxh6u7w4w67w45bfyd.onion/hello-onion/)
+  * date=2022-10-16 not_before=2022-10-16 not_after=2023-10-16
+  * **harica dv tls ecc**
 * [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) [eotk?](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/hello-onion/)
   * date=2022-10-13 not_before=2022-10-13 not_after=2023-10-09
   * **digicert sha2 extended validation server ca**
