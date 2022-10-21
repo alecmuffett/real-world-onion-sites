@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion`](https://bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion) [eotk?](https://bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion/hello-onion/)
+  * date=2022-10-20 not_before=2022-10-20 not_after=2023-10-20
+  * **harica dv tls rsa**
+* [`bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion`](https://bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion) [eotk?](https://bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion/hello-onion/)
+  * date=2022-10-20 not_before=2022-10-20 not_after=2023-10-20
+  * **harica dv tls rsa**
 * [`bbcws3ufawi7rl6ow6e56vhvieeb7uox5pzcyd6x2eewhdrzhxfb35qd.onion`](https://bbcws3ufawi7rl6ow6e56vhvieeb7uox5pzcyd6x2eewhdrzhxfb35qd.onion) [eotk?](https://bbcws3ufawi7rl6ow6e56vhvieeb7uox5pzcyd6x2eewhdrzhxfb35qd.onion/hello-onion/)
   * date=2022-10-20 not_before=2022-10-20 not_after=2023-10-20
   * **harica dv tls rsa**
@@ -36,13 +42,7 @@
 * `*.bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion`
   * date=2022-10-20 not_before=2021-10-18 not_after=2022-10-27
   * **digicert sha2 extended validation server ca**
-* [`bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion`](https://bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion) [eotk?](https://bbcws4hduw34s7yjbw6zpujngyyijqj45dzx3fveweuuaiqolclmkgqd.onion/hello-onion/)
-  * date=2022-10-20 not_before=2021-10-18 not_after=2022-10-27
-  * **digicert sha2 extended validation server ca**
 * `*.bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion`
-  * date=2022-10-20 not_before=2021-10-18 not_after=2022-10-27
-  * **digicert sha2 extended validation server ca**
-* [`bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion`](https://bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion) [eotk?](https://bbcwwwpkgj5i6qyutwbxr3tnuhlws4p5qi47b6c6fyknfum33zm67xyd.onion/hello-onion/)
   * date=2022-10-20 not_before=2021-10-18 not_after=2022-10-27
   * **digicert sha2 extended validation server ca**
 * `*.bidi.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion`
