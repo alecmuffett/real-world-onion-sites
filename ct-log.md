@@ -609,12 +609,6 @@
 * `*.bellcatmbguthn3age23lrbseln2lryzv3mt7whis7ktjw4qrestbzad.onion`
   * date=2022-04-20 not_before=2022-04-20 not_after=2023-04-20
   * **harica ssl rsa subca r3**
-* [`yahoonewsnqkxo423g7vuwr2mvkwmc5t4df5x44dfdfvmyzqgcyt3had.onion`](https://yahoonewsnqkxo423g7vuwr2mvkwmc5t4df5x44dfdfvmyzqgcyt3had.onion) [eotk?](https://yahoonewsnqkxo423g7vuwr2mvkwmc5t4df5x44dfdfvmyzqgcyt3had.onion/hello-onion/)
-  * date=2022-04-19 not_before=2022-04-19 not_after=2022-10-21
-  * **digicert sha2 extended validation server ca**
-* `*.yahoonewsnqkxo423g7vuwr2mvkwmc5t4df5x44dfdfvmyzqgcyt3had.onion`
-  * date=2022-04-19 not_before=2022-04-19 not_after=2022-10-21
-  * **digicert sha2 extended validation server ca**
 * [`hi57djnqqswnrilbkfs4dssjwecoyry46lw63yfrp7ofuyzpynnfr2yd.onion`](https://hi57djnqqswnrilbkfs4dssjwecoyry46lw63yfrp7ofuyzpynnfr2yd.onion) [eotk?](https://hi57djnqqswnrilbkfs4dssjwecoyry46lw63yfrp7ofuyzpynnfr2yd.onion/hello-onion/)
   * date=2022-04-14 not_before=2022-04-14 not_after=2023-04-14
   * **harica ssl rsa subca r3**
