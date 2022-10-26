@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion`](https://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion) [eotk?](https://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/hello-onion/)
+  * date=2022-10-26 not_before=2022-09-12 not_after=2023-09-12
+  * **harica dv tls ecc**
+* `*.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion`
+  * date=2022-10-26 not_before=2022-09-12 not_after=2023-09-12
+  * **harica dv tls ecc**
 * [`gerkifrm6ga4yh6iivdijl6i5wjsvslgmxgauwpf4qldeyv5rmo55fid.onion`](https://gerkifrm6ga4yh6iivdijl6i5wjsvslgmxgauwpf4qldeyv5rmo55fid.onion) [eotk?](https://gerkifrm6ga4yh6iivdijl6i5wjsvslgmxgauwpf4qldeyv5rmo55fid.onion/hello-onion/)
   * date=2022-10-24 not_before=2022-10-24 not_after=2023-10-24
   * **harica dv tls rsa**
@@ -166,12 +172,6 @@
   * date=2022-09-12 not_before=2022-09-12 not_after=2023-09-12
   * **harica dv tls ecc**
 * [`thumbs.reddit4hkhcpcf2mkmuotdlk3gknuzcatsw4f7dx7twdkwmtrt6ax4qd.onion`](https://thumbs.reddit4hkhcpcf2mkmuotdlk3gknuzcatsw4f7dx7twdkwmtrt6ax4qd.onion) [eotk?](https://thumbs.reddit4hkhcpcf2mkmuotdlk3gknuzcatsw4f7dx7twdkwmtrt6ax4qd.onion/hello-onion/)
-  * date=2022-09-12 not_before=2022-09-12 not_after=2023-09-12
-  * **harica dv tls ecc**
-* [`reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion`](https://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion) [eotk?](https://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/hello-onion/)
-  * date=2022-09-12 not_before=2022-09-12 not_after=2023-09-12
-  * **harica dv tls ecc**
-* `*.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion`
   * date=2022-09-12 not_before=2022-09-12 not_after=2023-09-12
   * **harica dv tls ecc**
 * [`reddittic34i5gtjcnm2fb7fv2eyop4vbxquuc36prnbs7d2kp3saoqd.onion`](https://reddittic34i5gtjcnm2fb7fv2eyop4vbxquuc36prnbs7d2kp3saoqd.onion) [eotk?](https://reddittic34i5gtjcnm2fb7fv2eyop4vbxquuc36prnbs7d2kp3saoqd.onion/hello-onion/)
