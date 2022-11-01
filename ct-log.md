@@ -945,6 +945,3 @@
 * [`4freunde265k4te5axjcjyqeqduofuqorfjs7ux3v6dbhqpozf2d2kyd.onion`](https://4freunde265k4te5axjcjyqeqduofuqorfjs7ux3v6dbhqpozf2d2kyd.onion) [eotk?](https://4freunde265k4te5axjcjyqeqduofuqorfjs7ux3v6dbhqpozf2d2kyd.onion/hello-onion/)
   * date=2021-11-02 not_before=2021-10-13 not_after=2022-11-14
   * **harica ssl ecc subca r2**
-* [`freddytndqgcmlgxt3m67ik66envhvs6wtccnoij24a7hoh6vwovjxyd.onion`](https://freddytndqgcmlgxt3m67ik66envhvs6wtccnoij24a7hoh6vwovjxyd.onion) [eotk?](https://freddytndqgcmlgxt3m67ik66envhvs6wtccnoij24a7hoh6vwovjxyd.onion/hello-onion/)
-  * date=2021-11-01 not_before=2021-11-01 not_after=2022-11-01
-  * **harica ssl rsa subca r3**
