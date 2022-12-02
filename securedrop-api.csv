@@ -27,6 +27,7 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,CBC,cbcrc.securedrop.tor.onion,http://gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion,https://www.cbc.ca/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Al Jazeera Media Network,ajiunit.securedrop.tor.onion,http://jkta32w5gvk6pmqdfwj67psojot3l2iwoqbdvrvywi5bkudfeandq7id.onion,https://webapps.aljazeera.net/aje/tips/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,NOYB,noyb.securedrop.tor.onion,http://xjc4s5z26i2z5tzjzj3w6jwzuomedzsahq4tccktwdcs6fldt4ojznqd.onion,https://noyb.eu/en/securedrop,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,Forbes,,http://6zonlfhh7aqtfwoyvdlad3nxn6ljecx2k6tyyy3spt43nn54q6lvncid.onion,https://www.forbes.com/fdc/securedrop.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CNN,cnn.securedrop.tor.onion,http://qmifwf762qftydprw2adbg7hs2mkunac5xrz3cb5busaflji3rja5lid.onion,https://www.cnn.com/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Lessig.law LLC,lessig.securedrop.tor.onion,http://o4nhtigrvss5wktskr5ph5m22ewmhk7nr5at2tac2wdsworcqz62vsqd.onion,https://lessig.law/securedrop-info/,via: https://securedrop.org/api/v1/directory/
