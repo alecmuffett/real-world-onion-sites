@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion`](https://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion) [eotk?](https://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/hello-onion/)
+  * date=2022-12-12 not_before=2022-12-12 not_after=2023-12-12
+  * **harica dv tls rsa**
 * [`sawa6ewxbjpj2ljny6nct4po2qbpl435buxvv5sczfinybklzycjvvyd.onion`](https://sawa6ewxbjpj2ljny6nct4po2qbpl435buxvv5sczfinybklzycjvvyd.onion) [eotk?](https://sawa6ewxbjpj2ljny6nct4po2qbpl435buxvv5sczfinybklzycjvvyd.onion/hello-onion/)
   * date=2022-12-09 not_before=2022-12-09 not_after=2023-12-09
   * **harica dv tls ecc**
@@ -1134,9 +1137,6 @@
 * `*.ajaryxxssjqqpohhmbqbabxoy73cmx3cgxqhcinnigata6cnuh6pzaad.onion`
   * date=2022-01-03 not_before=2022-01-03 not_after=2023-01-03
   * **harica ssl ecc subca r2**
-* [`verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion`](https://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion) [eotk?](https://verified3vr2kdbnza6c3e5ak4z5xmtti4hx36dfg3kbi6pwekztvsqd.onion/hello-onion/)
-  * date=2022-01-03 not_before=2021-12-22 not_after=2022-12-22
-  * **harica ssl rsa subca r3**
 * [`purblodit2j753sog7vqmpwnoo5l6xpj6jemr3fg6xsyxwd2pwoh73id.onion`](https://purblodit2j753sog7vqmpwnoo5l6xpj6jemr3fg6xsyxwd2pwoh73id.onion) [eotk?](https://purblodit2j753sog7vqmpwnoo5l6xpj6jemr3fg6xsyxwd2pwoh73id.onion/hello-onion/)
   * date=2021-12-31 not_before=2021-12-31 not_after=2022-12-31
   * **harica ssl rsa subca r3**
