@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
+  * date=2022-12-14 not_before=2022-12-14 not_after=2023-12-13
+  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion`](https://alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion) [eotk?](https://alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion/hello-onion/)
   * date=2022-12-13 not_before=2022-12-13 not_after=2023-12-13
   * **harica dv tls ecc**
@@ -1089,9 +1092,6 @@
 * [`nandorls3ql5zipsvccxd57jtxwgee2u4raler6xag32s2iknhptnaqd.onion`](https://nandorls3ql5zipsvccxd57jtxwgee2u4raler6xag32s2iknhptnaqd.onion) [eotk?](https://nandorls3ql5zipsvccxd57jtxwgee2u4raler6xag32s2iknhptnaqd.onion/hello-onion/)
   * date=2022-02-25 not_before=2022-02-25 not_after=2023-02-25
   * **harica ssl ecc subca r2**
-* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
-  * date=2022-02-17 not_before=2022-02-07 not_after=2023-02-03
-  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion`](https://apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion) [eotk?](https://apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion/hello-onion/)
   * date=2022-02-15 not_before=2022-02-15 not_after=2023-02-15
   * **harica ssl rsa subca r3**
