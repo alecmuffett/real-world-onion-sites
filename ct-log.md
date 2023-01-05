@@ -1143,9 +1143,6 @@
 * `*.prod.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
   * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
   * **digicert tls hybrid ecc sha384 2020 ca1**
-* [`nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion`](https://nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion) [eotk?](https://nascosto45qzucs3anw74vipa6td2e7ryjr7k6w3klgbcjx4n4osymid.onion/hello-onion/)
-  * date=2022-01-15 not_before=2022-01-05 not_after=2023-01-05
-  * **harica ssl rsa subca r3**
 * [`meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion`](https://meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion) [eotk?](https://meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion/hello-onion/)
   * date=2022-01-15 not_before=2022-01-12 not_after=2023-01-12
   * **harica ssl ecc subca r2**
