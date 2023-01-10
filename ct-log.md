@@ -1044,9 +1044,6 @@
 * `*.radiosvcr452z5oklfrl5tgh7phn7vkekdppsxeit74veqff4pq4eoid.onion`
   * date=2022-03-05 not_before=2022-03-05 not_after=2023-03-05
   * **harica ssl rsa subca r3**
-* [`guild66haocmtmro4ouevwuqi3elffegtbjw3p4mxofv2soueucb5tad.onion`](https://guild66haocmtmro4ouevwuqi3elffegtbjw3p4mxofv2soueucb5tad.onion) [eotk?](https://guild66haocmtmro4ouevwuqi3elffegtbjw3p4mxofv2soueucb5tad.onion/hello-onion/)
-  * date=2022-03-05 not_before=2022-01-10 not_after=2023-01-10
-  * **harica ssl rsa subca r3**
 * [`www.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion`](https://www.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion) [eotk?](https://www.svabodmmmsdce3rmzoor5cw3byj6rqss4q6bh2yfhux2dbmobnpg5ead.onion/hello-onion/)
   * date=2022-03-04 not_before=2022-03-04 not_after=2023-03-04
   * **harica ssl rsa subca r3**
