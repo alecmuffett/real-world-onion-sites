@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion`](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion) [eotk?](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion/hello-onion/)
+  * date=2023-01-09 not_before=2023-01-09 not_after=2023-09-28
+  * **harica dv tls rsa**
 * [`meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion`](https://meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion) [eotk?](https://meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion/hello-onion/)
   * date=2023-01-07 not_before=2023-01-07 not_after=2024-01-07
   * **harica dv tls ecc**
@@ -327,9 +330,6 @@
 * [`b3ttntbojgjyj54nbjrvcabqftyti5m6p6vebkqmwvbbxydvevkhp3ad.onion`](https://b3ttntbojgjyj54nbjrvcabqftyti5m6p6vebkqmwvbbxydvevkhp3ad.onion) [eotk?](https://b3ttntbojgjyj54nbjrvcabqftyti5m6p6vebkqmwvbbxydvevkhp3ad.onion/hello-onion/)
   * date=2022-10-08 not_before=2022-10-08 not_after=2023-10-08
   * **harica dv tls ecc**
-* [`apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion`](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion) [eotk?](https://apocado5gnjciibhax7p7oy5pvswcgeo2txg4yg4bvrpox5sjtcv4zid.onion/hello-onion/)
-  * date=2022-09-29 not_before=2022-09-29 not_after=2023-09-29
-  * **harica dv tls rsa**
 * `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
   * date=2022-09-25 not_before=2022-09-14 not_after=2023-09-14
   * **digicert ecc extended validation server ca**
