@@ -1,6 +1,12 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion`](https://meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion) [eotk?](https://meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion/hello-onion/)
+  * date=2023-01-20 not_before=2023-01-20 not_after=2024-01-07
+  * **harica dv tls ecc**
 * [`tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion`](https://tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion) [eotk?](https://tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion/hello-onion/)
+  * date=2023-01-19 not_before=2023-01-19 not_after=2024-01-19
+  * **harica dv tls rsa**
+* `*.tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion`
   * date=2023-01-19 not_before=2023-01-19 not_after=2024-01-19
   * **harica dv tls rsa**
 * [`dawnorg2dwjuwubz3bqjt5755v4zyhv75lysu4l6hglqsov4pdg3gqid.onion`](https://dawnorg2dwjuwubz3bqjt5755v4zyhv75lysu4l6hglqsov4pdg3gqid.onion) [eotk?](https://dawnorg2dwjuwubz3bqjt5755v4zyhv75lysu4l6hglqsov4pdg3gqid.onion/hello-onion/)
@@ -13,9 +19,6 @@
   * date=2023-01-09 not_before=2023-01-09 not_after=2023-09-28
   * **harica dv tls rsa**
 * [`meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion`](https://meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion) [eotk?](https://meowfilejtwcbwy7wcfc2iv7upxdwjp7wke3dv6z2szyqjhj7k5gnsad.onion/hello-onion/)
-  * date=2023-01-07 not_before=2023-01-07 not_after=2024-01-07
-  * **harica dv tls ecc**
-* [`meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion`](https://meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion) [eotk?](https://meowcloudetfm5wnr366vlmswk7p5tvvc2tzjpsqtpfg4hmg2pskcpad.onion/hello-onion/)
   * date=2023-01-07 not_before=2023-01-07 not_after=2024-01-07
   * **harica dv tls ecc**
 * [`ovjko4movxzmv63vx3nkz5hiz535mxl5arewz4gxpdwxxjjfkvebywad.onion`](https://ovjko4movxzmv63vx3nkz5hiz535mxl5arewz4gxpdwxxjjfkvebywad.onion) [eotk?](https://ovjko4movxzmv63vx3nkz5hiz535mxl5arewz4gxpdwxxjjfkvebywad.onion/hello-onion/)
