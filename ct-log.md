@@ -1161,9 +1161,6 @@
 * [`5hdtqsljimbr4p4hxq4vgzdovqvntfo6z5o7wh6ar4an7mglo66d5eqd.onion`](https://5hdtqsljimbr4p4hxq4vgzdovqvntfo6z5o7wh6ar4an7mglo66d5eqd.onion) [eotk?](https://5hdtqsljimbr4p4hxq4vgzdovqvntfo6z5o7wh6ar4an7mglo66d5eqd.onion/hello-onion/)
   * date=2022-02-14 not_before=2022-02-14 not_after=2023-02-14
   * **harica ssl rsa subca r3**
-* [`romainmanwes26bh6qgqkkymyclmzqtn5n75yuka7v2d5wtxhpkjtcqd.onion`](https://romainmanwes26bh6qgqkkymyclmzqtn5n75yuka7v2d5wtxhpkjtcqd.onion) [eotk?](https://romainmanwes26bh6qgqkkymyclmzqtn5n75yuka7v2d5wtxhpkjtcqd.onion/hello-onion/)
-  * date=2022-02-11 not_before=2022-02-11 not_after=2023-02-11
-  * **harica ssl rsa subca r3**
 * [`majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion`](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion) [eotk?](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/hello-onion/)
   * date=2022-02-04 not_before=2022-02-03 not_after=2023-03-06
   * **digicert sha2 extended validation server ca**
