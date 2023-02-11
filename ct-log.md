@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion) [eotk?](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/hello-onion/)
+  * date=2023-02-10 not_before=2023-02-10 not_after=2024-03-12
+  * **digicert sha2 extended validation server ca**
 * [`deepm3ujzs3tjiencf5d74psc6xvhcsh27b6hn5bznzee2w7tult3jad.onion`](https://deepm3ujzs3tjiencf5d74psc6xvhcsh27b6hn5bznzee2w7tult3jad.onion) [eotk?](https://deepm3ujzs3tjiencf5d74psc6xvhcsh27b6hn5bznzee2w7tult3jad.onion/hello-onion/)
   * date=2023-02-08 not_before=2023-02-08 not_after=2024-02-08
   * **harica dv tls rsa**
@@ -1166,9 +1169,6 @@
   * **digicert sha2 extended validation server ca**
 * [`www.majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion`](https://www.majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion) [eotk?](https://www.majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/hello-onion/)
   * date=2022-02-04 not_before=2022-02-03 not_after=2023-03-06
-  * **digicert sha2 extended validation server ca**
-* [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion) [eotk?](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/hello-onion/)
-  * date=2022-01-26 not_before=2022-01-25 not_after=2023-02-25
   * **digicert sha2 extended validation server ca**
 * [`27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion) [eotk?](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion/hello-onion/)
   * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
