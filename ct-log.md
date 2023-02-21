@@ -1,7 +1,7 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion`](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion) [eotk?](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/hello-onion/)
-  * date=2023-02-20 not_before=2023-02-20 not_after=2024-02-20
+  * date=2023-02-21 not_before=2023-02-20 not_after=2024-02-20
   * **harica dv tls rsa**
 * [`apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion`](https://apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion) [eotk?](https://apsyourf2yekmpj2yaj2j6mlnbryozex5vtjd4evzen2pr2wuspiytad.onion/hello-onion/)
   * date=2023-02-17 not_before=2023-02-15 not_after=2024-02-15
