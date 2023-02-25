@@ -1152,12 +1152,3 @@
 * [`www.majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion`](https://www.majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion) [eotk?](https://www.majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/hello-onion/)
   * date=2022-02-04 not_before=2022-02-03 not_after=2023-03-06
   * **digicert sha2 extended validation server ca**
-* [`27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion) [eotk?](https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion/hello-onion/)
-  * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
-  * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
-  * **digicert tls hybrid ecc sha384 2020 ca1**
-* `*.prod.27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion`
-  * date=2022-01-24 not_before=2022-01-24 not_after=2023-02-24
-  * **digicert tls hybrid ecc sha384 2020 ca1**
