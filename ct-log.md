@@ -1,11 +1,17 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`da52bph273xvhgpd4bucn7znsflupwbzfqh4xiaxzkkwl6u6h47xysyd.onion`](https://da52bph273xvhgpd4bucn7znsflupwbzfqh4xiaxzkkwl6u6h47xysyd.onion) [eotk?](https://da52bph273xvhgpd4bucn7znsflupwbzfqh4xiaxzkkwl6u6h47xysyd.onion/hello-onion/)
+  * date=2023-02-26 not_before=2023-02-26 not_after=2024-02-26
+  * **harica dv tls rsa**
+* [`tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion`](https://tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion) [eotk?](https://tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion/hello-onion/)
+  * date=2023-02-25 not_before=2023-02-23 not_after=2024-02-23
+  * **harica dv tls rsa**
+* [`patrickmm44tngdyixczq4gvccy2kjyignpfwjx6ryovvf6svopezeyd.onion`](https://patrickmm44tngdyixczq4gvccy2kjyignpfwjx6ryovvf6svopezeyd.onion) [eotk?](https://patrickmm44tngdyixczq4gvccy2kjyignpfwjx6ryovvf6svopezeyd.onion/hello-onion/)
+  * date=2023-02-25 not_before=2023-02-25 not_after=2024-02-25
+  * **harica dv tls rsa**
 * [`ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion`](https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion) [eotk?](https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/hello-onion/)
   * date=2023-02-23 not_before=2023-02-23 not_after=2024-02-23
   * **harica dv tls ecc**
-* [`tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion`](https://tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion) [eotk?](https://tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion/hello-onion/)
-  * date=2023-02-23 not_before=2023-02-23 not_after=2024-02-23
-  * **harica dv tls rsa**
 * [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion) [eotk?](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/hello-onion/)
   * date=2023-02-22 not_before=2023-02-10 not_after=2024-03-12
   * **digicert sha2 extended validation server ca**
