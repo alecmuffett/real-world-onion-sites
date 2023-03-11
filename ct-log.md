@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion`](https://u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion) [eotk?](https://u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion/hello-onion/)
+  * date=2023-03-10 not_before=2022-11-21 not_after=2023-11-21
+  * **commercié extended validation server ca**
+* [`share.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion`](https://share.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion) [eotk?](https://share.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion/hello-onion/)
+  * date=2023-03-10 not_before=2022-11-21 not_after=2023-11-21
+  * **commercié extended validation server ca**
+* [`www.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion`](https://www.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion) [eotk?](https://www.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion/hello-onion/)
+  * date=2023-03-10 not_before=2022-11-21 not_after=2023-11-21
+  * **commercié extended validation server ca**
 * [`krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion`](https://krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion) [eotk?](https://krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion/hello-onion/)
   * date=2023-03-08 not_before=2023-03-08 not_after=2024-03-07
   * **harica dv tls ecc**
