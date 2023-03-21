@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion`](https://monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion) [eotk?](https://monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion/hello-onion/)
+  * date=2023-03-20 not_before=2023-03-20 not_after=2024-03-19
+  * **harica dv tls rsa**
 * `*.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion`
   * date=2023-03-20 not_before=2023-03-20 not_after=2023-05-22
   * **digicert ecc extended validation server ca**
