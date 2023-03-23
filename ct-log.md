@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`5yl6j7al5iwjn3kltayvumj5d25agnq4t6rznkvphossoqyzb3batwid.onion`](https://5yl6j7al5iwjn3kltayvumj5d25agnq4t6rznkvphossoqyzb3batwid.onion) [eotk?](https://5yl6j7al5iwjn3kltayvumj5d25agnq4t6rznkvphossoqyzb3batwid.onion/hello-onion/)
+  * date=2023-03-21 not_before=2023-03-21 not_after=2024-03-20
+  * **harica dv tls ecc**
+* [`y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion`](https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion) [eotk?](https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion/hello-onion/)
+  * date=2023-03-21 not_before=2023-03-21 not_after=2024-03-20
+  * **harica dv tls ecc**
 * [`monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion`](https://monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion) [eotk?](https://monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion/hello-onion/)
   * date=2023-03-20 not_before=2023-03-20 not_after=2024-03-19
   * **harica dv tls rsa**
