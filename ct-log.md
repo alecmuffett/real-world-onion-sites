@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion`](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion) [eotk?](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion/hello-onion/)
+  * date=2023-03-23 not_before=2023-03-23 not_after=2024-03-22
+  * **harica dv tls ecc**
 * [`5yl6j7al5iwjn3kltayvumj5d25agnq4t6rznkvphossoqyzb3batwid.onion`](https://5yl6j7al5iwjn3kltayvumj5d25agnq4t6rznkvphossoqyzb3batwid.onion) [eotk?](https://5yl6j7al5iwjn3kltayvumj5d25agnq4t6rznkvphossoqyzb3batwid.onion/hello-onion/)
   * date=2023-03-21 not_before=2023-03-21 not_after=2024-03-20
   * **harica dv tls ecc**
@@ -870,9 +873,6 @@
 * `*.darivoaw7yax3xqupowgqshowtkunw3xhwtwz7pxhwdtlur47jzawzad.onion`
   * date=2022-08-12 not_before=2022-08-10 not_after=2023-08-10
   * **harica dv tls ecc**
-* [`4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion`](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion) [eotk?](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion/hello-onion/)
-  * date=2022-08-11 not_before=2022-08-11 not_after=2023-08-11
-  * **harica dv tls ecc**
 * [`rtuyjoxwxxfdzhtrignwbr7acdlnu5m4gwfqvhkywmnflkajcpjwnhyd.onion`](https://rtuyjoxwxxfdzhtrignwbr7acdlnu5m4gwfqvhkywmnflkajcpjwnhyd.onion) [eotk?](https://rtuyjoxwxxfdzhtrignwbr7acdlnu5m4gwfqvhkywmnflkajcpjwnhyd.onion/hello-onion/)
   * date=2022-08-06 not_before=2022-08-06 not_after=2023-08-06
   * **harica dv tls rsa**
@@ -1095,9 +1095,6 @@
 * `*.hongio267dx4o2ofkn4ddsztu4ok2vq4euc7sxumbi7kcfd64ije62ad.onion`
   * date=2022-03-25 not_before=2022-03-25 not_after=2023-03-25
   * **harica ssl ecc subca r2**
-* [`torfind3qw6agxnmmkt53ns34rfnzgg4z6uewqf5fpgtov55r6nigvid.onion`](https://torfind3qw6agxnmmkt53ns34rfnzgg4z6uewqf5fpgtov55r6nigvid.onion) [eotk?](https://torfind3qw6agxnmmkt53ns34rfnzgg4z6uewqf5fpgtov55r6nigvid.onion/hello-onion/)
-  * date=2022-03-24 not_before=2022-03-23 not_after=2023-03-23
-  * **harica ssl rsa subca r3**
 * [`digicihme5l3lc3ziclrn4fkfmzxhuqrpmrrrwkxgg3bx27r4u2mc6yd.onion`](https://digicihme5l3lc3ziclrn4fkfmzxhuqrpmrrrwkxgg3bx27r4u2mc6yd.onion) [eotk?](https://digicihme5l3lc3ziclrn4fkfmzxhuqrpmrrrwkxgg3bx27r4u2mc6yd.onion/hello-onion/)
   * date=2022-03-09 not_before=2022-03-09 not_after=2023-04-09
   * **digicert sha2 extended validation server ca**
