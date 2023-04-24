@@ -1,7 +1,7 @@
 flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,The Globe and Mail,theglobeandmail.securedrop.tor.onion,http://a4zum5ydurvljrohxqp2rjjal5kro4ge2q2qizuonf2jubkhcr627gad.onion,https://sec.theglobeandmail.com/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CBC,cbcrc.securedrop.tor.onion,http://gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion,https://www.cbc.ca/securedrop,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,K-Tipp,,http://tukldpfzdizsrfyvdljnipmvix2dcb5hmfoemcidkw7bq56wxblk6did.onion,https://www.ktipp.ch/investigativbox,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,K-Tipp,ktipp.securedrop.tor.onion,http://tukldpfzdizsrfyvdljnipmvix2dcb5hmfoemcidkw7bq56wxblk6did.onion,https://www.ktipp.ch/investigativbox,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,ABC,abc.au.securedrop.tor.onion,http://dqa4zahticcobfq5rmmmbewbdtyiznbl75hu23k4i37y7yfoosrh7mqd.onion,https://www.abc.net.au/news/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,POLITICO,politico.securedrop.tor.onion,http://mzi5yynpd6qqq3lnh7vnaojy36v3hcorytsut47zwkguhnorduyxwead.onion,https://www.politico.com/news-tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,2600: The Hacker Quarterly,2600.securedrop.tor.onion,http://cy6wj77vryhcyh6go576hxycjz4wxlo4s5vevdinkw3armwzty5jozyd.onion,https://www.2600.com/securedrop,via: https://securedrop.org/api/v1/directory/
@@ -32,7 +32,6 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,CNN,cnn.securedrop.tor.onion,http://qmifwf762qftydprw2adbg7hs2mkunac5xrz3cb5busaflji3rja5lid.onion,https://www.cnn.com/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Lessig.law LLC,lessig.securedrop.tor.onion,http://o4nhtigrvss5wktskr5ph5m22ewmhk7nr5at2tac2wdsworcqz62vsqd.onion,https://lessig.law/securedrop-info/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Thomson Reuters,reuters.securedrop.tor.onion,http://dvvbik7vtmvwwgj2cziqa36noa26l2pweghd26e5l5qwdnqtwmfhz5id.onion,https://www.reuters.com/investigates/special-report/tips/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Forbes,forbes.securedrop.tor.onion,http://6zonlfhh7aqtfwoyvdlad3nxn6ljecx2k6tyyy3spt43nn54q6lvncid.onion,https://www.forbes.com/fdc/securedrop.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Center for Public Integrity,publicintegrity.securedrop.tor.onion,http://ahgpmkiaqfde4innkotgz5q6bgt4gbxmelqod3tjtmpdt3zvxaxareyd.onion,https://apps.publicintegrity.org/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Bloomberg Industry Group,bloombergindustrygroup.securedrop.tor.onion,http://33buewrpzrfpttl7kerqvtvzyo3ivumilwwmeqjryzajusltibaqc6ad.onion,https://news.bloomberglaw.com/tips,via: https://securedrop.org/api/v1/directory/

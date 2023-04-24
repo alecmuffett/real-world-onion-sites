@@ -4,7 +4,7 @@ log="log-$now.txt"
 csv="master.csv"
 exe="./rwos-db.py"
 
-exec </dev/null 2>$log 1>&2
+#exec </dev/null 2>$log 1>&2
 
 case "x$1" in
     x-n) dofetch=false ;;
