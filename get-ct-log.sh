@@ -2,7 +2,7 @@
 
 log=ct-log.md
 tf=/tmp/ctget$$.txt
-sanity=amuffettdexn6r5s4lt45b6mlrgmsmo56szaaighyjurp4ccuj63zkad
+sanity=facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd
 
 (
     echo "# Onion Certificate Transparency Log"
