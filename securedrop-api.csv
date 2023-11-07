@@ -1,6 +1,6 @@
 flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,The Globe and Mail,theglobeandmail.securedrop.tor.onion,http://a4zum5ydurvljrohxqp2rjjal5kro4ge2q2qizuonf2jubkhcr627gad.onion,https://sec.theglobeandmail.com/securedrop/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Disclose,,http://3tcbrdg2ejwu5nzbjg7xqixkis6mdbgkkthcyxmzv2q3oi6v7th5ahqd.onion,https://disclose.ngo/,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,Disclose,disclose.securedrop.tor.onion,http://3tcbrdg2ejwu5nzbjg7xqixkis6mdbgkkthcyxmzv2q3oi6v7th5ahqd.onion,https://disclose.ngo/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CBC,cbcrc.securedrop.tor.onion,http://gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion,https://www.cbc.ca/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Taz,taz.securedrop.tor.onion,http://tazleakssvtc2lqrhkpvbzo6qwolcldzkzoexo7wombufd6a573bhlid.onion,https://taz.de/investigativ,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,ABC,abc.au.securedrop.tor.onion,http://dqa4zahticcobfq5rmmmbewbdtyiznbl75hu23k4i37y7yfoosrh7mqd.onion,https://www.abc.net.au/news/securedrop/,via: https://securedrop.org/api/v1/directory/
