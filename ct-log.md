@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
+  * date=2023-11-15 not_before=2023-11-15 not_after=2024-12-13
+  * **digicert ev rsa ca g2**
 * [`y7pr44dbl64jnz2zgyedadl3ubnhj5zpyc3e4eeacvtgosfrqvjsbwid.onion`](https://y7pr44dbl64jnz2zgyedadl3ubnhj5zpyc3e4eeacvtgosfrqvjsbwid.onion) [eotk?](https://y7pr44dbl64jnz2zgyedadl3ubnhj5zpyc3e4eeacvtgosfrqvjsbwid.onion/hello-onion/)
   * date=2023-11-12 not_before=2023-11-12 not_after=2024-02-10
   * **as207960 onion ca**
@@ -1068,9 +1071,6 @@
 * [`vz6dm5ii7ofdm3k4rgiygi2zmo4tgaacnlem533iqka4fcjdprpbfuid.onion`](https://vz6dm5ii7ofdm3k4rgiygi2zmo4tgaacnlem533iqka4fcjdprpbfuid.onion) [eotk?](https://vz6dm5ii7ofdm3k4rgiygi2zmo4tgaacnlem533iqka4fcjdprpbfuid.onion/hello-onion/)
   * date=2023-01-03 not_before=2023-01-03 not_after=2024-01-03
   * **harica dv tls rsa**
-* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
-  * date=2022-12-30 not_before=2022-12-14 not_after=2023-12-13
-  * **digicert tls hybrid ecc sha384 2020 ca1**
 * [`alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion`](https://alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion) [eotk?](https://alhurradmzetclrmc32ljtoo3vcmh3zq7fyzhjz3edhsl6uihwy5trid.onion/hello-onion/)
   * date=2022-12-22 not_before=2022-12-22 not_after=2023-12-22
   * **harica dv tls ecc**
