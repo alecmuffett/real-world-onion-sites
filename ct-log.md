@@ -939,15 +939,6 @@
 * [`dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion`](https://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion) [eotk?](https://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/hello-onion/)
   * date=2023-03-12 not_before=2023-03-12 not_after=2024-03-11
   * **harica dv tls rsa**
-* [`u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion`](https://u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion) [eotk?](https://u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion/hello-onion/)
-  * date=2023-03-10 not_before=2022-11-21 not_after=2023-11-21
-  * **commercié extended validation server ca**
-* [`share.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion`](https://share.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion) [eotk?](https://share.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion/hello-onion/)
-  * date=2023-03-10 not_before=2022-11-21 not_after=2023-11-21
-  * **commercié extended validation server ca**
-* [`www.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion`](https://www.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion) [eotk?](https://www.u74pbihtaghdqr72qqswmdj7hohkzxvzgbbw3is6nbhugurobatqrcid.onion/hello-onion/)
-  * date=2023-03-10 not_before=2022-11-21 not_after=2023-11-21
-  * **commercié extended validation server ca**
 * [`krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion`](https://krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion) [eotk?](https://krymr37vzmjc3lzijeokiaaa5scwqdveyeljh6eri4aqjqhkviv446id.onion/hello-onion/)
   * date=2023-03-08 not_before=2023-03-08 not_after=2024-03-07
   * **harica dv tls ecc**
@@ -1100,7 +1091,4 @@
   * **harica dv tls rsa**
 * [`fyn4vnpqskx52agcwgsjjttwwqjs3zj5cyystwf52x7eeul7efu43wqd.onion`](https://fyn4vnpqskx52agcwgsjjttwwqjs3zj5cyystwf52x7eeul7efu43wqd.onion) [eotk?](https://fyn4vnpqskx52agcwgsjjttwwqjs3zj5cyystwf52x7eeul7efu43wqd.onion/hello-onion/)
   * date=2022-11-25 not_before=2022-11-25 not_after=2023-11-25
-  * **harica dv tls rsa**
-* [`easydexsp7aoxkhprub5fczuf6pwfnymeddohlid4qf7y5t5snuq5qad.onion`](https://easydexsp7aoxkhprub5fczuf6pwfnymeddohlid4qf7y5t5snuq5qad.onion) [eotk?](https://easydexsp7aoxkhprub5fczuf6pwfnymeddohlid4qf7y5t5snuq5qad.onion/hello-onion/)
-  * date=2022-11-21 not_before=2022-11-21 not_after=2023-11-21
   * **harica dv tls rsa**
