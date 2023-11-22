@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`acs2f4f24ikg2lrq7geeqhm67vwqkjhcxmnn2h7g3ja3vi75ms3kkoqd.onion`](https://acs2f4f24ikg2lrq7geeqhm67vwqkjhcxmnn2h7g3ja3vi75ms3kkoqd.onion) [eotk?](https://acs2f4f24ikg2lrq7geeqhm67vwqkjhcxmnn2h7g3ja3vi75ms3kkoqd.onion/hello-onion/)
+  * date=2023-11-22 not_before=2023-11-22 not_after=2024-02-20
+  * **as207960 onion ca**
 * [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
   * date=2023-11-17 not_before=2023-11-15 not_after=2024-12-13
   * **digicert ev rsa ca g2**
