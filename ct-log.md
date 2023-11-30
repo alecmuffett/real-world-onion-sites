@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`iasj3nie5vz4irtsrasniyajaeyddgdrqg36kukae5icprqixybsc5qd.onion`](https://iasj3nie5vz4irtsrasniyajaeyddgdrqg36kukae5icprqixybsc5qd.onion) [eotk?](https://iasj3nie5vz4irtsrasniyajaeyddgdrqg36kukae5icprqixybsc5qd.onion/hello-onion/)
+  * date=2023-11-30 not_before=2023-11-30 not_after=2024-02-28
+  * **as207960 onion ca**
 * [`7yukf6ywvlndbqifznzqcij457hn42br6bmdhtmlbgcgsxbgdw6ebnid.onion`](https://7yukf6ywvlndbqifznzqcij457hn42br6bmdhtmlbgcgsxbgdw6ebnid.onion) [eotk?](https://7yukf6ywvlndbqifznzqcij457hn42br6bmdhtmlbgcgsxbgdw6ebnid.onion/hello-onion/)
   * date=2023-11-30 not_before=2023-11-30 not_after=2024-02-28
   * **as207960 onion ca**
