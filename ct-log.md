@@ -1240,11 +1240,8 @@
   * date=2023-01-14 not_before=2023-01-14 not_after=2024-01-14
   * **harica dv tls rsa**
 * [`ovjko4movxzmv63vx3nkz5hiz535mxl5arewz4gxpdwxxjjfkvebywad.onion`](https://ovjko4movxzmv63vx3nkz5hiz535mxl5arewz4gxpdwxxjjfkvebywad.onion) [eotk?](https://ovjko4movxzmv63vx3nkz5hiz535mxl5arewz4gxpdwxxjjfkvebywad.onion/hello-onion/)
-  * date=2023-01-05 not_before=2023-01-05 not_after=2024-01-03
+  * date=2023-01-04 not_before=2023-01-04 not_after=2024-01-04
   * **harica dv tls rsa**
 * [`5g3fslsfalzibxbfgwjlnucdpq7xkqscdkpj3efdkkdre477pd5gzwad.onion`](https://5g3fslsfalzibxbfgwjlnucdpq7xkqscdkpj3efdkkdre477pd5gzwad.onion) [eotk?](https://5g3fslsfalzibxbfgwjlnucdpq7xkqscdkpj3efdkkdre477pd5gzwad.onion/hello-onion/)
   * date=2023-01-04 not_before=2023-01-04 not_after=2024-01-04
-  * **harica dv tls rsa**
-* [`vz6dm5ii7ofdm3k4rgiygi2zmo4tgaacnlem533iqka4fcjdprpbfuid.onion`](https://vz6dm5ii7ofdm3k4rgiygi2zmo4tgaacnlem533iqka4fcjdprpbfuid.onion) [eotk?](https://vz6dm5ii7ofdm3k4rgiygi2zmo4tgaacnlem533iqka4fcjdprpbfuid.onion/hello-onion/)
-  * date=2023-01-03 not_before=2023-01-03 not_after=2024-01-03
   * **harica dv tls rsa**
