@@ -1,10 +1,10 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion`](https://votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion) [eotk?](https://votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion/hello-onion/)
-  * date=2024-01-09 not_before=2024-01-09 not_after=2025-01-08
+  * date=2024-01-10 not_before=2024-01-09 not_after=2025-01-08
   * **harica dv tls ecc**
 * `*.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion`
-  * date=2024-01-09 not_before=2024-01-09 not_after=2025-01-08
+  * date=2024-01-10 not_before=2024-01-09 not_after=2025-01-08
   * **harica dv tls ecc**
 * [`iejideks5zu2v3zuthaxu5zz6m5o2j7vmbd24wh6dnuiyl7c6rfkcryd.onion`](https://iejideks5zu2v3zuthaxu5zz6m5o2j7vmbd24wh6dnuiyl7c6rfkcryd.onion) [eotk?](https://iejideks5zu2v3zuthaxu5zz6m5o2j7vmbd24wh6dnuiyl7c6rfkcryd.onion/hello-onion/)
   * date=2024-01-08 not_before=2024-01-08 not_after=2025-01-07
