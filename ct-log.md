@@ -459,9 +459,6 @@
 * `*.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`
   * date=2023-10-22 not_before=2023-10-22 not_after=2024-09-20
   * **harica dv tls rsa**
-* [`obamxtwqfmmnewuyybjdc4nxdingfg5dsqnftcudkxsmwsfck2dah6qd.onion`](https://obamxtwqfmmnewuyybjdc4nxdingfg5dsqnftcudkxsmwsfck2dah6qd.onion) [eotk?](https://obamxtwqfmmnewuyybjdc4nxdingfg5dsqnftcudkxsmwsfck2dah6qd.onion/hello-onion/)
-  * date=2023-10-21 not_before=2023-10-21 not_after=2024-01-19
-  * **as207960 onion ca**
 * [`cryptexomc2m4cn5a6g356eucvrkvfak2nvuzvxdvq7tdsebazssgvqd.onion`](https://cryptexomc2m4cn5a6g356eucvrkvfak2nvuzvxdvq7tdsebazssgvqd.onion) [eotk?](https://cryptexomc2m4cn5a6g356eucvrkvfak2nvuzvxdvq7tdsebazssgvqd.onion/hello-onion/)
   * date=2023-10-20 not_before=2023-10-17 not_after=2024-10-16
   * **harica dv tls rsa**
