@@ -1293,6 +1293,3 @@
 * [`hav5iqh2valuossluig72bxxskthn7irs4vtkure3xrrqc6glqmv4eid.onion`](https://hav5iqh2valuossluig72bxxskthn7irs4vtkure3xrrqc6glqmv4eid.onion) [eotk?](https://hav5iqh2valuossluig72bxxskthn7irs4vtkure3xrrqc6glqmv4eid.onion/hello-onion/)
   * date=2023-01-30 not_before=2023-01-30 not_after=2024-01-30
   * **harica dv tls rsa**
-* `*.tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion`
-  * date=2023-01-19 not_before=2023-01-19 not_after=2024-01-19
-  * **harica dv tls rsa**
