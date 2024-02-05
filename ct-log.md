@@ -387,9 +387,6 @@
 * `*.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
   * date=2023-11-10 not_before=2023-11-08 not_after=2024-12-08
   * **digicert sha2 extended validation server ca**
-* [`prxoqhsnlrflpolr3ohu32fdh6x4arjkwonnm5hbfous3lv5dlwiu4ad.onion`](https://prxoqhsnlrflpolr3ohu32fdh6x4arjkwonnm5hbfous3lv5dlwiu4ad.onion) [eotk?](https://prxoqhsnlrflpolr3ohu32fdh6x4arjkwonnm5hbfous3lv5dlwiu4ad.onion/hello-onion/)
-  * date=2023-11-06 not_before=2023-11-06 not_after=2024-02-04
-  * **as207960 onion ca**
 * [`azja4xiveqyglbdhkfnadt7ltpgbe5ahksilddjqij6flk5htgx7ngyd.onion`](https://azja4xiveqyglbdhkfnadt7ltpgbe5ahksilddjqij6flk5htgx7ngyd.onion) [eotk?](https://azja4xiveqyglbdhkfnadt7ltpgbe5ahksilddjqij6flk5htgx7ngyd.onion/hello-onion/)
   * date=2023-11-06 not_before=2023-11-06 not_after=2024-11-05
   * **harica dv tls rsa**
