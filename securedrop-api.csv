@@ -3,7 +3,7 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,Disclose,disclose.securedrop.tor.onion,http://3tcbrdg2ejwu5nzbjg7xqixkis6mdbgkkthcyxmzv2q3oi6v7th5ahqd.onion,https://disclose.ngo/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CBC,cbcrc.securedrop.tor.onion,http://gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion,https://www.cbc.ca/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,DR - Danish Broadcasting Corporation,,http://hpaauqmv2wegiu4cz6st6hty4s7gwqol272xhcu3xmh6azw2f2zffgid.onion,https://www.dr.dk/tipos,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Der Spiegel,,http://q6vdlj2ukulrqk37piqgxucpcwtxzdjhvjzqrfbevuhrzimsgjltmpqd.onion,https://www.spiegel.de/extra/so-nehmen-informanten-sicheren-kontakt-zum-spiegel-auf-a-1030502.html,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,Der Spiegel,spiegel.securedrop.tor.onion,http://q6vdlj2ukulrqk37piqgxucpcwtxzdjhvjzqrfbevuhrzimsgjltmpqd.onion,https://www.spiegel.de/extra/so-nehmen-informanten-sicheren-kontakt-zum-spiegel-auf-a-1030502.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Taz,taz.securedrop.tor.onion,http://tazleakssvtc2lqrhkpvbzo6qwolcldzkzoexo7wombufd6a573bhlid.onion,https://taz.de/investigativ,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,POLITICO,politico.securedrop.tor.onion,http://mzi5yynpd6qqq3lnh7vnaojy36v3hcorytsut47zwkguhnorduyxwead.onion,https://www.politico.com/news-tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,2600: The Hacker Quarterly,2600.securedrop.tor.onion,http://cy6wj77vryhcyh6go576hxycjz4wxlo4s5vevdinkw3armwzty5jozyd.onion,https://www.2600.com/securedrop,via: https://securedrop.org/api/v1/directory/
@@ -22,7 +22,7 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,Aftonbladet,aftonbladet.securedrop.tor.onion,http://xm33ge4kupk5o66eqxcd2r4fqcplpqb2sbdduf5z2nw4g2jrxe57luid.onion,https://www.aftonbladet.se/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,NRK,nrk.securedrop.tor.onion,http://537ztcntpbmspja4mkpxldpsoc46mqlssnsaklqnfw3gnlpj5glcjgid.onion,https://www.nrk.no/varsle/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Washington Post,washingtonpost.securedrop.tor.onion,http://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion,https://www.washingtonpost.com/securedrop,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Dagbladet,,http://ydbpz5knb6ji3bdtahhm3wo7sed6lsy5vqnwfpnhpez4bquvoexbz7qd.onion,https://www.dagbladet.no/securedrop/,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,Dagbladet,dagbladet.securedrop.tor.onion,http://ydbpz5knb6ji3bdtahhm3wo7sed6lsy5vqnwfpnhpez4bquvoexbz7qd.onion,https://www.dagbladet.no/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Intercept,theintercept.securedrop.tor.onion,http://lhollo6vzrft3w77mgm67fhfv3fjadmf7oinmafa7tbmupc273oi7kid.onion,https://theintercept.com/source/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Süddeutsche Zeitung,,http://udhauo3m3fh7v6yfiuornjzxn3fh6vlp4ooo3wogvghcnv5xik6mnayd.onion,https://www.sueddeutsche.de/projekte/kontakt/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,TechCrunch,techcrunch.securedrop.tor.onion,http://vplxle7awnyvvvduv6exnwrxbf4gzsh7lv7fxosnfl2ecidkttcbfcqd.onion,https://techcrunch.com/securedrop,via: https://securedrop.org/api/v1/directory/
