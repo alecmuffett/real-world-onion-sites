@@ -1332,9 +1332,6 @@
 * [`monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion`](https://monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion) [eotk?](https://monero63ceaeox2epzgwkjcxbmyrmjbxzyiacv6hjt6ovfdaxzeyn4yd.onion/hello-onion/)
   * date=2023-03-20 not_before=2023-03-20 not_after=2024-03-19
   * **harica dv tls rsa**
-* [`majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion`](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion) [eotk?](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/hello-onion/)
-  * date=2023-03-16 not_before=2023-03-07 not_after=2024-03-06
-  * **harica dv tls rsa**
 * [`vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion) [eotk?](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion/hello-onion/)
   * date=2023-03-16 not_before=2023-03-16 not_after=2024-03-25
   * **digicert ev rsa ca g2**
