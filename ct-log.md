@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion`](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion) [eotk?](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/hello-onion/)
+  * date=2024-03-08 not_before=2024-03-08 not_after=2025-03-08
+  * **harica dv tls rsa**
 * [`dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion`](https://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion) [eotk?](https://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/hello-onion/)
   * date=2024-03-07 not_before=2024-03-07 not_after=2025-03-07
   * **harica dv tls rsa**
@@ -483,12 +486,6 @@
 * [`56xxm6pudorwb736x5fj7jgyhhvlyryerhv33y7llhywu2kaa6uvrpid.onion`](https://56xxm6pudorwb736x5fj7jgyhhvlyryerhv33y7llhywu2kaa6uvrpid.onion) [eotk?](https://56xxm6pudorwb736x5fj7jgyhhvlyryerhv33y7llhywu2kaa6uvrpid.onion/hello-onion/)
   * date=2023-12-10 not_before=2023-12-10 not_after=2024-12-09
   * **harica dv tls rsa**
-* [`3gtmv262hxvizabo7tdslkuq74gvsyshyl6e46nixd52p4kknjtbmlad.onion`](https://3gtmv262hxvizabo7tdslkuq74gvsyshyl6e46nixd52p4kknjtbmlad.onion) [eotk?](https://3gtmv262hxvizabo7tdslkuq74gvsyshyl6e46nixd52p4kknjtbmlad.onion/hello-onion/)
-  * date=2023-12-10 not_before=2023-12-10 not_after=2024-03-09
-  * **as207960 onion ca**
-* [`rfhec3s55dl4rzfu4qk4i25nc7r3dzgiha5mzxfc6y4vbz6d3o3dpzyd.onion`](https://rfhec3s55dl4rzfu4qk4i25nc7r3dzgiha5mzxfc6y4vbz6d3o3dpzyd.onion) [eotk?](https://rfhec3s55dl4rzfu4qk4i25nc7r3dzgiha5mzxfc6y4vbz6d3o3dpzyd.onion/hello-onion/)
-  * date=2023-12-10 not_before=2023-12-10 not_after=2024-03-09
-  * **as207960 onion ca**
 * [`7hvq24kct57hy3oy6loz7lhvgnujbrptvyugu3sqtgjh7uqmtyugfuyd.onion`](https://7hvq24kct57hy3oy6loz7lhvgnujbrptvyugu3sqtgjh7uqmtyugfuyd.onion) [eotk?](https://7hvq24kct57hy3oy6loz7lhvgnujbrptvyugu3sqtgjh7uqmtyugfuyd.onion/hello-onion/)
   * date=2023-12-09 not_before=2023-12-09 not_after=2024-12-08
   * **harica dv tls rsa**
