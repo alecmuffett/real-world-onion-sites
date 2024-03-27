@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion) [eotk?](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion/hello-onion/)
+  * date=2024-03-27 not_before=2024-03-26 not_after=2025-03-25
+  * **digicert ev rsa ca g2**
 * [`guardssstzfya367cs4k6xlcwok2kop6altkrrr7js4hqqgioa4x54id.onion`](https://guardssstzfya367cs4k6xlcwok2kop6altkrrr7js4hqqgioa4x54id.onion) [eotk?](https://guardssstzfya367cs4k6xlcwok2kop6altkrrr7js4hqqgioa4x54id.onion/hello-onion/)
   * date=2024-03-24 not_before=2024-03-24 not_after=2025-03-24
   * **harica dv tls rsa**
