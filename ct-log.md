@@ -1296,6 +1296,3 @@
 * [`exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion`](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion) [eotk?](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/hello-onion/)
   * date=2023-04-10 not_before=2023-04-10 not_after=2024-04-09
   * **harica dv tls rsa**
-* [`darkthoavngphqlo6tne3dtghradahfmsdtjfcvrf7efwxkvg7ily6ad.onion`](https://darkthoavngphqlo6tne3dtghradahfmsdtjfcvrf7efwxkvg7ily6ad.onion) [eotk?](https://darkthoavngphqlo6tne3dtghradahfmsdtjfcvrf7efwxkvg7ily6ad.onion/hello-onion/)
-  * date=2023-04-04 not_before=2023-04-04 not_after=2024-04-03
-  * **harica dv tls rsa**
