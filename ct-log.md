@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion) [eotk?](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion/hello-onion/)
+  * date=2024-04-25 not_before=2024-04-25 not_after=2025-04-01
+  * **harica dv tls ecc**
+* [`xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion`](https://xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion) [eotk?](https://xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion/hello-onion/)
+  * date=2024-04-25 not_before=2024-04-25 not_after=2025-04-25
+  * **harica dv tls rsa**
+* [`4ilvgtc46d7dtfv22cxtk7iwad2a5ovda7szu2jk4zyqibpalpwfqbyd.onion`](https://4ilvgtc46d7dtfv22cxtk7iwad2a5ovda7szu2jk4zyqibpalpwfqbyd.onion) [eotk?](https://4ilvgtc46d7dtfv22cxtk7iwad2a5ovda7szu2jk4zyqibpalpwfqbyd.onion/hello-onion/)
+  * date=2024-04-25 not_before=2024-04-25 not_after=2025-04-25
+  * **harica dv tls rsa**
 * [`4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion`](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion) [eotk?](https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion/hello-onion/)
   * date=2024-04-17 not_before=2024-03-20 not_after=2025-03-20
   * **harica dv tls ecc**
@@ -1287,9 +1296,6 @@
 * [`mega555z55kha5b6xirgqjwraog6dxz2dy3qs7octadkoo5bauepiqad.onion`](https://mega555z55kha5b6xirgqjwraog6dxz2dy3qs7octadkoo5bauepiqad.onion) [eotk?](https://mega555z55kha5b6xirgqjwraog6dxz2dy3qs7octadkoo5bauepiqad.onion/hello-onion/)
   * date=2023-05-02 not_before=2023-05-02 not_after=2024-05-01
   * **harica dv tls rsa**
-* [`sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion) [eotk?](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion/hello-onion/)
-  * date=2023-04-30 not_before=2023-04-30 not_after=2024-04-29
-  * **harica dv tls ecc**
 * [`secim23thchavtjik2ljsfxvyixsg5tshcm6rb5pa3464llyt5zt4aid.onion`](https://secim23thchavtjik2ljsfxvyixsg5tshcm6rb5pa3464llyt5zt4aid.onion) [eotk?](https://secim23thchavtjik2ljsfxvyixsg5tshcm6rb5pa3464llyt5zt4aid.onion/hello-onion/)
   * date=2023-04-30 not_before=2023-04-30 not_after=2024-04-29
   * **harica dv tls rsa**
