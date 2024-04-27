@@ -1,7 +1,7 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`xenium43uadlpfl5twjlb5jnkibb6zqhygh4tfj736fearbtjj7wduid.onion`](https://xenium43uadlpfl5twjlb5jnkibb6zqhygh4tfj736fearbtjj7wduid.onion) [eotk?](https://xenium43uadlpfl5twjlb5jnkibb6zqhygh4tfj736fearbtjj7wduid.onion/hello-onion/)
-  * date=2024-04-26 not_before=2024-04-26 not_after=2025-04-26
+  * date=2024-04-27 not_before=2024-04-27 not_after=2025-04-26
   * **harica dv tls rsa**
 * [`sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion) [eotk?](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion/hello-onion/)
   * date=2024-04-25 not_before=2024-04-25 not_after=2025-04-01
