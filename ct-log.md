@@ -1,13 +1,13 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
-* [`hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion`](https://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion) [eotk?](https://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion/hello-onion/)
-  * date=2024-05-08 not_before=2024-04-01 not_after=2025-04-01
-  * **harica dv tls rsa**
 * [`kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion`](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion) [eotk?](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/hello-onion/)
-  * date=2024-05-08 not_before=2024-05-08 not_after=2025-05-08
+  * date=2024-05-10 not_before=2024-05-08 not_after=2025-05-08
   * **harica dv tls rsa**
 * `*.kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion`
-  * date=2024-05-08 not_before=2024-05-08 not_after=2025-05-08
+  * date=2024-05-10 not_before=2024-05-08 not_after=2025-05-08
+  * **harica dv tls rsa**
+* [`hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion`](https://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion) [eotk?](https://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion/hello-onion/)
+  * date=2024-05-08 not_before=2024-04-01 not_after=2025-04-01
   * **harica dv tls rsa**
 * [`n6qq7qxje4w7if74kl6rikkpbqz5kbjkr267on6uzpd2qbpgp6cay2ad.onion`](https://n6qq7qxje4w7if74kl6rikkpbqz5kbjkr267on6uzpd2qbpgp6cay2ad.onion) [eotk?](https://n6qq7qxje4w7if74kl6rikkpbqz5kbjkr267on6uzpd2qbpgp6cay2ad.onion/hello-onion/)
   * date=2024-05-06 not_before=2024-05-06 not_after=2025-05-06
