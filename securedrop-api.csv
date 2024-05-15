@@ -17,7 +17,6 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,Public Intelligence,,http://z4gd5t2g6u6kqeqjeddvmvlhhjtjgslg4elh4ztnct7snskcd7phbiyd.onion,https://publicintelligence.net/contribute/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,New York Times,nytimes.securedrop.tor.onion,http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion,https://www.nytimes.com/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Guardian,theguardian.securedrop.tor.onion,http://xp44cagis447k3lpb4wwhcqukix6cgqokbuys24vmxmbzmaq2gjvc2yd.onion,https://www.theguardian.com/securedrop,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Apache,apache.securedrop.tor.onion,http://okd7utbak43lm7qaixr6yv7s62e32mhngjsfpjn26eklokqofg6776yd.onion,https://www.apache.be/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Aftonbladet,aftonbladet.securedrop.tor.onion,http://xm33ge4kupk5o66eqxcd2r4fqcplpqb2sbdduf5z2nw4g2jrxe57luid.onion,https://www.aftonbladet.se/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,NRK,nrk.securedrop.tor.onion,http://537ztcntpbmspja4mkpxldpsoc46mqlssnsaklqnfw3gnlpj5glcjgid.onion,https://www.nrk.no/varsle/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Washington Post,washingtonpost.securedrop.tor.onion,http://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion,https://www.washingtonpost.com/securedrop,via: https://securedrop.org/api/v1/directory/
