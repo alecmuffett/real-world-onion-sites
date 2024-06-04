@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`cizzuk3nqztjrgov2yybzttfcqczil5ebx74clwtmwoeugr5cktiutad.onion`](https://cizzuk3nqztjrgov2yybzttfcqczil5ebx74clwtmwoeugr5cktiutad.onion) [eotk?](https://cizzuk3nqztjrgov2yybzttfcqczil5ebx74clwtmwoeugr5cktiutad.onion/hello-onion/)
+  * date=2024-06-04 not_before=2024-06-04 not_after=2025-06-04
+  * **harica dv tls rsa**
+* [`citadel7vatdzgduq4g75nuf3q4omjmijlzauohw3kb6dht4hp3dryid.onion`](https://citadel7vatdzgduq4g75nuf3q4omjmijlzauohw3kb6dht4hp3dryid.onion) [eotk?](https://citadel7vatdzgduq4g75nuf3q4omjmijlzauohw3kb6dht4hp3dryid.onion/hello-onion/)
+  * date=2024-06-03 not_before=2024-06-03 not_after=2025-06-03
+  * **harica dv tls rsa**
+* [`crm.citadel7vatdzgduq4g75nuf3q4omjmijlzauohw3kb6dht4hp3dryid.onion`](https://crm.citadel7vatdzgduq4g75nuf3q4omjmijlzauohw3kb6dht4hp3dryid.onion) [eotk?](https://crm.citadel7vatdzgduq4g75nuf3q4omjmijlzauohw3kb6dht4hp3dryid.onion/hello-onion/)
+  * date=2024-06-03 not_before=2024-06-03 not_after=2025-06-03
+  * **harica dv tls rsa**
 * [`voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion`](https://voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion) [eotk?](https://voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion/hello-onion/)
   * date=2024-06-03 not_before=2024-05-14 not_after=2025-05-14
   * **harica dv tls ecc**
@@ -1278,6 +1287,3 @@
 * [`whtrosxnmcq42kdejdbyscndyiop4bp67hxdbisqz7xfe5omkzago5qd.onion`](https://whtrosxnmcq42kdejdbyscndyiop4bp67hxdbisqz7xfe5omkzago5qd.onion) [eotk?](https://whtrosxnmcq42kdejdbyscndyiop4bp67hxdbisqz7xfe5omkzago5qd.onion/hello-onion/)
   * date=2023-06-07 not_before=2023-06-07 not_after=2024-06-06
   * **harica dv tls rsa**
-* [`tweedge32j4ib2hrj57l676twj2rwedkkkbr57xcz5z73vpkolws6vid.onion`](https://tweedge32j4ib2hrj57l676twj2rwedkkkbr57xcz5z73vpkolws6vid.onion) [eotk?](https://tweedge32j4ib2hrj57l676twj2rwedkkkbr57xcz5z73vpkolws6vid.onion/hello-onion/)
-  * date=2023-06-04 not_before=2023-06-04 not_after=2024-06-03
-  * **harica dv tls ecc**
