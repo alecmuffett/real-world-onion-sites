@@ -1,7 +1,7 @@
 flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,The Globe and Mail,theglobeandmail.securedrop.tor.onion,http://a4zum5ydurvljrohxqp2rjjal5kro4ge2q2qizuonf2jubkhcr627gad.onion,https://sec.theglobeandmail.com/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Disclose,disclose.securedrop.tor.onion,http://3tcbrdg2ejwu5nzbjg7xqixkis6mdbgkkthcyxmzv2q3oi6v7th5ahqd.onion,https://disclose.ngo/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Greekleaks,,http://http://jatasaqcoe7lqdpcyxo7vl3e5tdvl5jgmtadfat77i25qdj6z6a4ulad.onion,https://reportersunited.gr/greekleaks/,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,Greekleaks,greekleaks.securedrop.tor.onion,http://jatasaqcoe7lqdpcyxo7vl3e5tdvl5jgmtadfat77i25qdj6z6a4ulad.onion,https://reportersunited.gr/greekleaks/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CBC,cbcrc.securedrop.tor.onion,http://gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion,https://www.cbc.ca/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,DR - Danish Broadcasting Corporation,,http://hpaauqmv2wegiu4cz6st6hty4s7gwqol272xhcu3xmh6azw2f2zffgid.onion,https://www.dr.dk/tipos,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Der Spiegel,spiegel.securedrop.tor.onion,http://q6vdlj2ukulrqk37piqgxucpcwtxzdjhvjzqrfbevuhrzimsgjltmpqd.onion,https://www.spiegel.de/extra/so-nehmen-informanten-sicheren-kontakt-zum-spiegel-auf-a-1030502.html,via: https://securedrop.org/api/v1/directory/
