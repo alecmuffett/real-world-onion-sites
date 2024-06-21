@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`nicevpsvzo5o6mtvvdiurhkemnv7335f74tjk42rseoj7zdnqy44mnqd.onion`](https://nicevpsvzo5o6mtvvdiurhkemnv7335f74tjk42rseoj7zdnqy44mnqd.onion) [eotk?](https://nicevpsvzo5o6mtvvdiurhkemnv7335f74tjk42rseoj7zdnqy44mnqd.onion/hello-onion/)
+  * date=2024-06-21 not_before=2024-06-21 not_after=2025-06-21
+  * **harica dv tls rsa**
 * [`xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion`](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion) [eotk?](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion/hello-onion/)
   * date=2024-06-20 not_before=2024-06-20 not_after=2025-06-20
   * **harica dv tls ecc**
@@ -1300,5 +1303,5 @@
   * date=2023-07-04 not_before=2023-07-04 not_after=2024-07-03
   * **harica dv tls ecc**
 * [`nicevpsb7u3vqpo5zhyahmvfi5tihon4gnh676ucmzpcyxwodeztr4yd.onion`](https://nicevpsb7u3vqpo5zhyahmvfi5tihon4gnh676ucmzpcyxwodeztr4yd.onion) [eotk?](https://nicevpsb7u3vqpo5zhyahmvfi5tihon4gnh676ucmzpcyxwodeztr4yd.onion/hello-onion/)
-  * date=2023-06-25 not_before=2023-06-25 not_after=2024-06-21
+  * date=2023-06-25 not_before=2023-06-25 not_after=2024-06-24
   * **harica dv tls ecc**
