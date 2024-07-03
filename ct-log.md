@@ -1305,9 +1305,3 @@
 * [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) [eotk?](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/hello-onion/)
   * date=2023-07-22 not_before=2023-07-18 not_after=2024-07-17
   * **harica dv tls rsa**
-* [`sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion`](https://sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion) [eotk?](https://sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion/hello-onion/)
-  * date=2023-07-04 not_before=2023-07-04 not_after=2024-07-03
-  * **harica dv tls ecc**
-* `*.sesic3wy3ursfzn7odbol5ddurz2kr3rbfvgnowhwbaefjahzwwsycqd.onion`
-  * date=2023-07-04 not_before=2023-07-04 not_after=2024-07-03
-  * **harica dv tls ecc**
