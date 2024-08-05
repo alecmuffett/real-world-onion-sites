@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion) [eotk?](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion/hello-onion/)
+  * date=2024-08-05 not_before=2024-08-05 not_after=2025-08-05
+  * **harica dv tls ecc**
+* `*.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`
+  * date=2024-08-05 not_before=2024-08-05 not_after=2025-08-05
+  * **harica dv tls ecc**
 * [`ryeuakwwcrvoqmy36wrpn23n4gcm3pkv6eqvmm4edqsc4cr6e57rhpid.onion`](https://ryeuakwwcrvoqmy36wrpn23n4gcm3pkv6eqvmm4edqsc4cr6e57rhpid.onion) [eotk?](https://ryeuakwwcrvoqmy36wrpn23n4gcm3pkv6eqvmm4edqsc4cr6e57rhpid.onion/hello-onion/)
   * date=2024-08-04 not_before=2024-08-04 not_after=2024-11-02
   * **as207960 onion ca**
@@ -1287,12 +1293,6 @@
 * [`tw25msfhw5vxvt3lgjy7cthaum44wqp5vxlzxt3onaolvykodzudp5id.onion`](https://tw25msfhw5vxvt3lgjy7cthaum44wqp5vxlzxt3onaolvykodzudp5id.onion) [eotk?](https://tw25msfhw5vxvt3lgjy7cthaum44wqp5vxlzxt3onaolvykodzudp5id.onion/hello-onion/)
   * date=2023-08-17 not_before=2023-08-17 not_after=2024-08-16
   * **harica dv tls rsa**
-* [`voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion) [eotk?](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion/hello-onion/)
-  * date=2023-08-10 not_before=2023-08-10 not_after=2024-08-09
-  * **harica dv tls ecc**
-* `*.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`
-  * date=2023-08-10 not_before=2023-08-10 not_after=2024-08-09
-  * **harica dv tls ecc**
 * [`vxemae5nujorg6hicdba5dzz6kxooler5e5wffd4hymrqd26yapc4oqd.onion`](https://vxemae5nujorg6hicdba5dzz6kxooler5e5wffd4hymrqd26yapc4oqd.onion) [eotk?](https://vxemae5nujorg6hicdba5dzz6kxooler5e5wffd4hymrqd26yapc4oqd.onion/hello-onion/)
   * date=2023-07-28 not_before=2023-07-28 not_after=2024-08-27
   * **digicert ev rsa ca g2**
