@@ -1296,6 +1296,3 @@
 * [`lgmekfnpealdqhnctyg3p5fuelpdwnbqbwnl2ickpdoodzatzgz27ryd.onion`](https://lgmekfnpealdqhnctyg3p5fuelpdwnbqbwnl2ickpdoodzatzgz27ryd.onion) [eotk?](https://lgmekfnpealdqhnctyg3p5fuelpdwnbqbwnl2ickpdoodzatzgz27ryd.onion/hello-onion/)
   * date=2023-09-05 not_before=2023-09-05 not_after=2024-09-04
   * **harica dv tls rsa**
-* [`vxemae5nujorg6hicdba5dzz6kxooler5e5wffd4hymrqd26yapc4oqd.onion`](https://vxemae5nujorg6hicdba5dzz6kxooler5e5wffd4hymrqd26yapc4oqd.onion) [eotk?](https://vxemae5nujorg6hicdba5dzz6kxooler5e5wffd4hymrqd26yapc4oqd.onion/hello-onion/)
-  * date=2023-07-28 not_before=2023-07-28 not_after=2024-08-27
-  * **digicert ev rsa ca g2**
