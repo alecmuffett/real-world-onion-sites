@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion) [eotk?](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion/hello-onion/)
+  * date=2024-09-09 not_before=2024-09-09 not_after=2025-09-09
+  * **harica dv tls rsa**
+* `*.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`
+  * date=2024-09-09 not_before=2024-09-09 not_after=2025-09-09
+  * **harica dv tls rsa**
 * [`vhosh2g7o4w42xm3li6tsn32pgbpln2vwvgmsohrwattsauleycvslad.onion`](https://vhosh2g7o4w42xm3li6tsn32pgbpln2vwvgmsohrwattsauleycvslad.onion) [eotk?](https://vhosh2g7o4w42xm3li6tsn32pgbpln2vwvgmsohrwattsauleycvslad.onion/hello-onion/)
   * date=2024-09-08 not_before=2024-09-07 not_after=2025-09-07
   * **harica dv tls rsa**
@@ -1203,12 +1209,6 @@
 * [`i6vjja5ceth2wiv62tw2wj7hqhbd7yy6ja65c7nvgllzlbkblzr4g2yd.onion`](https://i6vjja5ceth2wiv62tw2wj7hqhbd7yy6ja65c7nvgllzlbkblzr4g2yd.onion) [eotk?](https://i6vjja5ceth2wiv62tw2wj7hqhbd7yy6ja65c7nvgllzlbkblzr4g2yd.onion/hello-onion/)
   * date=2023-10-22 not_before=2023-09-13 not_after=2024-09-12
   * **harica dv tls ecc**
-* [`amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion) [eotk?](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion/hello-onion/)
-  * date=2023-10-22 not_before=2023-10-22 not_after=2024-09-20
-  * **harica dv tls rsa**
-* `*.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`
-  * date=2023-10-22 not_before=2023-10-22 not_after=2024-09-20
-  * **harica dv tls rsa**
 * [`cryptexomc2m4cn5a6g356eucvrkvfak2nvuzvxdvq7tdsebazssgvqd.onion`](https://cryptexomc2m4cn5a6g356eucvrkvfak2nvuzvxdvq7tdsebazssgvqd.onion) [eotk?](https://cryptexomc2m4cn5a6g356eucvrkvfak2nvuzvxdvq7tdsebazssgvqd.onion/hello-onion/)
   * date=2023-10-20 not_before=2023-10-17 not_after=2024-10-16
   * **harica dv tls rsa**
