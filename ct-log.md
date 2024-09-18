@@ -1,7 +1,10 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion`](https://zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion) [eotk?](https://zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion/hello-onion/)
+  * date=2024-09-18 not_before=2024-09-07 not_after=2025-09-07
+  * **harica dv tls ecc**
 * [`hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion`](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion) [eotk?](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/hello-onion/)
-  * date=2024-09-15 not_before=2024-09-15 not_after=2025-09-15
+  * date=2024-09-18 not_before=2024-09-15 not_after=2025-09-15
   * **harica dv tls rsa**
 * [`amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion) [eotk?](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion/hello-onion/)
   * date=2024-09-09 not_before=2024-09-09 not_after=2025-09-09
@@ -24,9 +27,6 @@
 * [`medmanukbmbgu43fdkxgf32crjq3kufisbd7ku6tjg6z7npbcaf2qxid.onion`](https://medmanukbmbgu43fdkxgf32crjq3kufisbd7ku6tjg6z7npbcaf2qxid.onion) [eotk?](https://medmanukbmbgu43fdkxgf32crjq3kufisbd7ku6tjg6z7npbcaf2qxid.onion/hello-onion/)
   * date=2024-09-08 not_before=2024-09-06 not_after=2025-09-06
   * **harica dv tls rsa**
-* [`zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion`](https://zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion) [eotk?](https://zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion/hello-onion/)
-  * date=2024-09-07 not_before=2024-09-07 not_after=2025-09-07
-  * **harica dv tls ecc**
 * [`b6cvs7zch6cv5ybptzflqn3qea44vpwf6ypvoewrneb7nnx72ou2drid.onion`](https://b6cvs7zch6cv5ybptzflqn3qea44vpwf6ypvoewrneb7nnx72ou2drid.onion) [eotk?](https://b6cvs7zch6cv5ybptzflqn3qea44vpwf6ypvoewrneb7nnx72ou2drid.onion/hello-onion/)
   * date=2024-09-07 not_before=2024-09-07 not_after=2025-09-07
   * **harica dv tls ecc**
