@@ -1,16 +1,16 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion) [eotk?](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion/hello-onion/)
+  * date=2024-09-19 not_before=2024-09-09 not_after=2025-09-09
+  * **harica dv tls rsa**
+* `*.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`
+  * date=2024-09-19 not_before=2024-09-09 not_after=2025-09-09
+  * **harica dv tls rsa**
 * [`zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion`](https://zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion) [eotk?](https://zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion/hello-onion/)
   * date=2024-09-18 not_before=2024-09-07 not_after=2025-09-07
   * **harica dv tls ecc**
 * [`hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion`](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion) [eotk?](https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/hello-onion/)
   * date=2024-09-18 not_before=2024-09-15 not_after=2025-09-15
-  * **harica dv tls rsa**
-* [`amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion) [eotk?](https://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion/hello-onion/)
-  * date=2024-09-09 not_before=2024-09-09 not_after=2025-09-09
-  * **harica dv tls rsa**
-* `*.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`
-  * date=2024-09-09 not_before=2024-09-09 not_after=2025-09-09
   * **harica dv tls rsa**
 * [`vhosh2g7o4w42xm3li6tsn32pgbpln2vwvgmsohrwattsauleycvslad.onion`](https://vhosh2g7o4w42xm3li6tsn32pgbpln2vwvgmsohrwattsauleycvslad.onion) [eotk?](https://vhosh2g7o4w42xm3li6tsn32pgbpln2vwvgmsohrwattsauleycvslad.onion/hello-onion/)
   * date=2024-09-08 not_before=2024-09-07 not_after=2025-09-07
