@@ -1296,6 +1296,3 @@
 * `*.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
   * date=2023-09-25 not_before=2023-09-21 not_after=2024-10-21
   * **digicert ev rsa ca g2**
-* [`bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion`](https://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion) [eotk?](https://bidenjxwb7khlh3djrmi6zkkmggiuoh6cnxll7my7uk25ohe27pcfryd.onion/hello-onion/)
-  * date=2023-09-20 not_before=2023-09-19 not_after=2024-09-18
-  * **harica dv tls rsa**
