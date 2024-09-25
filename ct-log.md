@@ -1293,9 +1293,6 @@
 * [`7tqcwnjwds7ejkbh3c23xt2dcdr4sc2mro4el5rf3upeojw6vvcy42id.onion`](https://7tqcwnjwds7ejkbh3c23xt2dcdr4sc2mro4el5rf3upeojw6vvcy42id.onion) [eotk?](https://7tqcwnjwds7ejkbh3c23xt2dcdr4sc2mro4el5rf3upeojw6vvcy42id.onion/hello-onion/)
   * date=2023-10-16 not_before=2023-10-16 not_after=2024-10-15
   * **harica dv tls rsa**
-* [`dzn6bvottqpommypocwdyx57nnwv5kneeca7uq7wjhwrobgpbqv36jyd.onion`](https://dzn6bvottqpommypocwdyx57nnwv5kneeca7uq7wjhwrobgpbqv36jyd.onion) [eotk?](https://dzn6bvottqpommypocwdyx57nnwv5kneeca7uq7wjhwrobgpbqv36jyd.onion/hello-onion/)
-  * date=2023-09-26 not_before=2023-09-26 not_after=2024-09-25
-  * **harica dv tls ecc**
 * [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) [eotk?](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/hello-onion/)
   * date=2023-09-25 not_before=2023-09-21 not_after=2024-10-21
   * **digicert ev rsa ca g2**
