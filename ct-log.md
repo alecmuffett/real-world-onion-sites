@@ -1,7 +1,10 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`3fy6sk5ettqw3ogy6epta4pnq76xrjue372yabxlewt3b2nhkvfjkqad.onion`](https://3fy6sk5ettqw3ogy6epta4pnq76xrjue372yabxlewt3b2nhkvfjkqad.onion) [eotk?](https://3fy6sk5ettqw3ogy6epta4pnq76xrjue372yabxlewt3b2nhkvfjkqad.onion/hello-onion/)
+  * date=2024-11-03 not_before=2024-11-03 not_after=2025-02-01
+  * **as207960 onion ca**
 * [`3vynrelomm3k43lqhetkztg2o25eif4hrppodo225gqhvglxv3bc7jqd.onion`](https://3vynrelomm3k43lqhetkztg2o25eif4hrppodo225gqhvglxv3bc7jqd.onion) [eotk?](https://3vynrelomm3k43lqhetkztg2o25eif4hrppodo225gqhvglxv3bc7jqd.onion/hello-onion/)
-  * date=2024-11-02 not_before=2024-11-02 not_after=2025-11-02
+  * date=2024-11-03 not_before=2024-11-02 not_after=2025-11-02
   * **harica dv tls ecc**
 * [`judah7qoebor3tgndfomqzhnblam5lp47yvzlke6wd477dku6bgydlqd.onion`](https://judah7qoebor3tgndfomqzhnblam5lp47yvzlke6wd477dku6bgydlqd.onion) [eotk?](https://judah7qoebor3tgndfomqzhnblam5lp47yvzlke6wd477dku6bgydlqd.onion/hello-onion/)
   * date=2024-11-01 not_before=2024-10-31 not_after=2025-10-25
