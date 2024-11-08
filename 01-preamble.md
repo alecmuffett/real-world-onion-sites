@@ -1,7 +1,5 @@
 # [Real-World Onion Sites](#index)
 
-Note: database fully reset, 7 june 2023; expect occasional outages and tweaks as it is brought up to date.
-
 This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 
 - no sites with an "onion-only" presence
