@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`l5svcux42k3jimbbp6azvaesqoh4bcexuzy3pg74sobv5ip36o4lg5yd.onion`](https://l5svcux42k3jimbbp6azvaesqoh4bcexuzy3pg74sobv5ip36o4lg5yd.onion) [eotk?](https://l5svcux42k3jimbbp6azvaesqoh4bcexuzy3pg74sobv5ip36o4lg5yd.onion/hello-onion/)
+  * date=2024-11-19 not_before=2024-11-19 not_after=2025-02-17
+  * **as207960 onion ca**
 * [`cizzuk3nqztjrgov2yybzttfcqczil5ebx74clwtmwoeugr5cktiutad.onion`](https://cizzuk3nqztjrgov2yybzttfcqczil5ebx74clwtmwoeugr5cktiutad.onion) [eotk?](https://cizzuk3nqztjrgov2yybzttfcqczil5ebx74clwtmwoeugr5cktiutad.onion/hello-onion/)
   * date=2024-11-17 not_before=2024-11-17 not_after=2025-11-17
   * **harica dv tls ecc**
