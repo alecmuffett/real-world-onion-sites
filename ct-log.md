@@ -1,5 +1,20 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`](https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion) [eotk?](https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/hello-onion/)
+  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
+  * **digicert sha2 extended validation server ca**
+* `*.api.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
+  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
+  * **digicert sha2 extended validation server ca**
+* `*.nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion`
+  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
+  * **digicert sha2 extended validation server ca**
+* [`nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion`](https://nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion) [eotk?](https://nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion/hello-onion/)
+  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
+  * **digicert sha2 extended validation server ca**
+* `*.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
+  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
+  * **digicert sha2 extended validation server ca**
 * [`bs2torxjpfzkfdpleb7ck4b6hler53o6xeb3vdzp4hofacaf54tyb5yd.onion`](https://bs2torxjpfzkfdpleb7ck4b6hler53o6xeb3vdzp4hofacaf54tyb5yd.onion) [eotk?](https://bs2torxjpfzkfdpleb7ck4b6hler53o6xeb3vdzp4hofacaf54tyb5yd.onion/hello-onion/)
   * date=2024-12-09 not_before=2024-12-09 not_after=2025-12-09
   * **harica dv tls rsa**
