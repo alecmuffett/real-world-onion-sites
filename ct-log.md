@@ -1,7 +1,10 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion`](https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion) [eotk?](https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/hello-onion/)
+  * date=2025-01-09 not_before=2025-01-08 not_after=2026-01-08
+  * **harica dv tls rsa**
 * [`sup6h5iyiyenvjkfxbgrjynm5wsgijjoatvnvdgyyi7je3xqm4kh6uqd.onion`](https://sup6h5iyiyenvjkfxbgrjynm5wsgijjoatvnvdgyyi7je3xqm4kh6uqd.onion) [eotk?](https://sup6h5iyiyenvjkfxbgrjynm5wsgijjoatvnvdgyyi7je3xqm4kh6uqd.onion/hello-onion/)
-  * date=2025-01-07 not_before=2025-01-07 not_after=2026-01-07
+  * date=2025-01-09 not_before=2025-01-07 not_after=2026-01-07
   * **harica dv tls rsa**
 * [`3fy6sk5ettqw3ogy6epta4pnq76xrjue372yabxlewt3b2nhkvfjkqad.onion`](https://3fy6sk5ettqw3ogy6epta4pnq76xrjue372yabxlewt3b2nhkvfjkqad.onion) [eotk?](https://3fy6sk5ettqw3ogy6epta4pnq76xrjue372yabxlewt3b2nhkvfjkqad.onion/hello-onion/)
   * date=2025-01-07 not_before=2025-01-07 not_after=2025-04-07
@@ -20,9 +23,6 @@
   * **harica dv tls rsa**
 * [`4ue2iian3vducx37dk2wm5tjbmhef3zg2qgqireckevclffu3ompwhid.onion`](https://4ue2iian3vducx37dk2wm5tjbmhef3zg2qgqireckevclffu3ompwhid.onion) [eotk?](https://4ue2iian3vducx37dk2wm5tjbmhef3zg2qgqireckevclffu3ompwhid.onion/hello-onion/)
   * date=2025-01-06 not_before=2025-01-06 not_after=2026-01-06
-  * **harica dv tls rsa**
-* [`xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion`](https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion) [eotk?](https://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/hello-onion/)
-  * date=2025-01-03 not_before=2025-01-03 not_after=2026-01-03
   * **harica dv tls rsa**
 * [`xaplv5khxs3dved4yduhyn6aic272bvdxhyxzkjdfhj3jsosom4a6eyd.onion`](https://xaplv5khxs3dved4yduhyn6aic272bvdxhyxzkjdfhj3jsosom4a6eyd.onion) [eotk?](https://xaplv5khxs3dved4yduhyn6aic272bvdxhyxzkjdfhj3jsosom4a6eyd.onion/hello-onion/)
   * date=2024-12-26 not_before=2024-12-26 not_after=2025-12-26
