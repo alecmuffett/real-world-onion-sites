@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion`](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion) [eotk?](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/hello-onion/)
+  * date=2025-01-30 not_before=2025-01-30 not_after=2026-01-30
+  * **harica dv tls rsa**
 * [`darktrustyzmsgogz4vcwrl7z6w2pjhp6pkihnanc3q237yytgptlqad.onion`](https://darktrustyzmsgogz4vcwrl7z6w2pjhp6pkihnanc3q237yytgptlqad.onion) [eotk?](https://darktrustyzmsgogz4vcwrl7z6w2pjhp6pkihnanc3q237yytgptlqad.onion/hello-onion/)
   * date=2025-01-27 not_before=2025-01-27 not_after=2026-01-27
   * **harica dv tls rsa**
@@ -1196,9 +1199,6 @@
   * **harica dv tls rsa**
 * [`nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion`](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion) [eotk?](https://nickf43ab43xxf3yqgzy5uedsjij6h473rmbyzq6inohcnr3lohlu3yd.onion/hello-onion/)
   * date=2024-02-10 not_before=2024-02-10 not_after=2025-02-09
-  * **harica dv tls rsa**
-* [`airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion`](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion) [eotk?](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/hello-onion/)
-  * date=2024-02-08 not_before=2024-02-08 not_after=2025-02-07
   * **harica dv tls rsa**
 * [`engage35gzmewlkynyqgtejhhyaitidi2hjmq7fwns63oaw6p6qgioyd.onion`](https://engage35gzmewlkynyqgtejhhyaitidi2hjmq7fwns63oaw6p6qgioyd.onion) [eotk?](https://engage35gzmewlkynyqgtejhhyaitidi2hjmq7fwns63oaw6p6qgioyd.onion/hello-onion/)
   * date=2024-02-02 not_before=2024-02-02 not_after=2025-02-01
