@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
+  * date=2025-02-20 not_before=2024-07-30 not_after=2025-07-29
+  * **digicert ev rsa ca g2**
+* [`dudu5ywvsuoobnxm5clfcy2g22htwntlu4yz63ivybjvakenj6udpoad.onion`](https://dudu5ywvsuoobnxm5clfcy2g22htwntlu4yz63ivybjvakenj6udpoad.onion) [eotk?](https://dudu5ywvsuoobnxm5clfcy2g22htwntlu4yz63ivybjvakenj6udpoad.onion/hello-onion/)
+  * date=2025-02-20 not_before=2025-02-20 not_after=2025-05-21
+  * **as207960 onion ca**
 * [`ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion`](https://ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion) [eotk?](https://ozodlikjri4glscy66brsyv3cqswb2d34kzosbs6ezralss2kayms2ad.onion/hello-onion/)
   * date=2025-02-18 not_before=2025-02-18 not_after=2026-02-18
   * **harica dv tls ecc**
@@ -897,9 +903,6 @@
 * [`ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion`](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion) [eotk?](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion/hello-onion/)
   * date=2024-08-03 not_before=2024-08-03 not_after=2025-08-03
   * **harica dv tls rsa**
-* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
-  * date=2024-07-30 not_before=2024-07-30 not_after=2025-07-29
-  * **digicert ev rsa ca g2**
 * [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
   * date=2024-07-23 not_before=2024-07-23 not_after=2025-07-23
   * **harica dv tls rsa**
