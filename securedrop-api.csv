@@ -19,6 +19,7 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,The Guardian,theguardian.securedrop.tor.onion,http://xp44cagis447k3lpb4wwhcqukix6cgqokbuys24vmxmbzmaq2gjvc2yd.onion,https://www.theguardian.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Aftonbladet,aftonbladet.securedrop.tor.onion,http://xm33ge4kupk5o66eqxcd2r4fqcplpqb2sbdduf5z2nw4g2jrxe57luid.onion,https://www.aftonbladet.se/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,NRK,nrk.securedrop.tor.onion,http://537ztcntpbmspja4mkpxldpsoc46mqlssnsaklqnfw3gnlpj5glcjgid.onion,https://www.nrk.no/varsle/,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,ProPublica,propublica.securedrop.tor.onion,http://33xu4yhum2eiisxm6fntaslayop76fvaqgt3ak5dakdm3t7cub25cead.onion,https://propublica.org/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Washington Post,washingtonpost.securedrop.tor.onion,http://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion,https://www.washingtonpost.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Dagbladet,dagbladet.securedrop.tor.onion,http://ydbpz5knb6ji3bdtahhm3wo7sed6lsy5vqnwfpnhpez4bquvoexbz7qd.onion,https://www.dagbladet.no/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Intercept,theintercept.securedrop.tor.onion,http://lhollo6vzrft3w77mgm67fhfv3fjadmf7oinmafa7tbmupc273oi7kid.onion,https://theintercept.com/source/,via: https://securedrop.org/api/v1/directory/
