@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
+  * date=2025-04-05 not_before=2025-04-04 not_after=2026-04-04
+  * **harica dv tls ecc**
+* [`anon-stats.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://anon-stats.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://anon-stats.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
+  * date=2025-04-05 not_before=2025-04-04 not_after=2026-04-04
+  * **harica dv tls ecc**
+* [`www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
+  * date=2025-04-05 not_before=2025-04-04 not_after=2026-04-04
+  * **harica dv tls ecc**
 * [`guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion`](https://guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion) [eotk?](https://guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/hello-onion/)
   * date=2025-04-01 not_before=2025-04-01 not_after=2026-04-01
   * **harica dv tls rsa**
@@ -1149,16 +1158,7 @@
 * [`u.diabolotujgtar2ivr5e3flteytlsrvuozfu3jntllyn7rgamqvafbyd.onion`](https://u.diabolotujgtar2ivr5e3flteytlsrvuozfu3jntllyn7rgamqvafbyd.onion) [eotk?](https://u.diabolotujgtar2ivr5e3flteytlsrvuozfu3jntllyn7rgamqvafbyd.onion/hello-onion/)
   * date=2024-04-17 not_before=2024-04-09 not_after=2025-04-09
   * **harica dv tls rsa**
-* [`iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
-  * date=2024-04-17 not_before=2024-04-17 not_after=2025-04-17
-  * **harica dv tls ecc**
-* [`anon-stats.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://anon-stats.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://anon-stats.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
-  * date=2024-04-17 not_before=2024-04-17 not_after=2025-04-17
-  * **harica dv tls ecc**
 * [`ssd.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://ssd.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://ssd.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
-  * date=2024-04-17 not_before=2024-04-17 not_after=2025-04-17
-  * **harica dv tls ecc**
-* [`www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
   * date=2024-04-17 not_before=2024-04-17 not_after=2025-04-17
   * **harica dv tls ecc**
 * `*.duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
