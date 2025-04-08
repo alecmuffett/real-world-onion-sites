@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`jrcitgblqd7sqvctmekrywysrcoocnmepbegh2nrkhboxrtouxzyiyid.onion`](https://jrcitgblqd7sqvctmekrywysrcoocnmepbegh2nrkhboxrtouxzyiyid.onion) [eotk?](https://jrcitgblqd7sqvctmekrywysrcoocnmepbegh2nrkhboxrtouxzyiyid.onion/hello-onion/)
+  * date=2025-04-07 not_before=2025-04-07 not_after=2025-07-06
+  * **as207960 onion ca**
 * [`iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion`](https://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion) [eotk?](https://iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/hello-onion/)
   * date=2025-04-05 not_before=2025-04-04 not_after=2026-04-04
   * **harica dv tls ecc**
@@ -1164,9 +1167,3 @@
 * [`duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) [eotk?](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/hello-onion/)
   * date=2024-04-09 not_before=2024-04-09 not_after=2025-05-06
   * **digicert ev rsa ca g2**
-* [`zkgit7xhyj6jzusfaqnm7qssheiqthhw4jazrd72p3pyg577uc7inqad.onion`](https://zkgit7xhyj6jzusfaqnm7qssheiqthhw4jazrd72p3pyg577uc7inqad.onion) [eotk?](https://zkgit7xhyj6jzusfaqnm7qssheiqthhw4jazrd72p3pyg577uc7inqad.onion/hello-onion/)
-  * date=2024-04-07 not_before=2024-04-07 not_after=2025-04-07
-  * **harica dv tls rsa**
-* [`yql3ufwindcatuvcihyooofrtkz7xdjmjudwvkbmrt3tpigll5eysmad.onion`](https://yql3ufwindcatuvcihyooofrtkz7xdjmjudwvkbmrt3tpigll5eysmad.onion) [eotk?](https://yql3ufwindcatuvcihyooofrtkz7xdjmjudwvkbmrt3tpigll5eysmad.onion/hello-onion/)
-  * date=2024-04-07 not_before=2024-04-07 not_after=2025-04-07
-  * **harica dv tls rsa**
