@@ -22,7 +22,6 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,ProPublica,propublica.securedrop.tor.onion,http://33xu4yhum2eiisxm6fntaslayop76fvaqgt3ak5dakdm3t7cub25cead.onion,https://propublica.org/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Washington Post,washingtonpost.securedrop.tor.onion,http://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion,https://www.washingtonpost.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Dagbladet,dagbladet.securedrop.tor.onion,http://ydbpz5knb6ji3bdtahhm3wo7sed6lsy5vqnwfpnhpez4bquvoexbz7qd.onion,https://www.dagbladet.no/securedrop/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,The Intercept,theintercept.securedrop.tor.onion,http://lhollo6vzrft3w77mgm67fhfv3fjadmf7oinmafa7tbmupc273oi7kid.onion,https://theintercept.com/source/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Süddeutsche Zeitung,,http://udhauo3m3fh7v6yfiuornjzxn3fh6vlp4ooo3wogvghcnv5xik6mnayd.onion,https://www.sueddeutsche.de/projekte/kontakt/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Stefania Maurizi,maurizi.securedrop.tor.onion,http://jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion,https://stefaniamaurizi.it/en-contactme.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,CNN,cnn.securedrop.tor.onion,http://qmifwf762qftydprw2adbg7hs2mkunac5xrz3cb5busaflji3rja5lid.onion,https://www.cnn.com/tips,via: https://securedrop.org/api/v1/directory/
