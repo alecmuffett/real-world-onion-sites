@@ -1,10 +1,10 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * `*.duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
-  * date=2025-04-18 not_before=2025-04-18 not_after=2026-04-17
+  * date=2025-04-19 not_before=2024-04-09 not_after=2025-05-06
   * **digicert ev rsa ca g2**
 * [`duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) [eotk?](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/hello-onion/)
-  * date=2025-04-18 not_before=2025-04-18 not_after=2026-04-17
+  * date=2025-04-19 not_before=2024-04-09 not_after=2025-05-06
   * **digicert ev rsa ca g2**
 * [`exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion`](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion) [eotk?](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/hello-onion/)
   * date=2025-04-09 not_before=2025-04-09 not_after=2026-04-09
