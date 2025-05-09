@@ -1164,9 +1164,3 @@
 * [`valinet6l6tq6d5yohaa6gdsf2ho4qcqcxyj2nahp5kd4z7nsa6ycdqd.onion`](https://valinet6l6tq6d5yohaa6gdsf2ho4qcqcxyj2nahp5kd4z7nsa6ycdqd.onion) [eotk?](https://valinet6l6tq6d5yohaa6gdsf2ho4qcqcxyj2nahp5kd4z7nsa6ycdqd.onion/hello-onion/)
   * date=2024-06-02 not_before=2024-06-02 not_after=2025-06-02
   * **harica dv tls rsa**
-* [`kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion`](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion) [eotk?](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/hello-onion/)
-  * date=2024-05-10 not_before=2024-05-08 not_after=2025-05-08
-  * **harica dv tls rsa**
-* `*.kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion`
-  * date=2024-05-10 not_before=2024-05-08 not_after=2025-05-08
-  * **harica dv tls rsa**
