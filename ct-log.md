@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion`](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion) [eotk?](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion/hello-onion/)
+  * date=2025-06-17 not_before=2025-06-17 not_after=2026-06-17
+  * **harica dv tls ecc**
+* [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) [eotk?](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/hello-onion/)
+  * date=2025-06-16 not_before=2025-06-16 not_after=2026-06-16
+  * **harica dv tls rsa**
 * [`omgomgomg5j4yrr4mjdv3h5c5xfvxtqqs2in7smi65mjps7wvkmqmtqd.onion`](https://omgomgomg5j4yrr4mjdv3h5c5xfvxtqqs2in7smi65mjps7wvkmqmtqd.onion) [eotk?](https://omgomgomg5j4yrr4mjdv3h5c5xfvxtqqs2in7smi65mjps7wvkmqmtqd.onion/hello-onion/)
   * date=2025-06-11 not_before=2025-06-11 not_after=2026-06-10
   * **harica dv tls rsa**
@@ -213,9 +219,6 @@
 * [`piaillesmbiv4wjdy7no6r4eijsv6mlsp3cxrpy37dhmose2jwyqdrid.onion`](https://piaillesmbiv4wjdy7no6r4eijsv6mlsp3cxrpy37dhmose2jwyqdrid.onion) [eotk?](https://piaillesmbiv4wjdy7no6r4eijsv6mlsp3cxrpy37dhmose2jwyqdrid.onion/hello-onion/)
   * date=2025-03-23 not_before=2025-03-22 not_after=2026-03-22
   * **harica dv tls rsa**
-* [`pa6cpavsakuxxxd7k7gmsud3haqwy4su4p33adbzodg7p76l2tr7m3qd.onion`](https://pa6cpavsakuxxxd7k7gmsud3haqwy4su4p33adbzodg7p76l2tr7m3qd.onion) [eotk?](https://pa6cpavsakuxxxd7k7gmsud3haqwy4su4p33adbzodg7p76l2tr7m3qd.onion/hello-onion/)
-  * date=2025-03-18 not_before=2025-03-18 not_after=2025-06-16
-  * **as207960 onion ca**
 * [`sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion`](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion) [eotk?](https://sapphiresjbbfw26cad7f3ytfq3c4rtsfxu3f64juhg372c7gyy7yjyd.onion/hello-onion/)
   * date=2025-03-17 not_before=2025-03-17 not_after=2026-03-17
   * **harica dv tls ecc**
@@ -1110,9 +1113,6 @@
 * [`portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
   * date=2024-07-23 not_before=2024-07-23 not_after=2025-07-23
   * **harica dv tls rsa**
-* [`bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion`](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) [eotk?](https://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/hello-onion/)
-  * date=2024-07-17 not_before=2024-07-15 not_after=2025-07-15
-  * **harica dv tls rsa**
 * [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
   * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
   * **digicert global g3 tls ecc sha384 2020 ca1**
@@ -1148,9 +1148,6 @@
   * **harica dv tls ecc**
 * [`3egupowsrtdzauj6rz45jzrvcq34qzzqrj3xnljr6aljhi32y56j4ryd.onion`](https://3egupowsrtdzauj6rz45jzrvcq34qzzqrj3xnljr6aljhi32y56j4ryd.onion) [eotk?](https://3egupowsrtdzauj6rz45jzrvcq34qzzqrj3xnljr6aljhi32y56j4ryd.onion/hello-onion/)
   * date=2024-06-24 not_before=2024-06-24 not_after=2025-06-24
-  * **harica dv tls ecc**
-* [`xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion`](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion) [eotk?](https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion/hello-onion/)
-  * date=2024-06-20 not_before=2024-06-20 not_after=2025-06-20
   * **harica dv tls ecc**
 * [`x4b3a5eggvif2fgbx2pjcqetisyukmfwwxqrwpr7ohwhnstazbe7w4qd.onion`](https://x4b3a5eggvif2fgbx2pjcqetisyukmfwwxqrwpr7ohwhnstazbe7w4qd.onion) [eotk?](https://x4b3a5eggvif2fgbx2pjcqetisyukmfwwxqrwpr7ohwhnstazbe7w4qd.onion/hello-onion/)
   * date=2024-06-20 not_before=2024-06-20 not_after=2025-06-20
