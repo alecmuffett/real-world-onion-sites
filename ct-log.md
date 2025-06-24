@@ -1143,9 +1143,6 @@
 * [`clamspqkl3h7d4bfd65o2nzpcsbdw54glxcs4pyaa5gm5mvemb6dzvad.onion`](https://clamspqkl3h7d4bfd65o2nzpcsbdw54glxcs4pyaa5gm5mvemb6dzvad.onion) [eotk?](https://clamspqkl3h7d4bfd65o2nzpcsbdw54glxcs4pyaa5gm5mvemb6dzvad.onion/hello-onion/)
   * date=2024-06-25 not_before=2024-06-25 not_after=2025-06-25
   * **harica dv tls ecc**
-* [`3egupowsrtdzauj6rz45jzrvcq34qzzqrj3xnljr6aljhi32y56j4ryd.onion`](https://3egupowsrtdzauj6rz45jzrvcq34qzzqrj3xnljr6aljhi32y56j4ryd.onion) [eotk?](https://3egupowsrtdzauj6rz45jzrvcq34qzzqrj3xnljr6aljhi32y56j4ryd.onion/hello-onion/)
-  * date=2024-06-24 not_before=2024-06-24 not_after=2025-06-24
-  * **harica dv tls ecc**
 * `*.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
   * date=2024-06-12 not_before=2024-06-12 not_after=2025-07-13
   * **digicert ev rsa ca g2**
