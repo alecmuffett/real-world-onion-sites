@@ -1137,9 +1137,6 @@
 * [`search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
   * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
   * **digicert global g3 tls ecc sha384 2020 ca1**
-* [`markednyvmrztuqkmj7agwu7jg73awp43xbgxkr7zbxzk3cny54ojeqd.onion`](https://markednyvmrztuqkmj7agwu7jg73awp43xbgxkr7zbxzk3cny54ojeqd.onion) [eotk?](https://markednyvmrztuqkmj7agwu7jg73awp43xbgxkr7zbxzk3cny54ojeqd.onion/hello-onion/)
-  * date=2024-07-01 not_before=2024-07-01 not_after=2025-07-01
-  * **harica dv tls rsa**
 * `*.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
   * date=2024-06-12 not_before=2024-06-12 not_after=2025-07-13
   * **digicert ev rsa ca g2**
