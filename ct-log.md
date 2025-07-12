@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion) [eotk?](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion/hello-onion/)
+  * date=2025-07-10 not_before=2025-07-10 not_after=2026-07-10
+  * **harica dv tls ecc**
+* `*.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`
+  * date=2025-07-10 not_before=2025-07-10 not_after=2026-07-10
+  * **harica dv tls ecc**
 * [`voatibe2tapf3u43p7vxtsdvtyhnsunhaf6azd4rua6i2ifqfsfpttad.onion`](https://voatibe2tapf3u43p7vxtsdvtyhnsunhaf6azd4rua6i2ifqfsfpttad.onion) [eotk?](https://voatibe2tapf3u43p7vxtsdvtyhnsunhaf6azd4rua6i2ifqfsfpttad.onion/hello-onion/)
   * date=2025-07-08 not_before=2025-07-08 not_after=2026-07-08
   * **harica dv tls ecc**
@@ -1106,12 +1112,6 @@
   * **harica dv tls ecc**
 * `*.holosamj4ai323e67rimepxpbavprfr6ryvmz3cge733gq5ysv6ci2qd.onion`
   * date=2024-08-12 not_before=2024-08-12 not_after=2025-08-12
-  * **harica dv tls ecc**
-* [`voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion) [eotk?](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion/hello-onion/)
-  * date=2024-08-12 not_before=2024-08-05 not_after=2025-08-05
-  * **harica dv tls ecc**
-* `*.voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`
-  * date=2024-08-12 not_before=2024-08-05 not_after=2025-08-05
   * **harica dv tls ecc**
 * [`ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion`](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion) [eotk?](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion/hello-onion/)
   * date=2024-08-03 not_before=2024-08-03 not_after=2025-08-03
