@@ -1,5 +1,35 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion`](https://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion) [eotk?](https://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion/hello-onion/)
+  * date=2025-07-24 not_before=2025-07-24 not_after=2026-07-24
+  * **harica dv tls rsa**
+* [`obehqrjgq2ngwxmoibutnivi3jv3ersbjdvw6c6mizh3wex453r2loyd.onion`](https://obehqrjgq2ngwxmoibutnivi3jv3ersbjdvw6c6mizh3wex453r2loyd.onion) [eotk?](https://obehqrjgq2ngwxmoibutnivi3jv3ersbjdvw6c6mizh3wex453r2loyd.onion/hello-onion/)
+  * date=2025-07-16 not_before=2025-07-16 not_after=2026-07-16
+  * **harica dv tls rsa**
+* [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
+* [`laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
+* [`payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
+* [`referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
+* `*.s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
+* [`s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
+* `*.search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
+* [`search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
+  * date=2025-07-15 not_before=2025-07-15 not_after=2026-07-28
+  * **digicert global g3 tls ecc sha384 2020 ca1**
 * [`voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion`](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion) [eotk?](https://voachina7ept5k3zhjyrcf6n6vhdv7ruus4t7kn7yvqedljcfuqgqpyd.onion/hello-onion/)
   * date=2025-07-10 not_before=2025-07-10 not_after=2026-07-10
   * **harica dv tls ecc**
@@ -1116,27 +1146,3 @@
 * [`ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion`](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion) [eotk?](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion/hello-onion/)
   * date=2024-08-03 not_before=2024-08-03 not_after=2025-08-03
   * **harica dv tls rsa**
-* [`brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
-* [`laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://laptop-updates.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
-* [`payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://payment.rewards.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
-* [`referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://referrals.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
-* `*.s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
-* [`s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://s3.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
-* `*.search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
-* [`search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion) [eotk?](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/hello-onion/)
-  * date=2024-07-17 not_before=2024-07-17 not_after=2025-08-17
-  * **digicert global g3 tls ecc sha384 2020 ca1**
