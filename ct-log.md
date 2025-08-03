@@ -1128,6 +1128,3 @@
 * `*.holosamj4ai323e67rimepxpbavprfr6ryvmz3cge733gq5ysv6ci2qd.onion`
   * date=2024-08-12 not_before=2024-08-12 not_after=2025-08-12
   * **harica dv tls ecc**
-* [`ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion`](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion) [eotk?](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion/hello-onion/)
-  * date=2024-08-03 not_before=2024-08-03 not_after=2025-08-03
-  * **harica dv tls rsa**
