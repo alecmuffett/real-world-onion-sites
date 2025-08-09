@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
+  * date=2025-08-08 not_before=2025-08-08 not_after=2026-08-08
+  * **harica dv tls rsa**
+* [`portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
+  * date=2025-08-08 not_before=2025-08-08 not_after=2026-08-08
+  * **harica dv tls rsa**
 * [`ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion`](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion) [eotk?](https://ldqc337hca5q5s477yzhmoqvrybjbegm2rfdvpfrsonrau5oazuyoxid.onion/hello-onion/)
   * date=2025-08-07 not_before=2025-08-07 not_after=2026-08-07
   * **harica dv tls rsa**
@@ -405,9 +411,6 @@
 * `*.xz.facebookcooa4ldbat4g7iacswl3p2zrf5nuylvnhxn6kqolvojixwid.onion`
   * date=2025-03-31 not_before=2025-03-31 not_after=2025-09-26
   * **digicert ecc extended validation server ca**
-* [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
-  * date=2025-03-28 not_before=2025-03-28 not_after=2026-03-28
-  * **harica dv tls rsa**
 * [`hi57djnqqswnrilbkfs4dssjwecoyry46lw63yfrp7ofuyzpynnfr2yd.onion`](https://hi57djnqqswnrilbkfs4dssjwecoyry46lw63yfrp7ofuyzpynnfr2yd.onion) [eotk?](https://hi57djnqqswnrilbkfs4dssjwecoyry46lw63yfrp7ofuyzpynnfr2yd.onion/hello-onion/)
   * date=2025-03-28 not_before=2025-03-28 not_after=2026-03-28
   * **harica dv tls rsa**
