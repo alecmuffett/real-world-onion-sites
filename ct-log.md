@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`dutyfree2zgtrohmyzjwq63ork27medl26wvjl6aqov5c2m64wkhbnqd.onion`](https://dutyfree2zgtrohmyzjwq63ork27medl26wvjl6aqov5c2m64wkhbnqd.onion) [eotk?](https://dutyfree2zgtrohmyzjwq63ork27medl26wvjl6aqov5c2m64wkhbnqd.onion/hello-onion/)
+  * date=2025-08-20 not_before=2025-08-20 not_after=2026-08-20
+  * **harica dv tls rsa**
+* [`derpibooruqmsxtgwn3u4opg3jdtw7dhfggxsycoof5wrejt6palppad.onion`](https://derpibooruqmsxtgwn3u4opg3jdtw7dhfggxsycoof5wrejt6palppad.onion) [eotk?](https://derpibooruqmsxtgwn3u4opg3jdtw7dhfggxsycoof5wrejt6palppad.onion/hello-onion/)
+  * date=2025-08-18 not_before=2025-08-18 not_after=2026-08-18
+  * **harica dv tls rsa**
 * [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
   * date=2025-08-08 not_before=2025-08-08 not_after=2026-08-08
   * **harica dv tls rsa**
