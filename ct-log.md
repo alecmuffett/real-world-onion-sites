@@ -1113,6 +1113,3 @@
 * `*.test.bbcws2hcewhlhutm5qrjkekkg3eraphuc7ba7qh4jeinhibnx3ymxaqd.onion`
   * date=2024-10-16 not_before=2024-10-16 not_after=2025-11-11
   * **digicert ev rsa ca g2**
-* [`omgomgomg5moognliquwvpt7edt4fsnb6ece5zninrx735lmi5cuj4ad.onion`](https://omgomgomg5moognliquwvpt7edt4fsnb6ece5zninrx735lmi5cuj4ad.onion) [eotk?](https://omgomgomg5moognliquwvpt7edt4fsnb6ece5zninrx735lmi5cuj4ad.onion/hello-onion/)
-  * date=2024-10-05 not_before=2024-10-05 not_after=2025-10-05
-  * **harica dv tls rsa**
