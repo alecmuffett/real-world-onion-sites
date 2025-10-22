@@ -1,5 +1,14 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`nwwshop5mloebzh44unai4yyqxdkbxy2xmy73ox2lmjm66icx6wvyoad.onion`](https://nwwshop5mloebzh44unai4yyqxdkbxy2xmy73ox2lmjm66icx6wvyoad.onion) [eotk?](https://nwwshop5mloebzh44unai4yyqxdkbxy2xmy73ox2lmjm66icx6wvyoad.onion/hello-onion/)
+  * date=2025-10-14 not_before=2025-10-14 not_after=2026-10-14
+  * **harica dv tls rsa**
+* [`coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion`](https://coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion) [eotk?](https://coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion/hello-onion/)
+  * date=2025-10-14 not_before=2025-10-14 not_after=2026-10-14
+  * **harica dv tls rsa**
+* `*.coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion`
+  * date=2025-10-14 not_before=2025-10-14 not_after=2026-10-14
+  * **harica dv tls rsa**
 * [`protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) [eotk?](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/hello-onion/)
   * date=2025-10-09 not_before=2025-10-08 not_after=2026-11-03
   * **digicert ev rsa ca g2**
@@ -884,12 +893,6 @@
   * **harica dv tls ecc**
 * [`o3shopdgo2t74jpwnaowiq6ms2z47udy774aznx5xakto4fexkvgykid.onion`](https://o3shopdgo2t74jpwnaowiq6ms2z47udy774aznx5xakto4fexkvgykid.onion) [eotk?](https://o3shopdgo2t74jpwnaowiq6ms2z47udy774aznx5xakto4fexkvgykid.onion/hello-onion/)
   * date=2024-11-16 not_before=2024-11-11 not_after=2025-11-11
-  * **harica dv tls rsa**
-* [`coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion`](https://coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion) [eotk?](https://coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion/hello-onion/)
-  * date=2024-11-16 not_before=2024-11-12 not_after=2025-11-12
-  * **harica dv tls rsa**
-* `*.coinspacezp5mmyuicbz2hoafbnduj4vzkttq3grn5mnwdue5t343zid.onion`
-  * date=2024-11-16 not_before=2024-11-12 not_after=2025-11-12
   * **harica dv tls rsa**
 * [`gekkkoptvmgasa4zvt6a5r55ltncfvyitv4ylxebmzjgoilegifiyjyd.onion`](https://gekkkoptvmgasa4zvt6a5r55ltncfvyitv4ylxebmzjgoilegifiyjyd.onion) [eotk?](https://gekkkoptvmgasa4zvt6a5r55ltncfvyitv4ylxebmzjgoilegifiyjyd.onion/hello-onion/)
   * date=2024-11-16 not_before=2024-11-13 not_after=2025-11-13
