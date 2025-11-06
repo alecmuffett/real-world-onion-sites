@@ -11,7 +11,6 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,Aftenposten AS,aftenposten.securedrop.tor.onion,http://tiykfvhb562gheutfnedysnhrxpxoztyszkqyroloyepwzxmxien77id.onion,https://www.aftenposten.no/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Bloomberg News,bloomberg.securedrop.tor.onion,http://ogdwaroarq4p6rnfn2hl4crvldyruyc2g24435qtxmd3twhevg7dsqid.onion,https://www.bloomberg.com/tips/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Forbidden Stories,forbiddenstories.securedrop.tor.onion,http://fg25fqpu2dnxp24xs3jlcley4hp2inshpzek44q3czkhq3zffoqk26id.onion,https://forbiddenstories.org/safebox-network-tutorial/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Toronto Star,torontostar.securedrop.tor.onion,http://yj3b7rgmglcocbbvzrwfbo4d6j2aa7thwupra4yqutbd27v3vxcpvgid.onion,https://www.thestar.com/securedrop.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Whistleblower Aid,whistlebloweraid.securedrop.tor.onion,http://kogbxf4ysay2qzozmg7ar45ijqmj2vxrwqa4upzqq2i7sqj7wv7wcdqd.onion,https://whistlebloweraid.org/become-a-whistleblower/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Public Intelligence,,http://z4gd5t2g6u6kqeqjeddvmvlhhjtjgslg4elh4ztnct7snskcd7phbiyd.onion,https://publicintelligence.net/contribute/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,New York Times,nytimes.securedrop.tor.onion,http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion,https://www.nytimes.com/tips,via: https://securedrop.org/api/v1/directory/
@@ -22,7 +21,7 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,The Washington Post,washingtonpost.securedrop.tor.onion,http://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion,https://www.washingtonpost.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Dagbladet,dagbladet.securedrop.tor.onion,http://ydbpz5knb6ji3bdtahhm3wo7sed6lsy5vqnwfpnhpez4bquvoexbz7qd.onion,https://www.dagbladet.no/securedrop/,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Süddeutsche Zeitung,,http://udhauo3m3fh7v6yfiuornjzxn3fh6vlp4ooo3wogvghcnv5xik6mnayd.onion,https://www.sueddeutsche.de/projekte/kontakt/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,Stefania Maurizi,maurizi.securedrop.tor.onion,http://jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion,https://stefaniamaurizi.it/en-contactme.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Financial Times,ft.securedrop.tor.onion,http://nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion,https://www.ft.com/news-tips/,via: https://securedrop.org/api/v1/directory/
+,SecureDrop,Stefania Maurizi,maurizi.securedrop.tor.onion,http://jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion,https://stefaniamaurizi.it/en-contactme.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Forbes,forbes.securedrop.tor.onion,http://6zonlfhh7aqtfwoyvdlad3nxn6ljecx2k6tyyy3spt43nn54q6lvncid.onion,https://www.forbes.com/fdc/securedrop.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Bloomberg Industry Group,bloombergindustrygroup.securedrop.tor.onion,http://33buewrpzrfpttl7kerqvtvzyo3ivumilwwmeqjryzajusltibaqc6ad.onion,https://news.bloomberglaw.com/tips,via: https://securedrop.org/api/v1/directory/
