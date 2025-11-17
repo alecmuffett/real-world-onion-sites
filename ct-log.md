@@ -1,5 +1,8 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
+  * date=2025-11-16 not_before=2025-07-25 not_after=2026-08-14
+  * **digicert ev rsa ca g2**
 * [`archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion`](https://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion) [eotk?](https://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion/hello-onion/)
   * date=2025-11-13 not_before=2025-11-13 not_after=2026-11-13
   * **harica dv tls ecc**
@@ -507,9 +510,6 @@
 * `*.evropaebzunsfpzrct37ntka2luzjtayw7j7notqzmh7aypwsm5lqpid.onion`
   * date=2025-08-06 not_before=2025-08-06 not_after=2026-08-06
   * **harica dv tls ecc**
-* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
-  * date=2025-07-25 not_before=2025-07-25 not_after=2026-08-14
-  * **digicert ev rsa ca g2**
 * [`obehqrjgq2ngwxmoibutnivi3jv3ersbjdvw6c6mizh3wex453r2loyd.onion`](https://obehqrjgq2ngwxmoibutnivi3jv3ersbjdvw6c6mizh3wex453r2loyd.onion) [eotk?](https://obehqrjgq2ngwxmoibutnivi3jv3ersbjdvw6c6mizh3wex453r2loyd.onion/hello-onion/)
   * date=2025-07-16 not_before=2025-07-16 not_after=2026-07-16
   * **harica dv tls rsa**
