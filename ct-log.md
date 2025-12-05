@@ -1095,6 +1095,3 @@
 * [`bs2torxjpfzkfdpleb7ck4b6hler53o6xeb3vdzp4hofacaf54tyb5yd.onion`](https://bs2torxjpfzkfdpleb7ck4b6hler53o6xeb3vdzp4hofacaf54tyb5yd.onion) [eotk?](https://bs2torxjpfzkfdpleb7ck4b6hler53o6xeb3vdzp4hofacaf54tyb5yd.onion/hello-onion/)
   * date=2024-12-09 not_before=2024-12-09 not_after=2025-12-09
   * **harica dv tls rsa**
-* [`exparrot6blbdtgmikra3ict5qqv5ziyobdswybo4u2f6svk52f43nad.onion`](https://exparrot6blbdtgmikra3ict5qqv5ziyobdswybo4u2f6svk52f43nad.onion) [eotk?](https://exparrot6blbdtgmikra3ict5qqv5ziyobdswybo4u2f6svk52f43nad.onion/hello-onion/)
-  * date=2024-12-03 not_before=2024-12-03 not_after=2025-12-03
-  * **harica dv tls ecc**
