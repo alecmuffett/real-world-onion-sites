@@ -1077,18 +1077,3 @@
 * `*.votvot23gcn32pr24mkfypuct2vv45n6uu7i64grwgzvt3wcfefwo3ad.onion`
   * date=2024-12-17 not_before=2024-12-17 not_after=2025-12-17
   * **harica dv tls ecc**
-* [`nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`](https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion) [eotk?](https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/hello-onion/)
-  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
-  * **digicert sha2 extended validation server ca**
-* `*.api.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
-  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
-  * **digicert sha2 extended validation server ca**
-* `*.nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion`
-  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
-  * **digicert sha2 extended validation server ca**
-* [`nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion`](https://nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion) [eotk?](https://nyt2sl3njavkomjxqe2e5nz6bsqv56yqbwkvhpmfn5jwh4pyccmjibad.onion/hello-onion/)
-  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
-  * **digicert sha2 extended validation server ca**
-* `*.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion`
-  * date=2024-12-12 not_before=2024-12-12 not_after=2025-12-10
-  * **digicert sha2 extended validation server ca**
