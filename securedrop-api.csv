@@ -5,7 +5,6 @@ flaky,category,site_name,onion_name,onion_url,proof_url,comment
 ,SecureDrop,CBC,cbcrc.securedrop.tor.onion,http://gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion,https://www.cbc.ca/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Der Spiegel,spiegel.securedrop.tor.onion,http://q6vdlj2ukulrqk37piqgxucpcwtxzdjhvjzqrfbevuhrzimsgjltmpqd.onion,https://www.spiegel.de/extra/so-nehmen-informanten-sicheren-kontakt-zum-spiegel-auf-a-1030502.html,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,The Economist,theeconomist.securedrop.tor.onion,http://mxmddqsh4jnr4gjan37ayin3fu5ecnejxge4wjhj4i45qq5djbxdjtad.onion,https://www.economist.com/securedrop/,via: https://securedrop.org/api/v1/directory/
-,SecureDrop,POLITICO,politico.securedrop.tor.onion,http://mzi5yynpd6qqq3lnh7vnaojy36v3hcorytsut47zwkguhnorduyxwead.onion,https://www.politico.com/news-tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,News24,news24.securedrop.tor.onion,http://uhmj4j5pnwbpmkebfze3qgjmkum465fvok376nxtpku5yvyv5takz6qd.onion,https://www.news24.com/tips,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,2600: The Hacker Quarterly,2600.securedrop.tor.onion,http://cy6wj77vryhcyh6go576hxycjz4wxlo4s5vevdinkw3armwzty5jozyd.onion,https://www.2600.com/securedrop,via: https://securedrop.org/api/v1/directory/
 ,SecureDrop,Aftenposten AS,aftenposten.securedrop.tor.onion,http://tiykfvhb562gheutfnedysnhrxpxoztyszkqyroloyepwzxmxien77id.onion,https://www.aftenposten.no/securedrop,via: https://securedrop.org/api/v1/directory/
