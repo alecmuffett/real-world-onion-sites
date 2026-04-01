@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
+  * date=2026-03-30 not_before=2026-03-30 not_after=2026-10-15
+  * **harica dv tls rsa**
+* [`xssac4uqtauxumkktnp3knz2ag7qcb3efmb66mokjg5fcqhzvilgwfid.onion`](https://xssac4uqtauxumkktnp3knz2ag7qcb3efmb66mokjg5fcqhzvilgwfid.onion) [eotk?](https://xssac4uqtauxumkktnp3knz2ag7qcb3efmb66mokjg5fcqhzvilgwfid.onion/hello-onion/)
+  * date=2026-03-30 not_before=2026-03-30 not_after=2026-10-15
+  * **harica dv tls rsa**
 * [`hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion`](https://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion) [eotk?](https://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion/hello-onion/)
   * date=2026-03-25 not_before=2026-03-25 not_after=2026-10-10
   * **harica dv tls rsa**
@@ -845,9 +851,6 @@
   * **harica dv tls rsa**
 * [`derpibooruqmsxtgwn3u4opg3jdtw7dhfggxsycoof5wrejt6palppad.onion`](https://derpibooruqmsxtgwn3u4opg3jdtw7dhfggxsycoof5wrejt6palppad.onion) [eotk?](https://derpibooruqmsxtgwn3u4opg3jdtw7dhfggxsycoof5wrejt6palppad.onion/hello-onion/)
   * date=2025-08-18 not_before=2025-08-18 not_after=2026-08-18
-  * **harica dv tls rsa**
-* [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
-  * date=2025-08-08 not_before=2025-08-08 not_after=2026-08-08
   * **harica dv tls rsa**
 * [`portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://portal.imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
   * date=2025-08-08 not_before=2025-08-08 not_after=2026-08-08
