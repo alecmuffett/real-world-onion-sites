@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* [`repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion`](https://repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion) [eotk?](https://repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion/hello-onion/)
+  * date=2026-04-02 not_before=2026-04-02 not_after=2026-10-18
+  * **harica dv tls ecc**
+* [`www.repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion`](https://www.repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion) [eotk?](https://www.repro4olawbnocan6bcbmeoystb3adusrg6ppg6qr7my6nenjs2r3bqd.onion/hello-onion/)
+  * date=2026-04-02 not_before=2026-04-02 not_after=2026-10-18
+  * **harica dv tls ecc**
 * [`imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion`](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion) [eotk?](https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/hello-onion/)
   * date=2026-03-30 not_before=2026-03-30 not_after=2026-10-15
   * **harica dv tls rsa**
