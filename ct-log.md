@@ -1,7 +1,7 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
 * [`vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion) [eotk?](https://vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion/hello-onion/)
-  * date=2026-04-16 not_before=2025-03-25 not_after=2026-04-25
+  * date=2026-04-15 not_before=2026-04-15 not_after=2026-10-30
   * **digicert ev rsa ca g2**
 * `*.duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
   * date=2026-04-08 not_before=2026-04-08 not_after=2026-10-23
@@ -1149,9 +1149,6 @@
 * [`nauzome2l6y3m3qaaigxambvti32hd7tjaeupdvs2a66nr7koqikc4yd.onion`](https://nauzome2l6y3m3qaaigxambvti32hd7tjaeupdvs2a66nr7koqikc4yd.onion) [eotk?](https://nauzome2l6y3m3qaaigxambvti32hd7tjaeupdvs2a66nr7koqikc4yd.onion/hello-onion/)
   * date=2025-05-04 not_before=2025-05-04 not_after=2026-05-03
   * **harica dv tls rsa**
-* [`4ilvgtc46d7dtfv22cxtk7iwad2a5ovda7szu2jk4zyqibpalpwfqbyd.onion`](https://4ilvgtc46d7dtfv22cxtk7iwad2a5ovda7szu2jk4zyqibpalpwfqbyd.onion) [eotk?](https://4ilvgtc46d7dtfv22cxtk7iwad2a5ovda7szu2jk4zyqibpalpwfqbyd.onion/hello-onion/)
-  * date=2025-05-01 not_before=2025-04-25 not_after=2026-04-25
-  * **harica dv tls rsa**
 * [`moon24iep2ggpfvfl5a33dqhsahp6d7i7rf33yjq5rthvcdezge2cbid.onion`](https://moon24iep2ggpfvfl5a33dqhsahp6d7i7rf33yjq5rthvcdezge2cbid.onion) [eotk?](https://moon24iep2ggpfvfl5a33dqhsahp6d7i7rf33yjq5rthvcdezge2cbid.onion/hello-onion/)
   * date=2025-04-29 not_before=2025-04-29 not_after=2026-04-29
   * **harica dv tls ecc**
@@ -1185,6 +1182,3 @@
 * `*.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion`
   * date=2025-04-28 not_before=2025-04-28 not_after=2026-04-28
   * **harica dv tls ecc**
-* [`ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion) [eotk?](https://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/hello-onion/)
-  * date=2025-03-26 not_before=2025-03-26 not_after=2026-04-26
-  * **digicert sha2 extended validation server ca**
