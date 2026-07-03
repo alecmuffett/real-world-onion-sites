@@ -1,5 +1,11 @@
 # Onion Certificate Transparency Log
 ## This file is auto-generated (without editorial assistance) from CA certificate issuance logs
+* `*.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
+  * date=2026-07-02 not_before=2026-07-02 not_after=2027-01-16
+  * **digicert ev rsa ca g2**
+* [`dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion) [eotk?](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/hello-onion/)
+  * date=2026-07-02 not_before=2026-07-02 not_after=2027-01-16
+  * **digicert ev rsa ca g2**
 * [`endgame2x3tffxmqzbc2emmzcmztjc6duljkf3so6tk65dan5jlchgad.onion`](https://endgame2x3tffxmqzbc2emmzcmztjc6duljkf3so6tk65dan5jlchgad.onion) [eotk?](https://endgame2x3tffxmqzbc2emmzcmztjc6duljkf3so6tk65dan5jlchgad.onion/hello-onion/)
   * date=2026-06-22 not_before=2026-06-22 not_after=2027-01-07
   * **harica dv tls rsa**
@@ -102,12 +108,6 @@
 * [`jeios5ehfaltxeiu63kbvpgafoiskn2cfckghoqebn64xcrrpjmeixid.onion`](https://jeios5ehfaltxeiu63kbvpgafoiskn2cfckghoqebn64xcrrpjmeixid.onion) [eotk?](https://jeios5ehfaltxeiu63kbvpgafoiskn2cfckghoqebn64xcrrpjmeixid.onion/hello-onion/)
   * date=2026-05-25 not_before=2026-01-19 not_after=2027-01-19
   * **harica dv tls rsa**
-* `*.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
-  * date=2026-05-25 not_before=2025-07-07 not_after=2026-08-07
-  * **digicert ev rsa ca g2**
-* [`dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion) [eotk?](https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/hello-onion/)
-  * date=2026-05-25 not_before=2025-07-07 not_after=2026-08-07
-  * **digicert ev rsa ca g2**
 * [`ecl6whqd3ibq3rc5lsrtq6kmgubacc3rko2oa35cwzjcc4m4tlxe3dyd.onion`](https://ecl6whqd3ibq3rc5lsrtq6kmgubacc3rko2oa35cwzjcc4m4tlxe3dyd.onion) [eotk?](https://ecl6whqd3ibq3rc5lsrtq6kmgubacc3rko2oa35cwzjcc4m4tlxe3dyd.onion/hello-onion/)
   * date=2026-05-25 not_before=2026-02-08 not_after=2027-02-08
   * **harica dv tls rsa**
